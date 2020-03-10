@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<document xmlns:xh="http://www.w3.org/1999/xhtml">
+  <keywords slide="all">
+    <keyword slide="all">The Color Spectrum</keyword>
+    <keyword slide="all">spectral color</keyword>
+    <keyword slide="all">color wheel</keyword>
+    <keyword slide="all">complementary color</keyword>
+    <keyword slide="all">additive</keyword>
+    <keyword slide="all">subtractive</keyword>
+    <keyword slide="all">Additive Color Mixing</keyword>
+    <keyword slide="all">metamerism</keyword>
+    <keyword slide="all">metamers</keyword>
+    <keyword slide="all">additive</keyword>
+    <keyword slide="all">Red, Green, and Blue</keyword>
+    <keyword slide="all">RGB</keyword>
+    <keyword slide="all">RGB Color Space</keyword>
+    <keyword slide="all">vector</keyword>
+    <keyword slide="all">Grassmann's Laws</keyword>
+    <keyword slide="all">Subtractive Color Mixing</keyword>
+    <keyword slide="all">subtractive</keyword>
+    <keyword slide="all">Cyan, Yellow, and Magenta</keyword>
+    <keyword slide="all">halftone</keyword>
+    <keyword slide="all">Georges Seurat (French, 1859 - 1891)</keyword>
+    <keyword slide="all">Roy Lichtenstein (American, 1923 - 1997)</keyword>
+    <keyword slide="all">Hue</keyword>
+    <keyword slide="all">hue</keyword>
+    <keyword slide="all">Saturation</keyword>
+  </keywords>
+  <slides>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s1" slide="1">
+      <keywords slide="1" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"/>
+      <course environment="slide" wbtag="course" slide="1">UGED 1533</course>
+      <topic environment="slide" wbtag="topic" slide="1">Color Theory</topic>
+      <topic environment="slide" wbtag="topic" slide="1">Color Mixing</topic>
+      <topic environment="slide" wbtag="topic" slide="1">Different Models</topic>
+      <para environment="slide" wbtag="para" slide="1"/>
+    </slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s2" slide="2"><keywords slide="2" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"/><xh:blockquote slide="2">
+The law of proportion, however, according to which the several colors are formed, even if a man knew he would be foolish in telling, for he could not give any necessary reason, nor indeed any tolerable or probable explanation of them.
+</xh:blockquote>
+<xh:div style="text-align:right" slide="2">
+Plato (Greek, c. 420's - 348/347 BCE)
+</xh:div></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s3" slide="3"><keywords slide="3" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="3" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">The Color Spectrum</keyword></keywords><xh:h3 slide="3">The Color Spectrum</xh:h3>
+For a long time humans have struggled to organized the set of all perceptible colors
+under an analytical framework.
+The modern scientific study of color started with the great British physicist
+and mathematician Isaac Newton (1642 - 1727),
+who discovered, through the use of a prism,
+that natural light is a mixture of colored lights
+of different wavelengths.
+<xh:div class="dual" slide="3">
+<xh:div class="dual-left" slide="3">
+<xh:img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg/1024px-Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg" slide="3"/>
+</xh:div>
+<xh:div class="dual-right" slide="3">
+<xh:img src="https://media1.britannica.com/eb-media/62/147562-004-CD7CDEDC.jpg" slide="3"/>
+</xh:div>
+</xh:div></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s4" slide="4"><keywords slide="4" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="4" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">spectral color</keyword></keywords><xh:div class="image" slide="4">
+<xh:img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg/1024px-Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg" slide="4"/>
+</xh:div>
+<xh:p slide="4"/>
+A color which corresponds to light of a single wavelength is called a
+<xh:b slide="4">spectral color</xh:b>.
+<para environment="slide" wbtag="para" slide="4"><newcol environment="newcol" id="c15507307846221" href="#c15507307846221" wbtag="newcol" slide="4">Since wavelengths correspond to numbers, we can now organize color sequentially
+(in a way which has some scientific basis):
+<xh:p slide="4"/>
+<xh:div class="image" slide="4">
+<xh:img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg" slide="4"/>
+</xh:div></newcol></para></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s5" slide="5"><keywords slide="5" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="5" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">color wheel</keyword></keywords>Newton also seems to the first person in historical record
+to create the <xh:b slide="5">color wheel</xh:b>,
+which became a useful tool to art students to the present day.
+<xh:p slide="5"/>
+<xh:div class="image" slide="5">
+<xh:img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Newton%27s_colour_circle.png" slide="5"/>
+</xh:div>
+<xh:p slide="5"/>
+<xh:div class="image" slide="5">
+<xh:img src="http://static.colourlovers.com/uploads/2008/05/017_boutet.jpg" slide="5"/>
+</xh:div>
+<xh:div class="image" slide="5">
+<xh:img src="http://static.colourlovers.com/uploads/2008/05/352px-bezold_farbentafel_1874.jpg" slide="5"/>
+</xh:div>
+<xh:div class="image" slide="5">
+<xh:img src="http://cdn.dick-blick.com/items/049/51/04951-0000-front2ww-m.jpg" slide="5"/>
+<xh:a href="http://www.dickblick.com/products/artists-colour-wheel/" slide="5">
+<xh:br slide="5"/>
+Dick Blick Art Materials</xh:a>
+</xh:div></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s6" slide="6"><keywords slide="6" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="6" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">complementary color</keyword></keywords>Typically,
+for each color on the color wheel,
+the color directly opposite to it is its <xh:b slide="6">complementary color</xh:b>.
+Two colors are said to be complementary if their mixture is a neutral grey/white.
+<xh:hr slide="6"/>
+<xh:a target="_blank" href="https://color.adobe.com/create/color-wheel/" slide="6">Adobe Color Wheel</xh:a></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s7" slide="7"><keywords slide="7" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="7" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">additive</keyword><keyword slide="7" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">subtractive</keyword></keywords>For a long time, it was generally thought that all colors may be "mixed" from three primary colors <xh:strong slide="7">red</xh:strong>, <xh:strong slide="7">yellow</xh:strong> and <xh:strong slide="7">blue</xh:strong>,
+and that we cannot obtain these primary colors by mixing other colors.
+<para environment="slide" wbtag="para" slide="7"><xh:p slide="7"/>
+However, this view point is rather incomplete,
+for first we have to define what we mean by "mixing colors."
+There are two definitions of color mixing: <xh:b slide="7">additive</xh:b> and <xh:b slide="7">subtractive</xh:b>.
+The color yellow, for example,
+is a primary color under the second definition but not the first.
+<para environment="slide" wbtag="para" slide="7"/></para></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s8" slide="8"><keywords slide="8" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="8" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">Additive Color Mixing</keyword></keywords><xh:h4 slide="8">Additive Color Mixing</xh:h4>
+Additive mixing results from lights rays of different wavelengths entering
+our eyes simultaneously.
+<xh:br slide="8"/>
+It is the predominant color mixing model used by your TV or smartphone screens.
+<para environment="slide" wbtag="para" slide="8"><xh:br slide="8"/>
+<xh:hr slide="8"/>
+Note that placing two colors close together and viewing them from a distance
+simulates additive mixing.
+<para environment="slide" wbtag="para" slide="8"><newcol environment="newcol" id="c15507307846222" href="#c15507307846222" wbtag="newcol" slide="8"><xh:center slide="8">
+<xh:iframe scrolling="no" style="height:720px;width:500px;text-align:center;margin:auto" src="content/uged1533/color/add_mix1.html" slide="8"/>
+</xh:center><para environment="newcol" wbtag="para" slide="8"/></newcol></para></para></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s9" slide="9"><keywords slide="9" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="9" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">metamerism</keyword><keyword slide="9" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">metamers</keyword></keywords>When two light rays of different colors illuminate
+the same area on the retina,
+we "preceive" visually a third color which is the additive mixture
+of the two original colors
+(Notice how this differs from how we hear two musical notes being played at the same time).
+<para environment="slide" wbtag="para" slide="9"><newcol environment="newcol" id="c15507307846223" href="#c15507307846223" wbtag="newcol" slide="9">This suggests one way of encoding color; namely:
+in a list of the respective intensities/magnitudes
+of all the spectral colors in the light mixture.
+<para environment="newcol" wbtag="para" slide="9">Given the total number (about 360) of unique wavelengths in the visible light spectrum,
+this solution is hardly ideal.
+<para environment="newcol" wbtag="para" slide="9"><collapse environment="newcol" id="c15507307846224" href="#c15507307846224" wbtag="collapse" slide="9">However, in this regard human perception of color has one advantage
+(or disadvantage?):
+<xh:br slide="9"/><xh:br slide="9"/>
+<xh:blockquote slide="9"><xh:i slide="9">
+Two spectral colors (for example, red and blue) could mix additively to produce
+a sensation of a third spectral color (violet).
+</xh:i></xh:blockquote>
+This phenomenon is called <xh:b slide="9">metamerism</xh:b>.
+<xh:br slide="9"/>
+Two lights which are perceived to be of the same color,
+yet have different spectral compositions, are called <xh:b slide="9">metamers</xh:b> of each other.
+<para environment="newcol" wbtag="para" slide="9"><collapse environment="newcol" id="c15507307846225" href="#c15507307846225" wbtag="collapse" slide="9">The existence of metamerism
+means that the previously suggested method of encoding light in terms of
+its spectral composition,
+i.e.  a list of the intensities of all its component spectral lightwaves,
+might be quite redundant.
+<para environment="newcol" wbtag="para" slide="9"><collapse environment="newcol" id="c15507307846226" href="#c15507307846226" wbtag="collapse" slide="9">For example, whatever intensity we record for spectral violet could simply be
+tallied into the entries for red and blue,
+consequently shortening our list by one entry.
+So, now the natural question to ask is:
+<para environment="newcol" wbtag="para" slide="9"><collapse environment="newcol" id="c15507307846227" href="#c15507307846227" wbtag="collapse" slide="9">How short can we make this list such that all visible colors can be so encoded?
+In other words, what is the least number of colors such that every perceptible
+colored light is a metamer of a mixture of these colors?
+<para environment="newcol" wbtag="para" slide="9"/></collapse></para></collapse></para></collapse></para></collapse></para></para></newcol></para></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s10" slide="10"><keywords slide="10" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="10" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">additive</keyword><keyword slide="10" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">Red, Green, and Blue</keyword></keywords>It turns out <xh:strong slide="10">three</xh:strong> is (roughly) enough.
+<para environment="slide" wbtag="para" slide="10"><newcol environment="newcol" id="c15507307846228" href="#c15507307846228" wbtag="newcol" slide="10">There are three primary colors in <xh:b slide="10">additive</xh:b> color mixing
+model: <xh:b slide="10">Red, Green, and Blue</xh:b> (RGB).
+<xh:br slide="10"/><xh:br slide="10"/>
+<xh:div class="image" slide="10">
+<xh:img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/AdditiveColor.svg" slide="10"/>
+</xh:div><para environment="newcol" wbtag="para" slide="10"/></newcol></para></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s11" slide="11"><keywords slide="11" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"/><xh:strong style="font-size:1.2em" slide="11">Some Basic Properties</xh:strong>
+<xh:br slide="11"/><xh:br slide="11"/>
+The additive mixing of red and green produces yellow,
+and mixing green with blue produces cyan.
+<xh:p slide="11"/>
+<xh:center slide="11">
+<xh:table class="table" slide="11">
+<xh:tr slide="11">
+<xh:td width="50" height="50" bgcolor="#f00" slide="11"/>
+<xh:td width="30" align="center" slide="11"> + </xh:td>
+<xh:td width="50" bgcolor="#0f0" slide="11"/>
+<xh:td width="30" align="center" slide="11"> = </xh:td>
+<xh:td width="50" bgcolor="#ff0" slide="11"/>
+</xh:tr>
+</xh:table>
+</xh:center>
+<xh:br slide="11"/><para environment="slide" wbtag="para" slide="11"><newcol environment="newcol" id="c15507307846229" href="#c15507307846229" wbtag="newcol" slide="11">Moreover, mixing all three primary colors produces white.
+In particular, the complementary
+color of red $(R)$ is cyan $(G + B)$, since $R + B + G$ is white.
+Likewise, the complementary color to blue is yellow ($R + G$),
+and the complementary color to green is magenta $(R + B)$.
+<xh:p slide="11"/>
+<xh:center slide="11">
+<xh:table class="table" slide="11">
+<xh:tr slide="11">
+<xh:td width="50" height="50" bgcolor="#f00" slide="11"/>
+<xh:td width="30" align="center" slide="11"> + </xh:td>
+<xh:td width="50" bgcolor="#0ff" slide="11"/>
+<xh:td width="30" align="center" slide="11"> = </xh:td>
+<xh:td width="50" bgcolor="#fff" style="border: 2px solid #aaa;" slide="11"/>
+</xh:tr>
+</xh:table>
+</xh:center>
+<xh:br slide="11"/>
+<xh:p slide="11"/>
+<xh:center slide="11">
+<xh:table class="table" slide="11">
+<xh:tr slide="11">
+<xh:td width="50" height="50" bgcolor="#0f0" slide="11"/>
+<xh:td width="30" align="center" slide="11"> + </xh:td>
+<xh:td width="50" bgcolor="#f0f" slide="11"/>
+<xh:td width="30" align="center" slide="11"> = </xh:td>
+<xh:td width="50" bgcolor="#fff" style="border: 2px solid #aaa;" slide="11"/>
+</xh:tr>
+</xh:table>
+</xh:center>
+<xh:br slide="11"/>
+<xh:p slide="11"/>
+<xh:center slide="11">
+<xh:table class="table" slide="11">
+<xh:tr slide="11">
+<xh:td width="50" height="50" bgcolor="#00f" slide="11"/>
+<xh:td width="30" align="center" slide="11"> + </xh:td>
+<xh:td width="50" bgcolor="#ff0" slide="11"/>
+<xh:td width="30" align="center" slide="11"> = </xh:td>
+<xh:td width="50" bgcolor="#fff" style="border: 2px solid #aaa;" slide="11"/>
+</xh:tr>
+</xh:table>
+</xh:center><para environment="newcol" wbtag="para" slide="11"/></newcol></para></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s12" slide="12"><keywords slide="12" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"/>Though these primary colors additively mix to a wide range of colors,
+modern experiments in psychophysics have shown that this range of colors
+is only a subset of all perceptible colors.
+In other words, there are colors which you can see with your naked eye in
+the physical world, but not on an LCD screen.
+<para environment="slide" wbtag="para" slide="12"><xh:p slide="12"/><newcol environment="newcol" id="c155073078462210" href="#c155073078462210" wbtag="newcol" slide="12"><xh:div class="image" slide="12">
+<xh:img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CIExy1931_sRGB_gamut_D65.png/1024px-CIExy1931_sRGB_gamut_D65.png" slide="12"/>
+</xh:div><para environment="newcol" wbtag="para" slide="12"><xh:p slide="12"/><collapse environment="newcol" id="c155073078462211" href="#c155073078462211" wbtag="collapse" slide="12">For example, take the color labeled as "<xh:a href="https://en.wikipedia.org/wiki/Pantone#Color_of_the_Year" slide="12">Emerald</xh:a>" (Pantone 17-5641)
+by the <xh:a href="https://en.wikipedia.org/wiki/Pantone" slide="12">Pantone</xh:a> corporation.
+According to this <xh:a href="http://www.newyorker.com/tech/elements/the-search-for-our-missing-colors" slide="12">New Yorker article</xh:a>,
+<xh:blockquote slide="12">
+[...] no matter how closely you watched the news reports or ogled Pantone’s Web site, you never actually saw the color Emerald: the vast majority of televisions, computer monitors, and mobile devices are unable to display it [...]
+</xh:blockquote></collapse></para></newcol></para></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s13" slide="13"><keywords slide="13" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="13" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">RGB</keyword><keyword slide="13" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">RGB Color Space</keyword><keyword slide="13" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">vector</keyword><keyword slide="13" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">Grassmann's Laws</keyword></keywords><hc_keyword environment="slide" wbtag="hc_keyword" class="hidden" slide="13">RGB</hc_keyword><xh:h3 slide="13">RGB Color Space</xh:h3>
+It is common to encode a given color with three numbers corresponding
+the respective intensities of the three primary colors
+(<xh:strong slide="13">R</xh:strong>ed, <xh:strong slide="13">G</xh:strong>reen, <xh:strong slide="13">B</xh:strong>lue)
+
+which are needed to produce
+the color in question via additive mixing.  This is the RGB color model.
+<xh:hr slide="13"/>
+<xh:iframe scrolling="no" style="height:400px" src="content/uged1533/color/rgb.html" slide="13">rgb</xh:iframe><para environment="slide" wbtag="para" slide="13"><newcol environment="newcol" id="c155073078462212" href="#c155073078462212" wbtag="newcol" slide="13">This amounts to encoding color as a triplet of positive numbers between 0 and 1:
+\[
+\colvec{R\\G\\B}
+\]
+But should this triplet be viewed as a <xh:b slide="13">vector</xh:b>?
+Namely, is it meaningful to add two such triplets,
+in the same way that we add displacement vectors in physics?
+<para environment="newcol" wbtag="para" slide="13"><collapse environment="newcol" id="c155073078462213" href="#c155073078462213" wbtag="collapse" slide="13">The answer is <xh:i slide="13">YES</xh:i> (at least approximately), thanks
+to the following formulation of one of <xh:a target="_blank" href="https://en.wikipedia.org/wiki/Grassmann%27s_laws_(color_science)" slide="13"><xh:b slide="13">Grassmann's Laws</xh:b></xh:a>:
+<para environment="newcol" wbtag="para" slide="13"><xh:br slide="13"/>
+<xh:blockquote slide="13">
+There are lights with different spectral power distributions but appear identical [...]
+such identical appearing lights must have identical effects when added to a mixture of light.
+</xh:blockquote><collapse environment="newcol" id="c155073078462214" href="#c155073078462214" wbtag="collapse" slide="13">A still more succint way of formulating this law is as follows:
+<xh:br slide="13"/>
+<xh:blockquote slide="13">
+Give two lights $A$ and $B$ which are metamers of each other.  The additive mixture of
+$A$ with a third light $C$ gives the same color as the additive mixture of $B$ and $C$.
+</xh:blockquote><para environment="newcol" wbtag="para" slide="13"><collapse environment="newcol" id="c155073078462215" href="#c155073078462215" wbtag="collapse" slide="13">In the language of Linear Algebra, of which Hermann Grassmann was a founding father,
+this law essentially implies that the description of color in terms of RGB
+is a <xh:i slide="13">linear projection</xh:i>:
+\[
+P(L_1) = \colvec{R_1 \\ G_1 \\ B_1}, \quad P(L_2) = \colvec{R_2 \\ G_2 \\ B_2}
+\]
+\[
+P(L_1 + L_2) = P(L_1) + P(L_2)
+= \colvec{R_1 \\ G_1 \\ B_1} + \colvec{R_2 \\ G_2 \\ B_2}.
+\]
+<para environment="newcol" wbtag="para" slide="13"/></collapse></para></collapse></para></collapse></para></newcol></para></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s14" slide="14"><keywords slide="14" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="14" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">Subtractive Color Mixing</keyword><keyword slide="14" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">subtractive</keyword><keyword slide="14" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">Cyan, Yellow, and Magenta</keyword><keyword slide="14" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">halftone</keyword><keyword slide="14" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">Georges Seurat (French, 1859 - 1891)</keyword><keyword slide="14" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">Roy Lichtenstein (American, 1923 - 1997)</keyword></keywords><xh:h4 slide="14">Subtractive Color Mixing</xh:h4>
+Subtractive mixing results from light passing through multiple layers of
+semi-transparent mediums (e.g. colored glass, dye)
+which <xh:i slide="14">absorb</xh:i> lights of various wavelengths, and let the rest pass through.
+<para environment="slide" wbtag="para" slide="14"><xh:p slide="14"/>
+There are three primary colors in the <xh:b slide="14">subtractive</xh:b> color mixing model:
+<xh:b slide="14">Cyan, Yellow, and Magenta</xh:b> (CMY).
+<xh:p slide="14"/>
+Notice this that the primary colors in this model are precisely the complementary
+colors to the primary colors in the additive mixing model.
+<xh:p slide="14"/>
+<xh:div class="image" slide="14">
+<xh:img src="https://upload.wikimedia.org/wikipedia/commons/1/19/SubtractiveColor.svg" slide="14"/>
+</xh:div>
+This is the predominant color model used in commercial printing,
+which also employs the additive color mixing model in the so-called <xh:b slide="14">halftone</xh:b>
+technique to simulate a wide range of colors.
+<xh:p slide="14"/><newcol environment="newcol" id="c155073078462216" href="#c155073078462216" wbtag="newcol" slide="14"><xh:div class="image" slide="14">
+<xh:img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Halftoningcolor.svg" slide="14"/>
+</xh:div><collapse environment="newcol" id="c155073078462217" href="#c155073078462217" wbtag="collapse" slide="14"><xh:h4 slide="14">Georges Seurat (French, 1859 - 1891)</xh:h4>
+<xh:div class="image" slide="14">
+<xh:img style="width:240px" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Seurat-La_Parade_detail.jpg" slide="14"/>
+</xh:div><collapse environment="newcol" id="c155073078462218" href="#c155073078462218" wbtag="collapse" slide="14"><xh:h4 slide="14">Roy Lichtenstein (American, 1923 - 1997)</xh:h4>
+<xh:div class="image" slide="14">
+<xh:img src="https://media.npr.org/assets/img/2012/10/12/3287-129_enl-ff79df6489c058ed10a81c8405e15da71b963457-s1200.jpg" slide="14"/>
+</xh:div></collapse></collapse></newcol></para></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s15" slide="15"><keywords slide="15" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="15" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">Hue</keyword><keyword slide="15" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">hue</keyword></keywords><xh:h4 slide="15">Hue</xh:h4>
+Under the <xh:a href="https://en.wikipedia.org/wiki/CIECAM02" slide="15">CIECAM02 model</xh:a>
+from the International Commission on Illumination, <xh:b slide="15">hue</xh:b> is:
+<xh:blockquote slide="15">
+The degree to which a stimulus can be described as similar to or different from stimuli that are described as red, green, blue, and yellow.
+</xh:blockquote><newcol environment="newcol" id="c155073078462219" href="#c155073078462219" wbtag="newcol" slide="15">It is often encoded as a number between 0 and 360:
+<xh:div class="image" slide="15">
+<xh:img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HueScale.svg" slide="15"/>
+</xh:div>
+(You may think of this number as an angle from the vertical axis on the color wheel.)
+<xh:p slide="15"/></newcol></slide>
+    <slide environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter" id="s16" slide="16"><keywords slide="16" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter"><keyword slide="16" environment="slide" wbtag="sep" course="UGED 1533" week="" topic="Color Theory, Color Mixing, Different Models" lecture="" chapter="" chapter_type="Chapter">Saturation</keyword></keywords><xh:h4 slide="16">Saturation</xh:h4>
+In one formulation, saturation is:
+<xh:center slide="16">
+<xh:i slide="16">
+The colorfulness of a color relative to its own brightness.
+</xh:i>
+</xh:center>
+<xh:p slide="16"/><newcol environment="newcol" id="c155073078462220" href="#c155073078462220" wbtag="newcol" slide="16">Here, <xh:i slide="16">colorfulness</xh:i> is a technical term in colorimetry,
+a full exploration of the concept is beyond the scope of this course.
+<xh:p slide="16"/><collapse environment="newcol" id="c155073078462221" href="#c155073078462221" wbtag="collapse" slide="16">For us, it suffices to understand saturation intuitively.
+From a casual standpoint, a highly saturated color is a color which is
+<xh:i slide="16">very colorful</xh:i>, or <xh:i slide="16">very sharp</xh:i>, or <xh:i slide="16">very intense</xh:i>.
+<xh:p slide="16"/><collapse environment="newcol" id="c155073078462222" href="#c155073078462222" wbtag="collapse" slide="16">For example, a spectral color has maximal saturation for the hue it belongs to.
+(e.g. the red light from a laser pointer.)
+<xh:p slide="16"/><collapse environment="newcol" id="c155073078462223" href="#c155073078462223" wbtag="collapse" slide="16">Conversely, a neutral grey
+(not bluish, not reddish,..., just grey) has zero saturation.
+In general, additively mixing a color with white light diminishes its saturation.
+(Here, white light also includes "grey light".
+It is a color where $R = G = B$ in the RGB model.)
+<xh:br slide="16"/><xh:br slide="16"/>
+<xh:div class="image" style="width:500px" slide="16">
+<xh:img style="max-height:500px" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Saturationdemo.png" slide="16"/>
+<xh:br slide="16"/>
+As we descend from top to bottom, the saturation diminishes, while the hue and value
+stay (largely) the same.
+</xh:div>
+</collapse></collapse></collapse></newcol></slide>
+  </slides>
+</document>

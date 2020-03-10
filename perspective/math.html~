@@ -1,0 +1,242 @@
+@sep
+<h2>The Mathematics of Linear Perspective</h2>
+<span class=fl>T</span>he idea behind linear perspective is simple:  
+First, we assume that we are observing a physical scene
+(a basket of fruit, a sunset in over the ocean...) with one eye only.
+Now put up an imaginary vertical screen (called the <b>picture plane</b>)
+between the eye and the scene.
+For each object in the physical scene (an apple, a flower, a grain of sand...),
+there is a collection of light rays which are reflected off the object and then enter 
+our eye.  (That is how we normally see.)  Suppose that on the way to our eyeball,
+each of these light rays makes a mark (with the same color as the light) 
+on the picture plane.  
+The resulting colored picture plane has the property that: wherever we place it, 
+and as long as we stand at the same distance from it as before,
+the picture plane presents to our eye an image which is indistinguishable 
+from the original physical scene (our basket of fruits, the sunset).  
+It apears as if the space we saw now lies <i>inside</i> the flat picture plane.
+@sep
+<p>
+<div class=image style='width:100%'>
+<img src='http://digilib.mpiwg-berlin.mpg.de/digitallibrary/servlet/Scaler?fn=/permanent/library/C2PG4QN1/pageimg&pn=90&dw=1376&dh=860'>
+<a href="http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?tocMode=none&url=/mpiwg/online/permanent/library/C2PG4QN1/pageimg&start=81&viewMode=images&mode=imagepath&pn=90"><i>New principles of linear perspective, or the art of designing on a plane the representations of all sorts of objects, in a more general and simple method than has been done before</i></a>, by Brook Taylor
+</div>
+@sep
+<p>
+Now, let's flip the idea around.  If we can figure out the laws which govern
+the placement of the marks by the light rays reflecting off the physical scene,
+then we could start with a blank canvas, place marks on it according to the same laws,
+and <i>produce</i> an illusion of a three-dimensional physical scene contained within 
+the canvas 
+(whether or not the scene thus illustrated actually exists in the real world).
+@sep
+<p>
+What are these laws?  We name a few here.
+In the following:
+
+<ul>
+<li>We prefix any element in the physical scene with the word <b>physical</b>, and
+any element on the picture plane with the word <b>pictorial</b>.
+
+<li>We call a physical line which is perpendicular to the picture plane an 
+<b>orthogonal line</b>.
+
+<li>We call a physical line which is parallel to picture plane a 
+<b>transversal line</b>.
+
+<li>We also assume the picture plane is infinitely large.
+
+</ul>
+@sep
+<h3>Laws of Linear Perspective</h3>
+@collapse law1@
+<b>1.</b> With one exception (Exercise, which one?),
+straight physical lines project to straight pictorial lines.
+<br>
+@collapse law2@
+<b>2.</b> Transversal lines project to the picture plane with no distortion, 
+e.g. a horizontal (resp. vertical) 
+transversal line projects to a horizontal (resp. vertical) pictorial line.
+<p>
+In particular, parallel transversal lines project to parallel pictorial lines.
+<br>
+@collapse law3@
+<b>3.</b> Every non-transversal line projects to a pictorial line
+which terminates at a <b>vanishing point</b> on the picture plane.
+Moreover:
+<ul>
+<li>
+Any set of parallel non-transversals share the same vanishing point.
+<li>
+The vanishing points of <i>horizonal</i> 
+non-transversals lie on the <b>horizon</b> of the picture plane.
+This is the horizontal line on the picture plane which is level with the viewer's eye.
+<li>
+The vanishing point every orthogonal line lies at the center of the horizon.
+<ul>
+<!-- <li>
+Parallel physical lines which are tilted up (resp. down) 
+outwards project to pictorial lines
+whose vanishing point lies above (resp. below) the horizon.  
+Two sets of parallel physical lines with the same vertical pitch poject to 
+picture lines with vanish points 
+which lie on the same vertical level on the picture plane.
+-->
+</div></div></div>
+@sep
+Of course, in practice, no one paints on an infinitely large canvas,
+so the "infinite" picture plane is necessarily cropped, 
+and consequently vanishing points may lie outside of the painting.
+
+<p>
+It is remarkable that with  only these simple rules, and
+a little bit of ingenuity in their application, 
+some great visual results could be obtained. 
+
+For example:
+@sep
+A tiled floor viewed in perspective:
+<div class=image>
+<img src='images/Della_Pittura_Alberti_perspective_vanishing_point.jpg'>
+<a title="Leon Battista Alberti [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADella_Pittura_Alberti_perspective_vanishing_point.jpg">
+Illustration in Leon Battista Alberti's <i>Della Pittura</i></a>
+(1804 edition)
+</div>
+@sep
+<div class=image>
+<img src='images/Eyck_madonna_rolin.jpg'>
+<a title="Jan van Eyck (circa 1390–1441) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEyck_madonna_rolin.jpg">
+The Virgin of chancellor Rolin</a>
+(c. 1435)<br>Jan van Eyck
+</div>
+@sep
+A series of columns receding into space:
+<div class=image>
+<img src='images/ANGELICO,_Fra_Annunciation,_1437-46_(2236990916).jpg'>
+<a title="By carulmare (ANGELICO, Fra Annunciation, 1437-46) [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AANGELICO%2C_Fra_Annunciation%2C_1437-46_(2236990916).jpg">Annunciation</a>
+(1437-1446)<br>Fra Angelico
+</div>
+<hr>
+<div class=image>
+<img src='images/Canaletto_View_of_Molo_1730s,_El_Paso_Museum_of_Art.jpg'>
+<a title="Canaletto [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACanaletto_-_'View_of_Molo'%2C_oil_on_canvas%2C_c._1730s%2C_El_Paso_Museum_of_Art.jpg">View of Molo</a>
+(c. 1730s)<br>Canaletto
+</div>
+@sep
+Human figures situated in space:
+<p>
+<div class=image>
+<img src='images/Entrega_de_las_llaves_a_San_Pedro_(Perugino).jpg'>
+<a title="Pietro Perugino [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEntrega_de_las_llaves_a_San_Pedro_(Perugino).jpg">
+Delivery of the Keys
+</a>
+(1481 - 1482)<br>Pietro Perugino
+</div>
+@sep
+And foreshortened human figures:
+<p>
+<div class=image>
+<img src='images/Mantegna_Andrea_Dead_Christ.jpg'>
+<a title="Andrea Mantegna [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMantegna_Andrea_Dead_Christ.jpg">
+The Lamentation over the Dead Christ</a>
+(c. 1480)<br>Andrea Mantegna
+</div>
+<hr>
+<div class=image>
+<img src="images/loomis_FIGURE_draw_0041.jpg">
+<!-- 
+<iframe style="width:100%;"
+src='https://archive.org/stream/loomis_FIGURE_draw#page/n41/mode/1up'></iframe>
+-->
+<a href="https://archive.org/details/loomis_FIGURE_draw">
+<br>
+<i>Figure Drawing for All It's Worth</i></a>, by Andrew Loomis.
+</div>
+@sep
+<p>
+<span class=fl>B</span>esides 
+employing the geometric rules outlined above to depict objects viewed in perspective,
+there are various mechanical or semi-mechanical means to produce the same effect. 
+
+In the following illustration by Albrecht D&uumlrer,
+the "imaginary screen" we used in devising linear perspective 
+is realized physically as a gridded net (grid #1) 
+placed between a draftsman and the physical scene (in this case a reclining nude).
+Before the draftsman lies a drawing surface with a similar grid system (grid #2) 
+overlaid upon it.  
+Viewing the physical scene with one eye placed at a fixed point, 
+various points of the scene lies directly behind points on grid #1.
+If, say, the tip of the nose of the woman lies behind the grid point
+on grid #1 which is two from the top and one from the left, then the draftsman
+would draw the tip of the nose on the drawing surface at the corresponding point 
+on grid #2.
+Repeating this process for each point in the physical scene, 
+a perspectival drawing of the scene is obtained.
+
+<div class=image style='width:100%'>
+<img src="images/Durer_-_Draftsman's_Net.jpg">
+<a title="Albrecht Dürer [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADurer_-_Draftsman's_Net.jpg">Draftsman's Net</a>
+(1525)<br>Albrecht D&uumlrer 
+</div>
+@sep
+In fact, having a screen between the viewer and the physical scene which records
+all the instances of light rays reflecting off the scene is quite similar
+to the mechanism of the photographic camera, 
+<!-- where the "screen" is a segment of photographic film -->
+<!-- (or an array of digital photosensors) which lies on the other side of the focal point. -->
+whose development traces back to a device called the <i>camera obscura</i>, which means
+"dark room" in Latin 
+(and is indeed the etymological origin of the modern word "camera"). 
+It works as follows: A pinhole is made on one side of a sealed
+box or room, and a screen is set up in the room facing the pinhole.  
+Light rays which enter from outside the room then cast an inverted image 
+of the physical scene outside.  
+A draftsman could then trace the outlines of the outside scene directly onto the screen.
+
+<p>
+<div class=image>
+<img src='images/Camera_obscura2.jpg'>
+<a title="By unknown, possibly Italian. The background shows Brunelleschi&#039;s Duomo, Florence. (Library of Congress[1] (image 500 of 601),[2]) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACamera_obscura2.jpg">
+Illustration of a camera obscura from 
+<i>Sketchbook on military art, including geometry, fortifications, artillery, 
+mechanics, and pyrotechnics</i></a>
+(17th century)
+</div>
+
+<div class=image>
+<img src='images/Canaletto4fogli.jpg'>
+<a title="By clop (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ACanaletto4fogli.jpg">
+Drawings by Canaletto obtained with a Camera obscura</a><br>
+(Gallerie dell'Accademia, Venice, Italy)
+</div>
+@sep
+Aside from the inversion 
+(and various degrees of distortion depending on implementation, 
+such as the use of a lens),
+the projected image produced by a camera obscura 
+largely follows the same geometric laws of projection 
+which underlie linear perspective.
+Consequently, 
+it can be difficult to deduce whether a painter has employed
+linear perspective, a camera obscura, or some other optical means 
+(a grid like the one illustrated by D&uumlrer, a <i>camera lucida</i>, etc.).
+The following painting by Vermeer is the subject of the motion picture 
+<i>Tim's Vermeer</i>, which documents one man's quest to determine
+if Vermeer had employed optical tools to produce the painting.
+
+<p>
+<div class=image style='width:60%'>
+<img src='images/1024px-Jan_Vermeer_van_Delft_014.jpg'>
+<a title="Johannes Vermeer [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJan_Vermeer_van_Delft_014.jpg">
+The Music Lesson</a>
+(1662–1665)<br>Johannes Vermeer
+</div>
+
+One must be aware though, 
+that any such analysis is invariably complicated by the fact that a painter 
+is a human agent free to deviate from the rules of linear perspective
+or any image projected by a camera, 
+and to combine or improvise whatever skills and techniques 
+(both intellectual and instrumental) at their disposal, 
+with the singular goal of fulfilling the needs of their artwork 
+(or perhaps, in a less than ideal world, the needs of their patrons).

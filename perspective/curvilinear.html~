@@ -1,0 +1,54 @@
+@sep
+<h2>Curvilinear Perspective</h2>
+<!-- Human Field of Vision H180 V135 -->
+<span class=fl>W</span>e 
+have now seen that given the impracticality of forcing the viewing distance,
+a painting designed according to the laws of linear perspective
+does not in general afford the viewer a perfect illusion of space.
+
+<p>
+Are we to conclude then that a  painting is doomed to fail?  
+Not so fast: There is no carved-in-stone law which says a painting must provide
+a perfect illusion, 
+even though when it is achieved the effect is admittedly "pretty neat".
+Fact is, even the most casual picture viewer implicitly understands that a painting is 
+<i>a depiction of a visual experience</i>, as opposed to a perfect impostor of reality.
+(On a more fundamental level,
+the very convention of a painting being enclosed by a rectangular frame 
+inevitably frustrates any such attempt at imposition, 
+for the simple reason that our field of vision has no frame around it.)
+
+<p>
+So, perhaps we could settle for a different goal altogether:
+Namely, instead of trying to achieve an absolutely convincing illusion of space, 
+we could aim for a depiction of the visual experience of a space.
+
+<p>
+We then have to ask: How exactly is a visual experience produced?
+To answer this question we need to consider the anatomical issue how we see.
+The basic optical mechanism of the human eye is not unlike that of a camera.
+The chief difference is that an inverted image of the physical scene
+is now projected onto the <i>spherical</i> (or more accurately quasi-spherical) 
+surface of the retina.
+This projection is a type of <b>curvilinear perspective</b>.
+In the eyeball situation,
+the projected retinal image is subject to <b>barrel distortion</b>,
+where every physical line projects to a line which terminates at a vanishing point 
+(whereas in the case of linear perspective, a transversal line has no vanishing point.)
+Barrel distortion is one type of curvilinear perspective, 
+the other type being <b>pin-cushion distortion</b>.
+
+<p>
+In more concrete terms, barrel distortion is demonstrated in Leonardo da Vinci's 
+observation that a long rectangular shape facing the viewer appears to
+diminish in height towards either end of the field of vision.
+Likewise, it is barrel distortion at work
+when a tall building appears narrower and narrower (however slightly) 
+towards the top of our field of vision.
+
+<p>
+Hence, our visual experience of the world really obeys the laws of
+curvilinear perpsective, 
+even though we may not think that is the case, 
+since the deviation from linear perspective is often slight, 
+and only clearly noticeable in our peripheral vision.

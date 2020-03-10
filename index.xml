@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<document xmlns="elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/indlovu" xmlns:idx="elephas_index">
+  <index>
+    <entry keyword="ge">
+      <branch chapter="" slide="1" filename="promo.xml" file_md5="9cd3b5a3f5c0ba5eb16478eaa57ebe0f" keyword="ge">GE</branch>
+    </entry>
+    <entry keyword="mathematics in visual art">
+      <branch chapter="" slide="1" filename="promo.xml" file_md5="9cd3b5a3f5c0ba5eb16478eaa57ebe0f" keyword="mathematics in visual art">Mathematics in Visual Art</branch>
+    </entry>
+    <entry keyword="vitruvian man">
+      <branch chapter="" slide="1" filename="promo.xml" file_md5="9cd3b5a3f5c0ba5eb16478eaa57ebe0f" keyword="vitruvian man">Vitruvian Man</branch>
+    </entry>
+    <entry keyword="ideal proportions">
+      <branch chapter="" slide="1" filename="promo.xml" file_md5="9cd3b5a3f5c0ba5eb16478eaa57ebe0f" keyword="ideal proportions">Ideal Proportions</branch>
+    </entry>
+    <entry keyword="linear perspective">
+      <branch chapter="" slide="1" filename="promo.xml" file_md5="9cd3b5a3f5c0ba5eb16478eaa57ebe0f" keyword="linear perspective">Linear Perspective</branch>
+    </entry>
+    <entry keyword="color theory">
+      <branch chapter="" slide="1" filename="promo.xml" file_md5="9cd3b5a3f5c0ba5eb16478eaa57ebe0f" keyword="color theory">Color Theory</branch>
+    </entry>
+    <entry keyword="term 2 2019 20">
+      <branch chapter="" slide="1" filename="promo.xml" file_md5="9cd3b5a3f5c0ba5eb16478eaa57ebe0f" keyword="term 2 2019 20">Term 2 2019-20</branch>
+    </entry>
+    <entry keyword="cusis">
+      <branch chapter="" slide="1" filename="promo.xml" file_md5="9cd3b5a3f5c0ba5eb16478eaa57ebe0f" keyword="cusis">CUSIS</branch>
+    </entry>
+  </index>
+</document>

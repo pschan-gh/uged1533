@@ -1,0 +1,2 @@
+#/bin/sh
+scp promo.* pschan@sshgate.math.cuhk.edu.hk:public_html/indlovu/content/uged1533/

@@ -1,0 +1,1898 @@
+WEAVING: @course{UGED 1533 - Mathematics in Visual Art}
+ARGUMENT IS: UGED 1533 - Mathematics in Visual Art
+@course
+WEAVING: @week{1}
+ARGUMENT IS: 1
+@week
+WEAVING: @topic{Historical Overview}
+ARGUMENT IS: Historical Overview
+@topic
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+Historical Background
+
+Historical Background
+DEFAULT: 
+Historical Background
+
+[ '\nHistorical Background\n' ]
+CHUNK: Historical Background
+WEAVING: @endtitle
+@endtitle
+WEAVING: 
+This course is titled
+.
+It must be clarified from the start that
+due to time constraint and the academic limitations of the instructor,
+we are concerned only with  visual art, which is itself an ambiguous label.
+
+By any reasonable standard, it is simply impossible to give broad but accurate definitions of words like "Western" and "visual art".
+We will stay close to the conventional narrative of Western art history,
+namely the one which is typically adopted by a first-year undergraduate Western art history curriculum.
+That said, this course has no capacity nor intention of giving a thorough account of Western art.
+To help familiarize ourselves with the artistic context of this course,
+we give in the following pages a skeletal body of specific examples of artwork, along with brief comments on their historical contexts.
+
+Roughly, the timeline/geography which we cover stretches (in leaps and bounds) from the Greek Classical Era to Western Europe in the beginning of the twentieth century.
+It is admittedly a  brief and incomplete summary.
+We strongly encourage students to explore the art historical aspects of this course in more depth for personal enrichment.  We assure you that as an endeavour of self-cultivation it is well worth the time and effort.
+
+
+This course is titled
+.
+It must be clarified from the start that
+due to time constraint and the academic limitations of the instructor,
+we are concerned only with  visual art, which is itself an ambiguous label.
+
+By any reasonable standard, it is simply impossible to give broad but accurate definitions of words like "Western" and "visual art".
+We will stay close to the conventional narrative of Western art history,
+namely the one which is typically adopted by a first-year undergraduate Western art history curriculum.
+That said, this course has no capacity nor intention of giving a thorough account of Western art.
+To help familiarize ourselves with the artistic context of this course,
+we give in the following pages a skeletal body of specific examples of artwork, along with brief comments on their historical contexts.
+
+Roughly, the timeline/geography which we cover stretches (in leaps and bounds) from the Greek Classical Era to Western Europe in the beginning of the twentieth century.
+It is admittedly a  brief and incomplete summary.
+We strongly encourage students to explore the art historical aspects of this course in more depth for personal enrichment.  We assure you that as an endeavour of self-cultivation it is well worth the time and effort.
+DEFAULT: 
+This course is titled
+.
+It must be clarified from the start that
+due to time constraint and the academic limitations of the instructor,
+we are concerned only with  visual art, which is itself an ambiguous label.
+
+By any reasonable standard, it is simply impossible to give broad but accurate definitions of words like "Western" and "visual art".
+We will stay close to the conventional narrative of Western art history,
+namely the one which is typically adopted by a first-year undergraduate Western art history curriculum.
+That said, this course has no capacity nor intention of giving a thorough account of Western art.
+To help familiarize ourselves with the artistic context of this course,
+we give in the following pages a skeletal body of specific examples of artwork, along with brief comments on their historical contexts.
+
+Roughly, the timeline/geography which we cover stretches (in leaps and bounds) from the Greek Classical Era to Western Europe in the beginning of the twentieth century.
+It is admittedly a  brief and incomplete summary.
+We strongly encourage students to explore the art historical aspects of this course in more depth for personal enrichment.  We assure you that as an endeavour of self-cultivation it is well worth the time and effort.
+
+
+[ '\nThis course is titled\n.\nIt must be clarified from the start that\ndue to time constraint and the academic limitations of the instructor,\nwe are concerned only with  visual art, which is itself an ambiguous label.',
+  'By any reasonable standard, it is simply impossible to give broad but accurate definitions of words like "Western" and "visual art".\nWe will stay close to the conventional narrative of Western art history,\nnamely the one which is typically adopted by a first-year undergraduate Western art history curriculum.\nThat said, this course has no capacity nor intention of giving a thorough account of Western art.\nTo help familiarize ourselves with the artistic context of this course,\nwe give in the following pages a skeletal body of specific examples of artwork, along with brief comments on their historical contexts.',
+  'Roughly, the timeline/geography which we cover stretches (in leaps and bounds) from the Greek Classical Era to Western Europe in the beginning of the twentieth century.\nIt is admittedly a  brief and incomplete summary.\nWe strongly encourage students to explore the art historical aspects of this course in more depth for personal enrichment.  We assure you that as an endeavour of self-cultivation it is well worth the time and effort.',
+  '' ]
+CHUNK: This course is titled
+.
+It must be clarified from the start that
+due to time constraint and the academic limitations of the instructor,
+we are concerned only with  visual art, which is itself an ambiguous label.
+CHUNK: By any reasonable standard, it is simply impossible to give broad but accurate definitions of words like "Western" and "visual art".
+We will stay close to the conventional narrative of Western art history,
+namely the one which is typically adopted by a first-year undergraduate Western art history curriculum.
+That said, this course has no capacity nor intention of giving a thorough account of Western art.
+To help familiarize ourselves with the artistic context of this course,
+we give in the following pages a skeletal body of specific examples of artwork, along with brief comments on their historical contexts.
+CHUNK: Roughly, the timeline/geography which we cover stretches (in leaps and bounds) from the Greek Classical Era to Western Europe in the beginning of the twentieth century.
+It is admittedly a  brief and incomplete summary.
+We strongly encourage students to explore the art historical aspects of this course in more depth for personal enrichment.  We assure you that as an endeavour of self-cultivation it is well worth the time and effort.
+WEAVING: <center>
+HTML TAG: center
+WEAVING: <strong style="font-size:2em">
+HTML TAG: strong
+WEAVING: ❦
+
+❦
+DEFAULT: ❦
+
+[ '❦\n' ]
+CHUNK: ❦
+WEAVING: </strong>
+
+TAG CLOSED
+WEAVING: </center>
+
+TAG CLOSED
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+Stone Age
+
+Stone Age
+DEFAULT: 
+Stone Age
+
+[ '\nStone Age\n' ]
+CHUNK: Stone Age
+WEAVING: @endtitle
+@endtitle
+WEAVING: <div class="timeline">
+HTML TAG: div
+WEAVING: <b>
+HTML TAG: b
+WEAVING: 20,000-30,000 years ago
+
+20,000-30,000 years ago
+DEFAULT: 20,000-30,000 years ago
+
+[ '20,000-30,000 years ago\n' ]
+CHUNK: 20,000-30,000 years ago
+WEAVING: </b>
+
+TAG CLOSED
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: When we speak of Western art history,
+the word "Western" suggests to us certain countries in Western Europe with which we are familiar today: Germany, Austria, Britain, France, Spain, Italy....
+Then, the oldest extant examples of Western art might said to be prehistoric figurines such as the Venus of Willendorf and the Lascaux cave paintings, made in the Late Stone Age.
+
+However, in most conventional narratives such prehistoric artworks do not play significant roles in the subsequent development of Western art.
+
+
+When we speak of Western art history,
+the word "Western" suggests to us certain countries in Western Europe with which we are familiar today: Germany, Austria, Britain, France, Spain, Italy....
+Then, the oldest extant examples of Western art might said to be prehistoric figurines such as the Venus of Willendorf and the Lascaux cave paintings, made in the Late Stone Age.
+
+However, in most conventional narratives such prehistoric artworks do not play significant roles in the subsequent development of Western art.
+DEFAULT: When we speak of Western art history,
+the word "Western" suggests to us certain countries in Western Europe with which we are familiar today: Germany, Austria, Britain, France, Spain, Italy....
+Then, the oldest extant examples of Western art might said to be prehistoric figurines such as the Venus of Willendorf and the Lascaux cave paintings, made in the Late Stone Age.
+
+However, in most conventional narratives such prehistoric artworks do not play significant roles in the subsequent development of Western art.
+
+
+[ 'When we speak of Western art history,\nthe word "Western" suggests to us certain countries in Western Europe with which we are familiar today: Germany, Austria, Britain, France, Spain, Italy....\nThen, the oldest extant examples of Western art might said to be prehistoric figurines such as the Venus of Willendorf and the Lascaux cave paintings, made in the Late Stone Age.',
+  'However, in most conventional narratives such prehistoric artworks do not play significant roles in the subsequent development of Western art.',
+  '' ]
+CHUNK: When we speak of Western art history,
+the word "Western" suggests to us certain countries in Western Europe with which we are familiar today: Germany, Austria, Britain, France, Spain, Italy....
+Then, the oldest extant examples of Western art might said to be prehistoric figurines such as the Venus of Willendorf and the Lascaux cave paintings, made in the Late Stone Age.
+CHUNK: However, in most conventional narratives such prehistoric artworks do not play significant roles in the subsequent development of Western art.
+WEAVING: @center
+@center
+WEAVING: <a title="By User:MatthiasKabel (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVenus_von_Willendorf_01.jpg">
+HTML TAG: a
+WEAVING: <img style="height: 512px; width: auto; display: none;" alt="Venus von Willendorf 01" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Venus_von_Willendorf_01.jpg/256px-Venus_von_Willendorf_01.jpg" class="lazy"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Venus von Willendorf
+
+Venus von Willendorf
+DEFAULT: 
+Venus von Willendorf
+
+[ '\nVenus von Willendorf\n' ]
+CHUNK: Venus von Willendorf
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endcenter
+@endcenter
+WEAVING: @center
+@center
+WEAVING: <a title="By Prof saxx (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALascaux_painting.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Lascaux painting" data-src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Lascaux Cave Painting
+
+Lascaux Cave Painting
+DEFAULT: 
+Lascaux Cave Painting
+
+[ '\nLascaux Cave Painting\n' ]
+CHUNK: Lascaux Cave Painting
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+Instead, in most tellings of Western art history, what are more familiar to the layman as elements of Western art (The Renaissance, Mona Lisa, Van Gogh, "The Scream"...) trace their lineage to a relatively much more recent time, namely Ancient Greece.
+
+
+Instead, in most tellings of Western art history, what are more familiar to the layman as elements of Western art (The Renaissance, Mona Lisa, Van Gogh, "The Scream"...) trace their lineage to a relatively much more recent time, namely Ancient Greece.
+DEFAULT: 
+Instead, in most tellings of Western art history, what are more familiar to the layman as elements of Western art (The Renaissance, Mona Lisa, Van Gogh, "The Scream"...) trace their lineage to a relatively much more recent time, namely Ancient Greece.
+
+
+[ '\nInstead, in most tellings of Western art history, what are more familiar to the layman as elements of Western art (The Renaissance, Mona Lisa, Van Gogh, "The Scream"...) trace their lineage to a relatively much more recent time, namely Ancient Greece.',
+  '' ]
+CHUNK: Instead, in most tellings of Western art history, what are more familiar to the layman as elements of Western art (The Renaissance, Mona Lisa, Van Gogh, "The Scream"...) trace their lineage to a relatively much more recent time, namely Ancient Greece.
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+Ancient Greece
+
+Ancient Greece
+DEFAULT: 
+Ancient Greece
+
+[ '\nAncient Greece\n' ]
+CHUNK: Ancient Greece
+WEAVING: @endtitle
+@endtitle
+WEAVING: <div class="timeline">
+HTML TAG: div
+WEAVING: <b>
+HTML TAG: b
+WEAVING: 8th century BCE - 6th century CE
+
+8th century BCE - 6th century CE
+DEFAULT: 8th century BCE - 6th century CE
+
+[ '8th century BCE - 6th century CE\n' ]
+CHUNK: 8th century BCE - 6th century CE
+WEAVING: </b>
+
+TAG CLOSED
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: By 
+By
+DEFAULT: By 
+[ 'By ' ]
+CHUNK: By 
+WEAVING: @keyword{Ancient Greece}
+ARGUMENT IS: Ancient Greece
+@keyword
+WEAVING:  we mean a certain geographical region which has a large overlap with
+the modern nation state called Greece,
+during a time span which stretched from the 8th century BCE ("Before Common Era")
+to the 6th century CE ("Common Era").
+
+The period 8th - 5th century BCE is known as 
+we mean a certain geographical region which has a large overlap with
+the modern nation state called Greece,
+during a time span which stretched from the 8th century BCE ("Before Common Era")
+to the 6th century CE ("Common Era").
+
+The period 8th - 5th century BCE is known as
+DEFAULT:  we mean a certain geographical region which has a large overlap with
+the modern nation state called Greece,
+during a time span which stretched from the 8th century BCE ("Before Common Era")
+to the 6th century CE ("Common Era").
+
+The period 8th - 5th century BCE is known as 
+[ ' we mean a certain geographical region which has a large overlap with\nthe modern nation state called Greece,\nduring a time span which stretched from the 8th century BCE ("Before Common Era")\nto the 6th century CE ("Common Era").',
+  'The period 8th - 5th century BCE is known as ' ]
+CHUNK:  we mean a certain geographical region which has a large overlap with
+the modern nation state called Greece,
+during a time span which stretched from the 8th century BCE ("Before Common Era")
+to the 6th century CE ("Common Era").
+CHUNK: The period 8th - 5th century BCE is known as 
+WEAVING: @keyword{Archaic Greece}
+ARGUMENT IS: Archaic Greece
+@keyword
+WEAVING: .  This is the setting of the Greco-Persian war (nowadays made popular in part by the Hollywood block-buster "300").  The earliest surviving Greek sculptures date to this period.  In them we see the influence of Egyptian art from across the Mediterranean.  The Doric and Ionic orders of Greek architecture date to this period.  Their influence would be felt throughout western art history, up to the modern age.
+
+.  This is the setting of the Greco-Persian war (nowadays made popular in part by the Hollywood block-buster "300").  The earliest surviving Greek sculptures date to this period.  In them we see the influence of Egyptian art from across the Mediterranean.  The Doric and Ionic orders of Greek architecture date to this period.  Their influence would be felt throughout western art history, up to the modern age.
+DEFAULT: .  This is the setting of the Greco-Persian war (nowadays made popular in part by the Hollywood block-buster "300").  The earliest surviving Greek sculptures date to this period.  In them we see the influence of Egyptian art from across the Mediterranean.  The Doric and Ionic orders of Greek architecture date to this period.  Their influence would be felt throughout western art history, up to the modern age.
+
+[ '.  This is the setting of the Greco-Persian war (nowadays made popular in part by the Hollywood block-buster "300").  The earliest surviving Greek sculptures date to this period.  In them we see the influence of Egyptian art from across the Mediterranean.  The Doric and Ionic orders of Greek architecture date to this period.  Their influence would be felt throughout western art history, up to the modern age.\n' ]
+CHUNK: .  This is the setting of the Greco-Persian war (nowadays made popular in part by the Hollywood block-buster "300").  The earliest surviving Greek sculptures date to this period.  In them we see the influence of Egyptian art from across the Mediterranean.  The Doric and Ionic orders of Greek architecture date to this period.  Their influence would be felt throughout western art history, up to the modern age.
+WEAVING: <div class="image" style="background: url(&quot;icons/Loading_icon.gif&quot;) center center no-repeat; height: 300px;">
+HTML TAG: div
+WEAVING: <a title="By Steve Swayne [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AThe_Parthenon_in_Athens.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="The Parthenon in Athens" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/512px-The_Parthenon_in_Athens.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+The Parthenon, 438 BCE
+
+The Parthenon, 438 BCE
+DEFAULT: 
+The Parthenon, 438 BCE
+
+[ '\nThe Parthenon, 438 BCE\n' ]
+CHUNK: The Parthenon, 438 BCE
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: <div class="image" style="width: 160px; float: left; padding-right: 10px; padding-top: 2px; padding-bottom: 0px; background: url(&quot;icons/Loading_icon.gif&quot;) center center no-repeat; height: 300px;">
+HTML TAG: div
+WEAVING: <a title="After Polykleitos the Elder [CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADoryphoros_MAN_Napoli_Inv6011.jpg">
+HTML TAG: a
+WEAVING: <img width="256" alt="Doryphoros MAN Napoli Inv6011" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Doryphoros_MAN_Napoli_Inv6011.jpg/256px-Doryphoros_MAN_Napoli_Inv6011.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Copy of Polykleitos's Doryphoros Statueoriginal c. 440 BCE
+
+Copy of Polykleitos's Doryphoros Statueoriginal c. 440 BCE
+DEFAULT: 
+Copy of Polykleitos's Doryphoros Statueoriginal c. 440 BCE
+
+[ '\nCopy of Polykleitos\'s Doryphoros Statueoriginal c. 440 BCE\n' ]
+CHUNK: Copy of Polykleitos's Doryphoros Statueoriginal c. 440 BCE
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: Then came the 
+Then came the
+DEFAULT: Then came the 
+[ 'Then came the ' ]
+CHUNK: Then came the 
+WEAVING: @keyword{Classical Greece}
+ARGUMENT IS: Classical Greece
+@keyword
+WEAVING:  period, 5th - 4th century BCE. This is the period of Greek history which has the most prominent influence on subsequent developments in Western philosophy, science, art and mathematics (in other words, pretty much the entire Western culture).  The Pythagorean Theorem which we learned in school is named after the Greek 
+period, 5th - 4th century BCE. This is the period of Greek history which has the most prominent influence on subsequent developments in Western philosophy, science, art and mathematics (in other words, pretty much the entire Western culture).  The Pythagorean Theorem which we learned in school is named after the Greek
+DEFAULT:  period, 5th - 4th century BCE. This is the period of Greek history which has the most prominent influence on subsequent developments in Western philosophy, science, art and mathematics (in other words, pretty much the entire Western culture).  The Pythagorean Theorem which we learned in school is named after the Greek 
+[ ' period, 5th - 4th century BCE. This is the period of Greek history which has the most prominent influence on subsequent developments in Western philosophy, science, art and mathematics (in other words, pretty much the entire Western culture).  The Pythagorean Theorem which we learned in school is named after the Greek ' ]
+CHUNK:  period, 5th - 4th century BCE. This is the period of Greek history which has the most prominent influence on subsequent developments in Western philosophy, science, art and mathematics (in other words, pretty much the entire Western culture).  The Pythagorean Theorem which we learned in school is named after the Greek 
+WEAVING: @keyword{Pythagoras of Samos}
+ARGUMENT IS: Pythagoras of Samos
+@keyword
+WEAVING: , who lived around 570 - 495 BCE.
+Another Greek mathematician who was active during the Classical Greece period was one 
+, who lived around 570 - 495 BCE.
+Another Greek mathematician who was active during the Classical Greece period was one
+DEFAULT: , who lived around 570 - 495 BCE.
+Another Greek mathematician who was active during the Classical Greece period was one 
+[ ', who lived around 570 - 495 BCE.\nAnother Greek mathematician who was active during the Classical Greece period was one ' ]
+CHUNK: , who lived around 570 - 495 BCE.
+Another Greek mathematician who was active during the Classical Greece period was one 
+WEAVING: @keyword{Euclid}
+ARGUMENT IS: Euclid
+@keyword
+WEAVING:  of Alexandria.
+Besides basic arithmetic and the Pythagorean theorem, arguably all of the mathematics we learn in primary school and the early years of secondary school may be credited to writings by Euclid.
+who was a greek mathematician was active during 323 - 283 BCE.
+
+After the classical period we have 
+of Alexandria.
+Besides basic arithmetic and the Pythagorean theorem, arguably all of the mathematics we learn in primary school and the early years of secondary school may be credited to writings by Euclid.
+who was a greek mathematician was active during 323 - 283 BCE.
+
+After the classical period we have
+DEFAULT:  of Alexandria.
+Besides basic arithmetic and the Pythagorean theorem, arguably all of the mathematics we learn in primary school and the early years of secondary school may be credited to writings by Euclid.
+who was a greek mathematician was active during 323 - 283 BCE.
+
+After the classical period we have 
+[ ' of Alexandria.\nBesides basic arithmetic and the Pythagorean theorem, arguably all of the mathematics we learn in primary school and the early years of secondary school may be credited to writings by Euclid.\nwho was a greek mathematician was active during 323 - 283 BCE.',
+  'After the classical period we have ' ]
+CHUNK:  of Alexandria.
+Besides basic arithmetic and the Pythagorean theorem, arguably all of the mathematics we learn in primary school and the early years of secondary school may be credited to writings by Euclid.
+who was a greek mathematician was active during 323 - 283 BCE.
+CHUNK: After the classical period we have 
+WEAVING: @keyword{Hellenistic Greece}
+ARGUMENT IS: Hellenistic Greece
+@keyword
+WEAVING:  (4th - 2nd century BCE).
+By this time the Greeks have produced some of the greatest sculptures the world has ever seen.  However, a significant portion of Greek sculptures were cast in bronze, which unfortunately was a material also useful in a number of non-artistic endeavours.  War, for example.  Consequently, there are few surviving original Greek sculptures.
+
+Hellenistic Greece came to an end when the Greek peninsula came under Roman rule in 146 BCE, ushering in the 
+(4th - 2nd century BCE).
+By this time the Greeks have produced some of the greatest sculptures the world has ever seen.  However, a significant portion of Greek sculptures were cast in bronze, which unfortunately was a material also useful in a number of non-artistic endeavours.  War, for example.  Consequently, there are few surviving original Greek sculptures.
+
+Hellenistic Greece came to an end when the Greek peninsula came under Roman rule in 146 BCE, ushering in the
+DEFAULT:  (4th - 2nd century BCE).
+By this time the Greeks have produced some of the greatest sculptures the world has ever seen.  However, a significant portion of Greek sculptures were cast in bronze, which unfortunately was a material also useful in a number of non-artistic endeavours.  War, for example.  Consequently, there are few surviving original Greek sculptures.
+
+Hellenistic Greece came to an end when the Greek peninsula came under Roman rule in 146 BCE, ushering in the 
+[ ' (4th - 2nd century BCE).\nBy this time the Greeks have produced some of the greatest sculptures the world has ever seen.  However, a significant portion of Greek sculptures were cast in bronze, which unfortunately was a material also useful in a number of non-artistic endeavours.  War, for example.  Consequently, there are few surviving original Greek sculptures.',
+  'Hellenistic Greece came to an end when the Greek peninsula came under Roman rule in 146 BCE, ushering in the ' ]
+CHUNK:  (4th - 2nd century BCE).
+By this time the Greeks have produced some of the greatest sculptures the world has ever seen.  However, a significant portion of Greek sculptures were cast in bronze, which unfortunately was a material also useful in a number of non-artistic endeavours.  War, for example.  Consequently, there are few surviving original Greek sculptures.
+CHUNK: Hellenistic Greece came to an end when the Greek peninsula came under Roman rule in 146 BCE, ushering in the 
+WEAVING: @keyword{Roman Greece}
+ARGUMENT IS: Roman Greece
+@keyword
+WEAVING:  period.
+
+
+period.
+DEFAULT:  period.
+
+
+[ ' period.', '' ]
+CHUNK:  period.
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+Roman Empire
+
+Roman Empire
+DEFAULT: 
+Roman Empire
+
+[ '\nRoman Empire\n' ]
+CHUNK: Roman Empire
+WEAVING: @endtitle
+@endtitle
+WEAVING: 
+A detailed discussion of 
+A detailed discussion of
+DEFAULT: 
+A detailed discussion of 
+[ '\nA detailed discussion of ' ]
+CHUNK: A detailed discussion of 
+WEAVING: @keyword{The Roman Empire}
+ARGUMENT IS: The Roman Empire
+@keyword
+WEAVING:  deserves its own course,
+or even more appropriately an entire undergraduate curriculum.  For us, we will mainly observe one key fact pertinent to us: Namely, that the Roman elite admired Greek art and the associated aesthetic principles.
+They made many copies (often in marble) of Greek sculptures, often employing Greek artisans to do so.
+(Most of what we know today about Greek sculptures are passed down via these Roman marble copies.)
+Consequently, ancient Greek art in a broad sense merged with the development of Roman art, and the whole general aesthetic is often placed under one label: "Greco-Roman".
+
+
+deserves its own course,
+or even more appropriately an entire undergraduate curriculum.  For us, we will mainly observe one key fact pertinent to us: Namely, that the Roman elite admired Greek art and the associated aesthetic principles.
+They made many copies (often in marble) of Greek sculptures, often employing Greek artisans to do so.
+(Most of what we know today about Greek sculptures are passed down via these Roman marble copies.)
+Consequently, ancient Greek art in a broad sense merged with the development of Roman art, and the whole general aesthetic is often placed under one label: "Greco-Roman".
+DEFAULT:  deserves its own course,
+or even more appropriately an entire undergraduate curriculum.  For us, we will mainly observe one key fact pertinent to us: Namely, that the Roman elite admired Greek art and the associated aesthetic principles.
+They made many copies (often in marble) of Greek sculptures, often employing Greek artisans to do so.
+(Most of what we know today about Greek sculptures are passed down via these Roman marble copies.)
+Consequently, ancient Greek art in a broad sense merged with the development of Roman art, and the whole general aesthetic is often placed under one label: "Greco-Roman".
+
+
+[ ' deserves its own course,\nor even more appropriately an entire undergraduate curriculum.  For us, we will mainly observe one key fact pertinent to us: Namely, that the Roman elite admired Greek art and the associated aesthetic principles.\nThey made many copies (often in marble) of Greek sculptures, often employing Greek artisans to do so.\n(Most of what we know today about Greek sculptures are passed down via these Roman marble copies.)\nConsequently, ancient Greek art in a broad sense merged with the development of Roman art, and the whole general aesthetic is often placed under one label: "Greco-Roman".',
+  '' ]
+CHUNK:  deserves its own course,
+or even more appropriately an entire undergraduate curriculum.  For us, we will mainly observe one key fact pertinent to us: Namely, that the Roman elite admired Greek art and the associated aesthetic principles.
+They made many copies (often in marble) of Greek sculptures, often employing Greek artisans to do so.
+(Most of what we know today about Greek sculptures are passed down via these Roman marble copies.)
+Consequently, ancient Greek art in a broad sense merged with the development of Roman art, and the whole general aesthetic is often placed under one label: "Greco-Roman".
+WEAVING: @center
+@center
+WEAVING: @left
+@left
+WEAVING: <a title="By Copy after Epigonos User:Jean-Pol GRANDMONT    This illustration was made by Jean-Pol GRANDMONT Please credit this : Jean-Pol GRANDMONT An email to Jean-Pol GRANDMONT would be appreciated. (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A0_Galata_Morente_-_Musei_Capitolini_(1).jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="0 Galata Morente - Musei Capitolini (1)" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/0_Galata_Morente_-_Musei_Capitolini_%281%29.jpg/512px-0_Galata_Morente_-_Musei_Capitolini_%281%29.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Copy of The Dying Gauloriginal c. 230 - 220 BCE
+
+Copy of The Dying Gauloriginal c. 230 - 220 BCE
+DEFAULT: 
+Copy of The Dying Gauloriginal c. 230 - 220 BCE
+
+[ '\nCopy of The Dying Gauloriginal c. 230 - 220 BCE\n' ]
+CHUNK: Copy of The Dying Gauloriginal c. 230 - 220 BCE
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endleft
+@endleft
+WEAVING: @right
+@right
+WEAVING: <a title="By Lyokoï88 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVictoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_(2).JPG">
+HTML TAG: a
+WEAVING: <img width="256" alt="Victoire de Samothrace - vue de trois-quart gauche, gros plan de la statue (2)" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG/256px-Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Winged Victory of Samothrace2nd century BCE
+
+Winged Victory of Samothrace2nd century BCE
+DEFAULT: 
+Winged Victory of Samothrace2nd century BCE
+
+[ '\nWinged Victory of Samothrace2nd century BCE\n' ]
+CHUNK: Winged Victory of Samothrace2nd century BCE
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endright
+@endright
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+
+Besides the famous Roman numeral system,
+your instructor is unaware of any major mathematical innovation in the ancient Roman Empire.
+
+In territorial terms, the Roman Empire reached it peak in 117 CE, after which came its centuries long decline, which we will not discuss in detail.
+Along the way the empire splits into Eastern and Western Empires.  In 5th century CE, the Western Empire split into separate kingdoms ruled by the various "barbaric" tribes (the Gothic tribes, the Franks, the Saxons...) which had earlier invaded or been assimilated by the Roman Empire.
+
+
+Besides the famous Roman numeral system,
+your instructor is unaware of any major mathematical innovation in the ancient Roman Empire.
+
+In territorial terms, the Roman Empire reached it peak in 117 CE, after which came its centuries long decline, which we will not discuss in detail.
+Along the way the empire splits into Eastern and Western Empires.  In 5th century CE, the Western Empire split into separate kingdoms ruled by the various "barbaric" tribes (the Gothic tribes, the Franks, the Saxons...) which had earlier invaded or been assimilated by the Roman Empire.
+DEFAULT: 
+
+Besides the famous Roman numeral system,
+your instructor is unaware of any major mathematical innovation in the ancient Roman Empire.
+
+In territorial terms, the Roman Empire reached it peak in 117 CE, after which came its centuries long decline, which we will not discuss in detail.
+Along the way the empire splits into Eastern and Western Empires.  In 5th century CE, the Western Empire split into separate kingdoms ruled by the various "barbaric" tribes (the Gothic tribes, the Franks, the Saxons...) which had earlier invaded or been assimilated by the Roman Empire.
+
+
+[ '',
+  'Besides the famous Roman numeral system,\nyour instructor is unaware of any major mathematical innovation in the ancient Roman Empire.',
+  'In territorial terms, the Roman Empire reached it peak in 117 CE, after which came its centuries long decline, which we will not discuss in detail.\nAlong the way the empire splits into Eastern and Western Empires.  In 5th century CE, the Western Empire split into separate kingdoms ruled by the various "barbaric" tribes (the Gothic tribes, the Franks, the Saxons...) which had earlier invaded or been assimilated by the Roman Empire.',
+  '' ]
+CHUNK: Besides the famous Roman numeral system,
+your instructor is unaware of any major mathematical innovation in the ancient Roman Empire.
+CHUNK: In territorial terms, the Roman Empire reached it peak in 117 CE, after which came its centuries long decline, which we will not discuss in detail.
+Along the way the empire splits into Eastern and Western Empires.  In 5th century CE, the Western Empire split into separate kingdoms ruled by the various "barbaric" tribes (the Gothic tribes, the Franks, the Saxons...) which had earlier invaded or been assimilated by the Roman Empire.
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+The Middle Ages
+
+The Middle Ages
+DEFAULT: 
+The Middle Ages
+
+[ '\nThe Middle Ages\n' ]
+CHUNK: The Middle Ages
+WEAVING: @endtitle
+@endtitle
+WEAVING: <div class="timeline">
+HTML TAG: div
+WEAVING: <b>
+HTML TAG: b
+WEAVING: 5th - 14th century CE
+
+5th - 14th century CE
+DEFAULT: 5th - 14th century CE
+
+[ '5th - 14th century CE\n' ]
+CHUNK: 5th - 14th century CE
+WEAVING: </b>
+
+TAG CLOSED
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: After the fall of the Western Roman empire, Western Europe entered the Middle Ages or 
+After the fall of the Western Roman empire, Western Europe entered the Middle Ages or
+DEFAULT: After the fall of the Western Roman empire, Western Europe entered the Middle Ages or 
+[ 'After the fall of the Western Roman empire, Western Europe entered the Middle Ages or ' ]
+CHUNK: After the fall of the Western Roman empire, Western Europe entered the Middle Ages or 
+WEAVING: @keyword{Medieval Period}
+ARGUMENT IS: Medieval Period
+@keyword
+WEAVING:  (5th - 14th century CE).  Two main artistic developments in this region at this time were the Romanesque and then the Gothic styles.
+
+(5th - 14th century CE).  Two main artistic developments in this region at this time were the Romanesque and then the Gothic styles.
+DEFAULT:  (5th - 14th century CE).  Two main artistic developments in this region at this time were the Romanesque and then the Gothic styles.
+
+[ ' (5th - 14th century CE).  Two main artistic developments in this region at this time were the Romanesque and then the Gothic styles.\n' ]
+CHUNK:  (5th - 14th century CE).  Two main artistic developments in this region at this time were the Romanesque and then the Gothic styles.
+WEAVING: @center
+@center
+WEAVING: @left
+@left
+WEAVING: <a title="See page for author [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMeister_aus_Tahull_001.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Meister aus Tahull 001" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Meister_aus_Tahull_001.jpg/512px-Meister_aus_Tahull_001.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Apse of Sant Climent de Taull
+
+Apse of Sant Climent de Taull
+DEFAULT: 
+Apse of Sant Climent de Taull
+
+[ '\nApse of Sant Climent de Taull\n' ]
+CHUNK: Apse of Sant Climent de Taull
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endleft
+@endleft
+WEAVING: @right
+@right
+WEAVING: <a title="By MOSSOT (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVenanson_-_Chapelle_Sainte-Claire_-_Fresque_-3.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Venanson - Chapelle Sainte-Claire - Fresque -3" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Venanson_-_Chapelle_Sainte-Claire_-_Fresque_-3.jpg/512px-Venanson_-_Chapelle_Sainte-Claire_-_Fresque_-3.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Fresco, Chapelle Sainte-Claire
+
+Fresco, Chapelle Sainte-Claire
+DEFAULT: 
+Fresco, Chapelle Sainte-Claire
+
+[ '\nFresco, Chapelle Sainte-Claire\n' ]
+CHUNK: Fresco, Chapelle Sainte-Claire
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endright
+@endright
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+
+
+
+DEFAULT: 
+
+
+[ '', '' ]
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+The Renaissance
+
+The Renaissance
+DEFAULT: 
+The Renaissance
+
+[ '\nThe Renaissance\n' ]
+CHUNK: The Renaissance
+WEAVING: @endtitle
+@endtitle
+WEAVING: <div class="timeline">
+HTML TAG: div
+WEAVING: <b>
+HTML TAG: b
+WEAVING: 14th - 17th century
+
+14th - 17th century
+DEFAULT: 14th - 17th century
+
+[ '14th - 17th century\n' ]
+CHUNK: 14th - 17th century
+WEAVING: </b>
+
+TAG CLOSED
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: The cultural phenomenon known as the 
+The cultural phenomenon known as the
+DEFAULT: The cultural phenomenon known as the 
+[ 'The cultural phenomenon known as the ' ]
+CHUNK: The cultural phenomenon known as the 
+WEAVING: @keyword{Renaissance}
+ARGUMENT IS: Renaissance
+@keyword
+WEAVING:  occurred during the time period 14th - 17th century CE.  Its complex origin is of great ongoing academic interest.  Within the context of this course, it suffices to say that towards the end of the 14th century, a confluence of economic, cultural, political and even environmental factors resulted in an explosion of cultural and intellectual activities in several urban centers (Florence, Venice, Naples,...) in the Italian peninsula.  The Italian Renaissance then spread northward to regions which later became present day France, Belgium, the Netherlands and Germany.  It was during the Renaissance that linear perspective took a prominent role in painting.
+
+The Renaissance also saw a revival in the development of mathematics.
+The mathematical theory of linear perspective in painting were developed by a number of individuals, such as Filippo Brunelleschi (who designed the famous Duomo in Florence)
+and Leon Battista Alberti.
+
+
+occurred during the time period 14th - 17th century CE.  Its complex origin is of great ongoing academic interest.  Within the context of this course, it suffices to say that towards the end of the 14th century, a confluence of economic, cultural, political and even environmental factors resulted in an explosion of cultural and intellectual activities in several urban centers (Florence, Venice, Naples,...) in the Italian peninsula.  The Italian Renaissance then spread northward to regions which later became present day France, Belgium, the Netherlands and Germany.  It was during the Renaissance that linear perspective took a prominent role in painting.
+
+The Renaissance also saw a revival in the development of mathematics.
+The mathematical theory of linear perspective in painting were developed by a number of individuals, such as Filippo Brunelleschi (who designed the famous Duomo in Florence)
+and Leon Battista Alberti.
+DEFAULT:  occurred during the time period 14th - 17th century CE.  Its complex origin is of great ongoing academic interest.  Within the context of this course, it suffices to say that towards the end of the 14th century, a confluence of economic, cultural, political and even environmental factors resulted in an explosion of cultural and intellectual activities in several urban centers (Florence, Venice, Naples,...) in the Italian peninsula.  The Italian Renaissance then spread northward to regions which later became present day France, Belgium, the Netherlands and Germany.  It was during the Renaissance that linear perspective took a prominent role in painting.
+
+The Renaissance also saw a revival in the development of mathematics.
+The mathematical theory of linear perspective in painting were developed by a number of individuals, such as Filippo Brunelleschi (who designed the famous Duomo in Florence)
+and Leon Battista Alberti.
+
+
+[ ' occurred during the time period 14th - 17th century CE.  Its complex origin is of great ongoing academic interest.  Within the context of this course, it suffices to say that towards the end of the 14th century, a confluence of economic, cultural, political and even environmental factors resulted in an explosion of cultural and intellectual activities in several urban centers (Florence, Venice, Naples,...) in the Italian peninsula.  The Italian Renaissance then spread northward to regions which later became present day France, Belgium, the Netherlands and Germany.  It was during the Renaissance that linear perspective took a prominent role in painting.',
+  'The Renaissance also saw a revival in the development of mathematics.\nThe mathematical theory of linear perspective in painting were developed by a number of individuals, such as Filippo Brunelleschi (who designed the famous Duomo in Florence)\nand Leon Battista Alberti.',
+  '' ]
+CHUNK:  occurred during the time period 14th - 17th century CE.  Its complex origin is of great ongoing academic interest.  Within the context of this course, it suffices to say that towards the end of the 14th century, a confluence of economic, cultural, political and even environmental factors resulted in an explosion of cultural and intellectual activities in several urban centers (Florence, Venice, Naples,...) in the Italian peninsula.  The Italian Renaissance then spread northward to regions which later became present day France, Belgium, the Netherlands and Germany.  It was during the Renaissance that linear perspective took a prominent role in painting.
+CHUNK: The Renaissance also saw a revival in the development of mathematics.
+The mathematical theory of linear perspective in painting were developed by a number of individuals, such as Filippo Brunelleschi (who designed the famous Duomo in Florence)
+and Leon Battista Alberti.
+WEAVING: @center
+@center
+WEAVING: <a title="Giotto di Bondone [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGiotto_di_Bondone_051_Ascension_of_St_John_adjusted.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Giotto di Bondone 051 Ascension of St John adjusted" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Giotto_di_Bondone_051_Ascension_of_St_John_adjusted.jpg/512px-Giotto_di_Bondone_051_Ascension_of_St_John_adjusted.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Ascension of St John (14th century CE)
+
+Ascension of St John (14th century CE)
+DEFAULT: 
+Ascension of St John (14th century CE)
+
+[ '\nAscension of St John (14th century CE)\n' ]
+CHUNK: Ascension of St John (14th century CE)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Giotto
+
+Giotto
+DEFAULT: 
+Giotto
+
+[ '\nGiotto\n' ]
+CHUNK: Giotto
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+
+
+
+DEFAULT: 
+
+
+[ '', '' ]
+WEAVING: @center
+@center
+WEAVING: <a title="Jan van Eyck [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVan_Eyck_-_Arnolfini_Portrait.jpg">
+HTML TAG: a
+WEAVING: <img width="256" alt="Van Eyck - Arnolfini Portrait" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/256px-Van_Eyck_-_Arnolfini_Portrait.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+The Arnolfini Portrait (1434)
+
+The Arnolfini Portrait (1434)
+DEFAULT: 
+The Arnolfini Portrait (1434)
+
+[ '\nThe Arnolfini Portrait (1434)\n' ]
+CHUNK: The Arnolfini Portrait (1434)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Jan van Eyck
+
+Jan van Eyck
+DEFAULT: 
+Jan van Eyck
+
+[ '\nJan van Eyck\n' ]
+CHUNK: Jan van Eyck
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+
+
+
+DEFAULT: 
+
+
+[ '', '' ]
+WEAVING: @center
+@center
+WEAVING: <a title="Sandro Botticelli [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg">
+HTML TAG: a
+WEAVING: <img width="null" alt="Sandro Botticelli - La nascita di Venere - Google Art Project - edited" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1024px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+The Birth of Venus(c. 1480)
+
+The Birth of Venus(c. 1480)
+DEFAULT: 
+The Birth of Venus(c. 1480)
+
+[ '\nThe Birth of Venus(c. 1480)\n' ]
+CHUNK: The Birth of Venus(c. 1480)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Sandro Botticelli
+
+Sandro Botticelli
+DEFAULT: 
+Sandro Botticelli
+
+[ '\nSandro Botticelli\n' ]
+CHUNK: Sandro Botticelli
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+
+
+
+DEFAULT: 
+
+
+[ '', '' ]
+WEAVING: @center
+@center
+WEAVING: @left
+@left
+WEAVING: <a title="Leonardo da Vinci [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg">
+HTML TAG: a
+WEAVING: <img width="256" alt="Mona Lisa, by Leonardo da Vinci, from C2RMF retouched" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/256px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Mona Lisa (1503 - 1506)
+Leonardo Da Vinci
+
+Mona Lisa (1503 - 1506)
+Leonardo Da Vinci
+DEFAULT: 
+Mona Lisa (1503 - 1506)
+Leonardo Da Vinci
+
+[ '\nMona Lisa (1503 - 1506)\nLeonardo Da Vinci\n' ]
+CHUNK: Mona Lisa (1503 - 1506)
+Leonardo Da Vinci
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endleft
+@endleft
+WEAVING: @right
+@right
+WEAVING: <a title="By Jörg Bittner Unna (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A'David'_by_Michelangelo_JBU0001.JPG">
+HTML TAG: a
+WEAVING: <img width="256" alt="'David' by Michelangelo JBU0001" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%27David%27_by_Michelangelo_JBU0001.JPG/256px-%27David%27_by_Michelangelo_JBU0001.JPG" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+David (1501 - 1504)
+
+David (1501 - 1504)
+DEFAULT: 
+David (1501 - 1504)
+
+[ '\nDavid (1501 - 1504)\n' ]
+CHUNK: David (1501 - 1504)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Michelangelo Buonarroti
+
+Michelangelo Buonarroti
+DEFAULT: 
+Michelangelo Buonarroti
+
+[ '\nMichelangelo Buonarroti\n' ]
+CHUNK: Michelangelo Buonarroti
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endright
+@endright
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+
+
+
+DEFAULT: 
+
+
+[ '', '' ]
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+The Baroque Period, Dutch Golden Age
+
+The Baroque Period, Dutch Golden Age
+DEFAULT: 
+The Baroque Period, Dutch Golden Age
+
+[ '\nThe Baroque Period, Dutch Golden Age\n' ]
+CHUNK: The Baroque Period, Dutch Golden Age
+WEAVING: @endtitle
+@endtitle
+WEAVING: <div class="timeline">
+HTML TAG: div
+WEAVING: <b>
+HTML TAG: b
+WEAVING: Approx. 17th century
+
+Approx. 17th century
+DEFAULT: Approx. 17th century
+
+[ 'Approx. 17th century\n' ]
+CHUNK: Approx. 17th century
+WEAVING: </b>
+
+TAG CLOSED
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: The 17th century saw several major developments in European history.  In art this period coincided with the peak of the 
+The 17th century saw several major developments in European history.  In art this period coincided with the peak of the
+DEFAULT: The 17th century saw several major developments in European history.  In art this period coincided with the peak of the 
+[ 'The 17th century saw several major developments in European history.  In art this period coincided with the peak of the ' ]
+CHUNK: The 17th century saw several major developments in European history.  In art this period coincided with the peak of the 
+WEAVING: @keyword{Baroque style}
+ARGUMENT IS: Baroque style
+@keyword
+WEAVING: , prevalent in Southern Europe, and the Dutch Golden Age in the North.
+
+Some notable Baroque painters: Caravaggio (Italian), Jusepe de Ribera (Spanish), Nicolas Poussin (French), Peter Paul Rubens (Flemish), Anthony van Dyck (Flemish).
+
+
+, prevalent in Southern Europe, and the Dutch Golden Age in the North.
+
+Some notable Baroque painters: Caravaggio (Italian), Jusepe de Ribera (Spanish), Nicolas Poussin (French), Peter Paul Rubens (Flemish), Anthony van Dyck (Flemish).
+DEFAULT: , prevalent in Southern Europe, and the Dutch Golden Age in the North.
+
+Some notable Baroque painters: Caravaggio (Italian), Jusepe de Ribera (Spanish), Nicolas Poussin (French), Peter Paul Rubens (Flemish), Anthony van Dyck (Flemish).
+
+
+[ ', prevalent in Southern Europe, and the Dutch Golden Age in the North.',
+  'Some notable Baroque painters: Caravaggio (Italian), Jusepe de Ribera (Spanish), Nicolas Poussin (French), Peter Paul Rubens (Flemish), Anthony van Dyck (Flemish).',
+  '' ]
+CHUNK: , prevalent in Southern Europe, and the Dutch Golden Age in the North.
+CHUNK: Some notable Baroque painters: Caravaggio (Italian), Jusepe de Ribera (Spanish), Nicolas Poussin (French), Peter Paul Rubens (Flemish), Anthony van Dyck (Flemish).
+WEAVING: @center
+@center
+WEAVING: @left
+@left
+WEAVING: <a title="Caravaggio [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMichelangelo_Merisi_da_Caravaggio_-_St_John_the_Baptist_-_WGA04154.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Michelangelo Merisi da Caravaggio - St John the Baptist - WGA04154" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Michelangelo_Merisi_da_Caravaggio_-_St_John_the_Baptist_-_WGA04154.jpg/512px-Michelangelo_Merisi_da_Caravaggio_-_St_John_the_Baptist_-_WGA04154.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+St John the Baptist (c. 1603-1604)
+
+St John the Baptist (c. 1603-1604)
+DEFAULT: 
+St John the Baptist (c. 1603-1604)
+
+[ '\nSt John the Baptist (c. 1603-1604)\n' ]
+CHUNK: St John the Baptist (c. 1603-1604)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Caravaggio
+
+Caravaggio
+DEFAULT: 
+Caravaggio
+
+[ '\nCaravaggio\n' ]
+CHUNK: Caravaggio
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endleft
+@endleft
+WEAVING: @right
+@right
+WEAVING: <a title="Peter Paul Rubens [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APeter_Paul_Rubens_Massacre_of_the_Innocents.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Peter Paul Rubens Massacre of the Innocents" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Peter_Paul_Rubens_Massacre_of_the_Innocents.jpg/512px-Peter_Paul_Rubens_Massacre_of_the_Innocents.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Massacre of The Innocents (1611-1612)
+
+Massacre of The Innocents (1611-1612)
+DEFAULT: 
+Massacre of The Innocents (1611-1612)
+
+[ '\nMassacre of The Innocents (1611-1612)\n' ]
+CHUNK: Massacre of The Innocents (1611-1612)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Peter Paul Rubens
+
+Peter Paul Rubens
+DEFAULT: 
+Peter Paul Rubens
+
+[ '\nPeter Paul Rubens\n' ]
+CHUNK: Peter Paul Rubens
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endright
+@endright
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+Some notable Dutch Golden Age artists: Rembrandt Harmenszoon van Rijn, Jan Vermeer, Jacob van Ruisdael, Pieter Claesz.
+
+
+Some notable Dutch Golden Age artists: Rembrandt Harmenszoon van Rijn, Jan Vermeer, Jacob van Ruisdael, Pieter Claesz.
+DEFAULT: 
+Some notable Dutch Golden Age artists: Rembrandt Harmenszoon van Rijn, Jan Vermeer, Jacob van Ruisdael, Pieter Claesz.
+
+
+[ '\nSome notable Dutch Golden Age artists: Rembrandt Harmenszoon van Rijn, Jan Vermeer, Jacob van Ruisdael, Pieter Claesz.',
+  '' ]
+CHUNK: Some notable Dutch Golden Age artists: Rembrandt Harmenszoon van Rijn, Jan Vermeer, Jacob van Ruisdael, Pieter Claesz.
+WEAVING: @center
+@center
+WEAVING: @left
+@left
+WEAVING: <a title="Rembrandt  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Rembrandt,_Self_Portrait_at_the_Age_of_63.jpg">
+HTML TAG: a
+WEAVING: <img width="256" alt="Rembrandt, Self Portrait at the Age of 63" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rembrandt%2C_Self_Portrait_at_the_Age_of_63.jpg/256px-Rembrandt%2C_Self_Portrait_at_the_Age_of_63.jpg"/>
+HTML TAG: img
+WEAVING: 
+Self-Portrait at the Age of Sixty-Three
+
+Self-Portrait at the Age of Sixty-Three
+DEFAULT: 
+Self-Portrait at the Age of Sixty-Three
+
+[ '\nSelf-Portrait at the Age of Sixty-Three\n' ]
+CHUNK: Self-Portrait at the Age of Sixty-Three
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Rembrandt Harmenszoon van Rijn (1606 - 1669)
+
+Rembrandt Harmenszoon van Rijn (1606 - 1669)
+DEFAULT: 
+Rembrandt Harmenszoon van Rijn (1606 - 1669)
+
+[ '\nRembrandt Harmenszoon van Rijn (1606 - 1669)\n' ]
+CHUNK: Rembrandt Harmenszoon van Rijn (1606 - 1669)
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endleft
+@endleft
+WEAVING: @right
+@right
+WEAVING: <a title="Johannes Vermeer [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJ._VERMEER_-_El_ge%C3%B3grafo_(Museo_St%C3%A4del%2C_Fr%C3%A1ncfort_del_Meno%2C_1669).jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="J. VERMEER - El geógrafo (Museo Städel, Fráncfort del Meno, 1669)" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J._VERMEER_-_El_ge%C3%B3grafo_%28Museo_St%C3%A4del%2C_Fr%C3%A1ncfort_del_Meno%2C_1669%29.jpg/512px-J._VERMEER_-_El_ge%C3%B3grafo_%28Museo_St%C3%A4del%2C_Fr%C3%A1ncfort_del_Meno%2C_1669%29.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+The Geographer (c. 1668-1669)
+
+The Geographer (c. 1668-1669)
+DEFAULT: 
+The Geographer (c. 1668-1669)
+
+[ '\nThe Geographer (c. 1668-1669)\n' ]
+CHUNK: The Geographer (c. 1668-1669)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Jan Vermeer
+
+Jan Vermeer
+DEFAULT: 
+Jan Vermeer
+
+[ '\nJan Vermeer\n' ]
+CHUNK: Jan Vermeer
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endright
+@endright
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+It was also during the 17th Century that Europe saw a great number of scientific/mathematical advances, due to the work of individuals such as Galileo, Newton, Leibniz and Descartes.  Descartes introduced what we now call the Cartesian coordinate system, which provides a means to link geometry and algebra (a revolutionary idea at the time), while Calculus (differentiation, integration) was developed by Newton and Leibniz independently.
+Newton was also the first to demonstrate the spectrum of colours in natural light,
+which is a milestone for subsequent developments in colour theory.
+
+From this period on, mathematics was to take on an ever more prominent role in the scientific investigations of the natural world.  This trend would continue to the present day.
+
+
+It was also during the 17th Century that Europe saw a great number of scientific/mathematical advances, due to the work of individuals such as Galileo, Newton, Leibniz and Descartes.  Descartes introduced what we now call the Cartesian coordinate system, which provides a means to link geometry and algebra (a revolutionary idea at the time), while Calculus (differentiation, integration) was developed by Newton and Leibniz independently.
+Newton was also the first to demonstrate the spectrum of colours in natural light,
+which is a milestone for subsequent developments in colour theory.
+
+From this period on, mathematics was to take on an ever more prominent role in the scientific investigations of the natural world.  This trend would continue to the present day.
+DEFAULT: 
+It was also during the 17th Century that Europe saw a great number of scientific/mathematical advances, due to the work of individuals such as Galileo, Newton, Leibniz and Descartes.  Descartes introduced what we now call the Cartesian coordinate system, which provides a means to link geometry and algebra (a revolutionary idea at the time), while Calculus (differentiation, integration) was developed by Newton and Leibniz independently.
+Newton was also the first to demonstrate the spectrum of colours in natural light,
+which is a milestone for subsequent developments in colour theory.
+
+From this period on, mathematics was to take on an ever more prominent role in the scientific investigations of the natural world.  This trend would continue to the present day.
+
+
+[ '\nIt was also during the 17th Century that Europe saw a great number of scientific/mathematical advances, due to the work of individuals such as Galileo, Newton, Leibniz and Descartes.  Descartes introduced what we now call the Cartesian coordinate system, which provides a means to link geometry and algebra (a revolutionary idea at the time), while Calculus (differentiation, integration) was developed by Newton and Leibniz independently.\nNewton was also the first to demonstrate the spectrum of colours in natural light,\nwhich is a milestone for subsequent developments in colour theory.',
+  'From this period on, mathematics was to take on an ever more prominent role in the scientific investigations of the natural world.  This trend would continue to the present day.',
+  '' ]
+CHUNK: It was also during the 17th Century that Europe saw a great number of scientific/mathematical advances, due to the work of individuals such as Galileo, Newton, Leibniz and Descartes.  Descartes introduced what we now call the Cartesian coordinate system, which provides a means to link geometry and algebra (a revolutionary idea at the time), while Calculus (differentiation, integration) was developed by Newton and Leibniz independently.
+Newton was also the first to demonstrate the spectrum of colours in natural light,
+which is a milestone for subsequent developments in colour theory.
+CHUNK: From this period on, mathematics was to take on an ever more prominent role in the scientific investigations of the natural world.  This trend would continue to the present day.
+WEAVING: @endcenter
+@endcenter
+WEAVING: @endcenter
+@endcenter
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+The Age of Enlightenment
+
+The Age of Enlightenment
+DEFAULT: 
+The Age of Enlightenment
+
+[ '\nThe Age of Enlightenment\n' ]
+CHUNK: The Age of Enlightenment
+WEAVING: @endtitle
+@endtitle
+WEAVING: <div class="timeline">
+HTML TAG: div
+WEAVING: @keyword{18th century}
+ARGUMENT IS: 18th century
+@keyword
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: Eighteenth century Europe saw the emergence of the 
+Eighteenth century Europe saw the emergence of the
+DEFAULT: Eighteenth century Europe saw the emergence of the 
+[ 'Eighteenth century Europe saw the emergence of the ' ]
+CHUNK: Eighteenth century Europe saw the emergence of the 
+WEAVING: @keyword{Age of Enlightenment}
+ARGUMENT IS: Age of Enlightenment
+@keyword
+WEAVING: .  Many new ideas in philosophy and mathematics were introduced in this period.  For music lovers, a number of the most important composers (Bach, Handel, Haydn, Mozart) in Western music were active in this period.
+
+Some 18th-century painters of note are Thomas Gainsborough, Joshua Reynolds, Fragonard, Jean-Baptiste-Siméon Chardin, Guardi and Jacques-Louis David.
+
+
+.  Many new ideas in philosophy and mathematics were introduced in this period.  For music lovers, a number of the most important composers (Bach, Handel, Haydn, Mozart) in Western music were active in this period.
+
+Some 18th-century painters of note are Thomas Gainsborough, Joshua Reynolds, Fragonard, Jean-Baptiste-Siméon Chardin, Guardi and Jacques-Louis David.
+DEFAULT: .  Many new ideas in philosophy and mathematics were introduced in this period.  For music lovers, a number of the most important composers (Bach, Handel, Haydn, Mozart) in Western music were active in this period.
+
+Some 18th-century painters of note are Thomas Gainsborough, Joshua Reynolds, Fragonard, Jean-Baptiste-Siméon Chardin, Guardi and Jacques-Louis David.
+
+
+[ '.  Many new ideas in philosophy and mathematics were introduced in this period.  For music lovers, a number of the most important composers (Bach, Handel, Haydn, Mozart) in Western music were active in this period.',
+  'Some 18th-century painters of note are Thomas Gainsborough, Joshua Reynolds, Fragonard, Jean-Baptiste-Siméon Chardin, Guardi and Jacques-Louis David.',
+  '' ]
+CHUNK: .  Many new ideas in philosophy and mathematics were introduced in this period.  For music lovers, a number of the most important composers (Bach, Handel, Haydn, Mozart) in Western music were active in this period.
+CHUNK: Some 18th-century painters of note are Thomas Gainsborough, Joshua Reynolds, Fragonard, Jean-Baptiste-Siméon Chardin, Guardi and Jacques-Louis David.
+WEAVING: @center
+@center
+WEAVING: @left
+@left
+WEAVING: <a title="Thomas Gainsborough [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AThomas_Gainsborough_-_Portrait_of_a_Lady_in_Blue_-_WGA8414.jpg">
+HTML TAG: a
+WEAVING: <img width="256" alt="Thomas Gainsborough - Portrait of a Lady in Blue - WGA8414" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Thomas_Gainsborough_-_Portrait_of_a_Lady_in_Blue_-_WGA8414.jpg/256px-Thomas_Gainsborough_-_Portrait_of_a_Lady_in_Blue_-_WGA8414.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Woman in Blue
+(c. 1770-1780)
+
+Woman in Blue
+(c. 1770-1780)
+DEFAULT: 
+Woman in Blue
+(c. 1770-1780)
+
+[ '\nWoman in Blue\n(c. 1770-1780)\n' ]
+CHUNK: Woman in Blue
+(c. 1770-1780)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Thomas Gainsborough
+
+Thomas Gainsborough
+DEFAULT: 
+Thomas Gainsborough
+
+[ '\nThomas Gainsborough\n' ]
+CHUNK: Thomas Gainsborough
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endleft
+@endleft
+WEAVING: @right
+@right
+WEAVING: <a title="Jean-Baptiste-Siméon Chardin [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJean_Sim%C3%A9on_Chardin_-_Still_Life_with_Partridge_and_Pear_-_Google_Art_Project.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Jean Siméon Chardin - Still Life with Partridge and Pear - Google Art Project" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jean_Sim%C3%A9on_Chardin_-_Still_Life_with_Partridge_and_Pear_-_Google_Art_Project.jpg/512px-Jean_Sim%C3%A9on_Chardin_-_Still_Life_with_Partridge_and_Pear_-_Google_Art_Project.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Still Life with Partridge and Pear
+(1748)Jean-Baptiste-Siméon Chardin
+
+Still Life with Partridge and Pear
+(1748)Jean-Baptiste-Siméon Chardin
+DEFAULT: 
+Still Life with Partridge and Pear
+(1748)Jean-Baptiste-Siméon Chardin
+
+[ '\nStill Life with Partridge and Pear\n(1748)Jean-Baptiste-Siméon Chardin\n' ]
+CHUNK: Still Life with Partridge and Pear
+(1748)Jean-Baptiste-Siméon Chardin
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endright
+@endright
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+
+A number of important mathematicians were active in 18th century Europe.
+They include Leohard Euler, Évariste Galois and Pierre-Simon Laplace.
+
+Euler is arguably one of the most important mathematicians who have ever lived.
+He made many important discoveries
+in Mathematical Analysis, Number Theory and Topology.
+
+
+A number of important mathematicians were active in 18th century Europe.
+They include Leohard Euler, Évariste Galois and Pierre-Simon Laplace.
+
+Euler is arguably one of the most important mathematicians who have ever lived.
+He made many important discoveries
+in Mathematical Analysis, Number Theory and Topology.
+DEFAULT: 
+
+A number of important mathematicians were active in 18th century Europe.
+They include Leohard Euler, Évariste Galois and Pierre-Simon Laplace.
+
+Euler is arguably one of the most important mathematicians who have ever lived.
+He made many important discoveries
+in Mathematical Analysis, Number Theory and Topology.
+
+
+[ '',
+  'A number of important mathematicians were active in 18th century Europe.\nThey include Leohard Euler, Évariste Galois and Pierre-Simon Laplace.',
+  'Euler is arguably one of the most important mathematicians who have ever lived.\nHe made many important discoveries\nin Mathematical Analysis, Number Theory and Topology.',
+  '' ]
+CHUNK: A number of important mathematicians were active in 18th century Europe.
+They include Leohard Euler, Évariste Galois and Pierre-Simon Laplace.
+CHUNK: Euler is arguably one of the most important mathematicians who have ever lived.
+He made many important discoveries
+in Mathematical Analysis, Number Theory and Topology.
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+The 19th Century
+
+The 19th Century
+DEFAULT: 
+The 19th Century
+
+[ '\nThe 19th Century\n' ]
+CHUNK: The 19th Century
+WEAVING: @endtitle
+@endtitle
+WEAVING: @subsection
+@subsection
+WEAVING: @title
+@title
+WEAVING: 
+Academic Art
+
+Academic Art
+DEFAULT: 
+Academic Art
+
+[ '\nAcademic Art\n' ]
+CHUNK: Academic Art
+WEAVING: @endtitle
+@endtitle
+WEAVING: 
+By and large the first half of the 19th century was dominated by French 
+By and large the first half of the 19th century was dominated by French
+DEFAULT: 
+By and large the first half of the 19th century was dominated by French 
+[ '\nBy and large the first half of the 19th century was dominated by French ' ]
+CHUNK: By and large the first half of the 19th century was dominated by French 
+WEAVING: @keyword{Academic Art}
+ARGUMENT IS: Academic Art
+@keyword
+WEAVING: .  Of all the art academies which operated in Europe in this time period, the most prominent one was the School of Fine Arts (École des Beaux-Arts) in Paris.
+Before the advent of the academic system, painters in Europe were typically trained in the studios of individual master painters.
+Some noteworthy academy-trained painters:
+Jean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore Géricault, Eugène Delacroix, Paul Delaroche, William-Adolphe Bouguereau.
+
+
+.  Of all the art academies which operated in Europe in this time period, the most prominent one was the School of Fine Arts (École des Beaux-Arts) in Paris.
+Before the advent of the academic system, painters in Europe were typically trained in the studios of individual master painters.
+Some noteworthy academy-trained painters:
+Jean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore Géricault, Eugène Delacroix, Paul Delaroche, William-Adolphe Bouguereau.
+DEFAULT: .  Of all the art academies which operated in Europe in this time period, the most prominent one was the School of Fine Arts (École des Beaux-Arts) in Paris.
+Before the advent of the academic system, painters in Europe were typically trained in the studios of individual master painters.
+Some noteworthy academy-trained painters:
+Jean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore Géricault, Eugène Delacroix, Paul Delaroche, William-Adolphe Bouguereau.
+
+
+[ '.  Of all the art academies which operated in Europe in this time period, the most prominent one was the School of Fine Arts (École des Beaux-Arts) in Paris.\nBefore the advent of the academic system, painters in Europe were typically trained in the studios of individual master painters.\nSome noteworthy academy-trained painters:\nJean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore Géricault, Eugène Delacroix, Paul Delaroche, William-Adolphe Bouguereau.',
+  '' ]
+CHUNK: .  Of all the art academies which operated in Europe in this time period, the most prominent one was the School of Fine Arts (École des Beaux-Arts) in Paris.
+Before the advent of the academic system, painters in Europe were typically trained in the studios of individual master painters.
+Some noteworthy academy-trained painters:
+Jean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore Géricault, Eugène Delacroix, Paul Delaroche, William-Adolphe Bouguereau.
+WEAVING: @center
+@center
+WEAVING: @left
+@left
+WEAVING: <a title="Jean Auguste Dominique Ingres [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJ%C3%BApiter_y_Tetis%2C_por_Dominique_Ingres.jpg">
+HTML TAG: a
+WEAVING: <img width="256" alt="Júpiter y Tetis, por Dominique Ingres" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/J%C3%BApiter_y_Tetis%2C_por_Dominique_Ingres.jpg/256px-J%C3%BApiter_y_Tetis%2C_por_Dominique_Ingres.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Jupiter and Thetis (1811)
+
+Jupiter and Thetis (1811)
+DEFAULT: 
+Jupiter and Thetis (1811)
+
+[ '\nJupiter and Thetis (1811)\n' ]
+CHUNK: Jupiter and Thetis (1811)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Jean-Auguste-Dominique Ingres
+
+Jean-Auguste-Dominique Ingres
+DEFAULT: 
+Jean-Auguste-Dominique Ingres
+
+[ '\nJean-Auguste-Dominique Ingres\n' ]
+CHUNK: Jean-Auguste-Dominique Ingres
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endleft
+@endleft
+WEAVING: @right
+@right
+WEAVING: <img data-src="http://www.metmuseum.org/toah/images/hb/hb_87.15.130.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <a title="Copyright The Metropolitan Museum of Art" href="http://www.metmuseum.org/toah/works-of-art/87.15.130/">
+HTML TAG: a
+WEAVING: Prayer in the Mosque (1871)
+
+Prayer in the Mosque (1871)
+DEFAULT: Prayer in the Mosque (1871)
+
+[ 'Prayer in the Mosque (1871)\n' ]
+CHUNK: Prayer in the Mosque (1871)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Jean-Léon Gérôme
+
+Jean-Léon Gérôme
+DEFAULT: 
+Jean-Léon Gérôme
+
+[ '\nJean-Léon Gérôme\n' ]
+CHUNK: Jean-Léon Gérôme
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endright
+@endright
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+
+Concurrently, there were French painters who were not academically-trained, and did not adopt the neoclassical or orientalist subject matter favoured by many academic painters at the time.  Some notable painters in this "Realist" movement are:
+
+Gustave Courbet, Edouard Manet, Francois Millet (who did attend the École des Beaux-Arts, but had his scholarship terminated) and Jean-Baptiste-Camille Corot.
+
+
+Concurrently, there were French painters who were not academically-trained, and did not adopt the neoclassical or orientalist subject matter favoured by many academic painters at the time.  Some notable painters in this "Realist" movement are:
+
+Gustave Courbet, Edouard Manet, Francois Millet (who did attend the École des Beaux-Arts, but had his scholarship terminated) and Jean-Baptiste-Camille Corot.
+DEFAULT: 
+
+Concurrently, there were French painters who were not academically-trained, and did not adopt the neoclassical or orientalist subject matter favoured by many academic painters at the time.  Some notable painters in this "Realist" movement are:
+
+Gustave Courbet, Edouard Manet, Francois Millet (who did attend the École des Beaux-Arts, but had his scholarship terminated) and Jean-Baptiste-Camille Corot.
+
+
+[ '',
+  'Concurrently, there were French painters who were not academically-trained, and did not adopt the neoclassical or orientalist subject matter favoured by many academic painters at the time.  Some notable painters in this "Realist" movement are:',
+  'Gustave Courbet, Edouard Manet, Francois Millet (who did attend the École des Beaux-Arts, but had his scholarship terminated) and Jean-Baptiste-Camille Corot.',
+  '' ]
+CHUNK: Concurrently, there were French painters who were not academically-trained, and did not adopt the neoclassical or orientalist subject matter favoured by many academic painters at the time.  Some notable painters in this "Realist" movement are:
+CHUNK: Gustave Courbet, Edouard Manet, Francois Millet (who did attend the École des Beaux-Arts, but had his scholarship terminated) and Jean-Baptiste-Camille Corot.
+WEAVING: @center
+@center
+WEAVING: @left
+@left
+WEAVING: <a title="Jean-François Millet [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Jean-François Millet - Gleaners - Google Art Project 2" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/512px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+The Gleaners
+(1857)
+
+The Gleaners
+(1857)
+DEFAULT: 
+The Gleaners
+(1857)
+
+[ '\nThe Gleaners\n(1857)\n' ]
+CHUNK: The Gleaners
+(1857)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Jean-François Millet
+
+Jean-François Millet
+DEFAULT: 
+Jean-François Millet
+
+[ '\nJean-François Millet\n' ]
+CHUNK: Jean-François Millet
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endleft
+@endleft
+WEAVING: @right
+@right
+WEAVING: <a title="Édouard Manet [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEdouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Edouard Manet - Luncheon on the Grass - Google Art Project" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/512px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Luncheon on the Grass
+(1863)
+
+Luncheon on the Grass
+(1863)
+DEFAULT: 
+Luncheon on the Grass
+(1863)
+
+[ '\nLuncheon on the Grass\n(1863)\n' ]
+CHUNK: Luncheon on the Grass
+(1863)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Edouard Manet
+
+Edouard Manet
+DEFAULT: 
+Edouard Manet
+
+[ '\nEdouard Manet\n' ]
+CHUNK: Edouard Manet
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endright
+@endright
+WEAVING: 
+
+
+
+DEFAULT: 
+
+
+[ '', '' ]
+WEAVING: @endcenter
+@endcenter
+WEAVING: @endcenter
+@endcenter
+WEAVING: @subsection
+@subsection
+WEAVING: @title
+@title
+WEAVING: 
+Impressionism, Post-Impressionism
+
+Impressionism, Post-Impressionism
+DEFAULT: 
+Impressionism, Post-Impressionism
+
+[ '\nImpressionism, Post-Impressionism\n' ]
+CHUNK: Impressionism, Post-Impressionism
+WEAVING: @endtitle
+@endtitle
+WEAVING: <div class="timeline">
+HTML TAG: div
+WEAVING: <b>
+HTML TAG: b
+WEAVING: 2nd half of 19th century
+
+2nd half of 19th century
+DEFAULT: 2nd half of 19th century
+
+[ '2nd half of 19th century\n' ]
+CHUNK: 2nd half of 19th century
+WEAVING: </b>
+
+TAG CLOSED
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: @center
+@center
+WEAVING: <a title="Pierre-Auguste Renoir [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APierre-Auguste_Renoir_-_Suzanne_Valadon_-_Dance_at_Bougival_-_02.jpg">
+HTML TAG: a
+WEAVING: <img width="256" alt="Pierre-Auguste Renoir - Suzanne Valadon - Dance at Bougival - 02" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pierre-Auguste_Renoir_-_Suzanne_Valadon_-_Dance_at_Bougival_-_02.jpg/256px-Pierre-Auguste_Renoir_-_Suzanne_Valadon_-_Dance_at_Bougival_-_02.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Dance at Bougival
+(c. 1882 - 1883)
+
+Dance at Bougival
+(c. 1882 - 1883)
+DEFAULT: 
+Dance at Bougival
+(c. 1882 - 1883)
+
+[ '\nDance at Bougival\n(c. 1882 - 1883)\n' ]
+CHUNK: Dance at Bougival
+(c. 1882 - 1883)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Pierre-Auguste Renoir
+
+Pierre-Auguste Renoir
+DEFAULT: 
+Pierre-Auguste Renoir
+
+[ '\nPierre-Auguste Renoir\n' ]
+CHUNK: Pierre-Auguste Renoir
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+The second half of the 19th century saw the Impressionism movement.
+Artists (Claude Monet, Pierre-Auguste Renoir, Camille Pissarro, Alfred Sisley) who are often labeled as impressionists tended to favour outdoor  painting (made possible by the introduction of oil paints packaged in metal tubes), with great emphasis placed on capturing the effect of light, using novel ideas in colour theory,
+new styles of paint application,
+and oil paints which had been unavailable before the Industrial Revolution.
+
+The second half of the 19th century saw the Impressionism movement.
+Artists (Claude Monet, Pierre-Auguste Renoir, Camille Pissarro, Alfred Sisley) who are often labeled as impressionists tended to favour outdoor  painting (made possible by the introduction of oil paints packaged in metal tubes), with great emphasis placed on capturing the effect of light, using novel ideas in colour theory,
+new styles of paint application,
+and oil paints which had been unavailable before the Industrial Revolution.
+DEFAULT: 
+The second half of the 19th century saw the Impressionism movement.
+Artists (Claude Monet, Pierre-Auguste Renoir, Camille Pissarro, Alfred Sisley) who are often labeled as impressionists tended to favour outdoor  painting (made possible by the introduction of oil paints packaged in metal tubes), with great emphasis placed on capturing the effect of light, using novel ideas in colour theory,
+new styles of paint application,
+and oil paints which had been unavailable before the Industrial Revolution.
+
+[ '\nThe second half of the 19th century saw the Impressionism movement.\nArtists (Claude Monet, Pierre-Auguste Renoir, Camille Pissarro, Alfred Sisley) who are often labeled as impressionists tended to favour outdoor  painting (made possible by the introduction of oil paints packaged in metal tubes), with great emphasis placed on capturing the effect of light, using novel ideas in colour theory,\nnew styles of paint application,\nand oil paints which had been unavailable before the Industrial Revolution.\n' ]
+CHUNK: The second half of the 19th century saw the Impressionism movement.
+Artists (Claude Monet, Pierre-Auguste Renoir, Camille Pissarro, Alfred Sisley) who are often labeled as impressionists tended to favour outdoor  painting (made possible by the introduction of oil paints packaged in metal tubes), with great emphasis placed on capturing the effect of light, using novel ideas in colour theory,
+new styles of paint application,
+and oil paints which had been unavailable before the Industrial Revolution.
+WEAVING: @center
+@center
+WEAVING: <a title="Claude Monet [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APont_Argenteuil_Monet_1.jpg">
+HTML TAG: a
+WEAVING: <img width="512" alt="Pont Argenteuil Monet 1" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pont_Argenteuil_Monet_1.jpg/512px-Pont_Argenteuil_Monet_1.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Pont d'Argenteuil (c. 1874)
+
+Pont d'Argenteuil (c. 1874)
+DEFAULT: 
+Pont d'Argenteuil (c. 1874)
+
+[ '\nPont d\'Argenteuil (c. 1874)\n' ]
+CHUNK: Pont d'Argenteuil (c. 1874)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Claude Monet
+
+Claude Monet
+DEFAULT: 
+Claude Monet
+
+[ '\nClaude Monet\n' ]
+CHUNK: Claude Monet
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+Following Impressionism there was Post-Impressionism.  A chief component of this movement is Pointilism, which further developed the optical mixing technique first seen in some Impressionist works.  Some noted Post-Impressionists are:
+Georges Seurat, Paul Signac and Vincent van Gogh.
+
+Following Impressionism there was Post-Impressionism.  A chief component of this movement is Pointilism, which further developed the optical mixing technique first seen in some Impressionist works.  Some noted Post-Impressionists are:
+Georges Seurat, Paul Signac and Vincent van Gogh.
+DEFAULT: 
+Following Impressionism there was Post-Impressionism.  A chief component of this movement is Pointilism, which further developed the optical mixing technique first seen in some Impressionist works.  Some noted Post-Impressionists are:
+Georges Seurat, Paul Signac and Vincent van Gogh.
+
+[ '\nFollowing Impressionism there was Post-Impressionism.  A chief component of this movement is Pointilism, which further developed the optical mixing technique first seen in some Impressionist works.  Some noted Post-Impressionists are:\nGeorges Seurat, Paul Signac and Vincent van Gogh.\n' ]
+CHUNK: Following Impressionism there was Post-Impressionism.  A chief component of this movement is Pointilism, which further developed the optical mixing technique first seen in some Impressionist works.  Some noted Post-Impressionists are:
+Georges Seurat, Paul Signac and Vincent van Gogh.
+WEAVING: @center
+@center
+WEAVING: @left
+@left
+WEAVING: <a title="Georges Seurat [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AA_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png">
+HTML TAG: a
+WEAVING: <img width="512" alt="A Sunday on La Grande Jatte, Georges Seurat, 1884" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png/512px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+A Sunday on La Grande Jatte (1884-1886)
+
+A Sunday on La Grande Jatte (1884-1886)
+DEFAULT: 
+A Sunday on La Grande Jatte (1884-1886)
+
+[ '\nA Sunday on La Grande Jatte (1884-1886)\n' ]
+CHUNK: A Sunday on La Grande Jatte (1884-1886)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Georges Seurat
+
+Georges Seurat
+DEFAULT: 
+Georges Seurat
+
+[ '\nGeorges Seurat\n' ]
+CHUNK: Georges Seurat
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endleft
+@endleft
+WEAVING: @right
+@right
+WEAVING: <a title="Vincent van Gogh [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVan_Gogh_-_Starry_Night_-_Google_Art_Project.jpg">
+HTML TAG: a
+WEAVING: <img width="null" alt="Van Gogh - Starry Night - Google Art Project" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/512px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: 
+Starry Night (1889)
+
+Starry Night (1889)
+DEFAULT: 
+Starry Night (1889)
+
+[ '\nStarry Night (1889)\n' ]
+CHUNK: Starry Night (1889)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Vincent van Gogh
+
+Vincent van Gogh
+DEFAULT: 
+Vincent van Gogh
+
+[ '\nVincent van Gogh\n' ]
+CHUNK: Vincent van Gogh
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endright
+@endright
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+The 19th century saw further major advances in mathematics, made by people such as Joseph Fourier, Bernhard Riemann, Peter Dirichlet and Carl Friedrich Gauss.
+
+
+The 19th century saw further major advances in mathematics, made by people such as Joseph Fourier, Bernhard Riemann, Peter Dirichlet and Carl Friedrich Gauss.
+DEFAULT: 
+The 19th century saw further major advances in mathematics, made by people such as Joseph Fourier, Bernhard Riemann, Peter Dirichlet and Carl Friedrich Gauss.
+
+
+[ '\nThe 19th century saw further major advances in mathematics, made by people such as Joseph Fourier, Bernhard Riemann, Peter Dirichlet and Carl Friedrich Gauss.',
+  '' ]
+CHUNK: The 19th century saw further major advances in mathematics, made by people such as Joseph Fourier, Bernhard Riemann, Peter Dirichlet and Carl Friedrich Gauss.
+WEAVING: @section
+@section
+WEAVING: @title
+@title
+WEAVING: 
+"Modernity"
+
+"Modernity"
+DEFAULT: 
+"Modernity"
+
+[ '\n"Modernity"\n' ]
+CHUNK: "Modernity"
+WEAVING: @endtitle
+@endtitle
+WEAVING: <div class="timeline">
+HTML TAG: div
+WEAVING: <b>
+HTML TAG: b
+WEAVING: 20th century
+20th century
+DEFAULT: 20th century
+[ '20th century' ]
+CHUNK: 20th century
+WEAVING: </b>
+
+TAG CLOSED
+WEAVING: </div>
+
+TAG CLOSED
+WEAVING: @center
+@center
+WEAVING: <a title="Paul Cézanne [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APaul_C%C3%A9zanne%2C_1888-90%2C_Madame_C%C3%A9zanne_(Hortense_Fiquet%2C_1850%E2%80%931922)_in_a_Red_Dress%2C_oil_on_canvas%2C_116.5_x_89.5_cm%2C_The_Metropolitan_Museum_of_Art%2C_New_York.jpg">
+HTML TAG: a
+WEAVING: <img width="256" alt="Paul Cézanne, 1888-90, Madame Cézanne (Hortense Fiquet, 1850–1922) in a Red Dress, oil on canvas, 116.5 x 89.5 cm, The Metropolitan Museum of Art, New York" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Paul_C%C3%A9zanne%2C_1888-90%2C_Madame_C%C3%A9zanne_%28Hortense_Fiquet%2C_1850%E2%80%931922%29_in_a_Red_Dress%2C_oil_on_canvas%2C_116.5_x_89.5_cm%2C_The_Metropolitan_Museum_of_Art%2C_New_York.jpg/256px-thumbnail.jpg" class="lazy" style="display: none;"/>
+HTML TAG: img
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Madame Cézanne (1888 - 1890)
+
+Madame Cézanne (1888 - 1890)
+DEFAULT: 
+Madame Cézanne (1888 - 1890)
+
+[ '\nMadame Cézanne (1888 - 1890)\n' ]
+CHUNK: Madame Cézanne (1888 - 1890)
+WEAVING: <br/>
+HTML TAG: br
+WEAVING: 
+Paul Cézanne
+
+Paul Cézanne
+DEFAULT: 
+Paul Cézanne
+
+[ '\nPaul Cézanne\n' ]
+CHUNK: Paul Cézanne
+WEAVING: </a>
+
+TAG CLOSED
+WEAVING: @endcenter
+@endcenter
+WEAVING: 
+One key figure in Post-Impressionism is a certain Frenchman named Paul Cézanne (1839-1906),
+and with him it might very well be argued that the age of Modern Art began.
+From then on the world saw the works of Matisse, Picasso, Delaunay, Chirico, Morandi, Marc, Ernst, Beckmann, Kandinsky, Klee....  There was also a distinct shift of momentum to the USA, led by such painters as Gorky, Rothko, DeKooning, Pollock, Motherwell, Newman (many of whom were immigrants from Europe).
+By this point, it is evident from just the long lists of names that the art world would grow at an ever greater rate, and in ever more diverse directions.
+So, we will stop here, lest these notes never end.
+
+One key figure in Post-Impressionism is a certain Frenchman named Paul Cézanne (1839-1906),
+and with him it might very well be argued that the age of Modern Art began.
+From then on the world saw the works of Matisse, Picasso, Delaunay, Chirico, Morandi, Marc, Ernst, Beckmann, Kandinsky, Klee....  There was also a distinct shift of momentum to the USA, led by such painters as Gorky, Rothko, DeKooning, Pollock, Motherwell, Newman (many of whom were immigrants from Europe).
+By this point, it is evident from just the long lists of names that the art world would grow at an ever greater rate, and in ever more diverse directions.
+So, we will stop here, lest these notes never end.
+DEFAULT: 
+One key figure in Post-Impressionism is a certain Frenchman named Paul Cézanne (1839-1906),
+and with him it might very well be argued that the age of Modern Art began.
+From then on the world saw the works of Matisse, Picasso, Delaunay, Chirico, Morandi, Marc, Ernst, Beckmann, Kandinsky, Klee....  There was also a distinct shift of momentum to the USA, led by such painters as Gorky, Rothko, DeKooning, Pollock, Motherwell, Newman (many of whom were immigrants from Europe).
+By this point, it is evident from just the long lists of names that the art world would grow at an ever greater rate, and in ever more diverse directions.
+So, we will stop here, lest these notes never end.
+
+[ '\nOne key figure in Post-Impressionism is a certain Frenchman named Paul Cézanne (1839-1906),\nand with him it might very well be argued that the age of Modern Art began.\nFrom then on the world saw the works of Matisse, Picasso, Delaunay, Chirico, Morandi, Marc, Ernst, Beckmann, Kandinsky, Klee....  There was also a distinct shift of momentum to the USA, led by such painters as Gorky, Rothko, DeKooning, Pollock, Motherwell, Newman (many of whom were immigrants from Europe).\nBy this point, it is evident from just the long lists of names that the art world would grow at an ever greater rate, and in ever more diverse directions.\nSo, we will stop here, lest these notes never end.\n' ]
+CHUNK: One key figure in Post-Impressionism is a certain Frenchman named Paul Cézanne (1839-1906),
+and with him it might very well be argued that the age of Modern Art began.
+From then on the world saw the works of Matisse, Picasso, Delaunay, Chirico, Morandi, Marc, Ernst, Beckmann, Kandinsky, Klee....  There was also a distinct shift of momentum to the USA, led by such painters as Gorky, Rothko, DeKooning, Pollock, Motherwell, Newman (many of whom were immigrants from Europe).
+By this point, it is evident from just the long lists of names that the art world would grow at an ever greater rate, and in ever more diverse directions.
+So, we will stop here, lest these notes never end.
+<?xml version="1.0"?>
+<document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
+  <index>
+    <entry keyword="20 000-30,000 years ago">
+      <branch chapter="1" slide="4" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="20 000-30,000 years ago">20,000-30,000 years ago</branch>
+    </entry>
+    <entry keyword="8th century bce   6th century ce">
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="8th century bce   6th century ce">8th century BCE - 6th century CE</branch>
+    </entry>
+    <entry keyword="ancient greece">
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="ancient greece">Ancient Greece</branch>
+    </entry>
+    <entry keyword="archaic greece">
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="archaic greece">Archaic Greece</branch>
+    </entry>
+    <entry keyword="classical greece">
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="classical greece">Classical Greece</branch>
+    </entry>
+    <entry keyword="pythagoras of samos">
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="pythagoras of samos">Pythagoras of Samos</branch>
+    </entry>
+    <entry keyword="euclid">
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="euclid">Euclid</branch>
+    </entry>
+    <entry keyword="hellenistic greece">
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="hellenistic greece">Hellenistic Greece</branch>
+    </entry>
+    <entry keyword="roman greece">
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="roman greece">Roman Greece</branch>
+    </entry>
+    <entry keyword="the roman empire">
+      <branch chapter="1" slide="6" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="the roman empire">The Roman Empire</branch>
+    </entry>
+    <entry keyword="5th   14th century ce">
+      <branch chapter="1" slide="7" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="5th   14th century ce">5th - 14th century CE</branch>
+    </entry>
+    <entry keyword="medieval period">
+      <branch chapter="1" slide="7" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="medieval period">Medieval Period</branch>
+    </entry>
+    <entry keyword="14th   17th century">
+      <branch chapter="1" slide="8" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="14th   17th century">14th - 17th century</branch>
+    </entry>
+    <entry keyword="renaissance">
+      <branch chapter="1" slide="8" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="renaissance">Renaissance</branch>
+    </entry>
+    <entry keyword="approx  17th century">
+      <branch chapter="1" slide="9" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="approx  17th century">Approx. 17th century</branch>
+    </entry>
+    <entry keyword="baroque style">
+      <branch chapter="1" slide="9" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="baroque style">Baroque style</branch>
+    </entry>
+    <entry keyword="18th century">
+      <branch chapter="1" slide="10" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="18th century">18th century</branch>
+    </entry>
+    <entry keyword="age of enlightenment">
+      <branch chapter="1" slide="10" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="age of enlightenment">Age of Enlightenment</branch>
+    </entry>
+    <entry keyword="academic art">
+      <branch chapter="1" slide="12" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="academic art">Academic Art</branch>
+    </entry>
+    <entry keyword="2nd half of 19th century">
+      <branch chapter="1" slide="13" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="2nd half of 19th century">2nd half of 19th century</branch>
+    </entry>
+    <entry keyword="20th century">
+      <branch chapter="1" slide="14" filename="overview.xml" file_md5="d9a4d6ee5b8fb8023d5497c8e04344de" keyword="20th century">20th century</branch>
+    </entry>
+  </index>
+</document>
+
+File overview.aux.xml was saved!
+BRANCHES: 0
+File index.aux.xml was saved!

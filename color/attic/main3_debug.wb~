@@ -1,0 +1,471 @@
+@sep
+@course{UGED 1533}
+@topic{Color Theory<br>Color Mixing<br>Different Models}
+@sep
+<blockquote>
+The law of proportion, however, according to which the several colors are formed, even if a man knew he would be foolish in telling, for he could not give any necessary reason, nor indeed any tolerable or probable explanation of them.
+</blockquote>
+<div style="text-align:right">
+Plato (Greek, c. 420's - 348/347 BCE)
+</div>
+@sep
+<h3>The Color Spectrum</h3>
+For a long time humans have struggled to organized the set of all perceptible colors
+under an analytical framework.  
+The modern scientific study of color started with the great British physicist 
+and mathematician Isaac Newton (1642 - 1727),
+who discovered, through the use of a prism,
+that natural light is a mixture of colored lights 
+of different wavelengths.  
+<div class=dual>
+<div class=dual-left>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg/1024px-Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg">
+</div>
+<div class=dual-right>
+<img src="https://media1.britannica.com/eb-media/62/147562-004-CD7CDEDC.jpg">
+</div>
+</div>
+@sep
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg/1024px-Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg">
+</div>
+<p>
+@def
+A color which corresponds to a light of a single wavelength is called a 
+<b>spectral color</b>.
+@end
+@collapse 
+Since wavelengths are just numbers, we can now organize color sequentially
+(in a way which has some scientific basis):
+<p>
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg">
+</div>
+@sep
+Newton also seems to the first person in historical record
+to create the <b>color wheel</b>, 
+which became a useful tool to art students to the present day.
+<p>
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Newton%27s_colour_circle.png">
+</div>
+<p>
+<div class=image>
+<img src="http://static.colourlovers.com/uploads/2008/05/017_boutet.jpg">
+</div>
+<div class=image>
+<img src="http://static.colourlovers.com/uploads/2008/05/352px-bezold_farbentafel_1874.jpg">
+</div>
+<div class=image>
+<img src="http://cdn.dick-blick.com/items/049/51/04951-0000-front2ww-m.jpg">
+<a href="http://www.dickblick.com/products/artists-colour-wheel/">
+Dick Blick Art Materials</a>
+</div>
+@sep
+Typically,
+for each color on the color wheel, 
+the color directly opposite to it is its <b>complementary color</b>.
+Two colors are said to be complementary if their mixture is a neutral grey/white.
+<hr>
+<a href="https://color.adobe.com/create/color-wheel/">Adobe Color Wheel</a>
+@sep
+For a long time, it was generally thought that all colors may be "mixed" from three primary colors <b>red</b>, <b>yellow</b> and <b>blue</b>, 
+and that we cannot obtain these primary colors by mixing other colors. 
+
+<p>
+However, this view point is rather incomplete,
+for first we have to define what we mean by "mixing colors."
+There are two definitions of color mixing: <b>additive</b> and <b>subtractive</b>.
+The color yellow, for example, 
+is a primary color under the second definition but not the first.
+
+@sep
+<h4>Additive Color Mixing</h4>
+<p>
+Additive mixing results from lights rays of different wavelengths entering 
+our eyes simultaneously.
+<p>
+It is the predominant color mixing model used by your TV or smartphone screens.
+
+<p>
+There are three primary colors in <b>additive</b> color mixing
+model: <b>Red, Green, and Blue</b> (RGB).
+
+<p>
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/AdditiveColor.svg">
+</div>
+
+@sep
+<p>
+For example, the additive mixing of red and green produces yellow, 
+and mixing green with blue produces cyan.  
+<p>
+<center>
+<table>
+<tr>
+<td width=50 height=50 bgcolor=#f00></td>
+<td width=30 align=center> + </td>
+<td width=50 bgcolor=#0f0></td>
+<td width=30 align=center> = </td>
+<td width=50 bgcolor=#ff0></td>
+</tr>
+</table>
+</center>
+<br>
+<p>
+Moreover, mixing all three primary colors produces white.  
+In particular, the complementary
+color of red $(R)$ is cyan $(G + B)$, since $R + B + G$ is white.
+Likewise, the complementary color to blue is yellow ($R + G$),
+and the complementary color to green is magenta $(R + B)$.
+<p>
+<center>
+<table>
+<tr>
+<td width=50 height=50 bgcolor=#f00></td>
+<td width=30 align=center> + </td>
+<td width=50 bgcolor=#0ff></td>
+<td width=30 align=center> = </td>
+<td width=50 bgcolor=#fff style="border: 1px solid black;"></td>
+</tr>
+</table>
+</center>
+<br>
+<p>
+<center>
+<table>
+<tr>
+<td width=50 height=50 bgcolor=#0f0></td>
+<td width=30 align=center> + </td>
+<td width=50 bgcolor=#f0f></td>
+<td width=30 align=center> = </td>
+<td width=50 bgcolor=#fff style="border: 1px solid black;"></td>
+</tr>
+</table>
+</center>
+<br>
+<p>
+<center>
+<table>
+<tr>
+<td width=50 height=50 bgcolor=#00f></td>
+<td width=30 align=center> + </td>
+<td width=50 bgcolor=#ff0></td>
+<td width=30 align=center> = </td>
+<td width=50 bgcolor=#fff style="border: 1px solid black;"></td>
+</tr>
+</table>
+</center>
+<br>
+<hr>
+Note that placing two colors close together and viewing them from a distance
+simulates additive mixing.
+
+@include{color/add_mix.wb}
+<!-- <p><br> -->
+<!-- <div class=image style="width:500px;height:500px"> -->
+<!--   <div class=image id="loading" style="width:500px;height:500px"> -->
+<!--     <div style="margin:auto;position:absolute;top:0;left:0;bottom:0;right:0;height:20em"><h3>Loading...</h3></div> -->
+<!--   </div> -->
+<!--   <div class=image id="mosaic" style="width:500px;height:500px:display:none"></div> -->
+<!-- </div> -->
+<!-- <br> -->
+<!-- <div class=image> -->
+<!--   <div style="width:100px;display:inline-block;text-align:center;padding:0px"> -->
+<!--     <input type="color" value="#ff0000" style="padding:0;float:left;width:50px;height:50px" onchange="c1 = this.value;"> -->
+<!--     <input type="color" value="#00ff00" style="padding:0;float:right;width:50px;height:50px" onchange="c2 = this.value;"> -->
+<!-- <\!--  genImages(res, c1, c2); showMosaic(res, c1, c2) -\-> -->
+<!--   </div> -->
+<!--   <p><br> -->
+<!--   <button class="btn btn-outline-info btn-sm" onclick="res = 1; document.getElementById('loading').style.display = 'block'; document.getElementById('mosaic').style.display = 'none'; setTimeout(function () {genImages(res, c1, c2);document.getElementById('loading').style.display = 'none'; document.getElementById('mosaic').style.display = 'block';}, 0); document.getElementById('res').value = res;">Submit</button> -->
+<!--   <br><br><input id="res" style="width:480px" type="range" name="res" value="1" min="1" step="1" max="13" oninput="res = this.value; showMosaic(res, c1, c2)"> -->
+<!-- </div> -->
+<!-- <script type="text/javascript" src="color/add_mix.js"></script> -->
+<!-- <iframe style="width:100%;height:720px" FRAMEBORDER=0 src="color/rects.php?color1=ff0000&color2=00ff00&res=1"></iframe> -->
+<!-- <a href="color/rects.php?color1=f00&color2=0f0&res=1" target="_blank">Additive Mixing Simulation</a> -->
+
+@sep
+Though these primary colors additively mix to a wide range of colors,
+modern experiments in psychophysics have shown that this range of colors 
+is only a subset of all perceptible colors.  
+In other words, there are colors which you can see with your naked eye in 
+the physical world, but not on an LCD screen.
+
+<p>
+@collapse 
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CIExy1931_sRGB_gamut_D65.png/1024px-CIExy1931_sRGB_gamut_D65.png">
+</div>
+
+<p>
+@collapse 
+For example, take the color labeled as "<a href="https://en.wikipedia.org/wiki/Pantone#Color_of_the_Year">Emerald</a>" (Pantone 17-5641) 
+by the <a href="https://en.wikipedia.org/wiki/Pantone">Pantone</a> corporation.
+According to this <a href="http://www.newyorker.com/tech/elements/the-search-for-our-missing-colors">New Yorker article</a>,
+<blockquote>
+...no matter how closely you watched the news reports or ogled Pantone’s Web site, you never actually saw the color Emerald: the vast majority of televisions, computer monitors, and mobile devices are unable to display it...
+</blockquote>
+
+
+@sep
+<h4>Subtractive Color Mixing</h4>
+Subtractive mixing results from light passing through multiple layers of 
+semi-transparent mediums (e.g. colored glass, dye) 
+which <i>absorb</i> lights of various wavelengths, and let the rest pass through.
+
+<p>
+There are three primary colors in the <b>subtractive</b> color mixing model: 
+<b>Cyan, Yellow, and Magenta</b> (CMY).
+<p>
+Notice this that the primary colors in this model are precisely the complementary
+colors to the primary colors in the additive mixing model.
+<p>
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/SubtractiveColor.svg">
+</div>
+This is the predominant color model used in commercial printing,
+which also employs the additive color mixing model in the so-called <b>halftone</b> 
+technique to simulate a wide range of colors.
+<p>
+@collapse 
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Halftoningcolor.svg">
+</div>
+@collapse 
+<h4>Georges Seurat (French, 1859 - 1891)</h4>
+<div class=image>
+<img style="width:240px" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Seurat-La_Parade_detail.jpg">
+</div>
+@collapse 
+<h4>Roy Lichtenstein (American, 1923 - 1997)</h4>
+<div class=image>
+<img src="https://media.npr.org/assets/img/2012/10/12/3287-129_enl-ff79df6489c058ed10a81c8405e15da71b963457-s1200.jpg">
+</div>
+@sep
+<h3>RGB Color Space</h3>
+It is common to encode a given color with three numbers corresponding
+the respective intensities of the three primary colors 
+(<b>R</b>ed, <b>G</b>reen, <b>B</b>lue) which are needed to produce
+the color in question via additive mixing.  This is the RGB color model.
+<hr>
+<div style="width:100%">
+<div id="RGBBox" style="width:100%;height:300px;background-color:rgb(127,127,127)">
+</div>
+<script type="text/javascript">
+redValue = 0;
+greenValue = 0;
+blueValue= 0;
+function showColor(value, hue)
+{
+if (hue == 1) {
+redValue = value;
+} else if (hue == 2) {
+greenValue = value;
+} else if (hue == 3) {
+blueValue = value;
+}
+document.getElementById("RGBBox").style.backgroundColor="rgb("+ redValue + "," + greenValue + "," + blueValue + ")";
+document.getElementById("Red").innerHTML= Math.round((redValue * 100)/255) + "%";
+document.getElementById("Green").innerHTML= Math.round((greenValue * 100)/255) + "%" ;
+document.getElementById("Blue").innerHTML= Math.round((blueValue * 100)/255) + "%" 
+}
+</script>
+<p>
+<div style="display:table;width:100%;text-align:center">
+  <div style="display:table-row;width:100%">
+    <div style="display:table-cell;width:3em">R:</div>
+    <div style="display:table-cell; width:500px;"><input style="width:100%" type="range" min="0" max="255" value="127" step="1" oninput="showColor(this.value, 1)"/></div>
+    <div style="display:table-cell;text-align:left;padding-left:1em;width:4em" id="Red">50%</div>
+  </div>
+  <div style="display:table-row">
+    <div style="display:table-cell;width:3em">G:</div>
+    <div style="display:table-cell; width:500px;"><input style="width:100%" type="range" min="0" max="255" value="127" step="1" oninput="showColor(this.value, 2)"/></div>
+    <div style="display:table-cell; text-align:left;padding-left:1em;width:4em" id="Green">50%</div>
+  </div>
+  <div style="display:table-row">
+    <div style="display:table-cell;width:3em">B:</div>
+    <div style="display:table-cell; width:500px"><input style="width:100%" type="range" min="0" max="255" value="127" step="1" oninput="showColor(this.value, 3)"/></div>
+    <div style="display:table-cell; text-align:left;padding-left:1em;width:4em" id="Blue">50%</div>
+  </div>
+</div>
+</div>
+@sep
+<h3>HSV and HSL Color Spaces</h3>
+<h4>Hue</h4>
+Under the <a href="https://en.wikipedia.org/wiki/CIECAM02">CIECAM02 model</a>
+from the International Commission on Illumination, <b>hue</b> is:
+<blockquote>
+The degree to which a stimulus can be described as similar to or different from stimuli that are described as red, green, blue, and yellow.
+</blockquote>
+@col
+It is often encoded as a number between 0 and 360:
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HueScale.svg">
+</div>
+(You may think of this number as an angle from the vertical axis on the color wheel.)
+<p>
+@sep
+<h4>Saturation</h4>
+In one formulation, saturation is:
+<center>
+<i>
+The colorfulness of a color relative to its own brightness.
+</i>
+</center>
+<p>
+@col
+Here, <i>colorfulness</i> is a technical term in colorimetry,
+a full exploration of the concept is beyond the scope of this course.
+<p>
+@col
+For us, it suffices to understand saturation intuitively.
+From a casual standpoint, a highly saturated color is a color which is 
+<i>very colorful</i>, or <i>very sharp</i>, or <i>very intense</i>.
+<p>
+@col
+For example, a spectral color has maximal saturation for the hue it belongs to.
+(e.g. the red light from a laser pointer.)
+<p>
+@col
+Conversely, a neutral grey 
+(not bluish, not reddish,..., just grey) has zero saturation.
+In general, additively mixing a color with white light diminishes its saturation.
+(Here, white light also includes "grey light".  
+It is a color where $R = G = B$ in the RGB model.)
+<hr>
+@col
+<div class=image>
+<img style="height:300px;width:100%" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Saturationdemo.png">
+As we descend from top to bottom, the saturation diminishes, while the hue and value
+stay (largely) the same.
+</div>
+@sep
+<h4>HSV Color Space</h4>
+In the HSV color space, each color has three components: <b>Hue</b>, <b>Saturation</b>, 
+and <b>Value</b>.
+<p>
+@col
+In HSV, the <i>value</i> of a color is defined as the maximum of its RGB components.
+So, for example a pure red (RGB = (100%, 0, 0)), a pure cyan (RGB = (0, 100%, 100%))
+and a neutral white (RGB = (100%, 100%, 100%)) 
+all have the same value under this color space model.
+<p>
+@col
+Note that the HSV model was developed in the 1970s by computer graphics researchers.
+Most painters understand the word "value" differently.
+So, one must interpret terms like "value" and "saturation" 
+within the context of the technical models in which they are used.
+<p>
+@col
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/HSV_color_solid_cylinder_alpha_lowgamma.png/1024px-HSV_color_solid_cylinder_alpha_lowgamma.png">
+HSV Color Cylinder
+</div>
+
+@sep
+<h4>HSL Color Space</h4>
+In the HSL Color space, a color is decomposed into three components:
+<b>Hue</b>, <b>Saturation</b>, and <b>Lightness</b>.
+The first two component are more or less defined similarly as in the HSV model.
+<p>
+In the HSL model, a color's "lightness"  $L$ is defined as the average 
+of the maximum and minimum values of the color's RGB components:
+\[
+L = \frac{1}{2}\left(M + m\right).
+\]
+Hence, a pure red (RGB = (100%, 0, 0)) has lightness 50%,
+while a neutral white (RGB = (100%, 100%, 100%)) has lightness 100%.
+
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/HSL_color_solid_cylinder_alpha_lowgamma.png">
+</div>
+<hr>
+<div style="width:100%">
+<script type="text/javascript">
+hValue = 180;
+sValue = 50;
+lValue= 50;
+function showHSL(value, channel, box)
+{
+if (channel == 1) {
+hValue = value;
+} else if (channel == 2) {
+sValue = value;
+} else if (channel == 3) {
+lValue = value;
+}
+document.getElementById(box).style.backgroundColor="hsl("+ hValue + "," + sValue + "%," + lValue + "%)";
+document.getElementById("Hue").innerHTML= hValue;
+document.getElementById("Saturation").innerHTML= sValue + "%";
+document.getElementById("Lightness").innerHTML= lValue + "%"; 
+}
+</script>
+<div id="HSLBox" style="width:100%;height:300px;background-color:hsl(179,50%,50%)">
+</div>
+<p>
+<div class=image>
+H:
+<input style="width:400px" type="range" min="0" max="359" value="180" step="1" oninput="showHSL(this.value, 1, 'HSLBox')"/>
+<span id="Hue" style="width:3em">180</span>
+<br>
+S:
+<input style="width:400px" type="range" min="0" max="100" value="50" step="1" oninput="showHSL(this.value, 2, 'HSLBox')"/>
+<span id="Saturation" style="width:3em">50%</span>
+<br>
+L:
+<input style="width:400px" type="range" min="0" max="100" value="50" step="1" oninput="showHSL(this.value, 3, 'HSLBox')"/>
+<span id="Lightness" style="width:3em">50%</span>
+</div>
+</div>
+@sep
+The HSV/HSL color systems, useful as they are,
+should not be regarded as complete models of the human perception of color.
+For instance, their definitions of value or lightness do not always coincide with
+our <i>perception</i> of lightness.
+<p>
+A spectral yellow appears to most people lighter than a spectral red,
+but in the HSL system the two colors are of the same lightness.
+<p>
+<div class=dual>
+<div class="dual-left" style="text-align:center"><div style="text-align:center;width:100%;height:100px;background-color:hsl(0,100%,50%)"></div>HSL(0, 100%, 50%)</div>
+<div class="dual-right"><div style="width:100%;height:100px;background-color:hsl(60,100%,50%)"></div>HSL(60, 100%, 50%)</div>
+</div>
+@sep
+<h4>The Munsell System</h4>
+<hr>
+The <b>Munsell System</b> was invented by Albert H. Munsell
+in early 20th century.
+Like the other color models we have seen,
+it also decomposes a color into three components, namely:
+<br>
+<b>hue</b>, <a href="https://en.wikipedia.org/wiki/Colorfulness" target="_blank"><b>chroma</b></a>,
+and <b>value</b>.
+
+<p>
+Note that "value" in the Munsell system is not the same as "value" in the HSV model.
+It is closer to "lightness" in the HSL model.  
+
+<div class=image>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Munsell_color_sphere.png">
+</div>
+<hr>
+<div class=dual>
+<div class=dual-left>
+<img src="http://www.handprint.com/HP/WCL/IMG/munsell2.gif">
+</div>
+<div class=dual-right>
+<a title="By SharkD (Own work) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMunsell_1929_color_solid_cylindrical_coordinates.png"><img style="max-width:50%" alt="Munsell 1929 color solid cylindrical coordinates" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Munsell_1929_color_solid_cylindrical_coordinates.png/1024px-Munsell_1929_color_solid_cylindrical_coordinates.png"/></a>
+</div>
+</div>
+<hr>
+@sep
+Unlike HSV and HSL,
+the Munsell system is not derived from the RGB model.
+It was developed  based on experimental measurements 
+of visual responses to color by human subjects,
+and it uses physical color samples in its classifications.
+<p>
+<div class=image>
+<img src="http://munsell.com/wp-content/uploads/2016/09/munsell-color-chart-example.jpg">
+</div>

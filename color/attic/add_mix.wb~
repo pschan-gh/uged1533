@@ -1,0 +1,19 @@
+@sep
+<div class=image style="width:500px;height:500px">
+  <div class=image id="loading" style="width:500px;height:500px">
+    <div style="margin:auto;position:absolute;top:0;left:0;bottom:0;right:0;height:20em"><h3>Loading...</h3></div>
+  </div>
+  <div class=image id="mosaic" style="width:500px;height:500px:display:none"></div>
+</div>
+<br>
+<div class=image>
+  <div style="width:100px;display:inline-block;text-align:center;padding:0px">
+    <input type="color" value="#ff0000" style="padding:0;float:left;width:50px;height:50px" onchange="c1 = this.value;">
+    <input type="color" value="#00ff00" style="padding:0;float:right;width:50px;height:50px" onchange="c2 = this.value;">
+<!--  genImages(res, c1, c2); showMosaic(res, c1, c2) -->
+  </div>
+  <p><br>
+  <button class="btn btn-outline-info btn-sm" onclick="res = 1; document.getElementById('loading').style.display = 'block'; document.getElementById('mosaic').style.display = 'none'; setTimeout(function () {genImages(res, c1, c2);document.getElementById('loading').style.display = 'none'; document.getElementById('mosaic').style.display = 'block';}, 0); document.getElementById('res').value = res;">Submit</button>
+  <br><br><input id="res" style="width:480px" type="range" name="res" value="1" min="1" step="1" max="13" oninput="res = this.value; showMosaic(res, c1, c2)">
+</div>
+<script type="text/javascript" src="color/add_mix.js"></script>

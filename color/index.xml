@@ -1,0 +1,70 @@
+<document
+    xmlns="elephas_index">
+    <indexdb>
+        <entry keyword="the color spectrum">
+            <branch keyword="the color spectrum" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="3" chapter="" id="the color spectrum_UGED 1533____slide__3_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="spectral color">
+            <branch keyword="spectral color" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="4" chapter="" id="spectral color_UGED 1533____slide__4_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="color wheel">
+            <branch keyword="color wheel" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="5" chapter="" id="color wheel_UGED 1533____slide__5_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="complementary color">
+            <branch keyword="complementary color" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="6" chapter="" id="complementary color_UGED 1533____slide__6_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="additive">
+            <branch keyword="additive" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="7" chapter="" id="additive_UGED 1533____slide__7_" filename="main3.xml"/>
+            <branch keyword="additive" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="10" chapter="" id="additive_UGED 1533____slide__10_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="subtractive">
+            <branch keyword="subtractive" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="7" chapter="" id="subtractive_UGED 1533____slide__7_" filename="main3.xml"/>
+            <branch keyword="subtractive" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="subtractive_UGED 1533____slide__14_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="additive color mixing">
+            <branch keyword="additive color mixing" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="8" chapter="" id="additive color mixing_UGED 1533____slide__8_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="metamerism">
+            <branch keyword="metamerism" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="9" chapter="" id="metamerism_UGED 1533____slide__9_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="metamers">
+            <branch keyword="metamers" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="9" chapter="" id="metamers_UGED 1533____slide__9_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="red green and blue">
+            <branch keyword="red green and blue" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="10" chapter="" id="red green and blue_UGED 1533____slide__10_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="rgb">
+            <branch keyword="rgb" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="13" chapter="" id="rgb_UGED 1533____slide__13_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="rgb color space">
+            <branch keyword="rgb color space" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="13" chapter="" id="rgb color space_UGED 1533____slide__13_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="vector">
+            <branch keyword="vector" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="13" chapter="" id="vector_UGED 1533____slide__13_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="grassmanns laws">
+            <branch keyword="grassmanns laws" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="13" chapter="" id="grassmanns laws_UGED 1533____slide__13_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="subtractive color mixing">
+            <branch keyword="subtractive color mixing" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="subtractive color mixing_UGED 1533____slide__14_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="cyan yellow and magenta">
+            <branch keyword="cyan yellow and magenta" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="cyan yellow and magenta_UGED 1533____slide__14_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="halftone">
+            <branch keyword="halftone" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="halftone_UGED 1533____slide__14_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="georges seurat french 1859  1891">
+            <branch keyword="georges seurat french 1859  1891" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="georges seurat french 1859  1891_UGED 1533____slide__14_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="roy lichtenstein american 1923  1997">
+            <branch keyword="roy lichtenstein american 1923  1997" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="roy lichtenstein american 1923  1997_UGED 1533____slide__14_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="hue">
+            <branch keyword="hue" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="15" chapter="" id="hue_UGED 1533____slide__15_" filename="main3.xml"/>
+        </entry>
+        <entry keyword="saturation">
+            <branch keyword="saturation" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="16" chapter="" id="saturation_UGED 1533____slide__16_" filename="main3.xml"/>
+        </entry>
+    </indexdb>
+</document>

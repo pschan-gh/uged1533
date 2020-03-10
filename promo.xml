@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
+  <slides environment="" chapter_type="">
+    <slide environment="" chapter_type="" wbtag="slide" id="s1" slide="1" course="" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title=""><keywords slide="1" environ="slide" chapter="" course=""><keyword chapter="" slide="1">GE</keyword><keyword chapter="" slide="1">Mathematics in Visual Art</keyword><keyword chapter="" slide="1">Vitruvian Man</keyword><keyword chapter="" slide="1">Ideal Proportions</keyword><keyword chapter="" slide="1">Linear Perspective</keyword><keyword chapter="" slide="1">Color Theory</keyword><keyword chapter="" slide="1">Term 2 2019-20</keyword><keyword chapter="" slide="1">CUSIS</keyword></keywords>
+<xh:center xmlns:xh="http://www.w3.org/1999/xhtml" environment="">
+    <xh:h1 class="notkw" environment="">LOOKING FOR A <xh:b environment="">GE</xh:b> COURSE TO TAKE?</xh:h1>
+    <xh:h1 class="notkw" environment="">Consider: <xh:strong environment="">UGE<xh:span style="color:#f00" environment="">D</xh:span> 1533</xh:strong></xh:h1>
+    <xh:h1 class="notkw" environment=""><xh:b environment="">Mathematics in Visual Art</xh:b>!</xh:h1>
+<!-- <h2>The Chinese University of Hong Kong</h2> -->
+</xh:center>
+<xh:hr xmlns:xh="http://www.w3.org/1999/xhtml" environment=""/>
+<xh:div xmlns:xh="http://www.w3.org/1999/xhtml" class="dual" environment="">
+  <xh:div class="dual-left" style="vertical-align:top;text-align:left;padding-right:1em" environment="">
+    <xh:div class="dual" environment="">
+      <xh:div class="dual-left" environment="">
+          <xh:center environment="">
+            <xh:h5 class="notkw" environment=""><xh:strong environment="">Who is the <xh:i environment=""><xh:b environment="">Vitruvian Man</xh:b></xh:i>?</xh:strong></xh:h5>
+        </xh:center>
+	<xh:a title="Leonardo da Vinci [Public domain]" href="https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg" environment="">
+        <xh:img width="256" alt="Da Vinci Vitruve Luc Viatour" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/256px-Da_Vinci_Vitruve_Luc_Viatour.jpg" environment=""/></xh:a>
+      </xh:div>
+      <xh:div class="dual-right" environment="">
+          <xh:a title="Robert S. Duncanson [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Landscape_with_Rainbow,_1859,_by_Robert_S._Duncanson_-_SAAM_-_DSC00839.JPG" environment=""><xh:img width="512" alt="Landscape with Rainbow, 1859, by Robert S. Duncanson - SAAM - DSC00839" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Landscape_with_Rainbow%2C_1859%2C_by_Robert_S._Duncanson_-_SAAM_-_DSC00839.JPG/512px-Landscape_with_Rainbow%2C_1859%2C_by_Robert_S._Duncanson_-_SAAM_-_DSC00839.JPG" environment=""/></xh:a>
+ <!-- <a title="SharkD at English Wikipedia
+          Later versions were uploaded by Jacobolus at en.wikipedia. [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:AdditiveColor.svg"><img width="256" alt="AdditiveColor" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AdditiveColor.svg/256px&#45;AdditiveColor.svg.png"></a> -->
+          <xh:br environment=""/>
+          <xh:center environment="">
+              <xh:h5 class="notkw" environment=""><xh:strong environment="">Why are there 7 colors on the rainbow?</xh:strong></xh:h5>
+            </xh:center>
+      </xh:div>
+    </xh:div>
+    <xh:hr environment=""/>
+    <xh:div class="image" environment="">
+      <xh:a title="Raphael [Public domain]" href="https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg" environment=""><xh:img width="512" alt="&quot;The School of Athens&quot; by Raffaello Sanzio da Urbino" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg/512px-%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg" environment=""/></xh:a>
+    </xh:div>
+    <xh:center environment="">
+      <xh:h5 class="notkw" environment=""><xh:strong environment="">What role does Mathematics play in Art?</xh:strong></xh:h5>
+    </xh:center>
+  </xh:div>
+  <xh:div class="dual-right" style="vertical-align:top;text-align:left;padding-left:1em;border-left: 1px solid #ddd" environment="">
+      <xh:h5 class="notkw" environment="">Topics Include:</xh:h5>
+      <xh:ul environment="">
+          <xh:li environment="">
+              <xh:b environment="">Ideal Proportions</xh:b>
+              <xh:ul style="padding-left:1em" environment="">
+                  <xh:li environment="">What is the <xh:i environment="">ideal</xh:i> human figure?</xh:li>
+                  <xh:li environment="">What is the <xh:i environment="">Golden Ratio</xh:i>?</xh:li>
+              </xh:ul>
+          </xh:li>
+          <xh:li environment="">
+              <xh:b environment="">Linear Perspective</xh:b>
+              <xh:ul style="padding-left:1em" environment="">
+                  <xh:li environment="">How are visual illusions created with the help of mathematics?</xh:li>
+              </xh:ul>
+          </xh:li>
+          <xh:li environment="">
+              <xh:b environment="">Color Theory</xh:b>
+              <xh:ul style="padding-left:1em" environment="">
+                  <xh:li environment="">What are the 3 primary colors?  <xh:i environment="">Why</xh:i> are they the primary colors?
+                  </xh:li>
+                  <xh:li environment="">
+                      My TV say's it's RGB, the printing company says it's CYM, my school
+                      teacher says its Red, Blue, and Yellow.  <xh:i environment=""><xh:strong environment="">What's going on!?</xh:strong></xh:i>
+                  </xh:li>
+              </xh:ul>
+          </xh:li>
+      </xh:ul>
+      <xh:ul environment="">
+          <xh:li environment="">
+              <xh:strong environment="">Math Requirements: </xh:strong>
+              <xh:br environment=""/>
+              High school level mathematics is more than sufficient.
+          </xh:li>
+          <xh:li environment="">
+              <xh:strong environment="">Art Requirements: </xh:strong>
+              <xh:br environment=""/>
+              Simply an openness to seeing and appreciating art.
+          </xh:li>
+      </xh:ul>
+  </xh:div>
+</xh:div>
+<xh:hr xmlns:xh="http://www.w3.org/1999/xhtml" environment=""/>
+<xh:center xmlns:xh="http://www.w3.org/1999/xhtml" environment="">
+    <xh:h3 environment=""><xh:strong style="color:#f00" environment="">Term 2 2019-20</xh:strong></xh:h3>
+    <xh:h2 class="notkw" environment="">Don't Miss it! Register through <xh:b environment="">CUSIS</xh:b>!</xh:h2>
+</xh:center>
+</slide>
+  </slides>
+</document>

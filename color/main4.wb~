@@ -1,0 +1,286 @@
+@sep
+@course{UGED 1533}
+@topic{Trichromatic Color Theory<br>Opponent Process Model}
+@sep
+<h3>Color Illusions</h3>
+<p>
+<h4>
+<i>The Interaction of Color</i>, Josef Albers
+</h4>
+<div class='image'>
+<img src="https://s-media-cache-ak0.pinimg.com/originals/f4/15/f6/f415f6a9461cfb2c94b3dc9df314329c.jpg">
+<p>
+<img src="http://infinitedictionary.com/blog/wp-content/uploads/2015/05/two-look-like-one.jpg"><br><i>The Interaction of Color</i>, Josef Albers
+</div>
+
+@sep
+<h4>Josef Albers, (German-born American, 1888 - 1976)</h4>
+<p>
+<h5><i>Homage to The Square</i></h5>
+<div class='image'>
+<img src="http://www.metmuseum.org/toah/images/hb/hb_1972.40.7.jpg">
+<hr>
+<img src="http://4.bp.blogspot.com/-9Mfb9cKJCQk/USZ5efSL45I/AAAAAAAAYHc/BK8JHOu2DCE/s1600/Josef+Albers+.+Hommage+au+carr%C3%A9+%5BHomage+to+the+Square%5D+.+1972.jpeg">
+<hr>
+<img src="http://www.tate.org.uk/art/images/work/T/T02/T02311_10.jpg">
+</div>
+@sep
+<h3>Trichromatic Color Theory</h3>
+The <b>Trichromatic Color Theory</b> orginates from the work of Thomas Young and Hermann von Helmholtz in the 19th century.
+They postulated that the human eye senses light via three types of photoreceptors,
+each sensitive to a light of wavelengths within a particular range.
+
+<p>
+<div >
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/YoungHelm.jpg">
+</div>
+@sep
+<h3>Cone Cells</h3>
+In a currently prevalent scientific model,
+color perception is effected by the stimulation of photoreceptor cells on the retina.
+One class of such cells are called <b>cone cells</b>,
+of which there are three types: <strong>L</strong>, <strong>M</strong>,  and <strong>S</strong>.
+Their responsiveness to light of various ranges of wavelengths
+peak at approximately:
+<ul>
+<li>
+564 - 580 nm (<strong>L</strong>ong wavelength),
+<li>
+534 - 545 nm (<strong>M</strong>edium),
+<li>
+420 - 440 nm (<strong>S</strong>hort),
+</ul>
+respectively.
+<p>
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Cones_SMJ2_E.svg">
+Normalized responsivity spectra of human cone cells, S, M, and L types
+(from <a href="https://en.wikipedia.org/wiki/Cone_cell">Wikipedia</a>.)
+</div>
+<div class='image'>
+<img src="images/Linear_visible_spectrum.svg">
+</div>
+@sep
+In the <b>Opponent Process Model</b>,
+signals from the cone cells (and rod cells) go through another layer of processing,
+in which calculations based on the relative strengths of the signals
+give rise to our perception of hue, saturation/chroma and brightness/lightness.
+
+@sep
+In one proposed model, the opponent process filters signals from photoreceptor cells into
+three channels of <i>opponent</i> color sensations:
+<ul>
+<li>
+Red-Green (<strong>R-G</strong>)
+<li>
+Yellow-Blue (<strong>Y-B</strong>)
+<li>
+Black-White (the <strong>A</strong>chromatic response channel)
+</ul>
+<p>
+<div class='image' style="width:100%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Diagram_of_the_opponent_process.png">
+</div>
+@sep
+Experimental data suggest that our perception of red and green is derived from the
+<i>difference</i> between the stimuli from the L and M cone cells,
+in a manner which is <i>antagonistic</i>.
+<p>
+@col
+This means that, perceptually, one color being <i>more</i> red than another
+is equivalent to it being <i>less</i> green, and vice versa.
+<p>
+@col
+Along the same vein,  we cannot <i>psychologically</i> conceive of a color which is both
+reddish and greenish.
+<p>
+Note that, seemingly paradoxically, red and green mix additively to produce yellow,
+but most of us do not perceive yellow as being both reddish and greenish.
+<p>
+On the other hand, we have no problem seeing the color cyan as being both green and blue.
+<p>
+@col
+Similarly, the color sensation of yellow-versus-blue is also processed antagonistically.
+No color is perceived as being yellowish and bluish at the same time.
+<p>
+@col
+Moreover, the red-green and yellow-blue channels are independent from each other.
+Hence, red and green are both perceived as neither yellow or blue, and
+yellow and blue are perceived as neither red or green.
+@sep
+<div class='image'>
+<img style="width:360px" src="images/hurvich_jameson_diag.jpg">
+<div style="text-align:center">
+<br>
+<i>An Opponent-Process Theory of Color Vision</i>, L. Hurvich, D. Jameson
+</div>
+</div>
+<center>
+  <iframe scrolling='no' style="height:720px;width:500px;text-align:center;margin:auto" src='content/uged1533/color/add_mix1.html'></iframe>
+</center>
+@sep
+It has been proposed that an S cone stimulus contributes positively to the
+red-green channel.
+Under this proposition, it is easy to see why spectral colors towards the violet
+end of the visible color spectrum appears reddish.
+<p>
+Moreover, this explains why, perceptually,
+it appears natural to wrap the visible hue spectrum
+into a color wheel, with magenta serving as the link between violet and red.
+<p>
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BYR_color_wheel.svg">
+</div>
+<p>
+<div class='image'>
+<img src="images/Linear_visible_spectrum.svg">
+</div>
+<p>
+(Food for thought: there is no magenta on the rainbow.)
+<!-- @sep -->
+<!-- The opponent process model explains why even though the additive mixture of red with  -->
+<!-- green gives yellow, we do not "perceive" yellow as such a mixture. -->
+<!-- Instead, we view yellow as a color which is <b>neither red nor green</b>. -->
+@sep
+In an opponent process model, our perception of color is established via comparison.
+This may explain some of the color illusions which result when we place colors of
+different hues or lightness adjacent to each other,
+e.g. a neutral grey appearing pinkish next to a greenish blue color.
+<p>
+<div class=dual>
+<div class=dual-left>
+<svg width="300px" height="300px">
+<rect x="0" y="0" width="300" height="300" fill="#0ee" />
+<rect x="100" y="100" width="100" height="100" fill="#ddd" />
+</svg>
+</div>
+<div class=dual-right>
+<svg width="300px" height="300px">
+<rect x="100" y="100" width="100" height="100" fill="#ddd" />
+</svg>
+</div>
+</div>
+@sep
+It also explains the illusion of complementary <b>afterimages</b>, where, for example,
+someone having stared at a red color for a long time who then suddenly looks upon
+a white sheet might see a green color.
+@sep
+<iframe style="height:800px" src="content/uged1533/color/red.html"></iframe>
+@sep
+<div style="height:600px;width:100%;background:#fff">
+</div>
+<!-- @sep -->
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJ_e9KXIJkA" frameborder="0" allowfullscreen></iframe> -->
+@sep
+<blockquote>
+If you mean to represent great darkness, it
+must be done by contrasting it with great light;
+on the contrary, if you want to produce great
+brightness, you must oppose to it a very dark
+shade : so a pale yellow will cause red to appear
+more beautiful than if opposed to a purple colour.
+
+There is another rule, by observing which,
+though you do not increase the natural beauty of
+the colours, yet by bringing them together they
+may give additional grace to each other, as green
+placed near red, while the effect would be quite
+the reverse, if placed near blue.
+</blockquote>
+<div style="text-align:right">
+Leonardo da Vinci, <i>Treatise on Painting</i>
+</div>
+<hr>
+<div class=dual>
+<div class=dual-left>
+<a target="_blank" href="http://www.sothebys.com/en/auctions/ecatalogue/2013/european-paintings-l13102/lot.14.html">
+<img src="http://www.sothebys.com/content/dam/stb/lots/L13/L13102/037L13102_763JB.jpg"/>
+</a>
+</div>
+<div class=dual-right>
+<a target="_blank" href="https://www.wikiart.org/en/joaqu-n-sorolla/beached-boats-1915">
+<img src="https://uploads4.wikiart.org/images/joaquin-sorolla/beached-boats-1915.jpg"/>
+</a>
+</div>
+</div>
+<div class='image'>
+Joaqu&iacuten Sorolla
+</div>
+@sep
+The achromatic channel is most responsive to
+spectral light which lies in the green or yellowish-green range.  This may explain
+why green and yellow spectral colors appear brighter than the rest.
+<p>
+<div class='image'>
+<img src="images/Linear_visible_spectrum.svg">
+</div>
+<hr>
+@col
+Moreover, "saturation" may now be understood as a function of the
+"relative amounts of chromatic and achromatic responses."
+Hence,
+<p>
+<blockquote>
+At the two spectral extremes where the chromatic responses are large relative to
+the white response, the spectral saturation is high.
+</blockquote>
+<div style="text-align:right;font-size:0.75em">
+<i>An Opponent-Process Theory of Color Vision</i>, L. Hurvich, D. Jameson
+</div>
+<hr>
+This explains the shape of the <a target="_blank" href="https://en.wikipedia.org/wiki/Munsell_color_system"><b>Munsell Sphere</b></a>:
+<br>
+@collapse
+<div class='dual'>
+    <div class='dual-left'>
+        <a title="Albert Henry Munsell [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Munsell_color_sphere.png"><img width="512" alt="Munsell color sphere" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Munsell_color_sphere.png/512px-Munsell_color_sphere.png"></a>
+    </div>
+    <div class='dual-right'>
+        <a title="SharkD [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Munsell_1943_color_solid_cylindrical_coordinates.png"><img width="512" alt="Munsell 1943 color solid cylindrical coordinates" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Munsell_1943_color_solid_cylindrical_coordinates.png/512px-Munsell_1943_color_solid_cylindrical_coordinates.png"></a>
+    </div>
+</div>
+@sep
+Incidentally, a very common painter's palette consists of:
+<center>
+<strong>black, white, red, green, blue and yellow.</strong>
+</center>
+<hr>
+<div class='image'>
+<img src="images/palette.jpg"
+<p>
+A (very messy) painter's palette.
+</div>
+@sep
+<h3>Color Constancy (Optional Topic)</h3>
+In the context of trichromatic color theory,
+an object's color is dependent upon the the color of the light which illuminates it.
+For example, a red apple lit by a blue light should appear purple.
+<p>
+However, it appears that the brain has a built-in mechanism to filter out
+lighting conditions and interpret (unconsciously) the "true" color of an object.
+<p>
+<ul>
+<li>
+<a href="http://web.mit.edu/persci/people/adelson/checkershadow_illusion.html">
+web.mit.edu</a>
+<li>
+<a href="https://www.echalk.co.uk/amusements/OpticalIllusions/colourPerception/colourPerception.html">www.echalk.co.uk</a>
+</ul>
+@sep
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a8/The_Dress_%28viral_phenomenon%29.png">
+</div>
+<p/>
+@collapse
+<div class='image'>
+<img src="https://imgs.xkcd.com/comics/dress_color.png"/>
+<a href="http://xkcd.com/1492/">xkcd.com</a>
+</div>
+@sep
+<h2>References</h2>
+<ol>
+<li value="1">
+L. Hurvich, D. Jameson,
+<i>An Opponent-Process Theory of Color Vision</i>.
+Psychological Review Vol. 64, No. 6, 1957
+</ol>

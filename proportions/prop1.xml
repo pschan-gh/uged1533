@@ -1,0 +1,161 @@
+<document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
+  <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533 - Mathematics in Visual Art">
+    <keywords slide="all" environ="course" chapter="" course="UGED 1533 - Mathematics in Visual Art">
+      <keyword chapter="" slide="all">Golden Rectangle</keyword>
+    </keywords>
+    <title environment="title" chapter_type="" wbtag="course" scope="course" course="UGED 1533 - Mathematics in Visual Art" chapter="" section="" subsection="" subsubsection="" serial="" slide="">UGED 1533 - Mathematics in Visual Art</title>
+    <slides environment="" chapter_type="">
+      <slide environment="" chapter_type="" canon_num="1" scope="course" course="UGED 1533 - Mathematics in Visual Art" title="UGED 1533 - Mathematics in Visual Art" id="s1" slide="1" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <title environment="title" chapter_type="" wbtag="course" scope="course" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">UGED 1533 - Mathematics in Visual Art</title>
+        <keywords slide="1" environ="slide" chapter="" course="UGED 1533 - Mathematics in Visual Art"/>
+      </slide>
+    </slides>
+    <chapter environment="" chapter_type="Chapter" type="Chapter" wbtag="chapter" num="1" title="The Golden Ratio" no_serial="true" course="UGED 1533 - Mathematics in Visual Art" serial="1">
+      <keywords slide="all" environ="chapter" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+        <keyword chapter="1" slide="all">Golden Rectangle</keyword>
+      </keywords>
+      <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" serial="1" slide="">The Golden Ratio</title>
+      <slides environment="" chapter_type="">
+        <slide environment="" chapter_type="Chapter" canon_num="2" scope="chapter" id="s2" slide="2" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" chapter_title="The Golden Ratio" section_title="">
+          <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="2">The Golden Ratio</title>
+          <keywords slide="2" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+            <keyword chapter="1" slide="2">Golden Rectangle</keyword>
+          </keywords>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> There are a variety of perspectives from which to view the
+Golden Ratio $\varphi$ (Greek letter "phi").
+In the context of dynamic proportions, $\varphi$ corresponds to the </paragraphs>
+          <inline_keyword course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="">Golden Rectangle</inline_keyword>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> constructed as follows</paragraphs>
+          <a xmlns="http://www.w3.org/1999/xhtml" knowl="content/uged1533/proportions/ref.html#footnote-3" id="ref-1" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">[3]</paragraphs>
+          </a>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">: </paragraphs>
+          <col_ol course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_ol">
+            <col_li course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_li">
+              <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs"> Construct a simple square. </paragraphs>
+            </col_li>
+            <col_li course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_li">
+              <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs"> Draw a line from the midpoint of one side of the square to an opposite corner. </paragraphs>
+            </col_li>
+            <col_li course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_li">
+              <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs"> Use that line as the radius to draw an arc that defines the height of the rectangle. </paragraphs>
+            </col_li>
+            <col_li course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_li">
+              <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs"> Complete the golden rectangle. </paragraphs>
+            </col_li>
+          </col_ol>
+          <newcol course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width:80%;" environment="newcol">
+              <a title="By Masur (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGolden_ratio_rectangle_construction.svg" environment="newcol">
+                <img width="256" alt="Golden ratio rectangle construction" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Golden_ratio_rectangle_construction.svg/256px-Golden_ratio_rectangle_construction.svg.png" environment="newcol" />
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The Golden Rectangle </paragraphs>
+              </a>
+            </div>
+            <collapse course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+              <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The Golden Ratio $\varphi$ is equal to the length of the longer side of this rectangle
+divided by that of the shorted side.
+By a simple application of the Pythagorean theorem,
+it may be derived that:
+\[
+\varphi = \frac{a + b}{a} = \frac{1 + \sqrt{5}}{2}
+\approx 1.6180339887\ldots
+\]</paragraphs>
+              <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+            </collapse>
+          </newcol>
+        </slide>
+        <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="3" id="s3" slide="3" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" chapter_title="The Golden Ratio" section_title="">
+          <keywords slide="3" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art"/>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Observe that if you cut out a perfect square with the same height as the
+Golden Rectangle from one end of the rectangle,
+the remaining subrectangle is also a Golden Rectangle, in that the ratio of length of the longer side to that of the shorter side is equal to $\varphi$.
+Algebraically, this corresponds to the equality:
+\[
+\frac{\varphi}{1} = \frac{1 + \varphi}{\varphi}
+\] </paragraphs>
+          <newcol course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+            <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> In fact, applying the quadratic formula that we learned in secondary school,
+we see that $\varphi$ is one of two solutions to the equation:
+\[
+\frac{x}{1} = \frac{1 + x}{x},
+\]
+the other solution being: $\frac{1 - \sqrt{5}}{2} = -\frac{1}{\varphi}$.</paragraphs>
+            <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+          </newcol>
+        </slide>
+        <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" chapter_title="The Golden Ratio" section_title="">
+          <keywords slide="4" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art"/>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Another interesting fact about $\varphi$ is that it is the "limit"
+of the ratio of consecutive terms in the Fibonacci sequence, namely
+the sequence where the first two terms is 1, and each successive term is equal to the sum of the previous two terms.  Hence, the sequence is:</paragraphs>
+          <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">\[ 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, \ldots \]</paragraphs>
+          <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The ratio consecutive terms give the sequence:
+\[
+\frac{1}{1}, \frac{2}{1}, \frac{3}{2}, \frac{5}{3}, \frac{8}{5}, \ldots
+\]
+which numerically gets closer to closer to $\varphi$.
+For example, $\frac{8}{5}$ is decimal form is $1.6$,
+which is already quite close to $\varphi \approx  1.6180339887\ldots$.</paragraphs>
+          <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+        </slide>
+        <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="5" id="s5" slide="5" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" chapter_title="The Golden Ratio" section_title="">
+          <keywords slide="5" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art"/>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Many people have claimed that the Golden Ratio figures
+in the designs of a number of ancient architectural works such as the Great Pyramid
+in Egypt and the Parthenon in Greece, and in the works of Leonardo da Vinci</paragraphs>
+          <a xmlns="http://www.w3.org/1999/xhtml" knowl="content/uged1533/proportions/ref.html#footnote-4" id="ref-1" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">[4]</paragraphs>
+          </a>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.</paragraphs>
+          <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+          <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
+            <div class="dual-left" environment="">
+              <a title="By Steve Swayne [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AThe_Parthenon_in_Athens.jpg" environment="">
+                <img width="512" alt="The Parthenon in Athens" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/512px-The_Parthenon_in_Athens.jpg" environment="" />
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The Parthenon, 438 BCE </paragraphs>
+              </a>
+            </div>
+            <div class="dual-right" environment="">
+              <a title="Leonardo da Vinci [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALeonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg" environment="">
+                <img width="512" alt="Leonardo da Vinci - Annunciazione - Google Art Project" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg/512px-Leonardo_da_Vinci_-_Annunciazione_-_Google_Art_Project.jpg" environment="" />
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The Annunciation
+(c. 1472)</paragraphs>
+                <br environment="" />
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Leonardo da Vinci </paragraphs>
+              </a>
+            </div>
+          </div>
+        </slide>
+        <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" chapter_title="The Golden Ratio" section_title="">
+          <keywords slide="6" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art"/>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Such claims have generally been met with criticisms regarding their scientific rigour</paragraphs>
+          <a xmlns="http://www.w3.org/1999/xhtml" knowl="content/uged1533/proportions/ref.html#footnote-5" id="ref-1" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">[5]</paragraphs>
+          </a>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> .
+In any event, that the Golden Ratio
+or other dynamic proportions have a special status with regard to pictorial
+decomposition is an idea which many artists have at least been exposed to,
+whether or not they (consciously or otherwise) incorporate it into their own artwork.
+Two alleged examples of artists who utilized dyamic proportions are
+American painters George Bellows (1882 - 1925) and Maxfield Parrish (1870 - 1966).</paragraphs>
+          <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+            <a title="George Bellows [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABellows_George_Dempsey_and_Firpo_1924.jpg" environment="">
+              <img width="512" alt="Bellows George Dempsey and Firpo 1924" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bellows_George_Dempsey_and_Firpo_1924.jpg/512px-Bellows_George_Dempsey_and_Firpo_1924.jpg" environment="" />
+              <br environment="" />
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Dempsey and Firpo
+(1924)</paragraphs>
+              <br environment="" />
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> George Bellows </paragraphs>
+            </a>
+          </div>
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Notions in dynamic proportions such as root rectangles
+are being taught in illustration courses to this very day. </paragraphs>
+        </slide>
+      </slides>
+    </chapter>
+  </course>
+</document>

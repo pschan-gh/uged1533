@@ -1,0 +1,303 @@
+@course{UGED 1533}
+@setchapter{3}
+@chapter{Linear Perspective}
+<hr/>
+<blockquote>
+<i>Those who become enamoured of the practice of the art, without having previously applied to the diligent study of the scientific part of it, may be compared to mariners, who put to sea in a ship without rudder or compass, and therefore cannot be certain of arriving at the wished-for port.
+Practice must always be founded on good theory; to this, Perspective is the guide and entrance, without which nothing can be well done.</i></blockquote><p/>
+<div style="text-align:right">Leonardo da Vinci<a knowl="content/uged1533/perspective/ref.html#footnote-1" id="ref-1">[1]</a></div>
+@slide
+<p/>
+<div class="image" style="float:right;padding-left:10px;padding-bottom:5px;padding-top:10px;width:5cm">
+<a title="Paolo Uccello
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Paolo_uccello,_studio_di_vaso_in_prospettiva_02.jpg"><img width="256" alt="Paolo uccello, studio di vaso in prospettiva 02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Paolo_uccello%2C_studio_di_vaso_in_prospettiva_02.jpg/256px-Paolo_uccello%2C_studio_di_vaso_in_prospettiva_02.jpg"><br/>(15th Century)<br/>Paolo Uccello</a>
+ </div>
+In visual art,
+linear perspective is a geometric technique used to produce
+an illusion of space <i>inside</i>
+ the picture plane.
+
+Though there are medieval paintings which utilize various degrees of linear perspective in the pictorial representation of three-dimensional objects,
+it appears that it was in 15th-century (<i>quattrocento</i>
+)
+Italy that the theory and practice of linear perspective
+began to receive widespread intellectual and artistic consideration,
+initiated by such <i>Renaissance men</i>
+ as Filippo Brunelleschi and Leon Battista Alberti.
+
+Some notable Renaissance painters which made prominent use of linear perspective are:
+Massacio, Paolo Ucello and Piero della Francesca, Leonardo da Vinci, Raphael
+(Raffaello di Sanzio) and Jan van Eyck.
+
+@slide
+<div class="image">
+<p/><a href="https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_Legend_of_St_Francis_-_5._Renunciation_of_Wordly_Goods_-_WGA09123.jpg#/media/File:Giotto_di_Bondone_-_Legend_of_St_Francis_-_5._Renunciation_of_Wordly_Goods_-_WGA09123.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Giotto_di_Bondone_-_Legend_of_St_Francis_-_5._Renunciation_of_Wordly_Goods_-_WGA09123.jpg" alt="One of the Legend of St. Francis frescoes at Assisi"/><br/>By Formerly attributed to <a href="https://en.wikipedia.org/wiki/Giotto" class="extiw" title="en:Giotto">Giotto di Bondone</a> - <a href="https://en.wikipedia.org/wiki/Web_Gallery_of_Art" class="extiw" title="en:Web Gallery of Art">Web Gallery of Art</a></a></div>
+@slide
+<div class="image">
+<a title="Piero della Francesca
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_042_Flagellation.jpg"><img width="1024" alt="Piero della Francesca 042 Flagellation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Piero_della_Francesca_042_Flagellation.jpg/1024px-Piero_della_Francesca_042_Flagellation.jpg"><br/><i>Flagellation of Christ</i> (circa 1455 - 1460)<br/>Piero della Francesca</a>
+</div>
+@slide
+<div class="image" style="width:60%">
+<a title="Jan van Eyck
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Van_Eyck_-_Arnolfini_Portrait.jpg"><img width="2048" alt="Van Eyck - Arnolfini Portrait" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/2048px-Van_Eyck_-_Arnolfini_Portrait.jpg"><br/>Arnolfini Portrait (1434)<br/>Jan van Eyck</a>
+</div>
+@slide
+<div class="image">
+<a title="Leonardo da Vinci
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Leonaredo,_studio_per_l%27adorazione_dei_magi,_uffizi.jpg"><img width="1024" alt="Leonaredo, studio per l&#039;adorazione dei magi, uffizi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Leonaredo%2C_studio_per_l%27adorazione_dei_magi%2C_uffizi.jpg/1024px-Leonaredo%2C_studio_per_l%27adorazione_dei_magi%2C_uffizi.jpg">Perspectival Study of <i>The Adoration of the Magi</i>(c. 1481)<br/>Leonardo da Vinci</a>
+</div>
+@slide
+<div class="image" style="width:80%">
+<a title="Rafael [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Escola_de_atenas_-_vaticano.jpg"><img width="1024" alt="Escola de atenas - vaticano" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Escola_de_atenas_-_vaticano.jpg/1024px-Escola_de_atenas_-_vaticano.jpg"/>School of Athens (1509)<br/>Raphael</a>
+</div>
+@section{The Mathematics of Linear Perspective}
+The idea behind linear perspective is simple:
+First, we assume that we are observing a physical scene
+(a basket of fruit, a sunset in over the ocean...) with one eye only.
+Now put up an imaginary vertical screen (called the @keyword{picture plane}
+)
+between the eye and the scene.
+For each object in the physical scene (an apple, a flower, a grain of sand...),
+there is a collection of light rays which are reflected off the object and then enter
+our eye.  (That is how we normally see.)  Suppose that on the way to our eyeball,
+each of these light rays makes a mark (with the same color as the light)
+on the picture plane.
+The resulting colored picture plane has the property that: wherever we place it,
+and as long as we stand at the same distance from it as before,
+the picture plane presents to our eye an image which is indistinguishable
+from the original physical scene (our basket of fruits, the sunset).
+It apears as if the space we saw now lies <i>inside</i>
+ the flat picture plane.
+@slide
+<p/>
+<div class="image" style="width:100%">
+<img src="http://digilib.mpiwg-berlin.mpg.de/digitallibrary/servlet/Scaler?fn=/permanent/library/C2PG4QN1/pageimg&pn=90&dw=1376&dh=860"/><a href="http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?tocMode=none&url=/mpiwg/online/permanent/library/C2PG4QN1/pageimg&start=81&viewMode=images&mode=imagepath&pn=90">
+<i>New principles of linear perspective, or the art of designing on a plane the representations of all sorts of objects, in a more general and simple method than has been done before</i></a> by <a href="https://en.wikipedia.org/wiki/Brook_Taylor">Brook Taylor</a></div>
+@slide
+Now, let's flip the idea around.  If we can figure out the laws which govern
+the placement of the marks by the light rays reflecting off the physical scene,
+then we could start with a blank canvas, place marks on it according to the same laws,
+and <i>produce</i>
+ an illusion of a three-dimensional physical scene contained within
+the canvas
+(whether or not the scene thus illustrated actually exists in the real world).
+@slide
+What are these laws?  We name a few here.
+In the following:
+
+@ul
+@li
+We prefix any element in the physical scene with the word @keyword{physical},
+and any element on the picture plane with the word @keyword{pictorial}.
+@li
+We call a physical line which is perpendicular to the picture plane an @keyword{orthogonal line}.
+@li
+We call a physical line which is parallel to picture plane a @keyword{transversal line}.
+@li
+We also assume the picture plane is infinitely large.
+@endul
+@subsection{Laws of Linear Perspective}
+@ol
+@li
+ With one type of exceptions (Exercise, which one?),
+straight physical lines project to straight pictorial lines.<br/>
+
+@li
+Transversal lines project to the picture plane with no distortion,
+e.g. a horizontal (resp. vertical)
+transversal line projects to a horizontal (resp. vertical) pictorial line.<p/>
+In particular, parallel transversal lines project to parallel pictorial lines.<br/>
+
+@li
+Every non-transversal line projects to a pictorial line
+which terminates at a @keyword{vanishing point} on the picture plane.
+Moreover:
+<ul>
+<li>Any set of parallel non-transversals share the same vanishing point.</li>
+<li>The vanishing points of <i>horizonal</i> non-transversals lie on the @keyword{horizon} of the picture plane.
+This is the horizontal line on the picture plane which is level with the viewer's eye.
+</li>
+<li>The vanishing point every orthogonal line lies at the center of the horizon.
+</li>
+</ul>
+@li
+Parallel physical lines which are tilted up (resp. down)
+outwards project to pictorial lines
+whose vanishing point lies above (resp. below) the horizon.
+Two sets of parallel physical lines with the same vertical pitch poject to
+picture lines with vanish points
+which lie on the same vertical level on the picture plane.
+@endol
+@slide
+Of course, in practice, no one paints on an infinitely large canvas,
+so the "infinite" picture plane is necessarily cropped,
+and consequently vanishing points may lie outside of the painting.
+
+It is remarkable that with  only these simple rules, and
+a little bit of ingenuity in their application,
+some great visual results could be obtained.
+
+@slide
+A tiled floor viewed in perspective:<div class="image">
+<a title="Leone Battista Alberti
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Della_Pittura_Alberti_perspective_vanishing_point.jpg"><img width="512" alt="Della Pittura Alberti perspective vanishing point" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Della_Pittura_Alberti_perspective_vanishing_point.jpg"><br/>Illustration in Leon Battista Alberti's <i>Della Pittura</i><br/>(1804 edition)</a>
+
+@slide
+<div class="image">
+<a title="Jan van Eyck
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Eyck_madonna_rolin.jpg"><img width="512" alt="Eyck madonna rolin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Eyck_madonna_rolin.jpg/512px-Eyck_madonna_rolin.jpg"><br/>The Virgin of chancellor Rolin (c. 1435)<br/>Jan van Eyck</a>
+</div>
+@slide
+A series of columns receding into space:
+<br/><br/>
+<div class="image">
+<a title="Fra Angelico [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:ANGELICO,_Fra_Annunciation,_1437-46_(2236990916).jpg"><img width="512" alt="ANGELICO, Fra Annunciation, 1437-46 (2236990916)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ANGELICO%2C_Fra_Annunciation%2C_1437-46_%282236990916%29.jpg/512px-ANGELICO%2C_Fra_Annunciation%2C_1437-46_%282236990916%29.jpg"><br/>Annunciation (1437-1446)<br/>Fra Angelico</a>
+ </div>
+<hr/>
+<div class="image">
+<a title="Canaletto
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Canaletto_-_%27View_of_Molo%27,_oil_on_canvas,_c._1730s,_El_Paso_Museum_of_Art.jpg"><img width="512" alt="Canaletto - &#039;View of Molo&#039;, oil on canvas, c. 1730s, El Paso Museum of Art" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canaletto_-_%27View_of_Molo%27%2C_oil_on_canvas%2C_c._1730s%2C_El_Paso_Museum_of_Art.jpg/512px-Canaletto_-_%27View_of_Molo%27%2C_oil_on_canvas%2C_c._1730s%2C_El_Paso_Museum_of_Art.jpg"><br/>View of Molo (c. 1730s)<br/>Canaletto</a>
+</div>
+@slide
+Human figures situated in space:
+<br/><br/>
+<div class="image">
+<a title="Pietro Perugino
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Entrega_de_las_llaves_a_San_Pedro_(Perugino).jpg"><img width="2048" alt="Entrega de las llaves a San Pedro (Perugino)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Entrega_de_las_llaves_a_San_Pedro_%28Perugino%29.jpg/2048px-Entrega_de_las_llaves_a_San_Pedro_%28Perugino%29.jpg"><br/>Delivery of the Keys (1481 - 1482)<br/>Pietro Perugino</a>
+</div>
+@slide
+And foreshortened human figures:<p/>
+<div class="image">
+<a title="Andrea Mantegna
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Mantegna_Andrea_Dead_Christ.jpg"><img width="512" alt="Mantegna Andrea Dead Christ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mantegna_Andrea_Dead_Christ.jpg/512px-Mantegna_Andrea_Dead_Christ.jpg"><br/>The Lamentation over the Dead Christ (c. 1480)<br/>Andrea Mantegna</a>
+</div>
+<hr/>
+<div class="image">
+<img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/loomis_FIGURE_draw_0041.jpg"/>
+
+<iframe style="width: 15cm; height: 10cm" src='https://archive.org/stream/loomis_FIGURE_draw#page/n41/mode/1up'></iframe>
+<a href="https://archive.org/details/loomis_FIGURE_draw">
+<br/><i>Figure Drawing for All It's Worth</i></a> by <a href="https://en.wikipedia.org/wiki/Andrew_Loomis">Andrew Loomis</a>
+</div>
+@slide
+Besides employing the geometric rules outlined above to depict objects viewed in perspective,
+there are various mechanical or semi-mechanical means to produce the same effect.
+
+In the following illustration by Albrecht D&uumlrer,
+the "imaginary screen" we used in devising linear perspective
+is realized physically as a gridded net (grid #1)
+placed between a draftsman and the physical scene (in this case a reclining nude).
+Before the draftsman lies a drawing surface with a similar grid system (grid #2)
+overlaid upon it.
+Viewing the physical scene with one eye placed at a fixed point,
+various points of the scene lies directly behind points on grid #1.
+If, say, the tip of the nose of the woman lies behind the grid point on grid #1 which is two from the top and one from the left, then the draftsman
+would draw the tip of the nose on the drawing surface at the corresponding point
+on grid #2.
+Repeating this process for each point in the physical scene,
+a perspectival drawing of the scene is obtained.
+
+<div class="image" style="width:100%;margin-top:1cm">
+<a title="Albrecht Dürer
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Durer_-_Draftsman%27s_Net.jpg"><img width="512" alt="Durer - Draftsman&#039;s Net" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Durer_-_Draftsman%27s_Net.jpg/512px-Durer_-_Draftsman%27s_Net.jpg"><br/>Draftsman's Net</a>(1525)<br/>Albrecht Dürer</div>
+@slide
+In fact, having a screen between the viewer and the physical scene which records
+all the instances of light rays reflecting off the scene is quite similar
+to the mechanism of the photographic camera,  where the "screen" is a segment of photographic film  (or an array of digital photosensors) which lies on the other side of the focal point.
+
+The development of the photographic camera traces back to a device called the <i>@keyword{camera obscura}</i>, which means "dark room" in Latin
+(and is indeed the etymological origin of the modern word "camera").
+
+<br/>
+It works as follows:
+
+@col
+A pinhole is made on one side of a sealed
+box or room, and a screen is set up in the room facing the pinhole.
+Light rays which enter from outside the room then cast an inverted image
+of the physical scene outside.
+A draftsman could then trace the outlines of the outside scene directly onto the screen.
+
+@col
+<div class="image">
+<a title="unknown, possibly Italian. The background shows Brunelleschi&#039;s Duomo, Florence. [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Camera_obscura2.jpg"><img width="1024" alt="Camera obscura2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Camera_obscura2.jpg/1024px-Camera_obscura2.jpg">Illustration of a camera obscura from <i>Sketchbook on military art, including geometry, fortifications, artillery,
+mechanics, and pyrotechnics</i></a>
+(17th century)
+</div>
+<br/>
+<div class="image">
+<a title="clop [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Canaletto4fogli.jpg"><img width="1024" alt="Canaletto4fogli" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Canaletto4fogli.jpg/1024px-Canaletto4fogli.jpg">Drawings by Canaletto obtained with a Camera obscura</a><br/>(Gallerie dell'Accademia, Venice, Italy)
+</div>
+
+@slide
+Aside from the inversion
+(and various degrees of distortion depending on implementation,
+such as the use of a lens),
+the projected image produced by a camera obscura
+largely follows the same geometric laws of projection
+which underlie linear perspective.
+
+@col
+Consequently,
+it can be difficult to deduce whether a painter has employed
+linear perspective, a camera obscura, or some other optical devices
+(a grid like the one illustrated by D&uumlrer, a <i>camera lucida</i>
+, etc.).
+
+@col
+The following painting by Vermeer is the subject of the motion picture <i>Tim's Vermeer</i>
+, which documents one man's quest to determine
+if Vermeer had employed optical tools to produce the painting.
+
+@col
+<div class="image" style="width:60%">
+<a title="Johannes Vermeer
+ [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_014.jpg"><img width="512" alt="Jan Vermeer van Delft 014" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jan_Vermeer_van_Delft_014.jpg/512px-Jan_Vermeer_van_Delft_014.jpg"><br/>The Music Lesson</a> (1662–1665)<br/>
+Johannes Vermeer</div>
+@col
+One must be aware though,
+that any such analysis is invariably complicated by the fact that a painter
+is a human agent free to deviate from the rules of linear perspective
+or any image projected by a camera,
+and to combine or improvise whatever skills and techniques
+(both intellectual and instrumental) at their disposal,
+with the singular goal of fulfilling the needs of their artwork
+(or perhaps, in a less than ideal world, the needs of their patrons).
+@slide
+<center>
+<strong>
+<i>¡Cada animal tiene su estrategia!</i></strong><br/>(Each animal has its strategy!)</center><div style="text-align:right">--Antonio López García</div>
+@slide
+<h4><i>Tim's Vermeer</i></h4>
+<hr/>
+<div class="image">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/94pCNUu6qFY" frameborder="0" allowfullscreen="allowfullscreen"/></div>
+<div class="image">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KoqOvUO74Gk" frameborder="0" allowfullscreen="allowfullscreen"/></div>
+@slide
+<h4>Antonio Mancini (1852 - 1930, Italian)</h4>
+<hr/>
+<div class="image">
+<a href="https://www.artistsonart.com/mancinis-graticola/">
+<img src="https://aoci02ahqu78l1fk1kajgfk2-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/04/Antonio-Mancini-graticola-A.jpg"/><br/>Use of the <i>graticola</i>
+ (Italian for "grill") device.</a></div>
+<hr/>
+<div class="image">
+<a href="https://www.artistsonart.com/mancinis-graticola/">
+<img src="https://aoci02ahqu78l1fk1kajgfk2-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/04/Antonio-Mancini-graticola-D.jpg"/></a></div>
+<hr/>
+<div class="image">
+<a href="https://www.artistsonart.com/mancinis-graticola/">
+<img src="https://aoci02ahqu78l1fk1kajgfk2-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/04/Antonio-Mancini-graticola-B.jpg"/></a></div>
+@slide
+<h4>Antonio Lopez Garcia (Spanish)</h4>
+<hr/>
+<div class="image">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S43J7h0EUt0" frameborder="0" allowfullscreen="allowfullscreen"/></div>
+<a href="http://institucional.us.es/revistas/arte/24/t2_art_17.pdf">
+
+<i>Metodología pictórica en la obra de Antonio López García</i></a><br/>
+(Pictorial Methodology in Antonio López García's work),
+David Serrano León, LABORATORIO DE ARTE 24 (2012), pp. 717-737.

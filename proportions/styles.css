@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #444;
+/*    font: 12pt "Times New Roman";*/
+    fontSize: 1.0em;
+}
+
+
+a:link    { text-decoration:none; }
+a:visited { text-decoration:none; }
+a:hover   { text-decoration:none; }
+a:active  { text-decoration:none; }
+
+
+.slide {
+width:100%
+}
+
+.slide:hover {
+/*background-color:#dde;*/
+}
+
+
+.title {
+position:fixed;
+left:2%;
+top:2%;
+color:#428bc1;
+}
+
+.controls {
+color:#999;
+display:block:
+}
+
+
+#fontsel {
+position:fixed;height:100%;width:4em;;top:0;right:0;margin:1em;
+font-family: Sans-Serif;
+}
+
+img {
+width:100%
+}
+
+.fl {
+color:#428bc1;
+float:left;
+padding-right:0.5%;
+font-size:400%;
+line-height:85%;
+padding-top:0px;
+}
+
+.timeline {
+position:absolute;
+width:5cm;
+text-align:right;
+right:1cm;
+color:blue;
+}
+
+.page {
+    position:relative;
+    width: 21cm;
+    margin: 0cm auto;
+    border: 0px #DADADA;
+    border-radius: 0px;
+   /* background: #FAF7F1;*/
+    background:#444;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+    padding-bottom:2cm;
+}
+
+#text{
+color:#bbb;
+text-align: justify;
+width:15cm;
+padding-top:3cm;
+padding-bottom:3cm;
+margin:auto;
+font-size:1.2em;
+display:table;
+/*position:absolute;*/
+height:100%;
+}
+
+
+.image {
+margin:auto;
+padding-bottom:10px;
+font-size:90%;
+width:100%;
+text-align:center
+}
+
+.dual {
+display:table;
+width:100%;
+margin:10px auto;
+font-size:90%;
+text-align:center;
+}
+
+.dual-left{
+display:table-cell;
+width:50%;
+vertical-align:middle;
+text-align:center;
+padding-right:5px;
+}
+
+.dual-right{
+display:table-cell;
+width:50%;
+vertical-align:middle;
+text-align:center;
+padding-left:5px;
+}
+
+@media print{
+
+    .title{
+	display:none;
+}
+
+    .controls{
+	display:none;
+}
+
+ .page {
+    position:relative;
+    width:21cm;
+    margin: 0cm auto;
+    border-radius: 0px;
+    background: #FFF;
+/*    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); */
+ }
+
+ #fontsel {
+  display:none;
+ }
+
+ #text {
+text-align: justify;
+ width:15cm;
+ display:block;
+/* margin: 2cm 2cm;  */
+ }
+
+}
+
+@page  
+{ 
+    size: auto;   /* auto is the initial value */ 
+
+    /* this affects the margin in the printer settings */ 
+    margin: 25mm 25mm 25mm 25mm;  
+} 
+
+
+
+

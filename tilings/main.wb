@@ -1,0 +1,270 @@
+@sep
+@course{UGED 1533}
+@topic{Planar Patterns}
+@sep
+<h3>
+Rose window, Chartres Cathedral (Chartres France)
+</h3>
+<br>
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chartres_Cathedral.jpg/1024px-Chartres_Cathedral.jpg">
+</div>
+<hr>
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_south_transept_rose_at_Notre-Dame_de_Chartres.png/1024px-The_south_transept_rose_at_Notre-Dame_de_Chartres.png">
+</div>
+@sep
+<h3>
+Rose window, Notre Dame Cathedral (Paris, France)
+</h3>
+<br>
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Notre_Dame_de_Paris.JPG/1024px-Notre_Dame_de_Paris.JPG">
+</div>
+<hr>
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg/1024px-North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg">
+</div>
+@sep
+<h3>
+Pantheon (Rome, Italy)
+</h3>
+<br>
+<div class=dual>
+<div class=dual-left>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rome_Pantheon_front.jpg/1024px-Rome_Pantheon_front.jpg">
+</div>
+<div class=dual-right>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pantheon-panini.jpg/1024px-Pantheon-panini.jpg">
+</div>
+</div>
+<hr>
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pantheon_cupola.jpg/1024px-Pantheon_cupola.jpg">
+</div>
+@sep
+<h3>Finite Designs</h3>
+<p>
+<div class='image'>
+<img src="images/finite_design1.png">
+<hr>
+<img src="images/finite_design2.png">
+<br><br>
+<i>Geometric Symmetry in Patterns and Tilings</i>, Clare Horne.
+</div>
+@sep
+<h3>Dihedral Group $D_n$</h3>
+<div class='image'>
+<img src="images/dihedral1.jpg">
+<br><br><i>Groups and Symmetry</i>, M. A. Armstrong
+</div>
+@col
+<div class='image'>
+<img src="images/dihedral2.jpg">
+<br><br><i>Groups and Symmetry</i>, M. A. Armstrong
+</div>
+@sep
+<h3>M. C. Escher (Dutch 1898 -1972)</h3><hr>
+<!-- <p><div class='image'><img src="http://britton.disted.camosun.bc.ca/escher/pegasus.jpg"></div><br><hr> -->
+<div class='image' style="width:256">
+<a title="By Photographer: Hans Peters (ANEFO) (Ga het na (Nationaal Archief NL)) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEscher.jpg"><img width="256" alt="Escher" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Escher.jpg/256px-Escher.jpg"/></a>
+</div>
+<p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/originals/4b/86/86/4b86861cdbbe3576e8c003fccae2c372.jpg"></div><br><hr>
+<p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/originals/b6/c1/9e/b6c19e84c6af8c2802a83383a7e4452e.jpg"></div><br><hr>
+<p><div class='image'><img src="https://uploads0.wikiart.org/images/m-c-escher/bird-fish.jpg!Large.jpg"></div><br><hr>
+<p><div class='image'><img src="https://uploads7.wikiart.org/images/m-c-escher/sky-and-water-ii.jpg!Large.jpg"></div><br><hr>
+<p><div class='image'><img src="http://mathstat.slu.edu/escher/upload/8/8a/Liberation.jpg"></div><br><hr>
+<p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/564x/4f/cc/36/4fcc3605a30deaa16de6584bf037b655.jpg"></div><br><hr>
+<p><div class='image'><img src="http://www.mathaware.org/mam/03/images/dunham/figure40.gif"></div><br><hr>
+<p><div class='image'><img src="http://mathstat.slu.edu/escher/upload/0/06/Circle-limit-IV.jpg"></div>
+@sep
+<h3>Alhambra</h3><hr><p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Vista_de_la_Alhambra.jpg"></div><br><hr>
+<p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alhambra-Granada-2003.jpg/1024px-Alhambra-Granada-2003.jpg"></div><br><hr>
+<p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ventanas_con_arabescos_en_la_Alhambra.JPG/675px-Ventanas_con_arabescos_en_la_Alhambra.JPG"></div><br><hr>
+<p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tassellatura_alhambra.jpg"></div>
+@sep
+<h3>Islamic Art</h3><hr><p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Fes_Medersa_Bou_Inania_Mosaique2.jpg"></div><br><hr>
+<p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg/878px-Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg"></div><br><hr>
+<p><div class='image'><img src="http://home.nordnet.fr/~ajuhel/Isfahan_Darb_e_Imam/Darb-e-Imam_aper.JPG"></div><br><hr>
+<p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Darb-i_Imam_shrine_spandrel.JPG"></div>
+@sep
+<h3>Jean-L&eacuteon G&eacuter&ocircme (French, 1824 - 1904)</h3><hr><p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg/1200px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg"></div><br><hr>
+<p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Arnaut_and_his_dog_by_Jean_Leon_gerome.jpg"></div><br><hr>
+<p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/564x/b4/c9/95/b4c995d0e35b37951a847ba4e1d0090f.jpg"></div><br><hr>
+<p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/originals/ba/11/da/ba11dac911cfa8b46298f835a3763f49.jpg"></div>
+@sep
+<div class='image'><img src='images/hexagons2.jpg'><br><br>
+<i>Groups and Symmetry</i>, M. A. Armstrong</div>
+@col
+<div class='image'><img src='images/hexagons.jpg'><br><br>
+<i>Groups and Symmetry</i>, M. A. Armstrong</div>
+@col
+<div class='image'><img src='images/hexagons3.jpg'><br><br>
+<i>Groups and Symmetry</i>, M. A. Armstrong</div>
+@sep
+A <i>symmetry</i> of a wallpaper pattern is a transformation which leaves the pattern unchanged.  Such a transformation can be one of the following:<ul><li> translation (<b>shift</b>)
+<img style="width:200px" src="images/translation.jpg">
+<li>rotation (<b>turn</b>)
+<img style="width:200px" src="images/rotation.jpg">
+<li>reflection (<b>flip</b>)
+<img style="width:200px" src="images/reflection.jpg">
+<li>glide reflection
+<img style="width:200px" src="images/glide.jpg"></ul><hr>
+<div class='image'>
+(Illustration from <i>Geometric Symmetry in Patterns and Tilings</i>, Clare Horne.)
+</div>
+@sep
+We will work with wallpaper patterns which have two shift symmetries.
+Any such wallpaper is associated with an underlying <i>lattice</i>,
+which is obtained by applying the shift symmetries repeatedly to a fixed point
+(the origin) in the pattern.
+<p><div class='image'><img src='images/lattice.jpg'><br><br>
+<i>Groups and Symmetry</i>, M. A. Armstrong</div>
+@sep
+There are five types of lattices generated this way:
+<p><div class='image'><img src='images//lattice1.jpg'><br><br>
+<i>Groups and Symmetry</i>, M. A. Armstrong</div>
+@sep
+Note that a rotational (turn) symmetry of a wallpaper pattern may
+correspond to a rotation (clockwise or anticlockwise) by
+60, 90, 120 or 180 degrees only.
+<p>
+There is no rotational symmetry which corresponds to a rotation by, say, 72 degrees.
+<p>
+@col
+The set of shift, turn, flip and glide reflection symmetries
+of a wallpaper pattern form its
+<b>wallpaper group</b>.  There are exactly 17 possible wallpaper groups.
+<p>
+They are enumerated by a combination of letters and integers.  For example:
+<center>
+$p6m, p4g, cm$
+</center>
+@col
+<ul>
+<li>
+"<b>$p$</b>" stands for a <b>primitive lattice</b>, namely a lattice made up of cells
+with no lattice points in their interiors.
+<li>
+"<b>$c$</b>" stands for a <b>centred lattice</b>, namely a lattice
+each of whose building block is a non-primitive cell
+plus a centered interior lattice point (Centred Rectangular).
+<li>
+"<b>$m$</b>" stands for reflection (m for <b>mirror</b>).
+<li>
+"<b>$g$</b>" stands for <b>glide reflection</b>.
+</ul>
+<ul>
+<li>
+"<b>$1$</b>" stands for the identity transformation (i.e. do nothing).
+<li>
+Each of "<b>$2, 3, 4, 6$</b>" stands for a rotation of the corresponding order.
+</ul>
+@col
+A pattern is encoded in 4 characters "$x_1x_2x_3x_4$" as follows:
+<ul>
+<li>$x_1$ is either $p$ or $c$, depending on the lattice structure.
+<li> $x_2$ is one of $1, 2, 3, 4, 6$, depending on the type of rotational symmetry.
+($1$ stands for no rotational symmetry.)
+<li> $x_3$ is one of $1$, $m$, or $g$, depending on whether there is mirror or glide
+symmetry with respect to the "main" translation axis.<br>
+(We choose the "main" axis to be any one of the two translational axes which has a mirror perpendicular to it.  If none of the two axes has a mirror perpendicular to it, then either one may be chosen to be the main one.)
+<li> $x_4$ is one of $1$, $m$, or $g$, depending on whether there is mirror or glide symmetry with respect to some other axis besides the main one.
+</ul>
+@sep
+<p>
+The following table serves as a useful guide in
+identifying the wallpaper group of a given wallpaper pattern:
+<br/><br/>
+<div class='image'>
+    <h4>
+        <a href="https://en.wikipedia.org/wiki/Wallpaper_group#Guide_to_recognizing_wallpaper_groups" target="_blank">Guide to recognizing wallpaper groups (Wikipedia).</a>
+    </h4>
+    <iframe style="height:480px;" src="content/uged1533/tilings/wallpaper_groups.html"></iframe>
+    <!-- (Notice that the character "1" is sometimes omitted.) -->
+</div>
+@sep
+<h3>Examples</h3>
+(from <a href="http://www.morenaments.de">http://www.morenaments.de</a>)
+<hr>
+<div class='image'>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p1.svg">
+<br><br>$p1$
+<hr>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p2.svg">
+<br><br>$p2$
+</div>
+@sep
+<div class='image'>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pm.svg">
+<br><br>$pm$
+<hr>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pg.svg">
+<br><br>$pg$
+</div>
+@sep
+<div class='image'>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cm.svg">
+<br><br>$cm$
+<hr>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pmm.svg">
+<br><br>$pmm$
+</div>
+@sep
+<div class='image'>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pmg.svg">
+<br><br>$pmg$
+<hr>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pgg.svg">
+<br><br>$pgg$
+</div>
+<div class='image'>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cmm.svg">
+<br><br>$cmm$
+<hr>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4.svg">
+<br><br>$p4$
+</div>
+@sep
+<div class='image'>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4m.svg">
+<br><br>$p4m$
+<hr>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4g.svg">
+<br><br>$p4g$
+</div>
+@sep
+<div class='image'>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p3.svg">
+<br><br>$p3$
+<hr>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p3m1.svg">
+<br><br>$p3m1$
+<hr>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p31m.svg">
+<br><br>$p31m$
+</div>
+@sep
+<div class='image'>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p6.svg">
+<br><br>$p6$
+<hr>
+<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p6m.svg">
+<br><br>$p6m$
+</div>
+@sep
+<div class='image'>
+<img src="https://jasonbairdjackson.files.wordpress.com/2015/08/img_2183.jpg">
+</div>
+@sep
+<div class='image'>
+<img src="http://deutao.com/wp-content/uploads/2013/12/24.jpg">
+</div>
+<hr>
+<div class='image'>
+<img src="http://img.china.alibaba.com/img/ibank/2015/304/318/2573813403_1852949910.jpg">
+</div>
+@sep
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Semi-regular-floor-3464.JPG">
+</div>

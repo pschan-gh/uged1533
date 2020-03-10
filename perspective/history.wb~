@@ -1,0 +1,57 @@
+<div>
+@sep
+<h1>Linear Perspective</h1>
+<hr>
+<blockquote><i>
+Those who become enamoured of the practice of the art, without having previously applied to the diligent study of the scientific part of it, may be compared to mariners, who put to sea in a ship without rudder or compass, and therefore cannot be certain of arriving at the wished-for port.
+Practice must always be founded on good theory; to this, Perspective is the guide and entrance, without which nothing can be well done.
+</i>
+</blockquote>
+<p>
+<div style="text-align:right">Leonardo da Vinci
+<a href="#footnote-1" id="ref-1">[1]</a></div>
+@sep
+<p>
+<div class=image style='float:right;padding-left:10px;padding-bottom:5px;padding-top:10px;width:5cm'>
+<img src='images/1024px-Paolo_uccello,_studio_di_vaso_in_prospettiva_02.jpg' style='width:5cm'>
+<a title="Paolo Uccello [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APaolo_uccello%2C_studio_di_vaso_in_prospettiva_02.jpg">
+Perspectival Study of Vase</a><br>
+(15th Century)<br>Paolo Uccello
+</div>
+<span class=fl>I</span>n visual art, 
+linear perspective is a geometric technique used to produce
+an illusion of space <i>inside</i> the picture plane.  
+
+Though there are medieval paintings which utilize various degrees of linear perspective in the pictorial representation of three-dimensional objects,
+it appears that it was in 15th-century (<i>quattrocento</i>)
+Italy that the theory and practice of linear perspective 
+began to receive widespread intellectual and artistic consideration, 
+initiated by such <i>Renaissance men</i> as Filippo Brunelleschi and Leon Battista Alberti.  
+ 
+<!-- Some notable Renaissance painters which made prominent use of linear perspective are: 
+Massacio, Paolo Ucello and Piero della Francesca, Leonardo da Vinci, Raphael 
+(Raffaello di Sanzio) and Jan van Eyck.
+-->
+@sep
+<p>
+<div class='image' style='width:60%'>
+<img src='images/Van_Eyck_-_Arnolfini_Portrait.jpg'>
+<a title="Jan van Eyck (circa 1390–1441) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVan_Eyck_-_Arnolfini_Portrait.jpg">
+Arnolfini Portrait</a>
+(1434)<br>
+Jan van Eyck
+</div>
+@sep
+<div class='image'>
+<img src='images/Leonardo_adorazione_dei_magi.jpg'>
+<a title="Leonardo da Vinci [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALeonaredo%2C_studio_per_l'adorazione_dei_magi%2C_uffizi.jpg">
+Perspectival Study of <i>The Adoration of the Magi</i></a>
+(c. 1481)<br>Leonardo da Vinci.
+</div>
+@sep
+<div class='image' style='width:80%'>
+<img src='images/Escola_de_atenas_-_vaticano.jpg'>
+<a title="By Rafael (User: tetraktys (talk) 18:53, 7 August 2010 (UTC)) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEscola_de_atenas_-_vaticano.jpg">
+School of Athens</a>
+(1509)<br>Raphael
+</div>

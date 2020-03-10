@@ -1,0 +1,25 @@
+<div style="position:relative;height:600px;width:100%;background:#f00;text-align:center">
+    <div id="mycounter" style="position:absolute;top:45%;width:100%;height:auto;font-family:sans-serif;font-size:5em;text-align:center;color:#e90000">
+    </div>
+</div>
+<div style="margin-top:2em;width:100%;text-align:center">
+    <button onclick="onTimer()">Start Timer</button>
+    <script>
+    var wait = null;
+    function onTimer() {
+        var i = 20;
+        if (wait) {
+            clearTimeout(wait);
+        }
+        function countDown() {
+            document.getElementById('mycounter').innerHTML = i;
+            i--;
+            if (i > 0) {
+                wait = setTimeout(countDown, 1000);
+            }
+        }
+        countDown();
+    }
+
+    </script>
+</div>

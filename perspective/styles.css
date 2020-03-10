@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+/*    font: 12pt "Times New Roman";*/
+    fontSize: 1.0em;
+}
+
+.header {
+position:absolute;
+display:inline-block;
+height:100%;
+width:100%;
+padding:0;
+margin:0;
+top:5%;
+}
+
+.framebox {
+padding: 5px;
+border: 1px solid #ccc;
+}
+
+.slide {
+width:100%;
+}
+
+.slide:hover {
+/*background-color:#dde;*/
+}
+
+
+.title {
+position:fixed;
+left:2%;
+top:0%;
+color:#428bc1;
+}
+
+.controls {
+display:block:
+}
+
+#fontsel {
+display:none;
+position:fixed;height:100%;width:4em;;top:0;right:0;margin:1em;
+font-family: Sans-Serif;
+}
+
+img {
+width:100%
+}
+
+.fl {
+/*color:#428bca;*/
+/*color:red;*/
+float:left;
+padding-right:0%;
+font-size:100%;
+/* line-height:150%;*/
+padding-top:0px;
+padding-bottom:0px;
+}
+
+.timeline {
+position:absolute;
+width:5cm;
+text-align:right;
+right:1cm;
+color:blue;
+}
+
+.page {
+    position:relative;
+    width: 21cm;
+    margin: 0cm auto;
+    border: 0px #DADADA;
+    border-radius: 0px;
+    background: #fff;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+    /*padding-bottom:2cm;*/
+}
+
+#text{
+background:#fff;
+text-align: justify;
+width:15cm;
+padding-top:2cm;
+padding-bottom:2cm;
+margin:auto;
+font-size:1.2em;
+display:table;
+/*position:absolute;*/
+height:100%;
+}
+
+@media print{
+.title {
+display:block;
+position:absolute;
+height:100%;
+width:100%
+text-align:center;
+top:0%;
+color:#428bc1;
+}
+
+ .controls{
+	display:none;
+}
+
+ .page {
+    position:relative;
+    size: auto;
+    width: 21cm;
+    margin: 0cm auto;
+    border-radius: 0px;
+    background: #FFF;
+/*    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); */
+ }
+
+ @page  
+{ 
+    size: auto;   /* auto is the initial value */ 
+
+    /* this affects the margin in the printer settings */ 
+    margin: 25mm 25mm 25mm 25mm;  
+} 
+
+ #fontsel {
+  display:none;
+ }
+
+ #text {
+text-align: justify;
+/* width:12cm;
+ margin: 2cm 2cm;  */
+ }
+}
+
+@page  
+{ 
+    size: auto;   /* auto is the initial value */ 
+
+    /* this affects the margin in the printer settings */ 
+    margin: 25mm 25mm 25mm 25mm;  
+} 
+
+.image {
+margin:0px auto;
+padding-bottom:10px;
+width:80%;
+font-size:80%;
+text-align:center
+}
+
+.dual {
+display:table;
+width:100%;
+margin:10px auto;
+font-size:80%;
+text-align:center;
+}
+
+.dual-left{
+display:table-cell;
+width:50%;
+vertical-align:middle;
+text-align:center;
+padding-right:5px;
+}
+
+.dual-right{
+display:table-cell;
+width:50%;
+vertical-align:middle;
+text-align:center;
+padding-left:5px;
+}
+
