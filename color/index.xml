@@ -1,70 +1,213 @@
-<document
-    xmlns="elephas_index">
-    <indexdb>
-        <entry keyword="the color spectrum">
-            <branch keyword="the color spectrum" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="3" chapter="" id="the color spectrum_UGED 1533____slide__3_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="spectral color">
-            <branch keyword="spectral color" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="4" chapter="" id="spectral color_UGED 1533____slide__4_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="color wheel">
-            <branch keyword="color wheel" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="5" chapter="" id="color wheel_UGED 1533____slide__5_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="complementary color">
-            <branch keyword="complementary color" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="6" chapter="" id="complementary color_UGED 1533____slide__6_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="additive">
-            <branch keyword="additive" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="7" chapter="" id="additive_UGED 1533____slide__7_" filename="main3.xml"/>
-            <branch keyword="additive" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="10" chapter="" id="additive_UGED 1533____slide__10_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="subtractive">
-            <branch keyword="subtractive" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="7" chapter="" id="subtractive_UGED 1533____slide__7_" filename="main3.xml"/>
-            <branch keyword="subtractive" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="subtractive_UGED 1533____slide__14_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="additive color mixing">
-            <branch keyword="additive color mixing" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="8" chapter="" id="additive color mixing_UGED 1533____slide__8_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="metamerism">
-            <branch keyword="metamerism" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="9" chapter="" id="metamerism_UGED 1533____slide__9_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="metamers">
-            <branch keyword="metamers" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="9" chapter="" id="metamers_UGED 1533____slide__9_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="red green and blue">
-            <branch keyword="red green and blue" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="10" chapter="" id="red green and blue_UGED 1533____slide__10_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="rgb">
-            <branch keyword="rgb" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="13" chapter="" id="rgb_UGED 1533____slide__13_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="rgb color space">
-            <branch keyword="rgb color space" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="13" chapter="" id="rgb color space_UGED 1533____slide__13_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="vector">
-            <branch keyword="vector" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="13" chapter="" id="vector_UGED 1533____slide__13_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="grassmanns laws">
-            <branch keyword="grassmanns laws" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="13" chapter="" id="grassmanns laws_UGED 1533____slide__13_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="subtractive color mixing">
-            <branch keyword="subtractive color mixing" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="subtractive color mixing_UGED 1533____slide__14_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="cyan yellow and magenta">
-            <branch keyword="cyan yellow and magenta" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="cyan yellow and magenta_UGED 1533____slide__14_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="halftone">
-            <branch keyword="halftone" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="halftone_UGED 1533____slide__14_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="georges seurat french 1859  1891">
-            <branch keyword="georges seurat french 1859  1891" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="georges seurat french 1859  1891_UGED 1533____slide__14_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="roy lichtenstein american 1923  1997">
-            <branch keyword="roy lichtenstein american 1923  1997" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="14" chapter="" id="roy lichtenstein american 1923  1997_UGED 1533____slide__14_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="hue">
-            <branch keyword="hue" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="15" chapter="" id="hue_UGED 1533____slide__15_" filename="main3.xml"/>
-        </entry>
-        <entry keyword="saturation">
-            <branch keyword="saturation" course="UGED 1533" lecture="" week="" num="" environment="slide" type="" slide="16" chapter="" id="saturation_UGED 1533____slide__16_" filename="main3.xml"/>
-        </entry>
-    </indexdb>
+<document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
+  <index>
+    <entry keyword="josef albers  (german-born american, 1888 - 1976)">
+      <branch chapter="" slide="3" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="josef albers  (german-born american, 1888 - 1976)">Josef Albers, (German-born American, 1888 - 1976)</branch>
+      <branch chapter="" slide="29" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="josef albers  (german-born american, 1888 - 1976)">Josef Albers, (German-born American, 1888 - 1976)</branch>
+    </entry>
+    <entry keyword="homage to the square">
+      <branch chapter="" slide="3" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="homage to the square">Homage to The Square</branch>
+      <branch chapter="" slide="29" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="homage to the square">Homage to The Square</branch>
+    </entry>
+    <entry keyword="value">
+      <branch chapter="" slide="3" filename="main.xml" file_md5="2a3f7e9cf81a881198369fc7093328e0" keyword="value">Value</branch>
+    </entry>
+    <entry keyword="supper at emmaus">
+      <branch chapter="" slide="9" filename="main.xml" file_md5="2a3f7e9cf81a881198369fc7093328e0" keyword="supper at emmaus">Supper at Emmaus</branch>
+    </entry>
+    <entry keyword="academic studies">
+      <branch chapter="" slide="10" filename="main.xml" file_md5="2a3f7e9cf81a881198369fc7093328e0" keyword="academic studies">Academic Studies</branch>
+    </entry>
+    <entry keyword="the grand odalisque">
+      <branch chapter="" slide="12" filename="main.xml" file_md5="2a3f7e9cf81a881198369fc7093328e0" keyword="the grand odalisque">The Grand Odalisque</branch>
+    </entry>
+    <entry keyword="the color spectrum">
+      <branch chapter="" slide="3" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="the color spectrum">The Color Spectrum</branch>
+    </entry>
+    <entry keyword="additive color mixing">
+      <branch chapter="" slide="8" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="additive color mixing">Additive Color Mixing</branch>
+    </entry>
+    <entry keyword="rgb color space">
+      <branch chapter="" slide="13" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="rgb color space">RGB Color Space</branch>
+    </entry>
+    <entry keyword="rgb">
+      <branch chapter="" slide="13" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="rgb">RGB</branch>
+    </entry>
+    <entry keyword="subtractive color mixing">
+      <branch chapter="" slide="14" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="subtractive color mixing">Subtractive Color Mixing</branch>
+    </entry>
+    <entry keyword="georges seurat  french, 1859 - 1891)">
+      <branch chapter="" slide="14" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="georges seurat  french, 1859 - 1891)">Georges Seurat (French, 1859 - 1891)</branch>
+    </entry>
+    <entry keyword="roy lichtenstein  american, 1923 - 1997)">
+      <branch chapter="" slide="14" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="roy lichtenstein  american, 1923 - 1997)">Roy Lichtenstein (American, 1923 - 1997)</branch>
+    </entry>
+    <entry keyword="hue">
+      <branch chapter="" slide="15" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="hue">Hue</branch>
+    </entry>
+    <entry keyword="saturation">
+      <branch chapter="" slide="16" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="saturation">Saturation</branch>
+    </entry>
+    <entry keyword="color illusions">
+      <branch chapter="" slide="2" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="color illusions">Color Illusions</branch>
+    </entry>
+    <entry keyword="the interaction of color">
+      <branch chapter="" slide="2" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="the interaction of color">The Interaction of Color</branch>
+    </entry>
+    <entry keyword="trichromatic color theory">
+      <branch chapter="" slide="4" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="trichromatic color theory">Trichromatic Color Theory</branch>
+    </entry>
+    <entry keyword="cone cells">
+      <branch chapter="" slide="5" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="cone cells">Cone Cells</branch>
+    </entry>
+    <entry keyword="color constancy  optional topic)">
+      <branch chapter="" slide="18" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="color constancy  optional topic)">Color Constancy (Optional Topic)</branch>
+    </entry>
+    <entry keyword="references">
+      <branch chapter="" slide="20" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="references">References</branch>
+    </entry>
+    <entry keyword="colour">
+      <branch chapter="" slide="2" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="colour">Colour</branch>
+    </entry>
+    <entry keyword="augustus of prima porta  1st century ce)">
+      <branch chapter="" slide="3" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="augustus of prima porta  1st century ce)">Augustus of Prima Porta (1st century CE)</branch>
+    </entry>
+    <entry keyword="terracotta warrior  qin dynasty, late 3rd century bce)">
+      <branch chapter="" slide="5" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="terracotta warrior  qin dynasty, late 3rd century bce)">Terracotta Warrior (Qin Dynasty, late 3rd century BCE)</branch>
+    </entry>
+    <entry keyword="boxer at rest  hellenistic greek sculpture, 330 to 50 bce(?))">
+      <branch chapter="" slide="6" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="boxer at rest  hellenistic greek sculpture, 330 to 50 bce(?))">Boxer at Rest (Hellenistic Greek sculpture, 330 to 50 BCE(?))</branch>
+    </entry>
+    <entry keyword="fayum mummy portraits  encaustic on wood (1st century bce - 3rd century ce(?))">
+      <branch chapter="" slide="7" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="fayum mummy portraits  encaustic on wood (1st century bce - 3rd century ce(?))">Fayum Mummy Portraits, encaustic on wood (1st century BCE - 3rd century CE(?))</branch>
+    </entry>
+    <entry keyword="the alexander mosaic  pompeii. italy, c. 100 bce)">
+      <branch chapter="" slide="8" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="the alexander mosaic  pompeii. italy, c. 100 bce)">The Alexander Mosaic (Pompeii. Italy, c. 100 BCE)</branch>
+    </entry>
+    <entry keyword="medieval manuscripts">
+      <branch chapter="" slide="9" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="medieval manuscripts">Medieval Manuscripts</branch>
+    </entry>
+    <entry keyword="madonna of the book">
+      <branch chapter="" slide="10" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="madonna of the book">Madonna of the Book</branch>
+    </entry>
+    <entry keyword="titian">
+      <branch chapter="" slide="11" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="titian">Titian</branch>
+    </entry>
+    <entry keyword="portrait of gerolamo  ?) barbarigo">
+      <branch chapter="" slide="11" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="portrait of gerolamo  ?) barbarigo">Portrait of Gerolamo (?) Barbarigo</branch>
+    </entry>
+    <entry keyword="bacchus and ariadne">
+      <branch chapter="" slide="11" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="bacchus and ariadne">Bacchus and Ariadne</branch>
+    </entry>
+    <entry keyword="giovanni bellini  italian, c. 1430 - 1516)">
+      <branch chapter="" slide="12" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="giovanni bellini  italian, c. 1430 - 1516)">Giovanni Bellini (Italian, c. 1430 - 1516)</branch>
+    </entry>
+    <entry keyword="portrait of doge leonardo loredan">
+      <branch chapter="" slide="12" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="portrait of doge leonardo loredan">Portrait of Doge Leonardo Loredan</branch>
+    </entry>
+    <entry keyword="madonna with child">
+      <branch chapter="" slide="12" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="madonna with child">Madonna with Child</branch>
+    </entry>
+    <entry keyword="frari triptych">
+      <branch chapter="" slide="12" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="frari triptych">Frari Triptych</branch>
+    </entry>
+    <entry keyword="el greco">
+      <branch chapter="" slide="13" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="el greco">El Greco</branch>
+    </entry>
+    <entry keyword="nicolas poussin">
+      <branch chapter="" slide="13" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="nicolas poussin">Nicolas Poussin</branch>
+    </entry>
+    <entry keyword="virgin mary">
+      <branch chapter="" slide="14" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="virgin mary">Virgin Mary</branch>
+    </entry>
+    <entry keyword="leonardo da vinci  italian, 1452 - 1519)">
+      <branch chapter="" slide="15" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="leonardo da vinci  italian, 1452 - 1519)">Leonardo Da Vinci (Italian, 1452 - 1519)</branch>
+    </entry>
+    <entry keyword="virgin of the rocks">
+      <branch chapter="" slide="15" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="virgin of the rocks">Virgin of the Rocks</branch>
+    </entry>
+    <entry keyword="ginevra de  benci">
+      <branch chapter="" slide="15" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="ginevra de  benci">Ginevra de' Benci</branch>
+    </entry>
+    <entry keyword="michelangelo  italian, 1475 - 1564)">
+      <branch chapter="" slide="16" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="michelangelo  italian, 1475 - 1564)">Michelangelo (Italian, 1475 - 1564)</branch>
+    </entry>
+    <entry keyword="doni tondo">
+      <branch chapter="" slide="16" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="doni tondo">Doni Tondo</branch>
+    </entry>
+    <entry keyword="libyan sibyl">
+      <branch chapter="" slide="16" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="libyan sibyl">Libyan Sibyl</branch>
+    </entry>
+    <entry keyword="peter paul rubens">
+      <branch chapter="" slide="17" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="peter paul rubens">Peter Paul Rubens</branch>
+    </entry>
+    <entry keyword="caravaggio">
+      <branch chapter="" slide="18" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="caravaggio">Caravaggio</branch>
+    </entry>
+    <entry keyword="jacques louis david">
+      <branch chapter="" slide="19" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="jacques louis david">Jacques-Louis David</branch>
+    </entry>
+    <entry keyword="jean dominique ingres">
+      <branch chapter="" slide="20" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="jean dominique ingres">Jean-Dominique Ingres</branch>
+    </entry>
+    <entry keyword="jean louis th #233odore g&amp;#233ricault">
+      <branch chapter="" slide="21" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="jean louis th #233odore g&amp;#233ricault">Jean Louis Th&amp;#233odore G&amp;#233ricault</branch>
+    </entry>
+    <entry keyword="eug #234ne delacroix">
+      <branch chapter="" slide="21" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="eug #234ne delacroix">Eug&amp;#234ne Delacroix</branch>
+    </entry>
+    <entry keyword="plein air painting">
+      <branch chapter="" slide="23" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="plein air painting">Plein-air Painting</branch>
+    </entry>
+    <entry keyword="jean baptiste-camille corot (french, 1796 - 1875)">
+      <branch chapter="" slide="23" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="jean baptiste-camille corot (french, 1796 - 1875)">Jean-Baptiste-Camille Corot (French, 1796 - 1875)</branch>
+    </entry>
+    <entry keyword="joaqu n sorolla (spanish, 1863-1923)">
+      <branch chapter="" slide="23" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="joaqu n sorolla (spanish, 1863-1923)">Joaquín Sorolla (Spanish, 1863-1923)</branch>
+    </entry>
+    <entry keyword="impressionism">
+      <branch chapter="" slide="24" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="impressionism">Impressionism</branch>
+    </entry>
+    <entry keyword="claude monet">
+      <branch chapter="" slide="25" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="claude monet">Claude Monet</branch>
+    </entry>
+    <entry keyword="alfred sisley">
+      <branch chapter="" slide="25" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="alfred sisley">Alfred Sisley</branch>
+    </entry>
+    <entry keyword="edouard manet">
+      <branch chapter="" slide="25" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="edouard manet">Edouard Manet</branch>
+    </entry>
+    <entry keyword="gustave caillebotte">
+      <branch chapter="" slide="25" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="gustave caillebotte">Gustave Caillebotte</branch>
+    </entry>
+    <entry keyword="pointilism">
+      <branch chapter="" slide="26" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="pointilism">Pointilism</branch>
+    </entry>
+    <entry keyword="georges seurat">
+      <branch chapter="" slide="27" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="georges seurat">Georges Seurat</branch>
+    </entry>
+    <entry keyword="paul signac">
+      <branch chapter="" slide="27" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="paul signac">Paul Signac</branch>
+    </entry>
+    <entry keyword="fauvism">
+      <branch chapter="" slide="28" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="fauvism">Fauvism</branch>
+    </entry>
+    <entry keyword="color field paintings">
+      <branch chapter="" slide="30" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="color field paintings">Color Field Paintings</branch>
+    </entry>
+    <entry keyword="mark rothko  russian-born american, 1903 - 1970)">
+      <branch chapter="" slide="30" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="mark rothko  russian-born american, 1903 - 1970)">Mark Rothko (Russian-born American, 1903 - 1970)</branch>
+    </entry>
+    <entry keyword="barnett newman  american, 1905 - 1970)">
+      <branch chapter="" slide="30" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="barnett newman  american, 1905 - 1970)">Barnett Newman (American, 1905 - 1970)</branch>
+    </entry>
+    <entry keyword="ad reinhardt  american, 1913 - 1967)">
+      <branch chapter="" slide="30" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="ad reinhardt  american, 1913 - 1967)">Ad Reinhardt (American, 1913 - 1967)</branch>
+    </entry>
+    <entry keyword="giorgio morandi  italian, 1890 - 1964)">
+      <branch chapter="" slide="31" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="giorgio morandi  italian, 1890 - 1964)">Giorgio Morandi (Italian, 1890 - 1964)</branch>
+    </entry>
+    <entry keyword="andrew wyeth  american, 1917-2009)">
+      <branch chapter="" slide="32" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="andrew wyeth  american, 1917-2009)">Andrew Wyeth (American, 1917-2009)</branch>
+    </entry>
+  </index>
 </document>

@@ -1,46 +1,52 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
     <entry keyword="ancient greece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="ancient greece">Ancient Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="ancient greece">Ancient Greece</branch>
     </entry>
     <entry keyword="archaic greece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="archaic greece">Archaic Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="archaic greece">Archaic Greece</branch>
     </entry>
     <entry keyword="classical greece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="classical greece">Classical Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="classical greece">Classical Greece</branch>
     </entry>
     <entry keyword="pythagoras of samos">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="pythagoras of samos">Pythagoras of Samos</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="pythagoras of samos">Pythagoras of Samos</branch>
     </entry>
     <entry keyword="euclid">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="euclid">Euclid</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="euclid">Euclid</branch>
     </entry>
     <entry keyword="hellenistic greece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="hellenistic greece">Hellenistic Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="hellenistic greece">Hellenistic Greece</branch>
     </entry>
     <entry keyword="roman greece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="roman greece">Roman Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="roman greece">Roman Greece</branch>
     </entry>
     <entry keyword="the roman empire">
-      <branch chapter="1" slide="6" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="the roman empire">The Roman Empire</branch>
+      <branch chapter="1" slide="6" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="the roman empire">The Roman Empire</branch>
     </entry>
     <entry keyword="medieval period">
-      <branch chapter="1" slide="7" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="medieval period">Medieval Period</branch>
+      <branch chapter="1" slide="7" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="medieval period">Medieval Period</branch>
     </entry>
     <entry keyword="renaissance">
-      <branch chapter="1" slide="8" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="renaissance">Renaissance</branch>
+      <branch chapter="1" slide="8" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="renaissance">Renaissance</branch>
     </entry>
     <entry keyword="baroque style">
-      <branch chapter="1" slide="9" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="baroque style">Baroque style</branch>
+      <branch chapter="1" slide="9" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="baroque style">Baroque style</branch>
     </entry>
     <entry keyword="18th century">
-      <branch chapter="1" slide="10" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="18th century">18th century</branch>
+      <branch chapter="1" slide="10" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="18th century">18th century</branch>
     </entry>
     <entry keyword="age of enlightenment">
-      <branch chapter="1" slide="10" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="age of enlightenment">Age of Enlightenment</branch>
+      <branch chapter="1" slide="10" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="age of enlightenment">Age of Enlightenment</branch>
     </entry>
     <entry keyword="academic art">
-      <branch chapter="1" slide="12" filename="overview.xml" file_md5="102f71692b42abf523c59bdc5ec035f2" keyword="academic art">Academic Art</branch>
+      <branch chapter="1" slide="12" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="academic art">Academic Art</branch>
+    </entry>
+    <entry keyword="impressionism">
+      <branch chapter="1" slide="13" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="impressionism">Impressionism</branch>
+    </entry>
+    <entry keyword="post impressionism">
+      <branch chapter="1" slide="13" filename="overview.xml" file_md5="a9980ed9455bd06b64279a78e88ad5f9" keyword="post impressionism">Post-Impressionism</branch>
     </entry>
   </index>
 </document>

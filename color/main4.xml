@@ -1,0 +1,525 @@
+<document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
+  <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533" topic="Trichromatic Color Theory, Opponent Process Model">
+    <keywords slide="all" environ="course" chapter="" course="UGED 1533">
+      <keyword chapter="" slide="all">Color Illusions</keyword>
+      <keyword chapter="" slide="all">The Interaction of Color</keyword>
+      <keyword chapter="" slide="all">Josef Albers, (German-born American, 1888 - 1976)</keyword>
+      <keyword chapter="" slide="all">Homage to The Square</keyword>
+      <keyword chapter="" slide="all">Trichromatic Color Theory</keyword>
+      <keyword chapter="" slide="all">Cone Cells</keyword>
+      <keyword chapter="" slide="all">Color Constancy (Optional Topic)</keyword>
+      <keyword chapter="" slide="all">References</keyword>
+    </keywords>
+    <title environment="title" chapter_type="" wbtag="course" scope="course" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" serial="" slide="">UGED 1533</title>
+    <slides environment="" chapter_type="">
+      <slide environment="" chapter_type="" canon_num="1" scope="course" course="UGED 1533" title="UGED 1533" id="s1" slide="1" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <title environment="title" chapter_type="" wbtag="course" scope="course" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">UGED 1533</title>
+        <topic environment="" chapter_type="" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">Trichromatic Color Theory</topic>
+        <topic environment="" chapter_type="" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">Opponent Process Model</topic>
+        <keywords slide="1" environ="slide" chapter="" course="UGED 1533"/>
+        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="2" id="s2" slide="2" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="2" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="2">Color Illusions</keyword>
+          <keyword chapter="" slide="2">The Interaction of Color</keyword>
+        </keywords>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Color Illusions</paragraphs>
+        </h3>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <i environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Interaction of Color</paragraphs>
+          </i>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Josef Albers </paragraphs>
+        </h4>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img src="https://s-media-cache-ak0.pinimg.com/originals/f4/15/f6/f415f6a9461cfb2c94b3dc9df314329c.jpg" environment="" />
+          <p environment=""></p>
+          <img src="http://infinitedictionary.com/blog/wp-content/uploads/2015/05/two-look-like-one.jpg" environment="" />
+          <br environment="" />
+          <i environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Interaction of Color</paragraphs>
+          </i>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Josef Albers </paragraphs>
+        </div>
+        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="3" id="s3" slide="3" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="3" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="3">Josef Albers, (German-born American, 1888 - 1976)</keyword>
+          <keyword chapter="" slide="3">Homage to The Square</keyword>
+        </keywords>
+        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Josef Albers, (German-born American, 1888 - 1976)</paragraphs>
+        </h4>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <h5 xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <i environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Homage to The Square</paragraphs>
+          </i>
+        </h5>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img src="http://www.metmuseum.org/toah/images/hb/hb_1972.40.7.jpg" environment="" />
+          <hr environment="" />
+          <img src="http://4.bp.blogspot.com/-9Mfb9cKJCQk/USZ5efSL45I/AAAAAAAAYHc/BK8JHOu2DCE/s1600/Josef+Albers+.+Hommage+au+carr%C3%A9+%5BHomage+to+the+Square%5D+.+1972.jpeg" environment="" />
+          <hr environment="" />
+          <img src="http://www.tate.org.uk/art/images/work/T/T02/T02311_10.jpg" environment="" />
+        </div>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="4" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="4">Trichromatic Color Theory</keyword>
+        </keywords>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Trichromatic Color Theory</paragraphs>
+        </h3>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The </paragraphs>
+        <b xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Trichromatic Color Theory</paragraphs>
+        </b>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> orginates from the work of Thomas Young and Hermann von Helmholtz in the 19th century.
+They postulated that the human eye senses light via three types of photoreceptors,
+each sensitive to a light of wavelengths within a particular range.</paragraphs>
+        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/YoungHelm.jpg" environment="" />
+        </div>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="5" id="s5" slide="5" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="5" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="5">Cone Cells</keyword>
+        </keywords>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Cone Cells</paragraphs>
+        </h3>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In a currently prevalent scientific model,
+color perception is effected by the stimulation of photoreceptor cells on the retina.
+One class of such cells are called </paragraphs>
+        <b xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">cone cells</paragraphs>
+        </b>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
+of which there are three types: </paragraphs>
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">L</paragraphs>
+        </strong>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">M</paragraphs>
+        </strong>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">,  and </paragraphs>
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">S</paragraphs>
+        </strong>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.
+Their responsiveness to light of various ranges of wavelengths
+peak at approximately: </paragraphs>
+        <ul xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <li environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> 564 - 580 nm (</paragraphs>
+            <strong environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">L</paragraphs>
+            </strong>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">ong wavelength), </paragraphs>
+          </li>
+          <li environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> 534 - 545 nm (</paragraphs>
+            <strong environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">M</paragraphs>
+            </strong>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">edium), </paragraphs>
+          </li>
+          <li environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> 420 - 440 nm (</paragraphs>
+            <strong environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">S</paragraphs>
+            </strong>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">hort), </paragraphs>
+          </li>
+        </ul>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> respectively. </paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Cones_SMJ2_E.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Normalized responsivity spectra of human cone cells, S, M, and L types
+(from </paragraphs>
+          <a href="https://en.wikipedia.org/wiki/Cone_cell" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Wikipedia</paragraphs>
+          </a>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.) </paragraphs>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img src="images/Linear_visible_spectrum.svg" environment="" />
+        </div>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="6" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In the </paragraphs>
+        <b xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Opponent Process Model</paragraphs>
+        </b>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
+signals from the cone cells (and rod cells) go through another layer of processing,
+in which calculations based on the relative strengths of the signals
+give rise to our perception of hue, saturation/chroma and brightness/lightness.</paragraphs>
+        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="7" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In one proposed model, the opponent process filters signals from photoreceptor cells into
+three channels of </paragraphs>
+        <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">opponent</paragraphs>
+        </i>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> color sensations: </paragraphs>
+        <ul xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <li environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Red-Green (</paragraphs>
+            <strong environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">R-G</paragraphs>
+            </strong>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
+          </li>
+          <li environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Yellow-Blue (</paragraphs>
+            <strong environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Y-B</paragraphs>
+            </strong>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
+          </li>
+          <li environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Black-White (the </paragraphs>
+            <strong environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">A</paragraphs>
+            </strong>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">chromatic response channel) </paragraphs>
+          </li>
+        </ul>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width:100%" environment="">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Diagram_of_the_opponent_process.png" environment="" />
+        </div>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="8" id="s8" slide="8" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="8" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Experimental data suggest that our perception of red and green is derived from the </paragraphs>
+        <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">difference</paragraphs>
+        </i>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> between the stimuli from the L and M cone cells,
+in a manner which is </paragraphs>
+        <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">antagonistic</paragraphs>
+        </i>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">. </paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This means that, perceptually, one color being </paragraphs>
+          <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">more</paragraphs>
+          </i>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> red than another
+is equivalent to it being </paragraphs>
+          <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">less</paragraphs>
+          </i>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> green, and vice versa. </paragraphs>
+          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
+          <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Along the same vein,  we cannot </paragraphs>
+            <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">psychologically</paragraphs>
+            </i>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> conceive of a color which is both
+reddish and greenish. </paragraphs>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Note that, seemingly paradoxically, red and green mix additively to produce yellow,
+but most of us do not perceive yellow as being both reddish and greenish. </paragraphs>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> On the other hand, we have no problem seeing the color cyan as being both green and blue. </paragraphs>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
+            <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Similarly, the color sensation of yellow-versus-blue is also processed antagonistically.
+No color is perceived as being yellowish and bluish at the same time. </paragraphs>
+              <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
+              <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Moreover, the red-green and yellow-blue channels are independent from each other.
+Hence, red and green are both perceived as neither yellow or blue, and
+yellow and blue are perceived as neither red or green. </paragraphs>
+              </collapse>
+            </collapse>
+          </collapse>
+        </newcol>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="9" environ="slide" chapter="" course="UGED 1533"/>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img style="width:360px" src="images/hurvich_jameson_diag.jpg" environment="" />
+          <div style="text-align:center" environment="">
+            <br environment="" />
+            <i environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">An Opponent-Process Theory of Color Vision</paragraphs>
+            </i>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, L. Hurvich, D. Jameson </paragraphs>
+          </div>
+        </div>
+        <center xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">   </paragraphs>
+          <iframe scrolling="no" style="height:720px;width:500px;text-align:center;margin:auto" src="content/uged1533/color/add_mix1.html" environment=""></iframe>
+        </center>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="10" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> It has been proposed that an S cone stimulus contributes positively to the
+red-green channel.
+Under this proposition, it is easy to see why spectral colors towards the violet
+end of the visible color spectrum appears reddish. </paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Moreover, this explains why, perceptually,
+it appears natural to wrap the visible hue spectrum
+into a color wheel, with magenta serving as the link between violet and red. </paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BYR_color_wheel.svg" environment="" />
+        </div>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img src="images/Linear_visible_spectrum.svg" environment="" />
+        </div>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (Food for thought: there is no magenta on the rainbow.) </paragraphs>
+        <paragraphs>
+          <!-- @slide -->
+        </paragraphs>
+        <paragraphs>
+          <!-- The opponent process model explains why even though the additive mixture of red with  -->
+        </paragraphs>
+        <paragraphs>
+          <!-- green gives yellow, we do not "perceive" yellow as such a mixture. -->
+        </paragraphs>
+        <paragraphs>
+          <!-- Instead, we view yellow as a color which is <b>neither red nor green</b>. -->
+        </paragraphs>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="11" id="s11" slide="11" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="11" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In an opponent process model, our perception of color is established via comparison.
+This may explain some of the color illusions which result when we place colors of
+different hues or lightness adjacent to each other,
+e.g. a neutral grey appearing pinkish next to a greenish blue color. </paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
+          <div class="dual-left" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> &lt;svg width="300px" height="300px"&gt;
+&lt;rect x="0" y="0" width="300" height="300" fill="#0ee" /&gt;
+&lt;rect x="100" y="100" width="100" height="100" fill="#ddd" /&gt;
+&lt;/svg&gt; </paragraphs>
+          </div>
+          <div class="dual-right" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> &lt;svg width="300px" height="300px"&gt;
+&lt;rect x="100" y="100" width="100" height="100" fill="#ddd" /&gt;
+&lt;/svg&gt; </paragraphs>
+          </div>
+        </div>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="12" id="s12" slide="12" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="12" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> It also explains the illusion of complementary </paragraphs>
+        <b xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">afterimages</paragraphs>
+        </b>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, where, for example,
+someone having stared at a red color for a long time who then suddenly looks upon
+a white sheet might see a green color. </paragraphs>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="13" id="s13" slide="13" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="13" environ="slide" chapter="" course="UGED 1533"/>
+        <iframe xmlns="http://www.w3.org/1999/xhtml" style="height:800px" src="content/uged1533/color/red.html" environment=""></iframe>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="14" id="s14" slide="14" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="14" environ="slide" chapter="" course="UGED 1533"/>
+        <div xmlns="http://www.w3.org/1999/xhtml" style="height:600px;width:100%;background:#fff" environment=""></div>
+        <paragraphs>
+          <!-- @slide -->
+        </paragraphs>
+        <paragraphs>
+          <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJ_e9KXIJkA" frameborder="0" allowfullscreen></iframe> -->
+        </paragraphs>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="15" id="s15" slide="15" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="15" environ="slide" chapter="" course="UGED 1533"/>
+        <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> If you mean to represent great darkness, it
+must be done by contrasting it with great light;
+on the contrary, if you want to produce great
+brightness, you must oppose to it a very dark
+shade : so a pale yellow will cause red to appear
+more beautiful than if opposed to a purple colour.</paragraphs>
+          <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">There is another rule, by observing which,
+though you do not increase the natural beauty of
+the colours, yet by bringing them together they
+may give additional grace to each other, as green
+placed near red, while the effect would be quite
+the reverse, if placed near blue. </paragraphs>
+        </blockquote>
+        <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:right" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Leonardo da Vinci, </paragraphs>
+          <i environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Treatise on Painting</paragraphs>
+          </i>
+        </div>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
+          <div class="dual-left" environment="">
+            <a target="_blank" href="http://www.sothebys.com/en/auctions/ecatalogue/2013/european-paintings-l13102/lot.14.html" environment="">
+              <img src="http://www.sothebys.com/content/dam/stb/lots/L13/L13102/037L13102_763JB.jpg" environment="" />
+            </a>
+          </div>
+          <div class="dual-right" environment="">
+            <a target="_blank" href="https://www.wikiart.org/en/joaqu-n-sorolla/beached-boats-1915" environment="">
+              <img src="https://uploads4.wikiart.org/images/joaquin-sorolla/beached-boats-1915.jpg" environment="" />
+            </a>
+          </div>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Joaqu&amp;iacuten Sorolla </paragraphs>
+        </div>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="16" id="s16" slide="16" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="16" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The achromatic channel is most responsive to
+spectral light which lies in the green or yellowish-green range.  This may explain
+why green and yellow spectral colors appear brighter than the rest. </paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img src="images/Linear_visible_spectrum.svg" environment="" />
+        </div>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Moreover, "saturation" may now be understood as a function of the
+"relative amounts of chromatic and achromatic responses."
+Hence, </paragraphs>
+          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
+          <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> At the two spectral extremes where the chromatic responses are large relative to
+the white response, the spectral saturation is high. </paragraphs>
+          </blockquote>
+          <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:right;font-size:0.75em" environment="newcol">
+            <i environment="newcol">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">An Opponent-Process Theory of Color Vision</paragraphs>
+            </i>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, L. Hurvich, D. Jameson </paragraphs>
+          </div>
+          <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This explains the shape of the </paragraphs>
+          <a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://en.wikipedia.org/wiki/Munsell_color_system" environment="newcol">
+            <b environment="newcol">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Munsell Sphere</paragraphs>
+            </b>
+          </a>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">: </paragraphs>
+          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
+          <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="newcol">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">     </paragraphs>
+              <div class="dual-left" environment="newcol">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">         </paragraphs>
+                <a title="Albert Henry Munsell [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Munsell_color_sphere.png" environment="newcol">
+                  <img width="512" alt="Munsell color sphere" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Munsell_color_sphere.png/512px-Munsell_color_sphere.png" environment="newcol" />
+                </a>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">     </paragraphs>
+              </div>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">     </paragraphs>
+              <div class="dual-right" environment="newcol">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">         </paragraphs>
+                <a title="SharkD [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Munsell_1943_color_solid_cylindrical_coordinates.png" environment="newcol">
+                  <img width="512" alt="Munsell 1943 color solid cylindrical coordinates" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Munsell_1943_color_solid_cylindrical_coordinates.png/512px-Munsell_1943_color_solid_cylindrical_coordinates.png" environment="newcol" />
+                </a>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">     </paragraphs>
+              </div>
+            </div>
+          </collapse>
+        </newcol>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="17" id="s17" slide="17" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="17" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Incidentally, a very common painter's palette consists of: </paragraphs>
+        <center xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <strong environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">black, white, red, green, blue and yellow.</paragraphs>
+          </strong>
+        </center>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img src="images/palette.jpg" environment="" />
+          <p environment=""></p>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> A (very messy) painter's palette. </paragraphs>
+        </div>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="18" id="s18" slide="18" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="18" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="18">Color Constancy (Optional Topic)</keyword>
+        </keywords>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Color Constancy (Optional Topic)</paragraphs>
+        </h3>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In the context of trichromatic color theory,
+an object's color is dependent upon the the color of the light which illuminates it.
+For example, a red apple lit by a blue light should appear purple. </paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> However, it appears that the brain has a built-in mechanism to filter out
+lighting conditions and interpret (unconsciously) the "true" color of an object. </paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <ul xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <li environment="">
+            <a href="http://web.mit.edu/persci/people/adelson/checkershadow_illusion.html" environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> web.mit.edu</paragraphs>
+            </a>
+          </li>
+          <li environment="">
+            <a href="https://www.echalk.co.uk/amusements/OpticalIllusions/colourPerception/colourPerception.html" environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">www.echalk.co.uk</paragraphs>
+            </a>
+          </li>
+        </ul>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="19" id="s19" slide="19" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="19" environ="slide" chapter="" course="UGED 1533"/>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <img src="https://upload.wikimedia.org/wikipedia/en/a/a8/The_Dress_%28viral_phenomenon%29.png" environment="" />
+        </div>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
+            <img src="https://imgs.xkcd.com/comics/dress_color.png" environment="newcol" />
+            <a href="http://xkcd.com/1492/" environment="newcol">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">xkcd.com</paragraphs>
+            </a>
+          </div>
+        </newcol>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="20" id="s20" slide="20" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="20" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="20">References</keyword>
+        </keywords>
+        <h2 xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">References</paragraphs>
+        </h2>
+        <ol xmlns="http://www.w3.org/1999/xhtml" environment="">
+          <li value="1" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> L. Hurvich, D. Jameson, </paragraphs>
+            <i environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">An Opponent-Process Theory of Color Vision</paragraphs>
+            </i>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.
+Psychological Review Vol. 64, No. 6, 1957 </paragraphs>
+          </li>
+        </ol>
+      </slide>
+    </slides>
+  </course>
+</document>
