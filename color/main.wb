@@ -1,7 +1,7 @@
-@sep
+@slide
 @course{UGED 1533}
 @topic{Towards Color}
-@sep
+@slide
 When the subject matter of a painting involves many right angles 
 and regularly spaced objects, the technique of linear perspective has proved to be
 a powerful tool in creating the illusion of space and 3-dimensional forms
@@ -15,7 +15,7 @@ a human face)?
 @col
 To tackle this problem, the artist has another powerful tool at their disposal:
 <b>color</b>.
-@sep
+@slide
 <h3>Value</h3>
 The theory of color is rich, complex and diverse.
 One popular model is called "the Munsell System".
@@ -39,7 +39,7 @@ all squares have the same value:
 <a title="By ColorValue.jpg: Mahlum derivative work: McSush (ColorValue.jpg) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AColorValue.svg"><img style="height:600px;width:auto" alt="ColorValue" src="https://upload.wikimedia.org/wikipedia/commons/4/45/ColorValue.svg"/></a>
 </div>
 @endcol
-@sep
+@slide
 From quite early on, 
 artists were aware that by varying the values of different parts of the painted image,
 one could simulate 3-dimensional "form" on a flat surface:
@@ -56,7 +56,7 @@ one could simulate 3-dimensional "form" on a flat surface:
 <br>
 <center><a href="https://en.wikipedia.org/wiki/Fayum_mummy_portraits">
 "Fayum mummy portraits"</a><br>(1st century BC - 3rd century AD)</center>
-@sep
+@slide
 <div class=image>
 <a href="https://www.metmuseum.org/toah/works-of-art/60.173/">
 <img style="height:600px;width:auto" src="https://www.metmuseum.org/toah/images/hb/hb_60.173.jpg">
@@ -71,12 +71,12 @@ Berlinghiero (Italian, 1228 - 1236)
 </a>
 Fra Angelico (Italian, 1395 - 1455)
 </div>
-@sep
+@slide
 During the Renaissance, the use of light and shadow to "model" form was developed in
 earnest, and the general technique became known as <i>Chiaroscuro</i>.
 (The words <i>chiaro</i> and <i>scuro</i> mean "light" and "dark" in Italian, 
 respectively.)
-@sep
+@slide
 <div class=image>
 <img src="images/fig_08.png">
 </div>
@@ -93,7 +93,7 @@ The neck, or any other part which is raised straight upwards, and has a projecti
 <i>A Treatise on Painting</i></a>,
 Leonardo Da Vinci
 </center>
-@sep
+@slide
 <div class=image>
 <a title="Andrea Mantegna [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAndrea_Mantegna_014.jpg"><img width="512" alt="Andrea Mantegna 014" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Andrea_Mantegna_014.jpg/512px-Andrea_Mantegna_014.jpg"/></a>
 <i>Martyrdom of Saint Sebastian</i>
@@ -143,7 +143,7 @@ Jose de Ribera (Spanish, 1591 - 1652)
 </a>
 <i>VIVA CHE 1968!</i>, Jim FitzPatrick (Irish)
 </div>
-@sep
+@slide
 <h4><i>Supper at Emmaus</i></h4>
 Caravaggio
 <hr>
@@ -154,7 +154,7 @@ Caravaggio
 <div class=image>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0LwwaQNb_cQ" frameborder="0" allowfullscreen></iframe>
 </div>
-@sep
+@slide
 <h3>Academic Studies</h3>
 <hr>
 <div class=image>
@@ -181,10 +181,10 @@ Pablo Picasso (Spanish, 1881 - 1973)
 <a href="http://www.museoreinasofia.es/en/collection/artwork/guernica">
 <i>Guernica</i>, Pablo Picasso</a>
 </div>
-@sep
+@slide
 @image{images/david_eye_study.jpg}
 <center>Tonal Study of <a href="https://en.wikipedia.org/wiki/David_(Michelangelo)"><i>David</i></a>'s eye<br>(Charcoal on paper)</center>
-@sep
+@slide
 <h3>
 <i>The Grand Odalisque</i>
 </h3>
