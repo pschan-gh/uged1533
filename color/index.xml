@@ -8,18 +8,6 @@
       <branch chapter="" slide="3" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="homage to the square">Homage to The Square</branch>
       <branch chapter="" slide="29" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="homage to the square">Homage to The Square</branch>
     </entry>
-    <entry keyword="value">
-      <branch chapter="" slide="3" filename="main.xml" file_md5="2a3f7e9cf81a881198369fc7093328e0" keyword="value">Value</branch>
-    </entry>
-    <entry keyword="supper at emmaus">
-      <branch chapter="" slide="9" filename="main.xml" file_md5="2a3f7e9cf81a881198369fc7093328e0" keyword="supper at emmaus">Supper at Emmaus</branch>
-    </entry>
-    <entry keyword="academic studies">
-      <branch chapter="" slide="10" filename="main.xml" file_md5="2a3f7e9cf81a881198369fc7093328e0" keyword="academic studies">Academic Studies</branch>
-    </entry>
-    <entry keyword="the grand odalisque">
-      <branch chapter="" slide="12" filename="main.xml" file_md5="2a3f7e9cf81a881198369fc7093328e0" keyword="the grand odalisque">The Grand Odalisque</branch>
-    </entry>
     <entry keyword="the color spectrum">
       <branch chapter="" slide="3" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="the color spectrum">The Color Spectrum</branch>
     </entry>
@@ -208,6 +196,18 @@
     </entry>
     <entry keyword="andrew wyeth  american, 1917-2009)">
       <branch chapter="" slide="32" filename="main2.xml" file_md5="7a6ffffa2ba7f90ff528b74a73759ec6" keyword="andrew wyeth  american, 1917-2009)">Andrew Wyeth (American, 1917-2009)</branch>
+    </entry>
+    <entry keyword="value">
+      <branch chapter="" slide="3" filename="main.xml" file_md5="aa91e344819daec050e3c27f3909dc3e" keyword="value">Value</branch>
+    </entry>
+    <entry keyword="supper at emmaus">
+      <branch chapter="" slide="9" filename="main.xml" file_md5="aa91e344819daec050e3c27f3909dc3e" keyword="supper at emmaus">Supper at Emmaus</branch>
+    </entry>
+    <entry keyword="academic studies">
+      <branch chapter="" slide="10" filename="main.xml" file_md5="aa91e344819daec050e3c27f3909dc3e" keyword="academic studies">Academic Studies</branch>
+    </entry>
+    <entry keyword="the grand odalisque">
+      <branch chapter="" slide="12" filename="main.xml" file_md5="aa91e344819daec050e3c27f3909dc3e" keyword="the grand odalisque">The Grand Odalisque</branch>
     </entry>
   </index>
 </document>
