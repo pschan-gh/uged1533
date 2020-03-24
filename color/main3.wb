@@ -1,4 +1,3 @@
-@sep
 @course{UGED 1533}
 @topic{Color Theory<br>Color Mixing<br>Different Models}
 @sep
@@ -93,7 +92,7 @@ simulates additive mixing.
 
 @col
 <center>
-  <iframe scrolling='no' style="height:720px;width:500px;text-align:center;margin:auto" src='content/uged1533/color/add_mix1.html'></iframe>
+  <iframe scrolling='no' style="height:720px;width:500px;text-align:center;margin:auto" src='https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/add_mix1.html'></iframe>
 </center>
 
 @sep
@@ -108,7 +107,7 @@ This suggests one way of encoding color; namely:
 in a list of the respective intensities/magnitudes
 of all the spectral colors in the light mixture.
 
-Given the total number (about 360) of unique wavelengths in the visible light spectrum,
+Given the enormous number of wavelengths in the visible light spectrum,
 this solution is hardly ideal.
 
 @col
