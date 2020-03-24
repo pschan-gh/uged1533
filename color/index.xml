@@ -1,12 +1,12 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
     <entry keyword="josef albers  (german-born american, 1888 - 1976)">
+      <branch chapter="" slide="3" filename="main4.xml" file_md5="82801a2fc00f4ee1e6fa4f12e55fcf2e" keyword="josef albers  (german-born american, 1888 - 1976)">Josef Albers, (German-born American, 1888 - 1976)</branch>
       <branch chapter="" slide="29" filename="main2.xml" file_md5="f9fdd6d0ff2f3e667b394ac690ee799e" keyword="josef albers  (german-born american, 1888 - 1976)">Josef Albers, (German-born American, 1888 - 1976)</branch>
-      <branch chapter="" slide="3" filename="main4.xml" file_md5="e438fc9fbad0f208b5429d9a97bdac46" keyword="josef albers  (german-born american, 1888 - 1976)">Josef Albers, (German-born American, 1888 - 1976)</branch>
     </entry>
     <entry keyword="homage to the square">
+      <branch chapter="" slide="3" filename="main4.xml" file_md5="82801a2fc00f4ee1e6fa4f12e55fcf2e" keyword="homage to the square">Homage to The Square</branch>
       <branch chapter="" slide="29" filename="main2.xml" file_md5="f9fdd6d0ff2f3e667b394ac690ee799e" keyword="homage to the square">Homage to The Square</branch>
-      <branch chapter="" slide="3" filename="main4.xml" file_md5="e438fc9fbad0f208b5429d9a97bdac46" keyword="homage to the square">Homage to The Square</branch>
     </entry>
     <entry keyword="value">
       <branch chapter="" slide="3" filename="main.xml" file_md5="aa91e344819daec050e3c27f3909dc3e" keyword="value">Value</branch>
@@ -19,6 +19,51 @@
     </entry>
     <entry keyword="the grand odalisque">
       <branch chapter="" slide="12" filename="main.xml" file_md5="aa91e344819daec050e3c27f3909dc3e" keyword="the grand odalisque">The Grand Odalisque</branch>
+    </entry>
+    <entry keyword="the color spectrum">
+      <branch chapter="" slide="3" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="the color spectrum">The Color Spectrum</branch>
+    </entry>
+    <entry keyword="additive color mixing">
+      <branch chapter="" slide="8" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="additive color mixing">Additive Color Mixing</branch>
+    </entry>
+    <entry keyword="rgb color space">
+      <branch chapter="" slide="13" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="rgb color space">RGB Color Space</branch>
+    </entry>
+    <entry keyword="rgb">
+      <branch chapter="" slide="13" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="rgb">RGB</branch>
+    </entry>
+    <entry keyword="subtractive color mixing">
+      <branch chapter="" slide="14" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="subtractive color mixing">Subtractive Color Mixing</branch>
+    </entry>
+    <entry keyword="georges seurat  french, 1859 - 1891)">
+      <branch chapter="" slide="14" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="georges seurat  french, 1859 - 1891)">Georges Seurat (French, 1859 - 1891)</branch>
+    </entry>
+    <entry keyword="roy lichtenstein  american, 1923 - 1997)">
+      <branch chapter="" slide="14" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="roy lichtenstein  american, 1923 - 1997)">Roy Lichtenstein (American, 1923 - 1997)</branch>
+    </entry>
+    <entry keyword="hue">
+      <branch chapter="" slide="15" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="hue">Hue</branch>
+    </entry>
+    <entry keyword="saturation">
+      <branch chapter="" slide="16" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="saturation">Saturation</branch>
+    </entry>
+    <entry keyword="color illusions">
+      <branch chapter="" slide="2" filename="main4.xml" file_md5="82801a2fc00f4ee1e6fa4f12e55fcf2e" keyword="color illusions">Color Illusions</branch>
+    </entry>
+    <entry keyword="the interaction of color">
+      <branch chapter="" slide="2" filename="main4.xml" file_md5="82801a2fc00f4ee1e6fa4f12e55fcf2e" keyword="the interaction of color">The Interaction of Color</branch>
+    </entry>
+    <entry keyword="trichromatic color theory">
+      <branch chapter="" slide="4" filename="main4.xml" file_md5="82801a2fc00f4ee1e6fa4f12e55fcf2e" keyword="trichromatic color theory">Trichromatic Color Theory</branch>
+    </entry>
+    <entry keyword="cone cells">
+      <branch chapter="" slide="5" filename="main4.xml" file_md5="82801a2fc00f4ee1e6fa4f12e55fcf2e" keyword="cone cells">Cone Cells</branch>
+    </entry>
+    <entry keyword="color constancy  optional topic)">
+      <branch chapter="" slide="18" filename="main4.xml" file_md5="82801a2fc00f4ee1e6fa4f12e55fcf2e" keyword="color constancy  optional topic)">Color Constancy (Optional Topic)</branch>
+    </entry>
+    <entry keyword="references">
+      <branch chapter="" slide="20" filename="main4.xml" file_md5="82801a2fc00f4ee1e6fa4f12e55fcf2e" keyword="references">References</branch>
     </entry>
     <entry keyword="colour">
       <branch chapter="" slide="2" filename="main2.xml" file_md5="f9fdd6d0ff2f3e667b394ac690ee799e" keyword="colour">Colour</branch>
@@ -163,51 +208,6 @@
     </entry>
     <entry keyword="andrew wyeth  american, 1917-2009)">
       <branch chapter="" slide="32" filename="main2.xml" file_md5="f9fdd6d0ff2f3e667b394ac690ee799e" keyword="andrew wyeth  american, 1917-2009)">Andrew Wyeth (American, 1917-2009)</branch>
-    </entry>
-    <entry keyword="the color spectrum">
-      <branch chapter="" slide="3" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="the color spectrum">The Color Spectrum</branch>
-    </entry>
-    <entry keyword="additive color mixing">
-      <branch chapter="" slide="8" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="additive color mixing">Additive Color Mixing</branch>
-    </entry>
-    <entry keyword="rgb color space">
-      <branch chapter="" slide="13" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="rgb color space">RGB Color Space</branch>
-    </entry>
-    <entry keyword="rgb">
-      <branch chapter="" slide="13" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="rgb">RGB</branch>
-    </entry>
-    <entry keyword="subtractive color mixing">
-      <branch chapter="" slide="14" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="subtractive color mixing">Subtractive Color Mixing</branch>
-    </entry>
-    <entry keyword="georges seurat  french, 1859 - 1891)">
-      <branch chapter="" slide="14" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="georges seurat  french, 1859 - 1891)">Georges Seurat (French, 1859 - 1891)</branch>
-    </entry>
-    <entry keyword="roy lichtenstein  american, 1923 - 1997)">
-      <branch chapter="" slide="14" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="roy lichtenstein  american, 1923 - 1997)">Roy Lichtenstein (American, 1923 - 1997)</branch>
-    </entry>
-    <entry keyword="hue">
-      <branch chapter="" slide="15" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="hue">Hue</branch>
-    </entry>
-    <entry keyword="saturation">
-      <branch chapter="" slide="16" filename="main3.xml" file_md5="0596db5131a1294280b481af71165812" keyword="saturation">Saturation</branch>
-    </entry>
-    <entry keyword="color illusions">
-      <branch chapter="" slide="2" filename="main4.xml" file_md5="e438fc9fbad0f208b5429d9a97bdac46" keyword="color illusions">Color Illusions</branch>
-    </entry>
-    <entry keyword="the interaction of color">
-      <branch chapter="" slide="2" filename="main4.xml" file_md5="e438fc9fbad0f208b5429d9a97bdac46" keyword="the interaction of color">The Interaction of Color</branch>
-    </entry>
-    <entry keyword="trichromatic color theory">
-      <branch chapter="" slide="4" filename="main4.xml" file_md5="e438fc9fbad0f208b5429d9a97bdac46" keyword="trichromatic color theory">Trichromatic Color Theory</branch>
-    </entry>
-    <entry keyword="cone cells">
-      <branch chapter="" slide="5" filename="main4.xml" file_md5="e438fc9fbad0f208b5429d9a97bdac46" keyword="cone cells">Cone Cells</branch>
-    </entry>
-    <entry keyword="color constancy  optional topic)">
-      <branch chapter="" slide="18" filename="main4.xml" file_md5="e438fc9fbad0f208b5429d9a97bdac46" keyword="color constancy  optional topic)">Color Constancy (Optional Topic)</branch>
-    </entry>
-    <entry keyword="references">
-      <branch chapter="" slide="20" filename="main4.xml" file_md5="e438fc9fbad0f208b5429d9a97bdac46" keyword="references">References</branch>
     </entry>
   </index>
 </document>

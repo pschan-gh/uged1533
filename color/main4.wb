@@ -108,14 +108,14 @@ Hence, red and green are both perceived as neither yellow or blue, and
 yellow and blue are perceived as neither red or green.
 @sep
 <div class='image'>
-<img style="width:360px" src="images/hurvich_jameson_diag.jpg">
+<img style="width:360px" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/hurvich_jameson_diag.jpg">
 <div style="text-align:center">
 <br>
 <i>An Opponent-Process Theory of Color Vision</i>, L. Hurvich, D. Jameson
 </div>
 </div>
 <center>
-  <iframe scrolling='no' style="height:720px;width:500px;text-align:center;margin:auto" src='content/uged1533/color/add_mix1.html'></iframe>
+  <iframe scrolling='no' style="height:720px;width:100%;text-align:center" src='https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/add_mix1.html'></iframe>
 </center>
 @sep
 It has been proposed that an S cone stimulus contributes positively to the
@@ -132,15 +132,11 @@ into a color wheel, with magenta serving as the link between violet and red.
 </div>
 <p>
 <div class='image'>
-<img src="images/Linear_visible_spectrum.svg">
+<img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/Linear_visible_spectrum.svg">
 </div>
 <p>
 (Food for thought: there is no magenta on the rainbow.)
-<!-- @sep -->
-<!-- The opponent process model explains why even though the additive mixture of red with  -->
-<!-- green gives yellow, we do not "perceive" yellow as such a mixture. -->
-<!-- Instead, we view yellow as a color which is <b>neither red nor green</b>. -->
-@sep
+@slide
 In an opponent process model, our perception of color is established via comparison.
 This may explain some of the color illusions which result when we place colors of
 different hues or lightness adjacent to each other,
@@ -164,7 +160,7 @@ It also explains the illusion of complementary <b>afterimages</b>, where, for ex
 someone having stared at a red color for a long time who then suddenly looks upon
 a white sheet might see a green color.
 @sep
-<iframe style="height:800px" src="content/uged1533/color/red.html"></iframe>
+<iframe style="height:800px" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/red.html"></iframe>
 @sep
 <div style="height:600px;width:100%;background:#fff">
 </div>
@@ -211,7 +207,7 @@ spectral light which lies in the green or yellowish-green range.  This may expla
 why green and yellow spectral colors appear brighter than the rest.
 <p>
 <div class='image'>
-<img src="images/Linear_visible_spectrum.svg">
+<img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/Linear_visible_spectrum.svg">
 </div>
 <hr>
 @col
@@ -245,7 +241,7 @@ Incidentally, a very common painter's palette consists of:
 </center>
 <hr>
 <div class='image'>
-<img src="images/palette.jpg"/>
+<img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/palette.jpg"/>
 <p>
 A (very messy) painter's palette.
 </div>
