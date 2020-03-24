@@ -103,17 +103,6 @@ of the two original colors
 (Notice how this differs from how we hear two musical notes being played at the same time).
 
 @col
-This suggests one way of encoding color; namely:
-in a list of the respective intensities/magnitudes
-of all the spectral colors in the light mixture.
-
-Given the enormous number of wavelengths in the visible light spectrum,
-this solution is hardly ideal.
-
-@col
-However, in this regard human perception of color has one advantage
-(or disadvantage?):
-<br/><br/>
 <blockquote><i>
 Two spectral colors (for example, red and blue) could mix additively to produce
 a sensation of a third spectral color (violet).
@@ -124,11 +113,8 @@ Two lights which are perceived to be of the same color,
 yet have different spectral compositions, are called <b>metamers</b> of each other.
 
 @col
-The existence of metamerism
-means that the previously suggested method of encoding light in terms of
-its spectral composition,
-i.e.  a list of the intensities of all its component spectral lightwaves,
-might be quite redundant.
+The existence of metamerism means that to capture information about color
+we might not need the full spectral decomposition of the light ray producing the color in question.
 
 @col
 For example, whatever intensity we record for spectral violet could simply be
@@ -246,11 +232,12 @@ the respective intensities of the three primary colors
 which are needed to produce
 the color in question via additive mixing.  This is the RGB color model.
 <hr>
-<iframe scrolling='no' style="height:400px" src='content/uged1533/color/rgb.html'>rgb</iframe>
+<iframe scrolling='no' style="height:400px" src='https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/rgb.html'>rgb</iframe>
 
 @col
 This amounts to encoding color as a triplet of positive numbers between 0 and 1:
 \[
+\newcommand{\colvec}[1]{\begin{pmatrix}#1\end{pmatrix}}
 \colvec{R\\G\\B}
 \]
 But should this triplet be viewed as a <b>vector</b>?

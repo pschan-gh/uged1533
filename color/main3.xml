@@ -191,56 +191,40 @@ of the two original colors
 (Notice how this differs from how we hear two musical notes being played at the same time).</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This suggests one way of encoding color; namely:
-in a list of the respective intensities/magnitudes
-of all the spectral colors in the light mixture.</paragraphs>
-          <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Given the enormous number of wavelengths in the visible light spectrum,
-this solution is hardly ideal.</paragraphs>
+          <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+            <i environment="newcol">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Two spectral colors (for example, red and blue) could mix additively to produce
+a sensation of a third spectral color (violet). </paragraphs>
+            </i>
+          </blockquote>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This phenomenon is called </paragraphs>
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">metamerism</paragraphs>
+          </b>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">. </paragraphs>
+          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Two lights which are perceived to be of the same color,
+yet have different spectral compositions, are called </paragraphs>
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">metamers</paragraphs>
+          </b>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> of each other.</paragraphs>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> However, in this regard human perception of color has one advantage
-(or disadvantage?): </paragraphs>
-            <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-            <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-            <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <i environment="newcol">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Two spectral colors (for example, red and blue) could mix additively to produce
-a sensation of a third spectral color (violet). </paragraphs>
-              </i>
-            </blockquote>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This phenomenon is called </paragraphs>
-            <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">metamerism</paragraphs>
-            </b>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">. </paragraphs>
-            <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Two lights which are perceived to be of the same color,
-yet have different spectral compositions, are called </paragraphs>
-            <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">metamers</paragraphs>
-            </b>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> of each other.</paragraphs>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The existence of metamerism means that to capture information about color
+we might not need the full spectral decomposition of the light ray producing the color in question.</paragraphs>
             <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
             <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The existence of metamerism
-means that the previously suggested method of encoding light in terms of
-its spectral composition,
-i.e.  a list of the intensities of all its component spectral lightwaves,
-might be quite redundant.</paragraphs>
-              <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
-              <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> For example, whatever intensity we record for spectral violet could simply be
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> For example, whatever intensity we record for spectral violet could simply be
 tallied into the entries for red and blue,
 consequently shortening our list by one entry.
 So, now the natural question to ask is:</paragraphs>
-                <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
-                <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> How short can we make this list such that all visible colors can be so encoded?
+              <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+              <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> How short can we make this list such that all visible colors can be so encoded?
 In other words, what is the least number of colors such that every perceptible
 colored light is a metamer of a mixture of these colors?</paragraphs>
-                  <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
-                </collapse>
+                <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
               </collapse>
             </collapse>
           </collapse>
@@ -423,13 +407,14 @@ the respective intensities of the three primary colors
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> which are needed to produce
 the color in question via additive mixing.  This is the RGB color model. </paragraphs>
         <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <iframe xmlns="http://www.w3.org/1999/xhtml" scrolling="no" style="height:400px" src="content/uged1533/color/rgb.html" environment="">
+        <iframe xmlns="http://www.w3.org/1999/xhtml" scrolling="no" style="height:400px" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/rgb.html" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">rgb</paragraphs>
         </iframe>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This amounts to encoding color as a triplet of positive numbers between 0 and 1:
 \[
+\newcommand{\colvec}[1]{\begin{pmatrix}#1\end{pmatrix}}
 \colvec{R\\G\\B}
 \]
 But should this triplet be viewed as a </paragraphs>
