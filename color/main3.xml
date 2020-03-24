@@ -177,7 +177,7 @@ simulates additive mixing.</paragraphs>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
           <center xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">   </paragraphs>
-            <iframe scrolling="no" style="height:720px;width:500px;text-align:center;margin:auto" src="content/uged1533/color/add_mix1.html" environment="newcol"></iframe>
+            <iframe scrolling="no" style="height:720px;width:500px;text-align:center;margin:auto" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/add_mix1.html" environment="newcol"></iframe>
           </center>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
         </newcol>
@@ -195,7 +195,7 @@ of the two original colors
 in a list of the respective intensities/magnitudes
 of all the spectral colors in the light mixture.</paragraphs>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Given the total number (about 360) of unique wavelengths in the visible light spectrum,
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Given the enormous number of wavelengths in the visible light spectrum,
 this solution is hardly ideal.</paragraphs>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">

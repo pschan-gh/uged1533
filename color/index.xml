@@ -8,33 +8,6 @@
       <branch chapter="" slide="3" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="homage to the square">Homage to The Square</branch>
       <branch chapter="" slide="29" filename="main2.xml" file_md5="f9fdd6d0ff2f3e667b394ac690ee799e" keyword="homage to the square">Homage to The Square</branch>
     </entry>
-    <entry keyword="the color spectrum">
-      <branch chapter="" slide="3" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="the color spectrum">The Color Spectrum</branch>
-    </entry>
-    <entry keyword="additive color mixing">
-      <branch chapter="" slide="8" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="additive color mixing">Additive Color Mixing</branch>
-    </entry>
-    <entry keyword="rgb color space">
-      <branch chapter="" slide="13" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="rgb color space">RGB Color Space</branch>
-    </entry>
-    <entry keyword="rgb">
-      <branch chapter="" slide="13" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="rgb">RGB</branch>
-    </entry>
-    <entry keyword="subtractive color mixing">
-      <branch chapter="" slide="14" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="subtractive color mixing">Subtractive Color Mixing</branch>
-    </entry>
-    <entry keyword="georges seurat  french, 1859 - 1891)">
-      <branch chapter="" slide="14" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="georges seurat  french, 1859 - 1891)">Georges Seurat (French, 1859 - 1891)</branch>
-    </entry>
-    <entry keyword="roy lichtenstein  american, 1923 - 1997)">
-      <branch chapter="" slide="14" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="roy lichtenstein  american, 1923 - 1997)">Roy Lichtenstein (American, 1923 - 1997)</branch>
-    </entry>
-    <entry keyword="hue">
-      <branch chapter="" slide="15" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="hue">Hue</branch>
-    </entry>
-    <entry keyword="saturation">
-      <branch chapter="" slide="16" filename="main3.xml" file_md5="e7a23fb6d5c6e1f211f29bf62efb0658" keyword="saturation">Saturation</branch>
-    </entry>
     <entry keyword="color illusions">
       <branch chapter="" slide="2" filename="main4.xml" file_md5="cc3940bc3f1cbe203fef3fdb84ce03d1" keyword="color illusions">Color Illusions</branch>
     </entry>
@@ -208,6 +181,33 @@
     </entry>
     <entry keyword="andrew wyeth  american, 1917-2009)">
       <branch chapter="" slide="32" filename="main2.xml" file_md5="f9fdd6d0ff2f3e667b394ac690ee799e" keyword="andrew wyeth  american, 1917-2009)">Andrew Wyeth (American, 1917-2009)</branch>
+    </entry>
+    <entry keyword="the color spectrum">
+      <branch chapter="" slide="3" filename="main3.xml" file_md5="f451ccc372f93a532ea386c06c4ef48f" keyword="the color spectrum">The Color Spectrum</branch>
+    </entry>
+    <entry keyword="additive color mixing">
+      <branch chapter="" slide="8" filename="main3.xml" file_md5="f451ccc372f93a532ea386c06c4ef48f" keyword="additive color mixing">Additive Color Mixing</branch>
+    </entry>
+    <entry keyword="rgb color space">
+      <branch chapter="" slide="13" filename="main3.xml" file_md5="f451ccc372f93a532ea386c06c4ef48f" keyword="rgb color space">RGB Color Space</branch>
+    </entry>
+    <entry keyword="rgb">
+      <branch chapter="" slide="13" filename="main3.xml" file_md5="f451ccc372f93a532ea386c06c4ef48f" keyword="rgb">RGB</branch>
+    </entry>
+    <entry keyword="subtractive color mixing">
+      <branch chapter="" slide="14" filename="main3.xml" file_md5="f451ccc372f93a532ea386c06c4ef48f" keyword="subtractive color mixing">Subtractive Color Mixing</branch>
+    </entry>
+    <entry keyword="georges seurat  french, 1859 - 1891)">
+      <branch chapter="" slide="14" filename="main3.xml" file_md5="f451ccc372f93a532ea386c06c4ef48f" keyword="georges seurat  french, 1859 - 1891)">Georges Seurat (French, 1859 - 1891)</branch>
+    </entry>
+    <entry keyword="roy lichtenstein  american, 1923 - 1997)">
+      <branch chapter="" slide="14" filename="main3.xml" file_md5="f451ccc372f93a532ea386c06c4ef48f" keyword="roy lichtenstein  american, 1923 - 1997)">Roy Lichtenstein (American, 1923 - 1997)</branch>
+    </entry>
+    <entry keyword="hue">
+      <branch chapter="" slide="15" filename="main3.xml" file_md5="f451ccc372f93a532ea386c06c4ef48f" keyword="hue">Hue</branch>
+    </entry>
+    <entry keyword="saturation">
+      <branch chapter="" slide="16" filename="main3.xml" file_md5="f451ccc372f93a532ea386c06c4ef48f" keyword="saturation">Saturation</branch>
     </entry>
   </index>
 </document>
