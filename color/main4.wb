@@ -1,4 +1,3 @@
-@sep
 @course{UGED 1533}
 @topic{Trichromatic Color Theory<br>Opponent Process Model}
 @sep
@@ -58,7 +57,7 @@ Normalized responsivity spectra of human cone cells, S, M, and L types
 (from <a href="https://en.wikipedia.org/wiki/Cone_cell">Wikipedia</a>.)
 </div>
 <div class='image'>
-<img src="images/Linear_visible_spectrum.svg">
+<img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/Linear_visible_spectrum.svg">
 </div>
 @sep
 In the <b>Opponent Process Model</b>,
