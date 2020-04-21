@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533" topic="Planar Patterns">
     <keywords slide="all" environ="course" chapter="" course="UGED 1533">
@@ -28,13 +27,13 @@
         <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Rose window, Chartres Cathedral (Chartres France) </paragraphs>
         </h3>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chartres_Cathedral.jpg/1024px-Chartres_Cathedral.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chartres_Cathedral.jpg/1024px-Chartres_Cathedral.jpg" environment="" />
         </div>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_south_transept_rose_at_Notre-Dame_de_Chartres.png/1024px-The_south_transept_rose_at_Notre-Dame_de_Chartres.png" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_south_transept_rose_at_Notre-Dame_de_Chartres.png/1024px-The_south_transept_rose_at_Notre-Dame_de_Chartres.png" environment="" />
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="3" id="s3" slide="3" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
@@ -44,13 +43,13 @@
         <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Rose window, Notre Dame Cathedral (Paris, France) </paragraphs>
         </h3>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Notre_Dame_de_Paris.JPG/1024px-Notre_Dame_de_Paris.JPG" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Notre_Dame_de_Paris.JPG/1024px-Notre_Dame_de_Paris.JPG" environment="" />
         </div>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg/1024px-North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg/1024px-North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg" environment="" />
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
@@ -60,18 +59,18 @@
         <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Pantheon (Rome, Italy) </paragraphs>
         </h3>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
           <div class="dual-left" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rome_Pantheon_front.jpg/1024px-Rome_Pantheon_front.jpg" environment=""/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rome_Pantheon_front.jpg/1024px-Rome_Pantheon_front.jpg" environment="" />
           </div>
           <div class="dual-right" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pantheon-panini.jpg/1024px-Pantheon-panini.jpg" environment=""/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pantheon-panini.jpg/1024px-Pantheon-panini.jpg" environment="" />
           </div>
         </div>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pantheon_cupola.jpg/1024px-Pantheon_cupola.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pantheon_cupola.jpg/1024px-Pantheon_cupola.jpg" environment="" />
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="5" id="s5" slide="5" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
@@ -81,13 +80,13 @@
         <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Finite Designs</paragraphs>
         </h3>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="images/finite_design1.png" environment=""/>
-          <hr environment=""/>
-          <img src="images/finite_design2.png" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="images/finite_design1.png" environment="" />
+          <hr environment="" />
+          <img src="images/finite_design2.png" environment="" />
+          <br environment="" />
+          <br environment="" />
           <i environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Geometric Symmetry in Patterns and Tilings</paragraphs>
           </i>
@@ -102,9 +101,9 @@
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Dihedral Group $D_n$</paragraphs>
         </h3>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="images/dihedral1.jpg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="images/dihedral1.jpg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <i environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Groups and Symmetry</paragraphs>
           </i>
@@ -112,9 +111,9 @@
         </div>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <img src="images/dihedral2.jpg" environment="newcol"/>
-            <br environment="newcol"/>
-            <br environment="newcol"/>
+            <img src="images/dihedral2.jpg" environment="newcol" />
+            <br environment="newcol" />
+            <br environment="newcol" />
             <i environment="newcol">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Groups and Symmetry</paragraphs>
             </i>
@@ -129,60 +128,58 @@
         <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">M. C. Escher (Dutch 1898 -1972)</paragraphs>
         </h3>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <paragraphs>
-          <!-- <p/><div class='image'><img src="http://britton.disted.camosun.bc.ca/escher/pegasus.jpg"></div><br><hr> -->
-        </paragraphs>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width:256" environment="">
-          <a title="By Photographer: Hans Peters (ANEFO) (Ga het na (Nationaal Archief NL)) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEscher.jpg" environment="">
-            <img width="256" alt="Escher" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Escher.jpg/256px-Escher.jpg" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+          <a title="Photographer: Hans Peters (ANEFO) / CC0" href="https://commons.wikimedia.org/wiki/File:Maurits_Cornelis_Escher.jpg" environment="">
+            <img width="512" alt="Maurits Cornelis Escher" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Maurits_Cornelis_Escher.jpg/512px-Maurits_Cornelis_Escher.jpg" environment="" />
           </a>
         </div>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/originals/4b/86/86/4b86861cdbbe3576e8c003fccae2c372.jpg" environment=""/>
+          <img src="https://s-media-cache-ak0.pinimg.com/originals/4b/86/86/4b86861cdbbe3576e8c003fccae2c372.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/originals/b6/c1/9e/b6c19e84c6af8c2802a83383a7e4452e.jpg" environment=""/>
+          <img src="https://s-media-cache-ak0.pinimg.com/originals/b6/c1/9e/b6c19e84c6af8c2802a83383a7e4452e.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://uploads0.wikiart.org/images/m-c-escher/bird-fish.jpg!Large.jpg" environment=""/>
+          <img src="https://uploads0.wikiart.org/images/m-c-escher/bird-fish.jpg!Large.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://uploads7.wikiart.org/images/m-c-escher/sky-and-water-ii.jpg!Large.jpg" environment=""/>
+          <img src="https://uploads7.wikiart.org/images/m-c-escher/sky-and-water-ii.jpg!Large.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://mathstat.slu.edu/escher/upload/8/8a/Liberation.jpg" environment=""/>
+          <img src="http://mathstat.slu.edu/escher/upload/8/8a/Liberation.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/564x/4f/cc/36/4fcc3605a30deaa16de6584bf037b655.jpg" environment=""/>
+          <img src="https://s-media-cache-ak0.pinimg.com/564x/4f/cc/36/4fcc3605a30deaa16de6584bf037b655.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://www.mathaware.org/mam/03/images/dunham/figure40.gif" environment=""/>
+          <img src="http://www.mathaware.org/mam/03/images/dunham/figure40.gif" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://mathstat.slu.edu/escher/upload/0/06/Circle-limit-IV.jpg" environment=""/>
+          <img src="http://mathstat.slu.edu/escher/upload/0/06/Circle-limit-IV.jpg" environment="" />
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="8" id="s8" slide="8" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
@@ -192,28 +189,28 @@
         <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Alhambra</paragraphs>
         </h3>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Vista_de_la_Alhambra.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Vista_de_la_Alhambra.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alhambra-Granada-2003.jpg/1024px-Alhambra-Granada-2003.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alhambra-Granada-2003.jpg/1024px-Alhambra-Granada-2003.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ventanas_con_arabescos_en_la_Alhambra.JPG/675px-Ventanas_con_arabescos_en_la_Alhambra.JPG" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ventanas_con_arabescos_en_la_Alhambra.JPG/675px-Ventanas_con_arabescos_en_la_Alhambra.JPG" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tassellatura_alhambra.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tassellatura_alhambra.jpg" environment="" />
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
@@ -223,28 +220,28 @@
         <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Islamic Art</paragraphs>
         </h3>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Fes_Medersa_Bou_Inania_Mosaique2.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Fes_Medersa_Bou_Inania_Mosaique2.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg/878px-Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg/878px-Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://home.nordnet.fr/~ajuhel/Isfahan_Darb_e_Imam/Darb-e-Imam_aper.JPG" environment=""/>
+          <img src="http://home.nordnet.fr/~ajuhel/Isfahan_Darb_e_Imam/Darb-e-Imam_aper.JPG" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Darb-i_Imam_shrine_spandrel.JPG" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Darb-i_Imam_shrine_spandrel.JPG" environment="" />
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
@@ -254,36 +251,36 @@
         <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Jean-L&amp;eacuteon G&amp;eacuter&amp;ocircme (French, 1824 - 1904)</paragraphs>
         </h3>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg/1200px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg/1200px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Arnaut_and_his_dog_by_Jean_Leon_gerome.jpg" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Arnaut_and_his_dog_by_Jean_Leon_gerome.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/564x/b4/c9/95/b4c995d0e35b37951a847ba4e1d0090f.jpg" environment=""/>
+          <img src="https://s-media-cache-ak0.pinimg.com/564x/b4/c9/95/b4c995d0e35b37951a847ba4e1d0090f.jpg" environment="" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/originals/ba/11/da/ba11dac911cfa8b46298f835a3763f49.jpg" environment=""/>
+          <img src="https://s-media-cache-ak0.pinimg.com/originals/ba/11/da/ba11dac911cfa8b46298f835a3763f49.jpg" environment="" />
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="11" id="s11" slide="11" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="11" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="images/hexagons2.jpg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="images/hexagons2.jpg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <i environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Groups and Symmetry</paragraphs>
           </i>
@@ -291,9 +288,9 @@
         </div>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <img src="images/hexagons.jpg" environment="newcol"/>
-            <br environment="newcol"/>
-            <br environment="newcol"/>
+            <img src="images/hexagons.jpg" environment="newcol" />
+            <br environment="newcol" />
+            <br environment="newcol" />
             <i environment="newcol">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Groups and Symmetry</paragraphs>
             </i>
@@ -301,9 +298,9 @@
           </div>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
             <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-              <img src="images/hexagons3.jpg" environment="newcol"/>
-              <br environment="newcol"/>
-              <br environment="newcol"/>
+              <img src="images/hexagons3.jpg" environment="newcol" />
+              <br environment="newcol" />
+              <br environment="newcol" />
               <i environment="newcol">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Groups and Symmetry</paragraphs>
               </i>
@@ -326,7 +323,7 @@
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">shift</paragraphs>
             </b>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
-            <img style="width:200px" src="images/translation.jpg" environment=""/>
+            <img style="width:200px" src="images/translation.jpg" environment="" />
           </li>
           <li environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">rotation (</paragraphs>
@@ -334,7 +331,7 @@
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">turn</paragraphs>
             </b>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
-            <img style="width:200px" src="images/rotation.jpg" environment=""/>
+            <img style="width:200px" src="images/rotation.jpg" environment="" />
           </li>
           <li environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">reflection (</paragraphs>
@@ -342,14 +339,14 @@
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">flip</paragraphs>
             </b>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
-            <img style="width:200px" src="images/reflection.jpg" environment=""/>
+            <img style="width:200px" src="images/reflection.jpg" environment="" />
           </li>
           <li environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">glide reflection </paragraphs>
-            <img style="width:200px" src="images/glide.jpg" environment=""/>
+            <img style="width:200px" src="images/glide.jpg" environment="" />
           </li>
         </ul>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (Illustration from </paragraphs>
           <i environment="">
@@ -368,11 +365,11 @@ Any such wallpaper is associated with an underlying </paragraphs>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
 which is obtained by applying the shift symmetries repeatedly to a fixed point
 (the origin) in the pattern. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="images/lattice.jpg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="images/lattice.jpg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <i environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Groups and Symmetry</paragraphs>
           </i>
@@ -382,11 +379,11 @@ which is obtained by applying the shift symmetries repeatedly to a fixed point
       <slide environment="" chapter_type="" wbtag="slide" canon_num="14" id="s14" slide="14" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="14" environ="slide" chapter="" course="UGED 1533"/>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> There are five types of lattices generated this way: </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="images//lattice1.jpg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="images//lattice1.jpg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <i environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Groups and Symmetry</paragraphs>
           </i>
@@ -398,9 +395,9 @@ which is obtained by applying the shift symmetries repeatedly to a fixed point
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Note that a rotational (turn) symmetry of a wallpaper pattern may
 correspond to a rotation (clockwise or anticlockwise) by
 60, 90, 120 or 180 degrees only. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> There is no rotational symmetry which corresponds to a rotation by, say, 72 degrees. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The set of shift, turn, flip and glide reflection symmetries
 of a wallpaper pattern form its </paragraphs>
@@ -408,10 +405,10 @@ of a wallpaper pattern form its </paragraphs>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">wallpaper group</paragraphs>
           </b>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.  There are exactly 17 possible wallpaper groups. </paragraphs>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> They are enumerated by a combination of letters and integers.  For example: </paragraphs>
-          <center xmlns="http://www.w3.org/1999/xhtml" environment="center">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> $p6m, p4g, cm$ </paragraphs>
+          <center xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $p6m, p4g, cm$ </paragraphs>
           </center>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
             <ul xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
@@ -492,7 +489,7 @@ plus a centered interior lattice point (Centred Rectangular). </paragraphs>
                 <li environment="newcol">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $x_3$ is one of $1$, $m$, or $g$, depending on whether there is mirror or glide
 symmetry with respect to the "main" translation axis.</paragraphs>
-                  <br environment="newcol"/>
+                  <br environment="newcol" />
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (We choose the "main" axis to be any one of the two translational axes which has a mirror perpendicular to it.  If none of the two axes has a mirror perpendicular to it, then either one may be chosen to be the main one.) </paragraphs>
                 </li>
                 <li environment="newcol">
@@ -507,11 +504,11 @@ symmetry with respect to the "main" translation axis.</paragraphs>
         <keywords slide="16" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="16">         </keyword>
         </keywords>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The following table serves as a useful guide in
 identifying the wallpaper group of a given wallpaper pattern: </paragraphs>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
           <h4 environment="">
@@ -522,7 +519,7 @@ identifying the wallpaper group of a given wallpaper pattern: </paragraphs>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
           </h4>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
-          <iframe style="height:480px;" src="content/uged1533/tilings/wallpaper_groups.html" environment=""/>
+          <iframe style="height:480px;" src="content/uged1533/tilings/wallpaper_groups.html" environment=""></iframe>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
             <!-- (Notice that the character "1" is sometimes omitted.) -->
@@ -541,139 +538,139 @@ identifying the wallpaper group of a given wallpaper pattern: </paragraphs>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">http://www.morenaments.de</paragraphs>
         </a>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p1.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p1.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p1$ </paragraphs>
-          <hr environment=""/>
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p2.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <hr environment="" />
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p2.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p2$ </paragraphs>
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="18" id="s18" slide="18" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="18" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pm.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pm.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pm$ </paragraphs>
-          <hr environment=""/>
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pg.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <hr environment="" />
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pg.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pg$ </paragraphs>
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="19" id="s19" slide="19" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="19" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cm.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cm.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$cm$ </paragraphs>
-          <hr environment=""/>
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pmm.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <hr environment="" />
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pmm.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pmm$ </paragraphs>
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="20" id="s20" slide="20" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="20" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pmg.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pmg.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pmg$ </paragraphs>
-          <hr environment=""/>
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pgg.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <hr environment="" />
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pgg.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pgg$ </paragraphs>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cmm.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cmm.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$cmm$ </paragraphs>
-          <hr environment=""/>
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <hr environment="" />
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p4$ </paragraphs>
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="21" id="s21" slide="21" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="21" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4m.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4m.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p4m$ </paragraphs>
-          <hr environment=""/>
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4g.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <hr environment="" />
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4g.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p4g$ </paragraphs>
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="22" id="s22" slide="22" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="22" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p3.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p3.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p3$ </paragraphs>
-          <hr environment=""/>
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p3m1.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <hr environment="" />
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p3m1.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p3m1$ </paragraphs>
-          <hr environment=""/>
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p31m.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <hr environment="" />
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p31m.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p31m$ </paragraphs>
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="23" id="s23" slide="23" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="23" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p6.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p6.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p6$ </paragraphs>
-          <hr environment=""/>
-          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p6m.svg" environment=""/>
-          <br environment=""/>
-          <br environment=""/>
+          <hr environment="" />
+          <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p6m.svg" environment="" />
+          <br environment="" />
+          <br environment="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p6m$ </paragraphs>
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="24" id="s24" slide="24" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="24" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://jasonbairdjackson.files.wordpress.com/2015/08/img_2183.jpg" environment=""/>
+          <img src="https://jasonbairdjackson.files.wordpress.com/2015/08/img_2183.jpg" environment="" />
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="25" id="s25" slide="25" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="25" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://deutao.com/wp-content/uploads/2013/12/24.jpg" environment=""/>
+          <img src="http://deutao.com/wp-content/uploads/2013/12/24.jpg" environment="" />
         </div>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://img.china.alibaba.com/img/ibank/2015/304/318/2573813403_1852949910.jpg" environment=""/>
+          <img src="http://img.china.alibaba.com/img/ibank/2015/304/318/2573813403_1852949910.jpg" environment="" />
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="26" id="s26" slide="26" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="26" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Semi-regular-floor-3464.JPG" environment=""/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Semi-regular-floor-3464.JPG" environment="" />
         </div>
       </slide>
     </slides>

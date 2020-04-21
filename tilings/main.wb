@@ -1,4 +1,3 @@
-@sep
 @course{UGED 1533}
 @topic{Planar Patterns}
 @sep
@@ -65,10 +64,10 @@ Pantheon (Rome, Italy)
 </div>
 @sep
 <h3>M. C. Escher (Dutch 1898 -1972)</h3><hr>
-<!-- <p><div class='image'><img src="http://britton.disted.camosun.bc.ca/escher/pegasus.jpg"></div><br><hr> -->
-<div class='image' style="width:256">
-<a title="By Photographer: Hans Peters (ANEFO) (Ga het na (Nationaal Archief NL)) [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEscher.jpg"><img width="256" alt="Escher" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Escher.jpg/256px-Escher.jpg"/></a>
+<div class="image">
+<a title="Photographer: Hans Peters (ANEFO) / CC0" href="https://commons.wikimedia.org/wiki/File:Maurits_Cornelis_Escher.jpg"><img width="512" alt="Maurits Cornelis Escher" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Maurits_Cornelis_Escher.jpg/512px-Maurits_Cornelis_Escher.jpg"></a>
 </div>
+
 <p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/originals/4b/86/86/4b86861cdbbe3576e8c003fccae2c372.jpg"></div><br><hr>
 <p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/originals/b6/c1/9e/b6c19e84c6af8c2802a83383a7e4452e.jpg"></div><br><hr>
 <p><div class='image'><img src="https://uploads0.wikiart.org/images/m-c-escher/bird-fish.jpg!Large.jpg"></div><br><hr>
