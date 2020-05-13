@@ -165,7 +165,7 @@ The Kock snowflake has dimension:
 <a title="By Wrtlprnft (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKoch_Snowflake_7th_iteration.svg"><img width="512" alt="Koch Snowflake 7th iteration" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Koch_Snowflake_7th_iteration.svg/512px-Koch_Snowflake_7th_iteration.svg.png"/></a>
 </div>
 @sep
-The Sierpinski triangle, which may be constructed by "hollowing out" 
+The Sierpinski triangle, which may be constructed by "hollowing out"
 a filled-in triangle (which has dimension 2),
 has dimension:
 \[
@@ -187,7 +187,7 @@ under examination.
 Compute $\displaystyle \log_{\frac{1}{s}} N$.
 <li>
 Repeat the procedure with smaller and smaller boxes.
-In many cases, as the size of the boxes tend to zero, 
+In many cases, as the size of the boxes tend to zero,
 the quantity computed in Step 4 approaches a fixed number.
 This number is the (fractal) dimension of the set $S$.
 </ol>
@@ -203,18 +203,21 @@ Computing the dimension of the coastline of Great Britain via the box-counting m
 <ul>
 <li>
 <a href="http://www.nature.com/nature/journal/v399/n6735/pdf/399422a0.pdf">
-<i>Fractal analysis of Pollock’s drip paintings</i>, 
+<i>Fractal analysis of Pollock’s drip paintings</i>,
 Richard P. Taylor, Adam P. Micolich,
 David Jonas.  Nature 399, 422 (3 June 1999)</a>
 <li>
 <a href="https://plus.maths.org/content/fractal-expressionism">
-<i>Fractal expressionism</i>, 
+<i>Fractal expressionism</i>,
 Richard P. Taylor, Adam Micolich and David Jonas.
 Physics World, Volume 12, Issue 10, October 1999.
 </a>
 <li>
 <a href="http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf">http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf</a>
 <li>
+<a href="https://www.sciencedaily.com/releases/2007/11/071125114847.htm">https://www.sciencedaily.com/releases/2007/11/071125114847.htm</a>
+<!--
 <a href="http://blog.case.edu/case-news/2006/11/30/pollock">
 http://blog.case.edu/case-news/2006/11/30/pollock</a>
+-->
 </ul>

@@ -378,7 +378,7 @@ Roughly speaking, their geometry lies somewhere between between a line and a pla
     </slide>
     <slide environment="" chapter_type="" wbtag="slide" canon_num="14" id="s14" slide="14" course="" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
       <keywords slide="14" environ="slide" chapter="" course=""/>
-      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The Sierpinski triangle, which may be constructed by "hollowing out" 
+      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The Sierpinski triangle, which may be constructed by "hollowing out"
 a filled-in triangle (which has dimension 2),
 has dimension:
 \[
@@ -424,7 +424,7 @@ under examination. </paragraphs>
         </li>
         <li environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Repeat the procedure with smaller and smaller boxes.
-In many cases, as the size of the boxes tend to zero, 
+In many cases, as the size of the boxes tend to zero,
 the quantity computed in Step 4 approaches a fixed number.
 This number is the (fractal) dimension of the set $S$. </paragraphs>
         </li>
@@ -454,7 +454,7 @@ This number is the (fractal) dimension of the set $S$. </paragraphs>
             <i environment="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Fractal analysis of Pollock’s drip paintings</paragraphs>
             </i>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, 
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
 Richard P. Taylor, Adam P. Micolich,
 David Jonas.  Nature 399, 422 (3 June 1999)</paragraphs>
           </a>
@@ -464,7 +464,7 @@ David Jonas.  Nature 399, 422 (3 June 1999)</paragraphs>
             <i environment="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Fractal expressionism</paragraphs>
             </i>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, 
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
 Richard P. Taylor, Adam Micolich and David Jonas.
 Physics World, Volume 12, Issue 10, October 1999. </paragraphs>
           </a>
@@ -475,9 +475,13 @@ Physics World, Volume 12, Issue 10, October 1999. </paragraphs>
           </a>
         </li>
         <li environment="">
-          <a href="http://blog.case.edu/case-news/2006/11/30/pollock" environment="">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> http://blog.case.edu/case-news/2006/11/30/pollock</paragraphs>
+          <a href="https://www.sciencedaily.com/releases/2007/11/071125114847.htm" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">https://www.sciencedaily.com/releases/2007/11/071125114847.htm</paragraphs>
           </a>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
+            <!--<a href="http://blog.case.edu/case&#45;news/2006/11/30/pollock">
+http://blog.case.edu/case&#45;news/2006/11/30/pollock</a>-->
+          </paragraphs>
         </li>
       </ul>
     </slide>
