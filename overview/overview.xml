@@ -1,6 +1,9 @@
+<?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533 - Mathematics in Visual Art">
     <keywords slide="all" environ="course" chapter="" course="UGED 1533 - Mathematics in Visual Art">
+      <keyword chapter="" slide="all">20,000-30,000 years ago</keyword>
+      <keyword chapter="" slide="all">8th century BCE - 6th century CE</keyword>
       <keyword chapter="" slide="all">Ancient Greece</keyword>
       <keyword chapter="" slide="all">Archaic Greece</keyword>
       <keyword chapter="" slide="all">Classical Greece</keyword>
@@ -9,14 +12,19 @@
       <keyword chapter="" slide="all">Hellenistic Greece</keyword>
       <keyword chapter="" slide="all">Roman Greece</keyword>
       <keyword chapter="" slide="all">The Roman Empire</keyword>
+      <keyword chapter="" slide="all">5th - 14th century CE</keyword>
       <keyword chapter="" slide="all">Medieval Period</keyword>
+      <keyword chapter="" slide="all">14th - 17th century</keyword>
       <keyword chapter="" slide="all">Renaissance</keyword>
+      <keyword chapter="" slide="all">Approx. 17th century</keyword>
       <keyword chapter="" slide="all">Baroque style</keyword>
       <keyword chapter="" slide="all">18th century</keyword>
       <keyword chapter="" slide="all">Age of Enlightenment</keyword>
       <keyword chapter="" slide="all">Academic Art</keyword>
+      <keyword chapter="" slide="all">2nd half of 19th century</keyword>
       <keyword chapter="" slide="all">Impressionism</keyword>
       <keyword chapter="" slide="all">Post-Impressionism</keyword>
+      <keyword chapter="" slide="all">20th century</keyword>
     </keywords>
     <title environment="title" chapter_type="" wbtag="course" scope="course" course="UGED 1533 - Mathematics in Visual Art" chapter="" section="" subsection="" subsubsection="" serial="" slide="">UGED 1533 - Mathematics in Visual Art</title>
     <slides environment="" chapter_type="">
@@ -27,6 +35,8 @@
     </slides>
     <chapter environment="" chapter_type="Week" type="Chapter" wbtag="week" num="1" title="" topic="Historical Overview" course="UGED 1533 - Mathematics in Visual Art" serial="1">
       <keywords slide="all" environ="chapter" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+        <keyword chapter="1" slide="all">20,000-30,000 years ago</keyword>
+        <keyword chapter="1" slide="all">8th century BCE - 6th century CE</keyword>
         <keyword chapter="1" slide="all">Ancient Greece</keyword>
         <keyword chapter="1" slide="all">Archaic Greece</keyword>
         <keyword chapter="1" slide="all">Classical Greece</keyword>
@@ -35,17 +45,22 @@
         <keyword chapter="1" slide="all">Hellenistic Greece</keyword>
         <keyword chapter="1" slide="all">Roman Greece</keyword>
         <keyword chapter="1" slide="all">The Roman Empire</keyword>
+        <keyword chapter="1" slide="all">5th - 14th century CE</keyword>
         <keyword chapter="1" slide="all">Medieval Period</keyword>
+        <keyword chapter="1" slide="all">14th - 17th century</keyword>
         <keyword chapter="1" slide="all">Renaissance</keyword>
+        <keyword chapter="1" slide="all">Approx. 17th century</keyword>
         <keyword chapter="1" slide="all">Baroque style</keyword>
         <keyword chapter="1" slide="all">18th century</keyword>
         <keyword chapter="1" slide="all">Age of Enlightenment</keyword>
         <keyword chapter="1" slide="all">Academic Art</keyword>
+        <keyword chapter="1" slide="all">2nd half of 19th century</keyword>
         <keyword chapter="1" slide="all">Impressionism</keyword>
         <keyword chapter="1" slide="all">Post-Impressionism</keyword>
+        <keyword chapter="1" slide="all">20th century</keyword>
       </keywords>
-      <title environment="title" chapter_type="Week" wbtag="week" scope="chapter" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" serial="1" slide=""/>
-      <topic environment="" chapter_type="Week" scope="chapter" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" serial="1" slide="">Historical Overview</topic>
+      <title environment="title" chapter_type="Week" wbtag="week" scope="chapter" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" serial="" slide=""/>
+      <topic environment="" chapter_type="Week" scope="chapter" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" serial="" slide="">Historical Overview</topic>
       <slides environment="" chapter_type="">
         <slide environment="" chapter_type="Week" canon_num="2" scope="week" id="s2" slide="2" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" chapter_title="" section_title="">
           <title environment="title" chapter_type="Week" wbtag="week" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="2"/>
@@ -54,7 +69,7 @@
         </slide>
       </slides>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Historical Background" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="1" serial="1.1">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="1" subsection="" subsubsection="" serial="1.1" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="1" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Historical Background</paragraphs>
         </title>
         <slides environment="" chapter_type="">
@@ -83,28 +98,28 @@ we give in the following pages a skeletal body of specific examples of artwork, 
 It is admittedly a  brief and incomplete summary.
 We strongly encourage students to explore the art historical aspects of this course in more depth for personal enrichment.  We assure you that as an endeavour of self-cultivation it is well worth the time and effort.</paragraphs>
             <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment=""/>
-            <center xmlns="http://www.w3.org/1999/xhtml" environment="">
-              <strong style="font-size:2em" environment="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">❦ </paragraphs>
+            <center xmlns="http://www.w3.org/1999/xhtml" environment="center">
+              <strong style="font-size:2em" environment="center">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="center" wbtag="paragraphs">❦ </paragraphs>
               </strong>
             </center>
           </slide>
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Stone Age" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="2" serial="1.2">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="2" subsection="" subsubsection="" serial="1.2" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="2" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Stone Age</paragraphs>
         </title>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Week" canon_num="4" scope="section" id="s4" slide="4" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="2" subsection="" subsubsection="" chapter_title="" section_title="Stone Age">
-            <keywords slide="4" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art"/>
+            <keywords slide="4" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+              <keyword chapter="1" slide="4">20,000-30,000 years ago</keyword>
+            </keywords>
             <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="2" subsection="" subsubsection="" serial="" slide="4">
               <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Stone Age</paragraphs>
             </title>
             <div xmlns="http://www.w3.org/1999/xhtml" class="timeline" environment="">
-              <b environment="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">20,000-30,000 years ago </paragraphs>
-              </b>
+              <inline_keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="">20,000-30,000 years ago</inline_keyword>
             </div>
             <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs"> When we speak of Western art history,
 the word "Western" suggests to us certain countries in Western Europe with which we are familiar today: Germany, Austria, Britain, France, Spain, Italy....
@@ -113,8 +128,8 @@ Then, the oldest extant examples of Western art might said to be prehistoric fig
             <newcol course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
               <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="center" wbtag="center">
                 <a xmlns="http://www.w3.org/1999/xhtml" title="By User:MatthiasKabel (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVenus_von_Willendorf_01.jpg" environment="center">
-                  <img style="height: 512px; width: auto; " alt="Venus von Willendorf 01" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Venus_von_Willendorf_01.jpg/256px-Venus_von_Willendorf_01.jpg" environment="center" />
-                  <br environment="center" />
+                  <img style="height: 512px; width: auto; " alt="Venus von Willendorf 01" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Venus_von_Willendorf_01.jpg/256px-Venus_von_Willendorf_01.jpg" environment="center"/>
+                  <br environment="center"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> Venus von Willendorf </paragraphs>
                 </a>
               </center>
@@ -122,8 +137,8 @@ Then, the oldest extant examples of Western art might said to be prehistoric fig
               <collapse course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
                 <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="center" wbtag="center">
                   <a xmlns="http://www.w3.org/1999/xhtml" title="By Prof saxx (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ALascaux_painting.jpg" environment="center">
-                    <img width="512" alt="Lascaux painting" data-src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg" style="" environment="center" />
-                    <br environment="center" />
+                    <img width="512" alt="Lascaux painting" data-src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg" style="" environment="center"/>
+                    <br environment="center"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> Lascaux Cave Painting </paragraphs>
                   </a>
                 </center>
@@ -142,12 +157,13 @@ Then, the oldest extant examples of Western art might said to be prehistoric fig
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Ancient Greece" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="3" serial="1.3">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="3" subsection="" subsubsection="" serial="1.3" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="3" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Ancient Greece</paragraphs>
         </title>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Week" canon_num="5" scope="section" id="s5" slide="5" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="3" subsection="" subsubsection="" chapter_title="" section_title="Ancient Greece">
             <keywords slide="5" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+              <keyword chapter="1" slide="5">8th century BCE - 6th century CE</keyword>
               <keyword chapter="1" slide="5">Ancient Greece</keyword>
               <keyword chapter="1" slide="5">Archaic Greece</keyword>
               <keyword chapter="1" slide="5">Classical Greece</keyword>
@@ -160,9 +176,7 @@ Then, the oldest extant examples of Western art might said to be prehistoric fig
               <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Ancient Greece</paragraphs>
             </title>
             <div xmlns="http://www.w3.org/1999/xhtml" class="timeline" environment="">
-              <b environment="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">8th century BCE - 6th century CE </paragraphs>
-              </b>
+              <inline_keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="">8th century BCE - 6th century CE</inline_keyword>
             </div>
             <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs"> By </paragraphs>
             <inline_keyword course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="">Ancient Greece</inline_keyword>
@@ -179,18 +193,17 @@ to the 6th century CE ("Common Era").</paragraphs>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">     </paragraphs>
                 <a title="By Steve Swayne [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AThe_Parthenon_in_Athens.jpg" environment="newcol">
-                  <img width="512" alt="The Parthenon in Athens" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/512px-The_Parthenon_in_Athens.jpg" style="" environment="newcol" />
-                  <br environment="newcol" />
+                  <img width="512" alt="The Parthenon in Athens" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/512px-The_Parthenon_in_Athens.jpg" style="" environment="newcol"/>
+                  <br environment="newcol"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">The Parthenon, 438 BCE
     </paragraphs>
                 </a>
               </div>
               <collapse course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">     </paragraphs>
                 <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width: 160px; float: left; padding-right: 10px; padding-top: 2px; padding-bottom: 0px;" environment="newcol">
                   <a title="After Polykleitos the Elder [CC BY 2.5 (http://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ADoryphoros_MAN_Napoli_Inv6011.jpg" environment="newcol">
-                    <img width="256" alt="Doryphoros MAN Napoli Inv6011" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Doryphoros_MAN_Napoli_Inv6011.jpg/256px-Doryphoros_MAN_Napoli_Inv6011.jpg" style="" environment="newcol" />
-                    <br environment="newcol" />
+                    <img width="256" alt="Doryphoros MAN Napoli Inv6011" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Doryphoros_MAN_Napoli_Inv6011.jpg/256px-Doryphoros_MAN_Napoli_Inv6011.jpg" style="" environment="newcol"/>
+                    <br environment="newcol"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Copy of Polykleitos's Doryphoros Statueoriginal c. 440 BCE </paragraphs>
                   </a>
                 </div>
@@ -220,7 +233,7 @@ By this time the Greeks have produced some of the greatest sculptures the world 
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Roman Empire" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="4" serial="1.4">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="4" subsection="" subsubsection="" serial="1.4" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="4" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Roman Empire</paragraphs>
         </title>
         <slides environment="" chapter_type="">
@@ -241,27 +254,24 @@ Consequently, ancient Greek art in a broad sense merged with the development of 
             <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment=""/>
             <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="center" wbtag="center">
               <left course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="left" wbtag="left">
-                <a xmlns="http://www.w3.org/1999/xhtml" title="By Copy after Epigonos User:Jean-Pol GRANDMONT    This illustration was made by Jean-Pol GRANDMONT Please credit this : Jean-Pol GRANDMONT An email to Jean-Pol GRANDMONT would be appreciated. (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A0_Galata_Morente_-_Musei_Capitolini_(1).jpg" environment="left">
-                  <img width="512" alt="0 Galata Morente - Musei Capitolini (1)" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/0_Galata_Morente_-_Musei_Capitolini_%281%29.jpg/512px-0_Galata_Morente_-_Musei_Capitolini_%281%29.jpg" style="" environment="left" />
-                  <br environment="left" />
+                <a xmlns="http://www.w3.org/1999/xhtml" title="By Copy after Epigonos User:Jean-Pol GRANDMONT    This illustration was made by Jean-Pol GRANDMONT Please credit this&#xA0;: Jean-Pol GRANDMONT An email to Jean-Pol GRANDMONT would be appreciated. (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A0_Galata_Morente_-_Musei_Capitolini_(1).jpg" environment="left">
+                  <img width="512" alt="0 Galata Morente - Musei Capitolini (1)" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/0_Galata_Morente_-_Musei_Capitolini_%281%29.jpg/512px-0_Galata_Morente_-_Musei_Capitolini_%281%29.jpg" style="" environment="left"/>
+                  <br environment="left"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="left" wbtag="paragraphs">Copy of The Dying Gaul</paragraphs>
-                  <br environment="left" />
+                  <br environment="left"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="left" wbtag="paragraphs"> original c. 230 - 220 BCE</paragraphs>
                 </a>
               </left>
               <right course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="right" wbtag="right">
-                <a xmlns="http://www.w3.org/1999/xhtml" title="By Lyokoï88 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVictoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_(2).JPG" environment="right">
-                  <img width="256" alt="Victoire de Samothrace - vue de trois-quart gauche, gros plan de la statue (2)" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG/256px-Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG" style="" environment="right" />
-                  <br environment="right" />
+                <a xmlns="http://www.w3.org/1999/xhtml" title="By Lyoko&#xEF;88 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVictoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_(2).JPG" environment="right">
+                  <img width="256" alt="Victoire de Samothrace - vue de trois-quart gauche, gros plan de la statue (2)" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG/256px-Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG" style="" environment="right"/>
+                  <br environment="right"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="right" wbtag="paragraphs">Winged Victory of Samothrace</paragraphs>
-                  <br environment="right" />
+                  <br environment="right"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="right" wbtag="paragraphs"> 2nd century BCE</paragraphs>
                 </a>
               </right>
             </center>
-            <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment=""/>
-            <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Besides the famous Roman numeral system,
-your instructor is unaware of any major mathematical innovation in the ancient Roman Empire.</paragraphs>
             <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment=""/>
             <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">In territorial terms, the Roman Empire reached it peak in 117 CE, after which came its centuries long decline, which we will not discuss in detail.
 Along the way the empire splits into Eastern and Western Empires.  In 5th century CE, the Western Empire split into separate kingdoms ruled by the various "barbaric" tribes (the Gothic tribes, the Franks, the Saxons...) which had earlier invaded or been assimilated by the Roman Empire.</paragraphs>
@@ -270,35 +280,34 @@ Along the way the empire splits into Eastern and Western Empires.  In 5th centur
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="The Middle Ages" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="5" serial="1.5">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="5" subsection="" subsubsection="" serial="1.5" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="5" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="title" wbtag="paragraphs">The Middle Ages</paragraphs>
         </title>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Week" canon_num="7" scope="section" id="s7" slide="7" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="5" subsection="" subsubsection="" chapter_title="" section_title="The Middle Ages">
             <keywords slide="7" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+              <keyword chapter="1" slide="7">5th - 14th century CE</keyword>
               <keyword chapter="1" slide="7">Medieval Period</keyword>
             </keywords>
             <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="5" subsection="" subsubsection="" serial="" slide="7">
               <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="title" wbtag="paragraphs">The Middle Ages</paragraphs>
             </title>
             <div xmlns="http://www.w3.org/1999/xhtml" class="timeline" environment="">
-              <b environment="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="" wbtag="paragraphs">5th - 14th century CE </paragraphs>
-              </b>
+              <inline_keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="">5th - 14th century CE</inline_keyword>
             </div>
             <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="" wbtag="paragraphs"> After the fall of the Western Roman empire, Western Europe entered the Middle Ages or </paragraphs>
             <inline_keyword course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="">Medieval Period</inline_keyword>
-            <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (5th - 14th century CE).  Two main artistic developments in this region at this time were the Romanesque and then the Gothic styles.           </paragraphs>
+            <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (5th - 14th century CE).  Two main artistic developments in this region at this time were the Romanesque and then the Gothic styles. </paragraphs>
             <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="center" wbtag="center">
               <left course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="left" wbtag="left">
                 <a xmlns="http://www.w3.org/1999/xhtml" title="See page for author [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMeister_aus_Tahull_001.jpg" environment="left">
-                  <img width="512" alt="Meister aus Tahull 001" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Meister_aus_Tahull_001.jpg/512px-Meister_aus_Tahull_001.jpg" style="" environment="left" />
+                  <img width="512" alt="Meister aus Tahull 001" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Meister_aus_Tahull_001.jpg/512px-Meister_aus_Tahull_001.jpg" style="" environment="left"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="left" wbtag="paragraphs"> Apse of Sant Climent de Taull </paragraphs>
                 </a>
               </left>
               <right course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="right" wbtag="right">
                 <a xmlns="http://www.w3.org/1999/xhtml" title="By MOSSOT (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVenanson_-_Chapelle_Sainte-Claire_-_Fresque_-3.jpg" environment="right">
-                  <img width="512" alt="Venanson - Chapelle Sainte-Claire - Fresque -3" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Venanson_-_Chapelle_Sainte-Claire_-_Fresque_-3.jpg/512px-Venanson_-_Chapelle_Sainte-Claire_-_Fresque_-3.jpg" style="" environment="right" />
+                  <img width="512" alt="Venanson - Chapelle Sainte-Claire - Fresque -3" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Venanson_-_Chapelle_Sainte-Claire_-_Fresque_-3.jpg/512px-Venanson_-_Chapelle_Sainte-Claire_-_Fresque_-3.jpg" style="" environment="right"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="5" subsection="" subsubsection="" environment="right" wbtag="paragraphs"> Fresco, Chapelle Sainte-Claire </paragraphs>
                 </a>
               </right>
@@ -308,21 +317,20 @@ Along the way the empire splits into Eastern and Western Empires.  In 5th centur
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="The Renaissance" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="6" serial="1.6">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="6" subsection="" subsubsection="" serial="1.6" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="6" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="title" wbtag="paragraphs">The Renaissance</paragraphs>
         </title>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Week" canon_num="8" scope="section" id="s8" slide="8" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="6" subsection="" subsubsection="" chapter_title="" section_title="The Renaissance">
             <keywords slide="8" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+              <keyword chapter="1" slide="8">14th - 17th century</keyword>
               <keyword chapter="1" slide="8">Renaissance</keyword>
             </keywords>
             <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="6" subsection="" subsubsection="" serial="" slide="8">
               <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="title" wbtag="paragraphs">The Renaissance</paragraphs>
             </title>
             <div xmlns="http://www.w3.org/1999/xhtml" class="timeline" environment="">
-              <b environment="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="" wbtag="paragraphs">14th - 17th century </paragraphs>
-              </b>
+              <inline_keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="">14th - 17th century</inline_keyword>
             </div>
             <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The cultural phenomenon known as the </paragraphs>
             <inline_keyword course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="">Renaissance</inline_keyword>
@@ -335,29 +343,29 @@ and Leon Battista Alberti.</paragraphs>
             <newcol course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
               <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="center">
                 <a xmlns="http://www.w3.org/1999/xhtml" title="Giotto di Bondone [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGiotto_di_Bondone_051_Ascension_of_St_John_adjusted.jpg" environment="center">
-                  <img width="512" alt="Giotto di Bondone 051 Ascension of St John adjusted" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Giotto_di_Bondone_051_Ascension_of_St_John_adjusted.jpg/512px-Giotto_di_Bondone_051_Ascension_of_St_John_adjusted.jpg" style="" environment="center" />
-                  <br environment="center" />
+                  <img width="512" alt="Giotto di Bondone 051 Ascension of St John adjusted" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Giotto_di_Bondone_051_Ascension_of_St_John_adjusted.jpg/512px-Giotto_di_Bondone_051_Ascension_of_St_John_adjusted.jpg" style="" environment="center"/>
+                  <br environment="center"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> Ascension of St John (14th century CE) </paragraphs>
-                  <br environment="center" />
+                  <br environment="center"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> Giotto </paragraphs>
                 </a>
               </center>
               <collapse course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
                 <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="center">
                   <a xmlns="http://www.w3.org/1999/xhtml" title="Jan van Eyck [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVan_Eyck_-_Arnolfini_Portrait.jpg" environment="center">
-                    <img width="256" alt="Van Eyck - Arnolfini Portrait" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/256px-Van_Eyck_-_Arnolfini_Portrait.jpg" style="" environment="center" />
-                    <br environment="center" />
+                    <img width="256" alt="Van Eyck - Arnolfini Portrait" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/256px-Van_Eyck_-_Arnolfini_Portrait.jpg" style="" environment="center"/>
+                    <br environment="center"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> The Arnolfini Portrait (1434) </paragraphs>
-                    <br environment="center" />
+                    <br environment="center"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> Jan van Eyck </paragraphs>
                   </a>
                 </center>
                 <collapse course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
                   <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="center">
                     <a xmlns="http://www.w3.org/1999/xhtml" title="Sandro Botticelli [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" environment="center">
-                      <img width="null" alt="Sandro Botticelli - La nascita di Venere - Google Art Project - edited" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1024px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" style="" environment="center" />
+                      <img width="null" alt="Sandro Botticelli - La nascita di Venere - Google Art Project - edited" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1024px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" style="" environment="center"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> The Birth of Venus(c. 1480) </paragraphs>
-                      <br environment="center" />
+                      <br environment="center"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> Sandro Botticelli </paragraphs>
                     </a>
                   </center>
@@ -365,17 +373,17 @@ and Leon Battista Alberti.</paragraphs>
                     <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="center" wbtag="center">
                       <left course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="left" wbtag="left">
                         <a xmlns="http://www.w3.org/1999/xhtml" title="Leonardo da Vinci [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" environment="left">
-                          <img width="256" alt="Mona Lisa, by Leonardo da Vinci, from C2RMF retouched" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/256px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" style="" environment="left" />
+                          <img width="256" alt="Mona Lisa, by Leonardo da Vinci, from C2RMF retouched" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/256px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" style="" environment="left"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="left" wbtag="paragraphs"> Mona Lisa (1503 - 1506)
 Leonardo Da Vinci </paragraphs>
                         </a>
                       </left>
                       <right course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="right" wbtag="right">
-                        <a xmlns="http://www.w3.org/1999/xhtml" title="By Jörg Bittner Unna (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A'David'_by_Michelangelo_JBU0001.JPG" environment="right">
-                          <img width="256" alt="'David' by Michelangelo JBU0001" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%27David%27_by_Michelangelo_JBU0001.JPG/256px-%27David%27_by_Michelangelo_JBU0001.JPG" style="" environment="right" />
-                          <br environment="right" />
+                        <a xmlns="http://www.w3.org/1999/xhtml" title="By J&#xF6;rg Bittner Unna (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A'David'_by_Michelangelo_JBU0001.JPG" environment="right">
+                          <img width="256" alt="'David' by Michelangelo JBU0001" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/%27David%27_by_Michelangelo_JBU0001.JPG/256px-%27David%27_by_Michelangelo_JBU0001.JPG" style="" environment="right"/>
+                          <br environment="right"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="right" wbtag="paragraphs"> David (1501 - 1504) </paragraphs>
-                          <br environment="right" />
+                          <br environment="right"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="6" subsection="" subsubsection="" environment="right" wbtag="paragraphs"> Michelangelo Buonarroti </paragraphs>
                         </a>
                       </right>
@@ -389,21 +397,20 @@ Leonardo Da Vinci </paragraphs>
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="The Baroque Period Dutch Golden Age" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="7" serial="1.7">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="7" subsection="" subsubsection="" serial="1.7" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="7" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="title" wbtag="paragraphs">The Baroque Period, Dutch Golden Age</paragraphs>
         </title>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Week" canon_num="9" scope="section" id="s9" slide="9" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="7" subsection="" subsubsection="" chapter_title="" section_title="The Baroque Period Dutch Golden Age">
             <keywords slide="9" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+              <keyword chapter="1" slide="9">Approx. 17th century</keyword>
               <keyword chapter="1" slide="9">Baroque style</keyword>
             </keywords>
             <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="7" subsection="" subsubsection="" serial="" slide="9">
               <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="title" wbtag="paragraphs">The Baroque Period, Dutch Golden Age</paragraphs>
             </title>
             <div xmlns="http://www.w3.org/1999/xhtml" class="timeline" environment="">
-              <b environment="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="" wbtag="paragraphs">Approx. 17th century </paragraphs>
-              </b>
+              <inline_keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="">Approx. 17th century</inline_keyword>
             </div>
             <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The 17th century saw several major developments in European history.  In art this period coincided with the peak of the </paragraphs>
             <inline_keyword course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="">Baroque style</inline_keyword>
@@ -415,45 +422,44 @@ Leonardo Da Vinci </paragraphs>
               <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="center" wbtag="center">
                 <left course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="left" wbtag="left">
                   <a xmlns="http://www.w3.org/1999/xhtml" title="Caravaggio [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMichelangelo_Merisi_da_Caravaggio_-_St_John_the_Baptist_-_WGA04154.jpg" environment="left">
-                    <img width="512" alt="Michelangelo Merisi da Caravaggio - St John the Baptist - WGA04154" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Michelangelo_Merisi_da_Caravaggio_-_St_John_the_Baptist_-_WGA04154.jpg/512px-Michelangelo_Merisi_da_Caravaggio_-_St_John_the_Baptist_-_WGA04154.jpg" style="" environment="left" />
-                    <br environment="left" />
+                    <img width="512" alt="Michelangelo Merisi da Caravaggio - St John the Baptist - WGA04154" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Michelangelo_Merisi_da_Caravaggio_-_St_John_the_Baptist_-_WGA04154.jpg/512px-Michelangelo_Merisi_da_Caravaggio_-_St_John_the_Baptist_-_WGA04154.jpg" style="" environment="left"/>
+                    <br environment="left"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="left" wbtag="paragraphs">St John the Baptist (c. 1603-1604)</paragraphs>
-                    <br environment="left" />
+                    <br environment="left"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="left" wbtag="paragraphs"> Caravaggio</paragraphs>
                   </a>
                 </left>
                 <right course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="right" wbtag="right">
                   <a xmlns="http://www.w3.org/1999/xhtml" title="Peter Paul Rubens [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APeter_Paul_Rubens_Massacre_of_the_Innocents.jpg" environment="right">
-                    <img width="512" alt="Peter Paul Rubens Massacre of the Innocents" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Peter_Paul_Rubens_Massacre_of_the_Innocents.jpg/512px-Peter_Paul_Rubens_Massacre_of_the_Innocents.jpg" style="" environment="right" />
-                    <br environment="right" />
+                    <img width="512" alt="Peter Paul Rubens Massacre of the Innocents" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Peter_Paul_Rubens_Massacre_of_the_Innocents.jpg/512px-Peter_Paul_Rubens_Massacre_of_the_Innocents.jpg" style="" environment="right"/>
+                    <br environment="right"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="right" wbtag="paragraphs">Massacre of The Innocents (1611-1612)</paragraphs>
-                    <br environment="right" />
+                    <br environment="right"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="right" wbtag="paragraphs"> Peter Paul Rubens</paragraphs>
                   </a>
                 </right>
               </center>
-              <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">  </paragraphs>
               <collapse course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
                 <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Some notable Dutch Golden Age artists: Rembrandt Harmenszoon van Rijn, Jan Vermeer, Jacob van Ruisdael, Pieter Claesz.</paragraphs>
                 <newline course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="newcol"/>
                 <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="center" wbtag="center">
                   <left course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="left" wbtag="left">
                     <a xmlns="http://www.w3.org/1999/xhtml" title="Rembrandt  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Rembrandt,_Self_Portrait_at_the_Age_of_63.jpg" environment="left">
-                      <img width="256" alt="Rembrandt, Self Portrait at the Age of 63" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rembrandt%2C_Self_Portrait_at_the_Age_of_63.jpg/256px-Rembrandt%2C_Self_Portrait_at_the_Age_of_63.jpg" environment="left" />
-                      <br environment="left" />
+                      <img width="256" alt="Rembrandt, Self Portrait at the Age of 63" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Rembrandt%2C_Self_Portrait_at_the_Age_of_63.jpg/256px-Rembrandt%2C_Self_Portrait_at_the_Age_of_63.jpg" environment="left"/>
+                      <br environment="left"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="left" wbtag="paragraphs">Self-Portrait at the Age of Sixty-Three</paragraphs>
-                      <br environment="left" />
+                      <br environment="left"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="left" wbtag="paragraphs"> Rembrandt Harmenszoon van Rijn</paragraphs>
-                      <br environment="left" />
+                      <br environment="left"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="left" wbtag="paragraphs"> (1606 - 1669)</paragraphs>
                     </a>
                   </left>
                   <right course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="right" wbtag="right">
                     <a xmlns="http://www.w3.org/1999/xhtml" title="Johannes Vermeer [Public domain or Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJ._VERMEER_-_El_ge%C3%B3grafo_(Museo_St%C3%A4del%2C_Fr%C3%A1ncfort_del_Meno%2C_1669).jpg" environment="right">
-                      <img width="512" alt="J. VERMEER - El geógrafo (Museo Städel, Fráncfort del Meno, 1669)" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J._VERMEER_-_El_ge%C3%B3grafo_%28Museo_St%C3%A4del%2C_Fr%C3%A1ncfort_del_Meno%2C_1669%29.jpg/512px-J._VERMEER_-_El_ge%C3%B3grafo_%28Museo_St%C3%A4del%2C_Fr%C3%A1ncfort_del_Meno%2C_1669%29.jpg" style="" environment="right" />
-                      <br environment="right" />
+                      <img width="512" alt="J. VERMEER - El ge&#xF3;grafo (Museo St&#xE4;del, Fr&#xE1;ncfort del Meno, 1669)" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J._VERMEER_-_El_ge%C3%B3grafo_%28Museo_St%C3%A4del%2C_Fr%C3%A1ncfort_del_Meno%2C_1669%29.jpg/512px-J._VERMEER_-_El_ge%C3%B3grafo_%28Museo_St%C3%A4del%2C_Fr%C3%A1ncfort_del_Meno%2C_1669%29.jpg" style="" environment="right"/>
+                      <br environment="right"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="right" wbtag="paragraphs">The Geographer (c. 1668-1669)</paragraphs>
-                      <br environment="right" />
+                      <br environment="right"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="7" subsection="" subsubsection="" environment="right" wbtag="paragraphs"> Jan Vermeer</paragraphs>
                     </a>
                   </right>
@@ -472,7 +478,7 @@ which is a milestone for subsequent developments in colour theory.</paragraphs>
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="The Age of Enlightenment" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="8" serial="1.8">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="8" subsection="" subsubsection="" serial="1.8" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="8" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="8" subsection="" subsubsection="" environment="title" wbtag="paragraphs">The Age of Enlightenment</paragraphs>
         </title>
         <slides environment="" chapter_type="">
@@ -497,20 +503,20 @@ which is a milestone for subsequent developments in colour theory.</paragraphs>
               <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="8" subsection="" subsubsection="" environment="center" wbtag="center">
                 <left course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="8" subsection="" subsubsection="" environment="left" wbtag="left">
                   <a xmlns="http://www.w3.org/1999/xhtml" title="Thomas Gainsborough [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AThomas_Gainsborough_-_Portrait_of_a_Lady_in_Blue_-_WGA8414.jpg" environment="left">
-                    <img width="256" alt="Thomas Gainsborough - Portrait of a Lady in Blue - WGA8414" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Thomas_Gainsborough_-_Portrait_of_a_Lady_in_Blue_-_WGA8414.jpg/256px-Thomas_Gainsborough_-_Portrait_of_a_Lady_in_Blue_-_WGA8414.jpg" style="" environment="left" />
-                    <br environment="left" />
+                    <img width="256" alt="Thomas Gainsborough - Portrait of a Lady in Blue - WGA8414" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Thomas_Gainsborough_-_Portrait_of_a_Lady_in_Blue_-_WGA8414.jpg/256px-Thomas_Gainsborough_-_Portrait_of_a_Lady_in_Blue_-_WGA8414.jpg" style="" environment="left"/>
+                    <br environment="left"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="8" subsection="" subsubsection="" environment="left" wbtag="paragraphs">Woman in Blue
 (c. 1770-1780)</paragraphs>
-                    <br environment="left" />
+                    <br environment="left"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="8" subsection="" subsubsection="" environment="left" wbtag="paragraphs"> Thomas Gainsborough </paragraphs>
                   </a>
                 </left>
                 <right course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="8" subsection="" subsubsection="" environment="right" wbtag="right">
-                  <a xmlns="http://www.w3.org/1999/xhtml" title="Jean-Baptiste-Siméon Chardin [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJean_Sim%C3%A9on_Chardin_-_Still_Life_with_Partridge_and_Pear_-_Google_Art_Project.jpg" environment="right">
-                    <img width="512" alt="Jean Siméon Chardin - Still Life with Partridge and Pear - Google Art Project" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jean_Sim%C3%A9on_Chardin_-_Still_Life_with_Partridge_and_Pear_-_Google_Art_Project.jpg/512px-Jean_Sim%C3%A9on_Chardin_-_Still_Life_with_Partridge_and_Pear_-_Google_Art_Project.jpg" style="" environment="right" />
-                    <br environment="right" />
+                  <a xmlns="http://www.w3.org/1999/xhtml" title="Jean-Baptiste-Sim&#xE9;on Chardin [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJean_Sim%C3%A9on_Chardin_-_Still_Life_with_Partridge_and_Pear_-_Google_Art_Project.jpg" environment="right">
+                    <img width="512" alt="Jean Sim&#xE9;on Chardin - Still Life with Partridge and Pear - Google Art Project" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Jean_Sim%C3%A9on_Chardin_-_Still_Life_with_Partridge_and_Pear_-_Google_Art_Project.jpg/512px-Jean_Sim%C3%A9on_Chardin_-_Still_Life_with_Partridge_and_Pear_-_Google_Art_Project.jpg" style="" environment="right"/>
+                    <br environment="right"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="8" subsection="" subsubsection="" environment="right" wbtag="paragraphs">Still Life with Partridge and Pear (1748)</paragraphs>
-                    <br environment="right" />
+                    <br environment="right"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="8" subsection="" subsubsection="" environment="right" wbtag="paragraphs"> Jean-Baptiste-Siméon Chardin</paragraphs>
                   </a>
                 </right>
@@ -529,7 +535,7 @@ in Mathematical Analysis, Number Theory and Topology.</paragraphs>
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="The 19th Century" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="9" serial="1.9">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="9" subsection="" subsubsection="" serial="1.9" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="9" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="" subsubsection="" environment="title" wbtag="paragraphs">The 19th Century</paragraphs>
         </title>
         <slides environment="" chapter_type="">
@@ -563,19 +569,19 @@ Jean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore G
                 <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="center" wbtag="center">
                   <left course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="left" wbtag="left">
                     <a xmlns="http://www.w3.org/1999/xhtml" title="Jean Auguste Dominique Ingres [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJ%C3%BApiter_y_Tetis%2C_por_Dominique_Ingres.jpg" environment="left">
-                      <img width="256" alt="Júpiter y Tetis, por Dominique Ingres" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/J%C3%BApiter_y_Tetis%2C_por_Dominique_Ingres.jpg/256px-J%C3%BApiter_y_Tetis%2C_por_Dominique_Ingres.jpg" style="" environment="left" />
-                      <br environment="left" />
+                      <img width="256" alt="J&#xFA;piter y Tetis, por Dominique Ingres" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/J%C3%BApiter_y_Tetis%2C_por_Dominique_Ingres.jpg/256px-J%C3%BApiter_y_Tetis%2C_por_Dominique_Ingres.jpg" style="" environment="left"/>
+                      <br environment="left"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="left" wbtag="paragraphs">Jupiter and Thetis (1811)</paragraphs>
-                      <br environment="left" />
+                      <br environment="left"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="left" wbtag="paragraphs"> Jean-Auguste-Dominique Ingres</paragraphs>
                     </a>
                   </left>
                   <right course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="right" wbtag="right">
-                    <img xmlns="http://www.w3.org/1999/xhtml" data-src="http://www.metmuseum.org/toah/images/hb/hb_87.15.130.jpg" style="" environment="right" />
+                    <img xmlns="http://www.w3.org/1999/xhtml" data-src="http://www.metmuseum.org/toah/images/hb/hb_87.15.130.jpg" style="" environment="right"/>
                     <a xmlns="http://www.w3.org/1999/xhtml" title="Copyright The Metropolitan Museum of Art" href="http://www.metmuseum.org/toah/works-of-art/87.15.130/" environment="right">
-                      <br environment="right" />
+                      <br environment="right"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="right" wbtag="paragraphs">Prayer in the Mosque (1871)</paragraphs>
-                      <br environment="right" />
+                      <br environment="right"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="right" wbtag="paragraphs"> Jean-Léon Gérôme</paragraphs>
                     </a>
                   </right>
@@ -588,20 +594,20 @@ Jean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore G
                   <collapse course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="newcol" wbtag="collapse">
                     <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="center" wbtag="center">
                       <left course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="left" wbtag="left">
-                        <a xmlns="http://www.w3.org/1999/xhtml" title="Jean-François Millet [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg" environment="left">
-                          <img width="512" alt="Jean-François Millet - Gleaners - Google Art Project 2" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/512px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg" style="" environment="left" />
-                          <br environment="left" />
+                        <a xmlns="http://www.w3.org/1999/xhtml" title="Jean-Fran&#xE7;ois Millet [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg" environment="left">
+                          <img width="512" alt="Jean-Fran&#xE7;ois Millet - Gleaners - Google Art Project 2" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg/512px-Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg" style="" environment="left"/>
+                          <br environment="left"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="left" wbtag="paragraphs">The Gleaners (1857)</paragraphs>
-                          <br environment="left" />
+                          <br environment="left"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="left" wbtag="paragraphs"> Jean-François Millet</paragraphs>
                         </a>
                       </left>
                       <right course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="right" wbtag="right">
-                        <a xmlns="http://www.w3.org/1999/xhtml" title="Édouard Manet [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEdouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg" environment="right">
-                          <img width="512" alt="Edouard Manet - Luncheon on the Grass - Google Art Project" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/512px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg" style="" environment="right" />
-                          <br environment="right" />
+                        <a xmlns="http://www.w3.org/1999/xhtml" title="&#xC9;douard Manet [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AEdouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg" environment="right">
+                          <img width="512" alt="Edouard Manet - Luncheon on the Grass - Google Art Project" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg/512px-Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg" style="" environment="right"/>
+                          <br environment="right"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="right" wbtag="paragraphs">Luncheon on the Grass (1863)</paragraphs>
-                          <br environment="right" />
+                          <br environment="right"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="1" subsubsection="" environment="right" wbtag="paragraphs"> Edouard Manet</paragraphs>
                         </a>
                       </right>
@@ -620,6 +626,7 @@ Jean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore G
           <slides environment="" chapter_type="">
             <slide environment="" chapter_type="Week" canon_num="13" scope="subsection" id="s13" slide="13" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="9" subsection="2" subsubsection="" chapter_title="" section_title="The 19th Century">
               <keywords slide="13" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+                <keyword chapter="1" slide="13">2nd half of 19th century</keyword>
                 <keyword chapter="1" slide="13">Impressionism</keyword>
                 <keyword chapter="1" slide="13">Post-Impressionism</keyword>
               </keywords>
@@ -627,17 +634,15 @@ Jean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore G
                 <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="title" wbtag="paragraphs">Impressionism, Post-Impressionism</paragraphs>
               </title>
               <div xmlns="http://www.w3.org/1999/xhtml" class="timeline" environment="">
-                <b environment="">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="" wbtag="paragraphs">2nd half of 19th century </paragraphs>
-                </b>
+                <inline_keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="">2nd half of 19th century</inline_keyword>
               </div>
               <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="center" wbtag="center">
                 <a xmlns="http://www.w3.org/1999/xhtml" title="Pierre-Auguste Renoir [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APierre-Auguste_Renoir_-_Suzanne_Valadon_-_Dance_at_Bougival_-_02.jpg" environment="center">
-                  <img width="256" alt="Pierre-Auguste Renoir - Suzanne Valadon - Dance at Bougival - 02" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pierre-Auguste_Renoir_-_Suzanne_Valadon_-_Dance_at_Bougival_-_02.jpg/256px-Pierre-Auguste_Renoir_-_Suzanne_Valadon_-_Dance_at_Bougival_-_02.jpg" style="" environment="center" />
-                  <br environment="center" />
+                  <img width="256" alt="Pierre-Auguste Renoir - Suzanne Valadon - Dance at Bougival - 02" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Pierre-Auguste_Renoir_-_Suzanne_Valadon_-_Dance_at_Bougival_-_02.jpg/256px-Pierre-Auguste_Renoir_-_Suzanne_Valadon_-_Dance_at_Bougival_-_02.jpg" style="" environment="center"/>
+                  <br environment="center"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="center" wbtag="paragraphs"> Dance at Bougival
 (c. 1882 - 1883) </paragraphs>
-                  <br environment="center" />
+                  <br environment="center"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="center" wbtag="paragraphs"> Pierre-Auguste Renoir</paragraphs>
                 </a>
               </center>
@@ -651,10 +656,10 @@ and oil paints which had been unavailable before the Industrial Revolution. </pa
                 <collapse course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="newcol" wbtag="collapse">
                   <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="center" wbtag="center">
                     <a xmlns="http://www.w3.org/1999/xhtml" title="Claude Monet [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APont_Argenteuil_Monet_1.jpg" environment="center">
-                      <img width="512" alt="Pont Argenteuil Monet 1" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pont_Argenteuil_Monet_1.jpg/512px-Pont_Argenteuil_Monet_1.jpg" style="" environment="center" />
-                      <br environment="center" />
+                      <img width="512" alt="Pont Argenteuil Monet 1" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Pont_Argenteuil_Monet_1.jpg/512px-Pont_Argenteuil_Monet_1.jpg" style="" environment="center"/>
+                      <br environment="center"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="center" wbtag="paragraphs"> Pont d'Argenteuil (c. 1874) </paragraphs>
-                      <br environment="center" />
+                      <br environment="center"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="center" wbtag="paragraphs"> Claude Monet </paragraphs>
                     </a>
                   </center>
@@ -662,23 +667,23 @@ and oil paints which had been unavailable before the Industrial Revolution. </pa
                     <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="newcol" wbtag="paragraphs"> Following Impressionism came </paragraphs>
                     <inline_keyword course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="newcol">Post-Impressionism</inline_keyword>
                     <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="newcol" wbtag="paragraphs">.  A chief component of this movement is Pointilism, which further developed the optical mixing technique first seen in some Impressionist works.  Some noted Post-Impressionists are:
-Georges Seurat, Paul Signac and Vincent van Gogh.           </paragraphs>
+Georges Seurat, Paul Signac and Vincent van Gogh. </paragraphs>
                     <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="center" wbtag="center">
                       <left course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="left" wbtag="left">
                         <a xmlns="http://www.w3.org/1999/xhtml" title="Georges Seurat [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AA_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png" environment="left">
-                          <img width="512" alt="A Sunday on La Grande Jatte, Georges Seurat, 1884" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png/512px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png" style="" environment="left" />
-                          <br environment="left" />
+                          <img width="512" alt="A Sunday on La Grande Jatte, Georges Seurat, 1884" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png/512px-A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png" style="" environment="left"/>
+                          <br environment="left"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="left" wbtag="paragraphs">A Sunday on La Grande Jatte (1884-1886) </paragraphs>
-                          <br environment="left" />
+                          <br environment="left"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="left" wbtag="paragraphs"> Georges Seurat </paragraphs>
                         </a>
                       </left>
                       <right course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="right" wbtag="right">
                         <a xmlns="http://www.w3.org/1999/xhtml" title="Vincent van Gogh [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVan_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" environment="right">
-                          <img width="null" alt="Van Gogh - Starry Night - Google Art Project" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/512px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" style="" environment="right" />
-                          <br environment="right" />
+                          <img width="null" alt="Van Gogh - Starry Night - Google Art Project" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/512px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg" style="" environment="right"/>
+                          <br environment="right"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="right" wbtag="paragraphs">Starry Night (1889) </paragraphs>
-                          <br environment="right" />
+                          <br environment="right"/>
                           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="9" subsection="2" subsubsection="" environment="right" wbtag="paragraphs"> Vincent van Gogh </paragraphs>
                         </a>
                       </right>
@@ -693,26 +698,26 @@ Georges Seurat, Paul Signac and Vincent van Gogh.           </paragraphs>
         </subsection>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Modernity" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="10" serial="1.10">
-        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="10" subsection="" subsubsection="" serial="1.10" slide="">
+        <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="10" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="10" subsection="" subsubsection="" environment="title" wbtag="paragraphs">"Modernity"</paragraphs>
         </title>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Week" canon_num="14" scope="section" id="s14" slide="14" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="10" subsection="" subsubsection="" chapter_title="" section_title="Modernity">
-            <keywords slide="14" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art"/>
+            <keywords slide="14" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+              <keyword chapter="1" slide="14">20th century</keyword>
+            </keywords>
             <title environment="title" chapter_type="Week" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="10" subsection="" subsubsection="" serial="" slide="14">
               <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="10" subsection="" subsubsection="" environment="title" wbtag="paragraphs">"Modernity"</paragraphs>
             </title>
             <div xmlns="http://www.w3.org/1999/xhtml" class="timeline" environment="">
-              <b environment="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="10" subsection="" subsubsection="" environment="" wbtag="paragraphs">20th century</paragraphs>
-              </b>
+              <inline_keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="10" subsection="" subsubsection="" environment="">20th century</inline_keyword>
             </div>
             <center course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="10" subsection="" subsubsection="" environment="center" wbtag="center">
-              <a xmlns="http://www.w3.org/1999/xhtml" title="Paul Cézanne [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APaul_C%C3%A9zanne%2C_1888-90%2C_Madame_C%C3%A9zanne_(Hortense_Fiquet%2C_1850%E2%80%931922)_in_a_Red_Dress%2C_oil_on_canvas%2C_116.5_x_89.5_cm%2C_The_Metropolitan_Museum_of_Art%2C_New_York.jpg" environment="center">
-                <img width="256" alt="Paul Cézanne, 1888-90, Madame Cézanne (Hortense Fiquet, 1850–1922) in a Red Dress, oil on canvas, 116.5 x 89.5 cm, The Metropolitan Museum of Art, New York" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Paul_C%C3%A9zanne%2C_1888-90%2C_Madame_C%C3%A9zanne_%28Hortense_Fiquet%2C_1850%E2%80%931922%29_in_a_Red_Dress%2C_oil_on_canvas%2C_116.5_x_89.5_cm%2C_The_Metropolitan_Museum_of_Art%2C_New_York.jpg/256px-thumbnail.jpg" style="" environment="center" />
-                <br environment="center" />
+              <a xmlns="http://www.w3.org/1999/xhtml" title="Paul C&#xE9;zanne [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APaul_C%C3%A9zanne%2C_1888-90%2C_Madame_C%C3%A9zanne_(Hortense_Fiquet%2C_1850%E2%80%931922)_in_a_Red_Dress%2C_oil_on_canvas%2C_116.5_x_89.5_cm%2C_The_Metropolitan_Museum_of_Art%2C_New_York.jpg" environment="center">
+                <img width="256" alt="Paul C&#xE9;zanne, 1888-90, Madame C&#xE9;zanne (Hortense Fiquet, 1850&#x2013;1922) in a Red Dress, oil on canvas, 116.5 x 89.5 cm, The Metropolitan Museum of Art, New York" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Paul_C%C3%A9zanne%2C_1888-90%2C_Madame_C%C3%A9zanne_%28Hortense_Fiquet%2C_1850%E2%80%931922%29_in_a_Red_Dress%2C_oil_on_canvas%2C_116.5_x_89.5_cm%2C_The_Metropolitan_Museum_of_Art%2C_New_York.jpg/256px-thumbnail.jpg" style="" environment="center"/>
+                <br environment="center"/>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="10" subsection="" subsubsection="" environment="center" wbtag="paragraphs">Madame Cézanne (1888 - 1890)</paragraphs>
-                <br environment="center" />
+                <br environment="center"/>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="10" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> Paul Cézanne</paragraphs>
               </a>
             </center>
@@ -720,7 +725,7 @@ Georges Seurat, Paul Signac and Vincent van Gogh.           </paragraphs>
 and with him it might very well be argued that the age of Modern Art began.
 From then on the world saw the works of Matisse, Picasso, Delaunay, Chirico, Morandi, Marc, Ernst, Beckmann, Kandinsky, Klee....  There was also a distinct shift of momentum to the USA, led by such painters as Gorky, Rothko, DeKooning, Pollock, Motherwell, Newman (many of whom were immigrants from Europe).
 By this point, it is evident from just the long lists of names that the art world would grow at an ever greater rate, and in ever more diverse directions.
-So, we will stop here, lest these notes never end.           </paragraphs>
+So, we will stop here, lest these notes never end. </paragraphs>
           </slide>
         </slides>
       </section>
