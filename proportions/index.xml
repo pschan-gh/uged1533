@@ -21,7 +21,7 @@
     </entry>
     <entry keyword="references">
       <branch chapter="" slide="1" filename="ref.xml" file_md5="480080fff47d37c7e605491e78eaa0b9" keyword="references">References</branch>
-      <branch chapter="1" slide="7" filename="prop1.xml" file_md5="880da19a4a2689475dd76b7c840e2437" keyword="references">References</branch>
+      <branch chapter="1" slide="7" filename="prop1.xml" file_md5="23dbb1959f6bb4fbb190201883d90b5e" keyword="references">References</branch>
     </entry>
     <entry keyword="ilya repin  russian, 1844 - 1930)">
       <branch chapter="1" slide="7" filename="composition.xml" file_md5="aa028a5c05bfa3f5d3b7987929e0090c" keyword="ilya repin  russian, 1844 - 1930)">Ilya Repin (Russian, 1844 - 1930)</branch>
@@ -48,7 +48,7 @@
       <branch chapter="2" slide="16" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="dynamic symmetry">dynamic symmetry</branch>
     </entry>
     <entry keyword="goldenrectangle">
-      <branch chapter="1" slide="2" filename="prop1.xml" file_md5="880da19a4a2689475dd76b7c840e2437" keyword="goldenrectangle">Golden Rectangle</branch>
+      <branch chapter="1" slide="2" filename="prop1.xml" file_md5="23dbb1959f6bb4fbb190201883d90b5e" keyword="goldenrectangle">Golden Rectangle</branch>
     </entry>
   </index>
 </document>

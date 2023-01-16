@@ -176,11 +176,7 @@ are being taught in illustration courses to this very day. </paragraphs>
             </h2>
             <ol xmlns="http://www.w3.org/1999/xhtml" environment="">
               <li value="1" environment="">
-                <a id="footnote-1" style="text-decoration:none" href="@ref-1" environment="">
-                  <span style="font-family:Sans-Serif" environment="">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
-                  </span>
-                </a>
+                <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="">&lt;a id='footnote-1' style='text-decoration:none' href="@ref-1"&gt;&lt;span style='font-family:Sans-Serif'&gt;^&lt;/span&gt;&lt;/a&gt;</comment>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Tobin, Richard. </paragraphs>
                 <i environment="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Canon of Polykleitos</paragraphs>
@@ -189,11 +185,7 @@ are being taught in illustration courses to this very day. </paragraphs>
 American Journal of Archaeology in 1975, Vol. 79, No. 4 (Oct., 1975), pp. 307-321. </paragraphs>
               </li>
               <li value="2" environment="">
-                <a id="footnote-2" style="text-decoration:none" href="@ref-2" environment="">
-                  <span style="font-family:Sans-Serif" environment="">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
-                  </span>
-                </a>
+                <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment=""> &lt;a id='footnote-2' style='text-decoration:none' href="@ref-2"&gt;&lt;span style='font-family:Sans-Serif'&gt;^&lt;/span&gt;&lt;/a&gt; </comment>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Hambidge, Jay. </paragraphs>
                 <i environment="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Elements of Dynamic Symmetry</paragraphs>
@@ -202,31 +194,19 @@ American Journal of Archaeology in 1975, Vol. 79, No. 4 (Oct., 1975), pp. 307-32
 Dover Publications (June 1, 1967). </paragraphs>
               </li>
               <li value="3" environment="">
-                <a id="footnote-3" style="text-decoration:none" href="@ref-3" environment="">
-                  <span style="font-family:Sans-Serif" environment="">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
-                  </span>
-                </a>
+                <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment=""> &lt;a id='footnote-3' style='text-decoration:none' href="@ref-3"&gt;&lt;span style='font-family:Sans-Serif'&gt;^&lt;/span&gt;&lt;/a&gt; </comment>
                 <a href="https://en.wikipedia.org/wiki/Golden_rectangle" environment="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> https://en.wikipedia.org/wiki/Golden_rectangle</paragraphs>
                 </a>
               </li>
               <li value="4" environment="">
-                <a id="footnote-4" style="text-decoration:none" href="@ref-4" environment="">
-                  <span style="font-family:Sans-Serif" environment="">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
-                  </span>
-                </a>
+                <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment=""> &lt;a id='footnote-4' style='text-decoration:none' href="@ref-4"&gt;&lt;span style='font-family:Sans-Serif'&gt;^&lt;/span&gt;&lt;/a&gt; </comment>
                 <a href="http://www.goldennumber.net/category/design/" environment="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> http://www.goldennumber.net/category/design/</paragraphs>
                 </a>
               </li>
               <li value="5" environment="">
-                <a id="footnote-5" style="text-decoration:none" href="@ref-5" environment="">
-                  <span style="font-family:Sans-Serif" environment="">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
-                  </span>
-                </a>
+                <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment=""> &lt;a id='footnote-5' style='text-decoration:none' href="@ref-5"&gt;&lt;span style='font-family:Sans-Serif'&gt;^&lt;/span&gt;&lt;/a&gt; </comment>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Markowsky, George. </paragraphs>
                 <i environment="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Misconceptions about the Golden Ratio</paragraphs>

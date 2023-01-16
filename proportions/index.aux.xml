@@ -16,7 +16,7 @@
     <branch chapter="2" slide="9" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="kanon">Kanon</branch>
     <branch chapter="2" slide="13" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="commensurability">commensurability</branch>
     <branch chapter="2" slide="16" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="dynamic symmetry">dynamic symmetry</branch>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="1" slide="2" filename="prop1.xml" file_md5="880da19a4a2689475dd76b7c840e2437" keyword="goldenrectangle">Golden Rectangle</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="1" slide="7" filename="prop1.xml" file_md5="880da19a4a2689475dd76b7c840e2437" keyword="references">References</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="1" slide="2" filename="prop1.xml" file_md5="23dbb1959f6bb4fbb190201883d90b5e" keyword="goldenrectangle">Golden Rectangle</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="1" slide="7" filename="prop1.xml" file_md5="23dbb1959f6bb4fbb190201883d90b5e" keyword="references">References</keyword>
   </index>
 </document>
