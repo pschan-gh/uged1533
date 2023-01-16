@@ -3,6 +3,7 @@
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533 - Mathematics in Visual Art">
     <keywords slide="all" environ="course" chapter="" course="UGED 1533 - Mathematics in Visual Art">
       <keyword chapter="" slide="all">Golden Rectangle</keyword>
+      <keyword chapter="" slide="all">References</keyword>
     </keywords>
     <title environment="title" chapter_type="" wbtag="course" scope="course" course="UGED 1533 - Mathematics in Visual Art" chapter="" section="" subsection="" subsubsection="" serial="" slide="">UGED 1533 - Mathematics in Visual Art</title>
     <slides environment="" chapter_type="">
@@ -14,6 +15,7 @@
     <chapter environment="" chapter_type="Chapter" type="Chapter" wbtag="chapter" num="1" title="The Golden Ratio" no_serial="true" course="UGED 1533 - Mathematics in Visual Art" serial="1">
       <keywords slide="all" environ="chapter" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
         <keyword chapter="1" slide="all">Golden Rectangle</keyword>
+        <keyword chapter="1" slide="all">References</keyword>
       </keywords>
       <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="" subsection="" subsubsection="" serial="" slide="">The Golden Ratio</title>
       <slides environment="" chapter_type="">
@@ -157,6 +159,89 @@ American painters George Bellows (1882 - 1925) and Maxfield Parrish (1870 - 1966
 are being taught in illustration courses to this very day. </paragraphs>
         </slide>
       </slides>
+      <section environment="" chapter_type="" type="Section" wbtag="section" title="References" course="UGED 1533 - Mathematics in Visual Art" chapter="1" num="1" serial="1.1">
+        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="1" subsection="" subsubsection="" serial="" slide="">
+          <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">References</paragraphs>
+        </title>
+        <slides environment="" chapter_type="">
+          <slide environment="" chapter_type="Chapter" canon_num="7" scope="section" id="s7" slide="7" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="1" subsection="" subsubsection="" chapter_title="The Golden Ratio" section_title="References">
+            <keywords slide="7" environ="slide" chapter="1" course="UGED 1533 - Mathematics in Visual Art">
+              <keyword chapter="1" slide="7">References</keyword>
+            </keywords>
+            <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533 - Mathematics in Visual Art" chapter="1" section="1" subsection="" subsubsection="" serial="" slide="7">
+              <paragraphs course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">References</paragraphs>
+            </title>
+            <h2 xmlns="http://www.w3.org/1999/xhtml" environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">References</paragraphs>
+            </h2>
+            <ol xmlns="http://www.w3.org/1999/xhtml" environment="">
+              <li value="1" environment="">
+                <a id="footnote-1" style="text-decoration:none" href="@ref-1" environment="">
+                  <span style="font-family:Sans-Serif" environment="">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
+                  </span>
+                </a>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Tobin, Richard. </paragraphs>
+                <i environment="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Canon of Polykleitos</paragraphs>
+                </i>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
+American Journal of Archaeology in 1975, Vol. 79, No. 4 (Oct., 1975), pp. 307-321. </paragraphs>
+              </li>
+              <li value="2" environment="">
+                <a id="footnote-2" style="text-decoration:none" href="@ref-2" environment="">
+                  <span style="font-family:Sans-Serif" environment="">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
+                  </span>
+                </a>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Hambidge, Jay. </paragraphs>
+                <i environment="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Elements of Dynamic Symmetry</paragraphs>
+                </i>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
+Dover Publications (June 1, 1967). </paragraphs>
+              </li>
+              <li value="3" environment="">
+                <a id="footnote-3" style="text-decoration:none" href="@ref-3" environment="">
+                  <span style="font-family:Sans-Serif" environment="">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
+                  </span>
+                </a>
+                <a href="https://en.wikipedia.org/wiki/Golden_rectangle" environment="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> https://en.wikipedia.org/wiki/Golden_rectangle</paragraphs>
+                </a>
+              </li>
+              <li value="4" environment="">
+                <a id="footnote-4" style="text-decoration:none" href="@ref-4" environment="">
+                  <span style="font-family:Sans-Serif" environment="">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
+                  </span>
+                </a>
+                <a href="http://www.goldennumber.net/category/design/" environment="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> http://www.goldennumber.net/category/design/</paragraphs>
+                </a>
+              </li>
+              <li value="5" environment="">
+                <a id="footnote-5" style="text-decoration:none" href="@ref-5" environment="">
+                  <span style="font-family:Sans-Serif" environment="">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
+                  </span>
+                </a>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Markowsky, George. </paragraphs>
+                <i environment="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Misconceptions about the Golden Ratio</paragraphs>
+                </i>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
+The College Mathematics Journal
+Vol. 23, No. 1 (Jan., 1992), pp. 2-19 </paragraphs>
+                <a href="http://www.jstor.org/stable/2686193" environment="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533 - Mathematics in Visual Art" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">JSTOR</paragraphs>
+                </a>
+              </li>
+            </ol>
+          </slide>
+        </slides>
+      </section>
     </chapter>
   </course>
 </document>
