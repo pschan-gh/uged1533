@@ -23,12 +23,6 @@
       <branch chapter="" slide="1" filename="ref.xml" file_md5="480080fff47d37c7e605491e78eaa0b9" keyword="references">References</branch>
       <branch chapter="1" slide="7" filename="prop1.xml" file_md5="23dbb1959f6bb4fbb190201883d90b5e" keyword="references">References</branch>
     </entry>
-    <entry keyword="ilya repin  russian, 1844 - 1930)">
-      <branch chapter="1" slide="7" filename="composition.xml" file_md5="aa028a5c05bfa3f5d3b7987929e0090c" keyword="ilya repin  russian, 1844 - 1930)">Ilya Repin (Russian, 1844 - 1930)</branch>
-    </entry>
-    <entry keyword="caravaggio  italian, 1571 - 1610)">
-      <branch chapter="1" slide="8" filename="composition.xml" file_md5="aa028a5c05bfa3f5d3b7987929e0090c" keyword="caravaggio  italian, 1571 - 1610)">Caravaggio (Italian, 1571 - 1610)</branch>
-    </entry>
     <entry keyword="ideal proportions">
       <branch chapter="2" slide="3" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="ideal proportions">ideal proportions</branch>
     </entry>
@@ -49,6 +43,12 @@
     </entry>
     <entry keyword="goldenrectangle">
       <branch chapter="1" slide="2" filename="prop1.xml" file_md5="23dbb1959f6bb4fbb190201883d90b5e" keyword="goldenrectangle">Golden Rectangle</branch>
+    </entry>
+    <entry keyword="ilyarepinrussian18441930">
+      <branch chapter="1" slide="7" filename="composition.xml" file_md5="99b1966fdad8f355d40f54c20d7466cd" keyword="ilyarepinrussian18441930">Ilya Repin (Russian, 1844 - 1930)</branch>
+    </entry>
+    <entry keyword="caravaggioitalian15711610">
+      <branch chapter="1" slide="8" filename="composition.xml" file_md5="99b1966fdad8f355d40f54c20d7466cd" keyword="caravaggioitalian15711610">Caravaggio (Italian, 1571 - 1610)</branch>
     </entry>
   </index>
 </document>

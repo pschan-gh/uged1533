@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533">
     <keywords slide="all" environ="course" chapter="" course="UGED 1533">
@@ -16,7 +17,7 @@
         <keyword chapter="1" slide="all">Ilya Repin (Russian, 1844 - 1930)</keyword>
         <keyword chapter="1" slide="all">Caravaggio (Italian, 1571 - 1610)</keyword>
       </keywords>
-      <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" serial="1" slide="">Composition</title>
+      <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" serial="" slide="">Composition</title>
       <slides environment="" chapter_type="">
         <slide environment="" chapter_type="Chapter" canon_num="2" scope="chapter" id="s2" slide="2" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" chapter_title="Composition" section_title="">
           <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="2">Composition</title>
@@ -26,9 +27,9 @@
           <keywords slide="3" environ="slide" chapter="1" course="UGED 1533"/>
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
             <a href="https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg#/media/File:Botticelli-primavera.jpg" environment="">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Botticelli-primavera.jpg/1200px-Botticelli-primavera.jpg" alt="Botticelli-primavera.jpg" environment="" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Botticelli-primavera.jpg/1200px-Botticelli-primavera.jpg" alt="Botticelli-primavera.jpg" environment=""/>
             </a>
-            <br environment="" />
+            <br environment=""/>
             <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
               <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> By </paragraphs>
               <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/wiki/Sandro_Botticelli" class="extiw" title="en:Sandro Botticelli" environment="newcol">
@@ -53,9 +54,9 @@
           <keywords slide="4" environ="slide" chapter="1" course="UGED 1533"/>
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
             <a href="https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg#/media/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" environment="">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1200px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" alt="Sandro Botticelli - La nascita di Venere - Google Art Project - edited.jpg" environment="" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1200px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg" alt="Sandro Botticelli - La nascita di Venere - Google Art Project - edited.jpg" environment=""/>
             </a>
-            <br environment="" />
+            <br environment=""/>
             <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
               <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> By </paragraphs>
               <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/wiki/Sandro_Botticelli" class="extiw" title="en:Sandro Botticelli" environment="newcol">
@@ -76,7 +77,7 @@
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, late 15th Century, Sandro Botticelli </paragraphs>
           </div>
           <newcol course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-            <image course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/proportions/images/venus_golden.jpg" wbtag="image"/>
+            <image course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/proportions/images/venus_golden.jpg" wbtag="image"/>
             <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> What do you think? </paragraphs>
           </newcol>
         </slide>
@@ -84,9 +85,9 @@
           <keywords slide="5" environ="slide" chapter="1" course="UGED 1533"/>
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
             <a href="https://commons.wikimedia.org/wiki/File:The_Roses_of_Heliogabalus.jpg#/media/File:The_Roses_of_Heliogabalus.jpg" environment="">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/The_Roses_of_Heliogabalus.jpg/1200px-The_Roses_of_Heliogabalus.jpg" alt="The Roses of Heliogabalus.jpg" environment="" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/The_Roses_of_Heliogabalus.jpg/1200px-The_Roses_of_Heliogabalus.jpg" alt="The Roses of Heliogabalus.jpg" environment=""/>
             </a>
-            <br environment="" />
+            <br environment=""/>
             <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
               <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> By </paragraphs>
               <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema" class="extiw" title="en:Lawrence Alma-Tadema" environment="newcol">
@@ -113,7 +114,7 @@
         </slide>
       </slides>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Academic Compositional Studies" course="UGED 1533" chapter="1" num="1" serial="1.1">
-        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" serial="1.1" slide="">
+        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Academic Compositional Studies</paragraphs>
         </title>
         <slides environment="" chapter_type="">
@@ -123,163 +124,163 @@
               <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Academic Compositional Studies</paragraphs>
             </title>
             <newcol course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_3520.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_3523.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_3524.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_3526.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_3528.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_3529.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_3531.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_3532.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6330.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6331.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6332.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6333.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6335.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6336.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6338.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6339.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6340.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6343.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6345.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6347.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6349.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6350.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6351.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6352.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6353.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6355.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6357.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6358.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6574.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6575.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6576.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6586.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6588.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6589.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6596.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6597.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6601.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6603.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6605.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6606.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6607.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6609.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6610.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6613.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6614.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6616.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6617.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6618.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6619.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6622.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6623.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6625.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6626.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6627.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6628.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6629.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6630.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6631.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6632.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6633.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6636.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6706.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6709.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6710.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6712.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6714.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6716.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6718.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6720.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6722.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6724.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6726.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6727.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6729.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6730.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6753.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6754.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6760.JPG" wbtag="image"/>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="content/uged1533/images/russian_compositional_studies/IMG_6770.JPG" wbtag="image"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3520.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3523.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3524.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3526.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3528.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3529.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3531.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3532.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6330.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6331.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6332.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6333.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6335.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6336.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6338.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6339.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6340.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6343.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6345.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6347.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6349.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6350.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6351.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6352.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6353.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6355.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6357.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6358.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6574.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6575.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6576.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6586.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6588.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6589.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6596.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6597.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6601.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6603.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6605.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6606.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6607.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6609.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6610.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6613.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6614.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6616.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6617.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6618.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6619.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6622.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6623.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6625.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6626.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6627.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6628.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6629.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6630.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6631.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6632.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6633.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6636.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6706.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6709.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6710.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6712.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6714.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6716.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6718.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6720.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6722.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6724.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6726.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6727.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6729.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6730.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6753.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6754.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6760.JPG" wbtag="image"/>
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6770.JPG" wbtag="image"/>
             </newcol>
           </slide>
           <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" chapter_title="Composition" section_title="Academic Compositional Studies">
@@ -289,22 +290,22 @@
             <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Ilya Repin (Russian, 1844 - 1930)</paragraphs>
             </h3>
-            <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+            <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
             <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
               <a title="Ilya Repin [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIlia_Efimovich_Repin_(1844-1930)_-_Volga_Boatmen_(1870-1873).jpg" environment="">
-                <img width="512" alt="Ilia Efimovich Repin (1844-1930) - Volga Boatmen (1870-1873)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ilia_Efimovich_Repin_%281844-1930%29_-_Volga_Boatmen_%281870-1873%29.jpg/512px-Ilia_Efimovich_Repin_%281844-1930%29_-_Volga_Boatmen_%281870-1873%29.jpg" environment="" />
+                <img width="512" alt="Ilia Efimovich Repin (1844-1930) - Volga Boatmen (1870-1873)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ilia_Efimovich_Repin_%281844-1930%29_-_Volga_Boatmen_%281870-1873%29.jpg/512px-Ilia_Efimovich_Repin_%281844-1930%29_-_Volga_Boatmen_%281870-1873%29.jpg" environment=""/>
               </a>
-              <br environment="" />
+              <br environment=""/>
               <i environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Volga Boatmen</paragraphs>
               </i>
             </div>
-            <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+            <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
             <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
               <a title="Ilya Repin [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AIlya_Repin_Unexpected_visitors.jpg" environment="">
-                <img width="512" alt="Ilya Repin Unexpected visitors" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ilya_Repin_Unexpected_visitors.jpg/512px-Ilya_Repin_Unexpected_visitors.jpg" environment="" />
+                <img width="512" alt="Ilya Repin Unexpected visitors" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ilya_Repin_Unexpected_visitors.jpg/512px-Ilya_Repin_Unexpected_visitors.jpg" environment=""/>
               </a>
-              <br environment="" />
+              <br environment=""/>
               <i environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">They Did Not Expect Him</paragraphs>
               </i>
@@ -322,12 +323,12 @@
             <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Caravaggio (Italian, 1571 - 1610)</paragraphs>
             </h3>
-            <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+            <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
             <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
               <a title="By Michelangelo Merisi da Caravaggio [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMichelangelo_Caravaggio_025.jpg" environment="">
-                <img width="512" alt="Michelangelo Caravaggio 025" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Michelangelo_Caravaggio_025.jpg/512px-Michelangelo_Caravaggio_025.jpg" environment="" />
+                <img width="512" alt="Michelangelo Caravaggio 025" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Michelangelo_Caravaggio_025.jpg/512px-Michelangelo_Caravaggio_025.jpg" environment=""/>
               </a>
-              <br environment="" />
+              <br environment=""/>
               <i environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Rest on the Flight into Egypt</paragraphs>
               </i>
