@@ -1,24 +1,6 @@
 <?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
-    <entry keyword="by john singer sargent  19th century)">
-      <branch chapter="1" slide="4" filename="misc.xml" file_md5="71b6c53d488d1016f74456974a53754f" keyword="by john singer sargent  19th century)">by John Singer Sargent (19th Century)</branch>
-    </entry>
-    <entry keyword="pieter bruegel the elder  netherlandish, 1525 &#x2013; 1569) ">
-      <branch chapter="1" slide="6" filename="misc.xml" file_md5="71b6c53d488d1016f74456974a53754f" keyword="pieter bruegel the elder  netherlandish, 1525 &#x2013; 1569) ">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </branch>
-    </entry>
-    <entry keyword=" jacques louis david (french, 1748 &#x2013; 1825) ">
-      <branch chapter="1" slide="7" filename="misc.xml" file_md5="71b6c53d488d1016f74456974a53754f" keyword=" jacques louis david (french, 1748 &#x2013; 1825) "> Jacques-Louis David (French, 1748 – 1825) </branch>
-    </entry>
-    <entry keyword="alberto giacometti  swiss, 1901 - 1966)">
-      <branch chapter="1" slide="8" filename="misc.xml" file_md5="71b6c53d488d1016f74456974a53754f" keyword="alberto giacometti  swiss, 1901 - 1966)">Alberto Giacometti (Swiss, 1901 - 1966)</branch>
-    </entry>
-    <entry keyword="fernando botero  colombian, 1932 - )">
-      <branch chapter="1" slide="9" filename="misc.xml" file_md5="71b6c53d488d1016f74456974a53754f" keyword="fernando botero  colombian, 1932 - )">Fernando Botero (Colombian, 1932 - )</branch>
-    </entry>
-    <entry keyword="piet mondrian  dutch, 1872 - 1944),">
-      <branch chapter="1" slide="11" filename="misc.xml" file_md5="71b6c53d488d1016f74456974a53754f" keyword="piet mondrian  dutch, 1872 - 1944),">Piet Mondrian (Dutch, 1872 - 1944),</branch>
-    </entry>
     <entry keyword="references">
       <branch chapter="" slide="1" filename="ref.xml" file_md5="480080fff47d37c7e605491e78eaa0b9" keyword="references">References</branch>
       <branch chapter="1" slide="7" filename="prop1.xml" file_md5="23dbb1959f6bb4fbb190201883d90b5e" keyword="references">References</branch>
@@ -49,6 +31,24 @@
     </entry>
     <entry keyword="caravaggioitalian15711610">
       <branch chapter="1" slide="8" filename="composition.xml" file_md5="99b1966fdad8f355d40f54c20d7466cd" keyword="caravaggioitalian15711610">Caravaggio (Italian, 1571 - 1610)</branch>
+    </entry>
+    <entry keyword="byjohnsingersargent19thcentury">
+      <branch chapter="1" slide="4" filename="misc.xml" file_md5="225a004d60b53f50e83cef9cabc97906" keyword="byjohnsingersargent19thcentury">by John Singer Sargent (19th Century)</branch>
+    </entry>
+    <entry keyword="pieterbruegeltheeldernetherlandish15251569">
+      <branch chapter="1" slide="6" filename="misc.xml" file_md5="225a004d60b53f50e83cef9cabc97906" keyword="pieterbruegeltheeldernetherlandish15251569">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </branch>
+    </entry>
+    <entry keyword="jacqueslouisdavidfrench17481825">
+      <branch chapter="1" slide="7" filename="misc.xml" file_md5="225a004d60b53f50e83cef9cabc97906" keyword="jacqueslouisdavidfrench17481825"> Jacques-Louis David (French, 1748 – 1825) </branch>
+    </entry>
+    <entry keyword="albertogiacomettiswiss19011966">
+      <branch chapter="1" slide="8" filename="misc.xml" file_md5="225a004d60b53f50e83cef9cabc97906" keyword="albertogiacomettiswiss19011966">Alberto Giacometti (Swiss, 1901 - 1966)</branch>
+    </entry>
+    <entry keyword="fernandoboterocolombian1932">
+      <branch chapter="1" slide="9" filename="misc.xml" file_md5="225a004d60b53f50e83cef9cabc97906" keyword="fernandoboterocolombian1932">Fernando Botero (Colombian, 1932 - )</branch>
+    </entry>
+    <entry keyword="pietmondriandutch18721944">
+      <branch chapter="1" slide="11" filename="misc.xml" file_md5="225a004d60b53f50e83cef9cabc97906" keyword="pietmondriandutch18721944">Piet Mondrian (Dutch, 1872 - 1944),</branch>
     </entry>
   </index>
 </document>

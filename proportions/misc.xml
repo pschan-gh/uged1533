@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533">
     <keywords slide="all" environ="course" chapter="" course="UGED 1533">
@@ -24,7 +25,7 @@
         <keyword chapter="1" slide="all">Fernando Botero (Colombian, 1932 - )</keyword>
         <keyword chapter="1" slide="all">Piet Mondrian (Dutch, 1872 - 1944),</keyword>
       </keywords>
-      <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" serial="1" slide="">Miscellany</title>
+      <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" serial="" slide="">Miscellany</title>
       <slides environment="" chapter_type="">
         <slide environment="" chapter_type="Chapter" canon_num="2" scope="chapter" id="s2" slide="2" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" chapter_title="Miscellany" section_title="">
           <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="2">Miscellany</title>
@@ -32,7 +33,7 @@
         </slide>
       </slides>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Ideal Proportions" course="UGED 1533" chapter="1" num="1" serial="1.1">
-        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" serial="1.1" slide="">
+        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Ideal Proportions</paragraphs>
         </title>
         <slides environment="" chapter_type="">
@@ -60,9 +61,9 @@
               </h5>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
                 <a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Carolus-Duran.jpg#/media/File:Portrait_of_Carolus-Duran.jpg" environment="">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Portrait_of_Carolus-Duran.jpg/1200px-Portrait_of_Carolus-Duran.jpg" alt="Portrait of Carolus-Duran.jpg" environment="" />
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Portrait_of_Carolus-Duran.jpg/1200px-Portrait_of_Carolus-Duran.jpg" alt="Portrait of Carolus-Duran.jpg" environment=""/>
                 </a>
-                <br environment="" />
+                <br environment=""/>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">By </paragraphs>
                 <a href="https://en.wikipedia.org/wiki/John_Singer_Sargent" class="extiw" title="en:John Singer Sargent" environment="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">John Singer Sargent</paragraphs>
@@ -78,11 +79,11 @@
               </div>
               <newcol course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="newcol">
                 <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-                  <p environment="newcol"></p>
+                  <p environment="newcol"/>
                   <a href="https://commons.wikimedia.org/wiki/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg#/media/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg" environment="newcol">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Charles_Auguste_%C3%89mile_Duran_c1880.jpg" alt="Charles Auguste Émile Duran c1880.jpg" height="900" width="644" environment="newcol" />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Charles_Auguste_%C3%89mile_Duran_c1880.jpg" alt="Charles Auguste &#xC9;mile Duran c1880.jpg" height="900" width="644" environment="newcol"/>
                   </a>
-                  <br environment="newcol" />
+                  <br environment="newcol"/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">By Unidentified Artist - Harvard Art Museum/Fogg Museum, Public Domain, </paragraphs>
                   <a href="https://commons.wikimedia.org/w/index.php?curid=11218707" environment="newcol">
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
@@ -98,9 +99,26 @@
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Last Judgment</paragraphs>
               </i>
               <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">, by Michelangelo (Sistine Chapel) </paragraphs>
-              <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+              <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <newcol course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="newcol">
-                <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" data-src="https://static.comicvine.com/uploads/scale_medium/8/81724/1488034-1257740_pic025.jpg" wbtag="image"/>
+                <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+                <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/wiki/File:Supermanflying.png#/media/File:Supermanflying.png" environment="newcol">
+                  <img src="https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png" alt="Supermanflying.png" environment="newcol"/>
+                </a>
+                <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
+                <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">By </paragraphs>
+                <a xmlns="http://www.w3.org/1999/xhtml" rel="nofollow" class="external text" href="https://comicsalliance.com/best-art-ever-this-week-superman-75th-anniversary-edition/" environment="newcol">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">comicsalliance.com</paragraphs>
+                </a>
+                <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
+                <a xmlns="http://www.w3.org/1999/xhtml" href="//en.wikipedia.org/wiki/File:Supermanflying.png" title="Fair use of copyrighted material in the context of Superman" environment="newcol">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Fair use</paragraphs>
+                </a>
+                <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
+                <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/w/index.php?curid=61390264" environment="newcol">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
+                </a>
+                <comment course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol">@image{https://static.comicvine.com/uploads/scale_medium/8/81724/1488034-1257740_pic025.jpg}</comment>
               </newcol>
             </slide>
             <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
@@ -110,10 +128,10 @@
               <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </paragraphs>
               </h3>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="images/bruegel1.jpg" wbtag="image"/>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="images/bruegel2.jpg" wbtag="image"/>
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/bruegel1.jpg" wbtag="image"/>
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/bruegel2.jpg" wbtag="image"/>
             </slide>
             <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
               <keywords slide="7" environ="slide" chapter="1" course="UGED 1533">
@@ -122,13 +140,13 @@
               <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> Jacques-Louis David (French, 1748 – 1825) </paragraphs>
               </h3>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <img src="images/death_socrates.jpg" environment="" />
+                <img src="images/death_socrates.jpg" environment=""/>
               </div>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <img src="images/horatii.jpg" environment="" />
+                <img src="images/horatii.jpg" environment=""/>
               </div>
             </slide>
             <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="8" id="s8" slide="8" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
@@ -138,16 +156,16 @@
               <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Alberto Giacometti (Swiss, 1901 - 1966)</paragraphs>
               </h3>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
                 <div class="dual-left" style="width:33%" environment="">
-                  <img src="images/2576.jpg" environment="" />
+                  <img src="images/2576.jpg" environment=""/>
                 </div>
                 <div class="dual-left" style="width:33%" environment="">
-                  <img src="images/giacometti.jpg" environment="" />
+                  <img src="images/giacometti.jpg" environment=""/>
                 </div>
                 <div class="dual-left" style="width:33%" environment="">
-                  <img src="images/giacometti3.jpg" environment="" />
+                  <img src="images/giacometti3.jpg" environment=""/>
                 </div>
               </div>
             </slide>
@@ -158,13 +176,13 @@
               <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Fernando Botero (Colombian, 1932 - )</paragraphs>
               </h3>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
                 <div class="dual-left" style="width:50%" environment="">
-                  <img src="images/botero1.jpg" environment="" />
+                  <img src="images/botero1.jpg" environment=""/>
                 </div>
                 <div class="dual-left" style="width:50%" environment="">
-                  <img src="images/botero2.jpg" environment="" />
+                  <img src="images/botero2.jpg" environment=""/>
                 </div>
               </div>
             </slide>
@@ -172,7 +190,7 @@
         </subsection>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Composition" course="UGED 1533" chapter="1" num="2" serial="1.2">
-        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="2" subsection="" subsubsection="" serial="1.2" slide="">
+        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="2" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Composition</paragraphs>
         </title>
         <slides environment="" chapter_type="">
@@ -194,11 +212,11 @@
             <image course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="" data-src="http://www.artmarketmonitor.com/wp-content/uploads/2016/10/PIet-Mondrian-Stammer-Mill-with-Streaked-Sky-1906.jpg" wbtag="image"/>
             <newcol course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-                <p environment="newcol"></p>
+                <p environment="newcol"/>
                 <a href="https://commons.wikimedia.org/wiki/File:Tableau_I,_by_Piet_Mondriaan.jpg#/media/File:Tableau_I,_by_Piet_Mondriaan.jpg" environment="newcol">
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg/1200px-Tableau_I%2C_by_Piet_Mondriaan.jpg" alt="Piet Mondriaan abstract painting Tableau I, from 1921" environment="newcol" />
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg/1200px-Tableau_I%2C_by_Piet_Mondriaan.jpg" alt="Piet Mondriaan abstract painting Tableau I, from 1921" environment="newcol"/>
                 </a>
-                <br environment="newcol" />
+                <br environment="newcol"/>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> By </paragraphs>
                 <a href="https://en.wikipedia.org/wiki/Piet_Mondrian" class="extiw" title="en:Piet Mondrian" environment="newcol">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Piet Mondrian</paragraphs>
@@ -211,43 +229,23 @@
                 <a href="https://commons.wikimedia.org/w/index.php?curid=37668615" environment="newcol">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
                 </a>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
-                  <!-- <a rel="nofollow" class="external text" href="http://www.gemeentemuseum.nl/collection/item/6713">Gemeentemuseum Den Haag</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=37668615">Link</a> -->
-                </paragraphs>
+                <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol"> &lt;a rel="nofollow" class="external text" href="http://www.gemeentemuseum.nl/collection/item/6713"&gt;Gemeentemuseum Den Haag&lt;/a&gt;, Public Domain, &lt;a href="https://commons.wikimedia.org/w/index.php?curid=37668615"&gt;Link&lt;/a&gt; </comment>
                 <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol"/>
               </div>
             </newcol>
           </slide>
           <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="12" id="s12" slide="12" course="UGED 1533" chapter="1" section="2" subsection="" subsubsection="" chapter_title="Miscellany" section_title="Composition">
             <keywords slide="12" environ="slide" chapter="1" course="UGED 1533"/>
-            <iframe xmlns="http://www.w3.org/1999/xhtml" src="https://archive.org/stream/andrew-loomis-creative-illustration?ui=embed" width="100%" height="430" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" environment=""></iframe>
-            <paragraphs>
-              <!-- @slide -->
-            </paragraphs>
-            <paragraphs>
-              <!-- <h3>Richard Diebenkorn (American, 1922 - 1993)</h3> -->
-            </paragraphs>
-            <paragraphs>
-              <!-- <div class=image> -->
-            </paragraphs>
-            <paragraphs>
-              <!-- <p/><a href="https://en.wikipedia.org/wiki/File:Cityscape_I_360.jpg#/media/File:Cityscape_I_360.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Cityscape_I_360.jpg" alt="Cityscape I 360.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Cityscape_I_360.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=9927418">Link</a> -->
-            </paragraphs>
-            <paragraphs>
-              <!-- </div> -->
-            </paragraphs>
-            <paragraphs>
-              <!-- @col -->
-            </paragraphs>
-            <paragraphs>
-              <!-- <div class=image> -->
-            </paragraphs>
-            <paragraphs>
-              <!-- <p/><a href="https://en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg#/media/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" alt="Richard Diebenkorn's painting 'Ocean Park No. 67'.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=10974054">Link</a> -->
-            </paragraphs>
-            <paragraphs>
-              <!-- </div> -->
-            </paragraphs>
+            <iframe xmlns="http://www.w3.org/1999/xhtml" src="https://archive.org/stream/andrew-loomis-creative-illustration?ui=embed" width="100%" height="430" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="allowfullscreen" environment=""/>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> @slide </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;h3&gt;Richard Diebenkorn (American, 1922 - 1993)&lt;/h3&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;div class=image&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;p/&gt;&lt;a href="https://en.wikipedia.org/wiki/File:Cityscape_I_360.jpg#/media/File:Cityscape_I_360.jpg"&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Cityscape_I_360.jpg" alt="Cityscape I 360.jpg"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="//en.wikipedia.org/wiki/File:Cityscape_I_360.jpg" title="Fair use"&gt;Fair use&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/w/index.php?curid=9927418"&gt;Link&lt;/a&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> @col </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;div class=image&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;p/&gt;&lt;a href="https://en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg#/media/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg"&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" alt="Richard Diebenkorn's painting 'Ocean Park No. 67'.jpg"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="//en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" title="Fair use"&gt;Fair use&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/w/index.php?curid=10974054"&gt;Link&lt;/a&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
           </slide>
         </slides>
       </section>
