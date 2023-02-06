@@ -1,24 +1,6 @@
 <?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
-    <entry keyword="byzantine art">
-      <branch chapter="" slide="2" filename="misc.xml" file_md5="7b58e3b1e4946a389167af0621d7e859" keyword="byzantine art">Byzantine Art</branch>
-    </entry>
-    <entry keyword="giotto  c. 1270 - 1337)">
-      <branch chapter="" slide="3" filename="misc.xml" file_md5="7b58e3b1e4946a389167af0621d7e859" keyword="giotto  c. 1270 - 1337)">Giotto (c. 1270 - 1337)</branch>
-    </entry>
-    <entry keyword="paolo uccello  1397 - 1475, italian)">
-      <branch chapter="" slide="4" filename="misc.xml" file_md5="7b58e3b1e4946a389167af0621d7e859" keyword="paolo uccello  1397 - 1475, italian)">Paolo Uccello (1397 - 1475, Italian)</branch>
-    </entry>
-    <entry keyword="giovanni bellini  c. 1430 - 1516, italian)">
-      <branch chapter="" slide="5" filename="misc.xml" file_md5="7b58e3b1e4946a389167af0621d7e859" keyword="giovanni bellini  c. 1430 - 1516, italian)">Giovanni Bellini (c. 1430 - 1516, Italian)</branch>
-    </entry>
-    <entry keyword="johannes vermeer  1632 - 1675, dutch)">
-      <branch chapter="" slide="7" filename="misc.xml" file_md5="7b58e3b1e4946a389167af0621d7e859" keyword="johannes vermeer  1632 - 1675, dutch)">Johannes Vermeer (1632 - 1675, Dutch)</branch>
-    </entry>
-    <entry keyword="pieter de hooch  1629 - 1684, dutch)">
-      <branch chapter="" slide="8" filename="misc.xml" file_md5="7b58e3b1e4946a389167af0621d7e859" keyword="pieter de hooch  1629 - 1684, dutch)">Pieter de Hooch (1629 - 1684, Dutch)</branch>
-    </entry>
     <entry keyword="the column problem">
       <branch chapter="" slide="3" filename="deviations.xml" file_md5="d055329e4cec20458a6e0f7faae2e17e" keyword="the column problem">The Column Problem</branch>
     </entry>
@@ -66,6 +48,27 @@
     </entry>
     <entry keyword="references">
       <branch chapter="3" slide="27" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="references">References</branch>
+    </entry>
+    <entry keyword="byzantineart">
+      <branch chapter="" slide="2" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="byzantineart">Byzantine Art</branch>
+    </entry>
+    <entry keyword="cimabuec12401302">
+      <branch chapter="" slide="3" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="cimabuec12401302">Cimabue (c. 1240 – 1302)</branch>
+    </entry>
+    <entry keyword="giottoc12701337">
+      <branch chapter="" slide="4" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="giottoc12701337">Giotto (c. 1270 - 1337)</branch>
+    </entry>
+    <entry keyword="paolouccello13971475italian">
+      <branch chapter="" slide="5" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="paolouccello13971475italian">Paolo Uccello (1397 - 1475, Italian)</branch>
+    </entry>
+    <entry keyword="giovannibellinic14301516italian">
+      <branch chapter="" slide="6" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="giovannibellinic14301516italian">Giovanni Bellini (c. 1430 - 1516, Italian)</branch>
+    </entry>
+    <entry keyword="johannesvermeer16321675dutch">
+      <branch chapter="" slide="8" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="johannesvermeer16321675dutch">Johannes Vermeer (1632 - 1675, Dutch)</branch>
+    </entry>
+    <entry keyword="pieterdehooch16291684dutch">
+      <branch chapter="" slide="9" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="pieterdehooch16291684dutch">Pieter de Hooch (1629 - 1684, Dutch)</branch>
     </entry>
   </index>
 </document>
