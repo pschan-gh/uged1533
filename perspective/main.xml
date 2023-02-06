@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533">
     <keywords slide="all" environ="course" chapter="" course="UGED 1533">
@@ -12,6 +13,7 @@
       <keyword chapter="" slide="all">Tim's Vermeer</keyword>
       <keyword chapter="" slide="all">Antonio Mancini (1852 - 1930, Italian)</keyword>
       <keyword chapter="" slide="all">Antonio Lopez Garcia (Spanish)</keyword>
+      <keyword chapter="" slide="all">References</keyword>
     </keywords>
     <title environment="title" chapter_type="" wbtag="course" scope="course" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" serial="" slide="">UGED 1533</title>
     <slides environment="" chapter_type="">
@@ -34,20 +36,21 @@
         <keyword chapter="3" slide="all">Tim's Vermeer</keyword>
         <keyword chapter="3" slide="all">Antonio Mancini (1852 - 1930, Italian)</keyword>
         <keyword chapter="3" slide="all">Antonio Lopez Garcia (Spanish)</keyword>
+        <keyword chapter="3" slide="all">References</keyword>
       </keywords>
-      <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533" chapter="3" section="" subsection="" subsubsection="" serial="3" slide="">Linear Perspective</title>
+      <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533" chapter="3" section="" subsection="" subsubsection="" serial="" slide="">Linear Perspective</title>
       <slides environment="" chapter_type="">
         <slide environment="" chapter_type="Chapter" canon_num="2" scope="chapter" id="s2" slide="2" course="UGED 1533" chapter="3" section="" subsection="" subsubsection="" chapter_title="Linear Perspective" section_title="">
           <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="2">Linear Perspective</title>
           <keywords slide="2" environ="slide" chapter="3" course="UGED 1533"/>
-          <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+          <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
           <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="">
             <i environment="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Those who become enamoured of the practice of the art, without having previously applied to the diligent study of the scientific part of it, may be compared to mariners, who put to sea in a ship without rudder or compass, and therefore cannot be certain of arriving at the wished-for port.
 Practice must always be founded on good theory; to this, Perspective is the guide and entrance, without which nothing can be well done.</paragraphs>
             </i>
           </blockquote>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+          <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
           <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:right" environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Leonardo da Vinci</paragraphs>
             <a knowl="content/uged1533/perspective/ref.html#footnote-1" id="ref-1" environment="">
@@ -57,13 +60,13 @@ Practice must always be founded on good theory; to this, Perspective is the guid
         </slide>
         <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="3" id="s3" slide="3" course="UGED 1533" chapter="3" section="" subsection="" subsubsection="" chapter_title="Linear Perspective" section_title="">
           <keywords slide="3" environ="slide" chapter="3" course="UGED 1533"/>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+          <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="float:right;padding-left:10px;padding-bottom:5px;padding-top:10px;width:5cm" environment="">
-            <a title="Paolo Uccello&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Paolo_uccello,_studio_di_vaso_in_prospettiva_02.jpg" environment="">
-              <img width="256" alt="Paolo uccello, studio di vaso in prospettiva 02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Paolo_uccello%2C_studio_di_vaso_in_prospettiva_02.jpg/256px-Paolo_uccello%2C_studio_di_vaso_in_prospettiva_02.jpg" environment="" />
-              <br environment="" />
+            <a title="Paolo Uccello  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Paolo_uccello,_studio_di_vaso_in_prospettiva_02.jpg" environment="">
+              <img width="256" alt="Paolo uccello, studio di vaso in prospettiva 02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Paolo_uccello%2C_studio_di_vaso_in_prospettiva_02.jpg/256px-Paolo_uccello%2C_studio_di_vaso_in_prospettiva_02.jpg" environment=""/>
+              <br environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">(15th Century)</paragraphs>
-              <br environment="" />
+              <br environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Paolo Uccello</paragraphs>
             </a>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">  </paragraphs>
@@ -98,10 +101,10 @@ Massacio, Paolo Ucello and Piero della Francesca, Leonardo da Vinci, Raphael
         <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533" chapter="3" section="" subsection="" subsubsection="" chapter_title="Linear Perspective" section_title="">
           <keywords slide="4" environ="slide" chapter="3" course="UGED 1533"/>
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-            <p environment=""></p>
+            <p environment=""/>
             <a href="https://commons.wikimedia.org/wiki/File:Giotto_di_Bondone_-_Legend_of_St_Francis_-_5._Renunciation_of_Wordly_Goods_-_WGA09123.jpg#/media/File:Giotto_di_Bondone_-_Legend_of_St_Francis_-_5._Renunciation_of_Wordly_Goods_-_WGA09123.jpg" environment="">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Giotto_di_Bondone_-_Legend_of_St_Francis_-_5._Renunciation_of_Wordly_Goods_-_WGA09123.jpg" alt="One of the Legend of St. Francis frescoes at Assisi" environment="" />
-              <br environment="" />
+              <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Giotto_di_Bondone_-_Legend_of_St_Francis_-_5._Renunciation_of_Wordly_Goods_-_WGA09123.jpg" alt="One of the Legend of St. Francis frescoes at Assisi" environment=""/>
+              <br environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Formerly attributed to </paragraphs>
               <a href="https://en.wikipedia.org/wiki/Giotto" class="extiw" title="en:Giotto" environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Giotto di Bondone</paragraphs>
@@ -116,14 +119,14 @@ Massacio, Paolo Ucello and Piero della Francesca, Leonardo da Vinci, Raphael
         <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="5" id="s5" slide="5" course="UGED 1533" chapter="3" section="" subsection="" subsubsection="" chapter_title="Linear Perspective" section_title="">
           <keywords slide="5" environ="slide" chapter="3" course="UGED 1533"/>
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-            <a title="Piero della Francesca&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_042_Flagellation.jpg" environment="">
-              <img width="1024" alt="Piero della Francesca 042 Flagellation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Piero_della_Francesca_042_Flagellation.jpg/1024px-Piero_della_Francesca_042_Flagellation.jpg" environment="" />
-              <br environment="" />
+            <a title="Piero della Francesca  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_042_Flagellation.jpg" environment="">
+              <img width="1024" alt="Piero della Francesca 042 Flagellation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Piero_della_Francesca_042_Flagellation.jpg/1024px-Piero_della_Francesca_042_Flagellation.jpg" environment=""/>
+              <br environment=""/>
               <i environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Flagellation of Christ</paragraphs>
               </i>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (circa 1455 - 1460)</paragraphs>
-              <br environment="" />
+              <br environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Piero della Francesca</paragraphs>
             </a>
           </div>
@@ -131,11 +134,11 @@ Massacio, Paolo Ucello and Piero della Francesca, Leonardo da Vinci, Raphael
         <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533" chapter="3" section="" subsection="" subsubsection="" chapter_title="Linear Perspective" section_title="">
           <keywords slide="6" environ="slide" chapter="3" course="UGED 1533"/>
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width:60%" environment="">
-            <a title="Jan van Eyck&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Van_Eyck_-_Arnolfini_Portrait.jpg" environment="">
-              <img width="2048" alt="Van Eyck - Arnolfini Portrait" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/2048px-Van_Eyck_-_Arnolfini_Portrait.jpg" environment="" />
-              <br environment="" />
+            <a title="Jan van Eyck  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Van_Eyck_-_Arnolfini_Portrait.jpg" environment="">
+              <img width="2048" alt="Van Eyck - Arnolfini Portrait" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/2048px-Van_Eyck_-_Arnolfini_Portrait.jpg" environment=""/>
+              <br environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Arnolfini Portrait (1434)</paragraphs>
-              <br environment="" />
+              <br environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Jan van Eyck</paragraphs>
             </a>
           </div>
@@ -143,14 +146,14 @@ Massacio, Paolo Ucello and Piero della Francesca, Leonardo da Vinci, Raphael
         <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED 1533" chapter="3" section="" subsection="" subsubsection="" chapter_title="Linear Perspective" section_title="">
           <keywords slide="7" environ="slide" chapter="3" course="UGED 1533"/>
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-            <a title="Leonardo da Vinci&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Leonaredo,_studio_per_l%27adorazione_dei_magi,_uffizi.jpg" environment="">
-              <img width="1024" alt="Leonaredo, studio per l'adorazione dei magi, uffizi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Leonaredo%2C_studio_per_l%27adorazione_dei_magi%2C_uffizi.jpg/1024px-Leonaredo%2C_studio_per_l%27adorazione_dei_magi%2C_uffizi.jpg" environment="" />
+            <a title="Leonardo da Vinci  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Leonaredo,_studio_per_l%27adorazione_dei_magi,_uffizi.jpg" environment="">
+              <img width="1024" alt="Leonaredo, studio per l'adorazione dei magi, uffizi" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Leonaredo%2C_studio_per_l%27adorazione_dei_magi%2C_uffizi.jpg/1024px-Leonaredo%2C_studio_per_l%27adorazione_dei_magi%2C_uffizi.jpg" environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Perspectival Study of </paragraphs>
               <i environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Adoration of the Magi</paragraphs>
               </i>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">(c. 1481)</paragraphs>
-              <br environment="" />
+              <br environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Leonardo da Vinci</paragraphs>
             </a>
           </div>
@@ -159,16 +162,16 @@ Massacio, Paolo Ucello and Piero della Francesca, Leonardo da Vinci, Raphael
           <keywords slide="8" environ="slide" chapter="3" course="UGED 1533"/>
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width:80%" environment="">
             <a title="Rafael [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Escola_de_atenas_-_vaticano.jpg" environment="">
-              <img width="1024" alt="Escola de atenas - vaticano" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Escola_de_atenas_-_vaticano.jpg/1024px-Escola_de_atenas_-_vaticano.jpg" environment="" />
+              <img width="1024" alt="Escola de atenas - vaticano" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Escola_de_atenas_-_vaticano.jpg/1024px-Escola_de_atenas_-_vaticano.jpg" environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">School of Athens (1509)</paragraphs>
-              <br environment="" />
+              <br environment=""/>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Raphael</paragraphs>
             </a>
           </div>
         </slide>
       </slides>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="The Mathematics of Linear Perspective" course="UGED 1533" chapter="3" num="1" serial="3.1">
-        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="3" section="1" subsection="" subsubsection="" serial="3.1" slide="">
+        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="3" section="1" subsection="" subsubsection="" serial="" slide="">
           <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">The Mathematics of Linear Perspective</paragraphs>
         </title>
         <slides environment="" chapter_type="">
@@ -203,9 +206,9 @@ It apears as if the space we saw now lies </paragraphs>
           </slide>
           <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED 1533" chapter="3" section="1" subsection="" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
             <keywords slide="10" environ="slide" chapter="3" course="UGED 1533"/>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
             <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width:100%" environment="">
-              <img src="http://digilib.mpiwg-berlin.mpg.de/digitallibrary/servlet/Scaler?fn=/permanent/library/C2PG4QN1/pageimg&amp;pn=90&amp;dw=1376&amp;dh=860" environment="" />
+              <img src="http://digilib.mpiwg-berlin.mpg.de/digitallibrary/servlet/Scaler?fn=/permanent/library/C2PG4QN1/pageimg&amp;pn=90&amp;dw=1376&amp;dh=860" environment=""/>
               <a href="http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?tocMode=none&amp;url=/mpiwg/online/permanent/library/C2PG4QN1/pageimg&amp;start=81&amp;viewMode=images&amp;mode=imagepath&amp;pn=90" environment="">
                 <i environment="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">New principles of linear perspective, or the art of designing on a plane the representations of all sorts of objects, in a more general and simple method than has been done before</paragraphs>
@@ -282,16 +285,16 @@ and any element on the picture plane with the word </paragraphs>
                 <col_li course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol" wbtag="col_li">
                   <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol" wbtag="paragraphs">  With one type of exceptions (Exercise, which one?),
 straight physical lines project to straight pictorial lines.</paragraphs>
-                  <br xmlns="http://www.w3.org/1999/xhtml" environment="col_ol" />
+                  <br xmlns="http://www.w3.org/1999/xhtml" environment="col_ol"/>
                   <newline course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol"/>
                 </col_li>
                 <col_li course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol" wbtag="col_li">
                   <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol" wbtag="paragraphs"> Transversal lines project to the picture plane with no distortion,
 e.g. a horizontal (resp. vertical)
 transversal line projects to a horizontal (resp. vertical) pictorial line.</paragraphs>
-                  <p xmlns="http://www.w3.org/1999/xhtml" environment="col_ol"></p>
+                  <p xmlns="http://www.w3.org/1999/xhtml" environment="col_ol"/>
                   <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol" wbtag="paragraphs"> In particular, parallel transversal lines project to parallel pictorial lines.</paragraphs>
-                  <br xmlns="http://www.w3.org/1999/xhtml" environment="col_ol" />
+                  <br xmlns="http://www.w3.org/1999/xhtml" environment="col_ol"/>
                   <newline course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol"/>
                 </col_li>
                 <col_li course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol" wbtag="col_li">
@@ -344,14 +347,14 @@ some great visual results could be obtained.</paragraphs>
               <keywords slide="15" environ="slide" chapter="3" course="UGED 1533"/>
               <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> A tiled floor viewed in perspective:</paragraphs>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <a title="Leone Battista Alberti&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Della_Pittura_Alberti_perspective_vanishing_point.jpg" environment="">
-                  <img width="512" alt="Della Pittura Alberti perspective vanishing point" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Della_Pittura_Alberti_perspective_vanishing_point.jpg" environment="" />
-                  <br environment="" />
+                <a title="Leone Battista Alberti  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Della_Pittura_Alberti_perspective_vanishing_point.jpg" environment="">
+                  <img width="512" alt="Della Pittura Alberti perspective vanishing point" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Della_Pittura_Alberti_perspective_vanishing_point.jpg" environment=""/>
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Illustration in Leon Battista Alberti's </paragraphs>
                   <i environment="">
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Della Pittura</paragraphs>
                   </i>
-                  <br environment="" />
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">(1804 edition)</paragraphs>
                 </a>
                 <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment=""/>
@@ -360,11 +363,11 @@ some great visual results could be obtained.</paragraphs>
             <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="16" id="s16" slide="16" course="UGED 1533" chapter="3" section="1" subsection="1" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
               <keywords slide="16" environ="slide" chapter="3" course="UGED 1533"/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <a title="Jan van Eyck&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Eyck_madonna_rolin.jpg" environment="">
-                  <img width="512" alt="Eyck madonna rolin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Eyck_madonna_rolin.jpg/512px-Eyck_madonna_rolin.jpg" environment="" />
-                  <br environment="" />
+                <a title="Jan van Eyck  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Eyck_madonna_rolin.jpg" environment="">
+                  <img width="512" alt="Eyck madonna rolin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Eyck_madonna_rolin.jpg/512px-Eyck_madonna_rolin.jpg" environment=""/>
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">The Virgin of chancellor Rolin (c. 1435)</paragraphs>
-                  <br environment="" />
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Jan van Eyck</paragraphs>
                 </a>
               </div>
@@ -372,25 +375,25 @@ some great visual results could be obtained.</paragraphs>
             <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="17" id="s17" slide="17" course="UGED 1533" chapter="3" section="1" subsection="1" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
               <keywords slide="17" environ="slide" chapter="3" course="UGED 1533"/>
               <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> A series of columns receding into space: </paragraphs>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
                 <a title="Fra Angelico [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:ANGELICO,_Fra_Annunciation,_1437-46_(2236990916).jpg" environment="">
-                  <img width="512" alt="ANGELICO, Fra Annunciation, 1437-46 (2236990916)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ANGELICO%2C_Fra_Annunciation%2C_1437-46_%282236990916%29.jpg/512px-ANGELICO%2C_Fra_Annunciation%2C_1437-46_%282236990916%29.jpg" environment="" />
-                  <br environment="" />
+                  <img width="512" alt="ANGELICO, Fra Annunciation, 1437-46 (2236990916)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ANGELICO%2C_Fra_Annunciation%2C_1437-46_%282236990916%29.jpg/512px-ANGELICO%2C_Fra_Annunciation%2C_1437-46_%282236990916%29.jpg" environment=""/>
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Annunciation (1437-1446)</paragraphs>
-                  <br environment="" />
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Fra Angelico</paragraphs>
                 </a>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">  </paragraphs>
               </div>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <a title="Canaletto&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Canaletto_-_%27View_of_Molo%27,_oil_on_canvas,_c._1730s,_El_Paso_Museum_of_Art.jpg" environment="">
-                  <img width="512" alt="Canaletto - 'View of Molo', oil on canvas, c. 1730s, El Paso Museum of Art" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canaletto_-_%27View_of_Molo%27%2C_oil_on_canvas%2C_c._1730s%2C_El_Paso_Museum_of_Art.jpg/512px-Canaletto_-_%27View_of_Molo%27%2C_oil_on_canvas%2C_c._1730s%2C_El_Paso_Museum_of_Art.jpg" environment="" />
-                  <br environment="" />
+                <a title="Canaletto  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Canaletto_-_%27View_of_Molo%27,_oil_on_canvas,_c._1730s,_El_Paso_Museum_of_Art.jpg" environment="">
+                  <img width="512" alt="Canaletto - 'View of Molo', oil on canvas, c. 1730s, El Paso Museum of Art" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Canaletto_-_%27View_of_Molo%27%2C_oil_on_canvas%2C_c._1730s%2C_El_Paso_Museum_of_Art.jpg/512px-Canaletto_-_%27View_of_Molo%27%2C_oil_on_canvas%2C_c._1730s%2C_El_Paso_Museum_of_Art.jpg" environment=""/>
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">View of Molo (c. 1730s)</paragraphs>
-                  <br environment="" />
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Canaletto</paragraphs>
                 </a>
               </div>
@@ -398,14 +401,14 @@ some great visual results could be obtained.</paragraphs>
             <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="18" id="s18" slide="18" course="UGED 1533" chapter="3" section="1" subsection="1" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
               <keywords slide="18" environ="slide" chapter="3" course="UGED 1533"/>
               <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> Human figures situated in space: </paragraphs>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <a title="Pietro Perugino&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Entrega_de_las_llaves_a_San_Pedro_(Perugino).jpg" environment="">
-                  <img width="2048" alt="Entrega de las llaves a San Pedro (Perugino)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Entrega_de_las_llaves_a_San_Pedro_%28Perugino%29.jpg/2048px-Entrega_de_las_llaves_a_San_Pedro_%28Perugino%29.jpg" environment="" />
-                  <br environment="" />
+                <a title="Pietro Perugino  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Entrega_de_las_llaves_a_San_Pedro_(Perugino).jpg" environment="">
+                  <img width="2048" alt="Entrega de las llaves a San Pedro (Perugino)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Entrega_de_las_llaves_a_San_Pedro_%28Perugino%29.jpg/2048px-Entrega_de_las_llaves_a_San_Pedro_%28Perugino%29.jpg" environment=""/>
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Delivery of the Keys (1481 - 1482)</paragraphs>
-                  <br environment="" />
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Pietro Perugino</paragraphs>
                 </a>
               </div>
@@ -413,23 +416,23 @@ some great visual results could be obtained.</paragraphs>
             <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="19" id="s19" slide="19" course="UGED 1533" chapter="3" section="1" subsection="1" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
               <keywords slide="19" environ="slide" chapter="3" course="UGED 1533"/>
               <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> And foreshortened human figures:</paragraphs>
-              <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+              <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <a title="Andrea Mantegna&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Mantegna_Andrea_Dead_Christ.jpg" environment="">
-                  <img width="512" alt="Mantegna Andrea Dead Christ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mantegna_Andrea_Dead_Christ.jpg/512px-Mantegna_Andrea_Dead_Christ.jpg" environment="" />
-                  <br environment="" />
+                <a title="Andrea Mantegna  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Mantegna_Andrea_Dead_Christ.jpg" environment="">
+                  <img width="512" alt="Mantegna Andrea Dead Christ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mantegna_Andrea_Dead_Christ.jpg/512px-Mantegna_Andrea_Dead_Christ.jpg" environment=""/>
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">The Lamentation over the Dead Christ (c. 1480)</paragraphs>
-                  <br environment="" />
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Andrea Mantegna</paragraphs>
                 </a>
               </div>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/loomis_FIGURE_draw_0041.jpg" environment="" />
+                <img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/loomis_FIGURE_draw_0041.jpg" environment=""/>
                 <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment=""/>
-                <iframe style="width: 15cm; height: 10cm" src="https://archive.org/stream/loomis_FIGURE_draw#page/n41/mode/1up" environment=""></iframe>
+                <iframe style="width: 15cm; height: 10cm" src="https://archive.org/stream/loomis_FIGURE_draw#page/n41/mode/1up" environment=""/>
                 <a href="https://archive.org/details/loomis_FIGURE_draw" environment="">
-                  <br environment="" />
+                  <br environment=""/>
                   <i environment="">
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Figure Drawing for All It's Worth</paragraphs>
                   </i>
@@ -460,13 +463,13 @@ Repeating this process for each point in the physical scene,
 a perspectival drawing of the scene is obtained.</paragraphs>
               <newline course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width:100%;margin-top:1cm" environment="">
-                <a title="Albrecht Dürer&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Durer_-_Draftsman%27s_Net.jpg" environment="">
-                  <img width="512" alt="Durer - Draftsman's Net" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Durer_-_Draftsman%27s_Net.jpg/512px-Durer_-_Draftsman%27s_Net.jpg" environment="" />
-                  <br environment="" />
+                <a title="Albrecht D&#xFC;rer  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Durer_-_Draftsman%27s_Net.jpg" environment="">
+                  <img width="512" alt="Durer - Draftsman's Net" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Durer_-_Draftsman%27s_Net.jpg/512px-Durer_-_Draftsman%27s_Net.jpg" environment=""/>
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Draftsman's Net</paragraphs>
                 </a>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">(1525)</paragraphs>
-                <br environment="" />
+                <br environment=""/>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Albrecht Dürer</paragraphs>
               </div>
             </slide>
@@ -485,7 +488,7 @@ to the mechanism of the photographic camera,  where the "screen" is a segment of
               <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">, which means "dark room" in Latin
 (and is indeed the etymological origin of the modern word "camera").</paragraphs>
               <newline course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment=""/>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> It works as follows:</paragraphs>
               <newline course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment=""/>
               <newcol course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="newcol">
@@ -498,7 +501,7 @@ A draftsman could then trace the outlines of the outside scene directly onto the
                 <collapse course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="collapse">
                   <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
                     <a title="unknown, possibly Italian. The background shows Brunelleschi's Duomo, Florence. [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Camera_obscura2.jpg" environment="newcol">
-                      <img width="1024" alt="Camera obscura2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Camera_obscura2.jpg/1024px-Camera_obscura2.jpg" environment="newcol" />
+                      <img width="1024" alt="Camera obscura2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Camera_obscura2.jpg/1024px-Camera_obscura2.jpg" environment="newcol"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Illustration of a camera obscura from </paragraphs>
                       <i environment="newcol">
                         <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Sketchbook on military art, including geometry, fortifications, artillery,
@@ -507,13 +510,13 @@ mechanics, and pyrotechnics</paragraphs>
                     </a>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs"> (17th century) </paragraphs>
                   </div>
-                  <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
+                  <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
                   <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
                     <a title="clop [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Canaletto4fogli.jpg" environment="newcol">
-                      <img width="1024" alt="Canaletto4fogli" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Canaletto4fogli.jpg/1024px-Canaletto4fogli.jpg" environment="newcol" />
+                      <img width="1024" alt="Canaletto4fogli" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Canaletto4fogli.jpg/1024px-Canaletto4fogli.jpg" environment="newcol"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Drawings by Canaletto obtained with a Camera obscura</paragraphs>
                     </a>
-                    <br environment="newcol" />
+                    <br environment="newcol"/>
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">(Gallerie dell'Accademia, Venice, Italy) </paragraphs>
                   </div>
                   <newline course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol"/>
@@ -549,13 +552,13 @@ if Vermeer had employed optical tools to produce the painting.</paragraphs>
                   <newline course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol"/>
                   <collapse course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="collapse">
                     <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width:60%" environment="newcol">
-                      <a title="Johannes Vermeer&#10; [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_014.jpg" environment="newcol">
-                        <img width="512" alt="Jan Vermeer van Delft 014" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jan_Vermeer_van_Delft_014.jpg/512px-Jan_Vermeer_van_Delft_014.jpg" environment="newcol" />
-                        <br environment="newcol" />
+                      <a title="Johannes Vermeer  [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_014.jpg" environment="newcol">
+                        <img width="512" alt="Jan Vermeer van Delft 014" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jan_Vermeer_van_Delft_014.jpg/512px-Jan_Vermeer_van_Delft_014.jpg" environment="newcol"/>
+                        <br environment="newcol"/>
                         <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">The Music Lesson</paragraphs>
                       </a>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs"> (1662–1665)</paragraphs>
-                      <br environment="newcol" />
+                      <br environment="newcol"/>
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs"> Johannes Vermeer</paragraphs>
                     </div>
                     <collapse course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="collapse">
@@ -574,14 +577,14 @@ with the singular goal of fulfilling the needs of their artwork
             </slide>
             <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="23" id="s23" slide="23" course="UGED 1533" chapter="3" section="1" subsection="1" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
               <keywords slide="23" environ="slide" chapter="3" course="UGED 1533"/>
-              <center xmlns="http://www.w3.org/1999/xhtml" environment="">
-                <strong environment="">
-                  <i environment="">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">¡Cada animal tiene su estrategia!</paragraphs>
+              <center xmlns="http://www.w3.org/1999/xhtml" environment="center">
+                <strong environment="center">
+                  <i environment="center">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="center" wbtag="paragraphs">¡Cada animal tiene su estrategia!</paragraphs>
                   </i>
                 </strong>
-                <br environment="" />
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">(Each animal has its strategy!)</paragraphs>
+                <br environment="center"/>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="center" wbtag="paragraphs">(Each animal has its strategy!)</paragraphs>
               </center>
               <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:right" environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">--Antonio López García</paragraphs>
@@ -596,12 +599,12 @@ with the singular goal of fulfilling the needs of their artwork
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Tim's Vermeer</paragraphs>
                 </i>
               </h4>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/94pCNUu6qFY" frameborder="0" allowfullscreen="allowfullscreen" environment=""></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/94pCNUu6qFY" frameborder="0" allowfullscreen="allowfullscreen" environment=""/>
               </div>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/KoqOvUO74Gk" frameborder="0" allowfullscreen="allowfullscreen" environment=""></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/KoqOvUO74Gk" frameborder="0" allowfullscreen="allowfullscreen" environment=""/>
               </div>
             </slide>
             <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="25" id="s25" slide="25" course="UGED 1533" chapter="3" section="1" subsection="1" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
@@ -611,11 +614,11 @@ with the singular goal of fulfilling the needs of their artwork
               <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Antonio Mancini (1852 - 1930, Italian)</paragraphs>
               </h4>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
                 <a href="https://www.artistsonart.com/mancinis-graticola/" environment="">
-                  <img src="https://aoci02ahqu78l1fk1kajgfk2-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/04/Antonio-Mancini-graticola-A.jpg" environment="" />
-                  <br environment="" />
+                  <img src="https://aoci02ahqu78l1fk1kajgfk2-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/04/Antonio-Mancini-graticola-A.jpg" environment=""/>
+                  <br environment=""/>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Use of the </paragraphs>
                   <i environment="">
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">graticola</paragraphs>
@@ -623,16 +626,16 @@ with the singular goal of fulfilling the needs of their artwork
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">  (Italian for "grill") device.</paragraphs>
                 </a>
               </div>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
                 <a href="https://www.artistsonart.com/mancinis-graticola/" environment="">
-                  <img src="https://aoci02ahqu78l1fk1kajgfk2-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/04/Antonio-Mancini-graticola-D.jpg" environment="" />
+                  <img src="https://aoci02ahqu78l1fk1kajgfk2-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/04/Antonio-Mancini-graticola-D.jpg" environment=""/>
                 </a>
               </div>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
                 <a href="https://www.artistsonart.com/mancinis-graticola/" environment="">
-                  <img src="https://aoci02ahqu78l1fk1kajgfk2-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/04/Antonio-Mancini-graticola-B.jpg" environment="" />
+                  <img src="https://aoci02ahqu78l1fk1kajgfk2-wpengine.netdna-ssl.com/wp-content/uploads/sites/4/2018/04/Antonio-Mancini-graticola-B.jpg" environment=""/>
                 </a>
               </div>
             </slide>
@@ -643,9 +646,9 @@ with the singular goal of fulfilling the needs of their artwork
               <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Antonio Lopez Garcia (Spanish)</paragraphs>
               </h4>
-              <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/S43J7h0EUt0" frameborder="0" allowfullscreen="allowfullscreen" environment=""></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/S43J7h0EUt0" frameborder="0" allowfullscreen="allowfullscreen" environment=""/>
               </div>
               <a xmlns="http://www.w3.org/1999/xhtml" href="http://institucional.us.es/revistas/arte/24/t2_art_17.pdf" environment="">
                 <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment=""/>
@@ -653,9 +656,35 @@ with the singular goal of fulfilling the needs of their artwork
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Metodología pictórica en la obra de Antonio López García</paragraphs>
                 </i>
               </a>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
               <paragraphs course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> (Pictorial Methodology in Antonio López García's work),
 David Serrano León, LABORATORIO DE ARTE 24 (2012), pp. 717-737. </paragraphs>
+            </slide>
+            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="27" id="s27" slide="27" course="UGED 1533" chapter="3" section="1" subsection="1" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
+              <keywords slide="27" environ="slide" chapter="3" course="UGED 1533">
+                <keyword chapter="3" slide="27">References</keyword>
+              </keywords>
+              <h2 xmlns="http://www.w3.org/1999/xhtml" environment="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">References</paragraphs>
+              </h2>
+              <ol xmlns="http://www.w3.org/1999/xhtml" environment="">
+                <li value="1" environment="">
+                  <a id="footnote-1" style="text-decoration:none" href="@ref-1" environment="">
+                    <span style="font-family:Sans-Serif" environment="">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">^</paragraphs>
+                    </span>
+                  </a>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> Leonardo da Vinci, </paragraphs>
+                  <i environment="">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">A Treatise on Painting</paragraphs>
+                  </i>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">.
+Transl. John Francis Rigaud. </paragraphs>
+                  <a href="http://www.gutenberg.org/files/46915/46915-h/46915-h.htm" environment="">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="3" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> [html]</paragraphs>
+                  </a>
+                </li>
+              </ol>
             </slide>
           </slides>
         </subsection>
