@@ -123,7 +123,7 @@ Caravaggio
 <hr>
 <div class=image>
 <a href="https://www.museothyssen.org/en/collection/artists/ribera-jose/saint-jerome-penitence">
-<img src="https://imagenes.museothyssen.org/sites/default/files/imagen/obras/descarga/1981.33_san-jeronimo-penitente.jpg?_ga=2.60116973.1940339423.1508752528-348305991.1508752528">
+<img src="https://www.museothyssen.org/sites/default/files/styles/full_resolution/public/imagen/obras/descarga/1981.33_san-jeronimo-penitente.jpg">
 </a>
 <br>
 <i>Saint Jerome in Penitence</i>
@@ -182,7 +182,7 @@ Pablo Picasso (Spanish, 1881 - 1973)
 <i>Guernica</i>, Pablo Picasso</a>
 </div>
 @slide
-@image{images/david_eye_study.jpg}
+@image{https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/david_eye_study.jpg}
 <center>Tonal Study of <a href="https://en.wikipedia.org/wiki/David_(Michelangelo)"><i>David</i></a>'s eye<br>(Charcoal on paper)</center>
 @slide
 <h3>
