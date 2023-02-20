@@ -32,15 +32,15 @@ Two rules of linear perspective relevant to this construction are as follows:
 <p>
 @ol
 @li
-Physical ellipses poject to pictorial ellipses.
+Physical ellipses project to pictorial ellipses.
 @li
 Linear perspectival projection preserves tangency.  In other words,
 if a physical line is tangent to a physical object, 
 then their pictorial projections are also tangent.
 @endol
 @col
-Due to these two rules, 
-the bases of columns project to ellipses which 
+From these two rules, it may be deduced that 
+the bases of the columns project to ellipses which 
 becomes more and more elongated and slanted towards the left and right ends 
 of the picture.
 @slide

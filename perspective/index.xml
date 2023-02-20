@@ -1,18 +1,5 @@
-<?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
-    <entry keyword="the column problem">
-      <branch chapter="" slide="3" filename="deviations.xml" file_md5="d055329e4cec20458a6e0f7faae2e17e" keyword="the column problem">The Column Problem</branch>
-    </entry>
-    <entry keyword="curvilinear perspective">
-      <branch chapter="" slide="10" filename="deviations.xml" file_md5="d055329e4cec20458a6e0f7faae2e17e" keyword="curvilinear perspective">Curvilinear Perspective</branch>
-    </entry>
-    <entry keyword="links">
-      <branch chapter="" slide="10" filename="deviations.xml" file_md5="d055329e4cec20458a6e0f7faae2e17e" keyword="links">Links</branch>
-    </entry>
-    <entry keyword="antonio lopez garcia">
-      <branch chapter="" slide="10" filename="deviations.xml" file_md5="d055329e4cec20458a6e0f7faae2e17e" keyword="antonio lopez garcia">Antonio Lopez Garcia</branch>
-    </entry>
     <entry keyword="pictureplane">
       <branch chapter="3" slide="9" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="pictureplane">picture plane</branch>
     </entry>
@@ -69,6 +56,18 @@
     </entry>
     <entry keyword="pieterdehooch16291684dutch">
       <branch chapter="" slide="9" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="pieterdehooch16291684dutch">Pieter de Hooch (1629 - 1684, Dutch)</branch>
+    </entry>
+    <entry keyword="thecolumnproblem">
+      <branch chapter="" slide="3" filename="deviations.xml" file_md5="5e237fd3d51169f5bdaad7a87f5816f4" keyword="thecolumnproblem">The Column Problem</branch>
+    </entry>
+    <entry keyword="curvilinearperspective">
+      <branch chapter="" slide="10" filename="deviations.xml" file_md5="5e237fd3d51169f5bdaad7a87f5816f4" keyword="curvilinearperspective">Curvilinear Perspective</branch>
+    </entry>
+    <entry keyword="links">
+      <branch chapter="" slide="10" filename="deviations.xml" file_md5="5e237fd3d51169f5bdaad7a87f5816f4" keyword="links">Links</branch>
+    </entry>
+    <entry keyword="antoniolopezgarcia">
+      <branch chapter="" slide="10" filename="deviations.xml" file_md5="5e237fd3d51169f5bdaad7a87f5816f4" keyword="antoniolopezgarcia">Antonio Lopez Garcia</branch>
     </entry>
   </index>
 </document>

@@ -66,7 +66,7 @@ Two rules of linear perspective relevant to this construction are as follows: </
         <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <col_ol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_ol">
           <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_li">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs"> Physical ellipses poject to pictorial ellipses. </paragraphs>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs"> Physical ellipses project to pictorial ellipses. </paragraphs>
           </col_li>
           <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_li">
             <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs"> Linear perspectival projection preserves tangency.  In other words,
@@ -75,8 +75,8 @@ then their pictorial projections are also tangent. </paragraphs>
           </col_li>
         </col_ol>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Due to these two rules, 
-the bases of columns project to ellipses which 
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> From these two rules, it may be deduced that 
+the bases of the columns project to ellipses which 
 becomes more and more elongated and slanted towards the left and right ends 
 of the picture. </paragraphs>
         </newcol>
@@ -119,14 +119,12 @@ the spectator views the painting </paragraphs>
         <keywords slide="7" environ="slide" chapter="" course="UGED 1533"/>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In reality, that is almost never the 
 case, and to a casual viewer strolling by, the columns would just appear distorted. </paragraphs>
-        <paragraphs>
-          <!-- 
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> 
 (Another factor is that many paintings do not aim to produce an illusory space
 which is in one-to-one scale to the scene being illustrated.  
 The distortions might appear especially pronounced if the painting is 
 a scaled-down version of the original scene, which is very often the case.)
--->
-        </paragraphs>
+</comment>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> This phenomenon has been a subject of serious consideration since the Renaissance, 
 by such eminent figures as Piero della Francesca and Leonardo da Vinci.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
@@ -144,9 +142,7 @@ represented. </paragraphs>
                 </a>
               </i>
             </blockquote>
-            <paragraphs>
-              <!-- https://en.wikisource.org/wiki/The_Notebooks_of_Leonardo_Da_Vinci/IX -->
-            </paragraphs>
+            <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"> https://en.wikisource.org/wiki/The_Notebooks_of_Leonardo_Da_Vinci/IX </comment>
             <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
               <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> In otherwords, if you want to incorporate into your painting
 a row of columns, 
@@ -184,33 +180,15 @@ to their height. These must be determined in the ordinary way </paragraphs>
           </i>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">[(i.e. using standard rules of linear perpsective)]. </paragraphs>
         </blockquote>
-        <paragraphs>
-          <!-- <p/> -->
-        </paragraphs>
-        <paragraphs>
-          <!-- <div class=image style='width:100%'> -->
-        </paragraphs>
-        <paragraphs>
-          <!-- -->
-        </paragraphs>
-        <paragraphs>
-          <!-- src="https://archive.org/stream/freehandperspect00nortrich#page/140/mode/2up -->
-        </paragraphs>
-        <paragraphs>
-          <!-- "></iframe> -->
-        </paragraphs>
-        <paragraphs>
-          <!-- <a href="https://archive.org/details/freehandperspect00nortrich"> -->
-        </paragraphs>
-        <paragraphs>
-          <!-- <br> -->
-        </paragraphs>
-        <paragraphs>
-          <!-- <i>Freehand Perspective and Sketching</i></a>, Dora M. Norton. -->
-        </paragraphs>
-        <paragraphs>
-          <!-- </div> -->
-        </paragraphs>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;p/&gt; </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;div class=image style='width:100%'&gt; </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> src="https://archive.org/stream/freehandperspect00nortrich#page/140/mode/2up </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> "&gt;&lt;/iframe&gt; </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;a href="https://archive.org/details/freehandperspect00nortrich"&gt; </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;br&gt; </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;i&gt;Freehand Perspective and Sketching&lt;/i&gt;&lt;/a&gt;, Dora M. Norton. </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="9" environ="slide" chapter="" course="UGED 1533"/>
@@ -330,14 +308,12 @@ and only clearly noticeable in our peripheral vision. </paragraphs>
               </col_li>
             </col_ul>
             <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize" wbtag="paragraphs">   </paragraphs>
-            <paragraphs>
-              <!-- @li
-  <a target="_blank" href="http://www.clairelau.net/">Claire Lau</a>
+            <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize"> @li
+  &lt;a target="_blank" href="http://www.clairelau.net/"&gt;Claire Lau&lt;/a&gt;
   @li
-  <a target="_blank" href="https://www.facebook.com/pg/arieswuchunyin/photos/">Aries WU Chun Yin
-  </a>
-  -->
-            </paragraphs>
+  &lt;a target="_blank" href="https://www.facebook.com/pg/arieswuchunyin/photos/"&gt;Aries WU Chun Yin
+  &lt;/a&gt;
+  </comment>
           </item>
         </itemize>
       </slide>
