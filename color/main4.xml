@@ -330,12 +330,8 @@ a white sheet might see a green color. </paragraphs>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="14" id="s14" slide="14" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="14" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" style="height:600px;width:100%;background:#fff" environment=""></div>
-        <paragraphs>
-          <!-- @slide -->
-        </paragraphs>
-        <paragraphs>
-          <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJ_e9KXIJkA" frameborder="0" allowfullscreen></iframe> -->
-        </paragraphs>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> @slide </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZJ_e9KXIJkA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; </comment>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="15" id="s15" slide="15" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="15" environ="slide" chapter="" course="UGED 1533"/>
@@ -363,8 +359,8 @@ the reverse, if placed near blue. </paragraphs>
         <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
           <div class="dual-left" environment="">
-            <a target="_blank" href="http://www.sothebys.com/en/auctions/ecatalogue/2013/european-paintings-l13102/lot.14.html" environment="">
-              <img src="http://www.sothebys.com/content/dam/stb/lots/L13/L13102/037L13102_763JB.jpg" environment="" />
+            <a title="Joaquín Sorolla&#10;, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Barcas_en_la_Playa,_Valencia_(1894).jpg" environment="">
+              <img width="1024" alt="Joaquín Sorolla - Barcas en la Playa, Valencia (1894)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Joaqu%C3%ADn_Sorolla_-_Barcas_en_la_Playa%2C_Valencia_%281894%29.jpg/1024px-Joaqu%C3%ADn_Sorolla_-_Barcas_en_la_Playa%2C_Valencia_%281894%29.jpg" environment="" />
             </a>
           </div>
           <div class="dual-right" environment="">
@@ -478,9 +474,8 @@ lighting conditions and interpret (unconsciously) the "true" color of an object.
       <slide environment="" chapter_type="" wbtag="slide" canon_num="19" id="s19" slide="19" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="19" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/en/a/a8/The_Dress_%28viral_phenomenon%29.png" environment="" />
+          <img src="https://upload.wikimedia.org/wikipedia/en/2/21/The_dress_blueblackwhitegold.jpg" alt="Washed-out colour photograph of a lace dress" environment="" />
         </div>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
           <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
             <img src="https://imgs.xkcd.com/comics/dress_color.png" environment="newcol" />
