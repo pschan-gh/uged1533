@@ -225,7 +225,7 @@ Leonardo Da Vinci </paragraphs>
         <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
           <a href="https://www.museothyssen.org/en/collection/artists/ribera-jose/saint-jerome-penitence" environment="">
-            <img src="https://imagenes.museothyssen.org/sites/default/files/imagen/obras/descarga/1981.33_san-jeronimo-penitente.jpg?_ga=2.60116973.1940339423.1508752528-348305991.1508752528" environment="" />
+            <img src="https://www.museothyssen.org/sites/default/files/styles/full_resolution/public/imagen/obras/descarga/1981.33_san-jeronimo-penitente.jpg" environment="" />
           </a>
           <br environment="" />
           <i environment="">
@@ -289,24 +289,12 @@ Leonardo Da Vinci </paragraphs>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
           <iframe src="https://archive.org/stream/C.BargueDrawingCourse/C.%20Bargue%20-%20Drawing%20Course?ui=embed#page/n41/mode/2up" width="480px" height="430px" frameborder="0" environment=""></iframe>
         </div>
-        <paragraphs>
-          <!-- <div class=image> -->
-        </paragraphs>
-        <paragraphs>
-          <!-- @image{images/bargue_feet.jpg} -->
-        </paragraphs>
-        <paragraphs>
-          <!-- </div> -->
-        </paragraphs>
-        <paragraphs>
-          <!-- <div class=image> -->
-        </paragraphs>
-        <paragraphs>
-          <!-- @image{images/bargue39.jpg} -->
-        </paragraphs>
-        <paragraphs>
-          <!-- </div> -->
-        </paragraphs>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;div class=image&gt; </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> @image{images/bargue_feet.jpg} </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;div class=image&gt; </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> @image{images/bargue39.jpg} </comment>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
         <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
           <img style="width:300px; height:auto" src="https://www.nga.gov/content/dam/ngaweb/features/slideshows/picasso-the-early-years/earlypicasso_torso.jpg" environment="" />
@@ -330,7 +318,7 @@ Leonardo Da Vinci </paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="11" id="s11" slide="11" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="11" environ="slide" chapter="" course="UGED 1533"/>
-        <image course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" data-src="images/david_eye_study.jpg" wbtag="image"/>
+        <image course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/david_eye_study.jpg" wbtag="image"/>
         <center xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Tonal Study of </paragraphs>
           <a href="https://en.wikipedia.org/wiki/David_(Michelangelo)" environment="">
