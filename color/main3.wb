@@ -8,6 +8,56 @@ The law of proportion, however, according to which the several colors are formed
 Plato (Greek, c. 420's - 348/347 BCE)
 </div>
 @sep
+<h4>Hue</h4>
+Under the <a href="https://en.wikipedia.org/wiki/CIECAM02">CIECAM02 model</a>
+from the International Commission on Illumination, <b>hue</b> is:
+<blockquote>
+The degree to which a stimulus can be described as similar to or different from stimuli that are described as red, green, blue, and yellow.
+</blockquote>
+@col
+It is often encoded as a number between 0 and 360:
+<div class='image'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HueScale.svg">
+</div>
+(You may think of this number as an angle from the vertical axis on the color wheel.)
+<p>
+@sep
+<h4>Saturation</h4>
+In one formulation, saturation is:
+<center>
+<i>
+The colorfulness of a color relative to its own brightness.
+</i>
+</center>
+<p>
+@col
+Here, <i>colorfulness</i> is a technical term in colorimetry,
+a full exploration of the concept is beyond the scope of this course.
+<p>
+@col
+For us, it suffices to understand saturation intuitively.
+From a casual standpoint, a highly saturated color is a color which is
+<i>very colorful</i>, or <i>very sharp</i>, or <i>very intense</i>.
+<p>
+@col
+For example, a spectral color has maximal saturation for the hue it belongs to.
+(e.g. the red light from a laser pointer.)
+<p>
+@col
+Conversely, a neutral grey
+(not bluish, not reddish,..., just grey) has zero saturation.
+In general, additively mixing a color with white light diminishes its saturation.
+(Here, white light also includes "grey light".
+It is a color where $R = G = B$ in the RGB model.)
+<br/><br/>
+<div class='image' style="width:500px">
+<img style="max-height:500px" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Saturationdemo.png"/>
+<br/>
+As we descend from top to bottom, the saturation diminishes, while the hue and value
+stay (largely) the same.
+</div>
+
+@sep
 <h3>The Color Spectrum</h3>
 For a long time humans have struggled to organized the set of all perceptible colors
 under an analytical framework.
@@ -147,11 +197,11 @@ and mixing green with blue produces cyan.
 <center>
 <table class="table">
 <tr>
-<td width="50" height="50" bgcolor="#f00"></td>
+<td width="50" height="50" style="background-color:#f00"></td>
 <td width='30' align='center'> + </td>
-<td width='50' bgcolor='#0f0'></td>
+<td width='50' style="background-color:#0f0"></td>
 <td width='30' align='center'> = </td>
-<td width='50' bgcolor='#ff0'></td>
+<td width='50' style="background-color:#ff0"></td>
 </tr>
 </table>
 </center>
@@ -167,11 +217,11 @@ and the complementary color to green is magenta $(R + B)$.
 <center>
 <table class="table">
 <tr>
-<td width=50 height=50 bgcolor=#f00></td>
+<td width=50 height=50 style="background-color:#f00"></td>
 <td width=30 align=center> + </td>
-<td width=50 bgcolor=#0ff></td>
+<td width=50 style="background-color:#0ff"></td>
 <td width=30 align=center> = </td>
-<td width=50 bgcolor=#fff style="border: 2px solid #aaa;"></td>
+<td width=50 style="border: 2px solid #aaa;background-color:#fff"></td>
 </tr>
 </table>
 </center>
@@ -180,11 +230,11 @@ and the complementary color to green is magenta $(R + B)$.
 <center>
 <table class="table">
 <tr>
-<td width=50 height=50 bgcolor=#0f0></td>
+<td width=50 height=50 style="background-color:#0f0"></td>
 <td width=30 align=center> + </td>
-<td width=50 bgcolor=#f0f></td>
+<td width=50 style="background-color:#f0f"></td>
 <td width=30 align=center> = </td>
-<td width=50 bgcolor=#fff style="border: 2px solid #aaa;"></td>
+<td width=50 style="border: 2px solid #aaa;background-color:#fff"></td>
 </tr>
 </table>
 </center>
@@ -193,11 +243,11 @@ and the complementary color to green is magenta $(R + B)$.
 <center>
 <table class="table">
 <tr>
-<td width=50 height=50 bgcolor=#00f></td>
+<td width=50 height=50 style="background-color:#00f"></td>
 <td width=30 align=center> + </td>
-<td width=50 bgcolor=#ff0></td>
+<td width=50 style="background-color:#ff0"></td>
 <td width=30 align=center> = </td>
-<td width=50 bgcolor=#fff style="border: 2px solid #aaa;"></td>
+<td width=50 style="border: 2px solid #aaa;background-color:#fff"></td>
 </tr>
 </table>
 </center>
@@ -306,53 +356,4 @@ technique to simulate a wide range of colors.
 <h4>Roy Lichtenstein (American, 1923 - 1997)</h4>
 <div class='image'>
 <img src="https://media.npr.org/assets/img/2012/10/12/3287-129_enl-ff79df6489c058ed10a81c8405e15da71b963457-s1200.jpg">
-</div>
-@sep
-<h4>Hue</h4>
-Under the <a href="https://en.wikipedia.org/wiki/CIECAM02">CIECAM02 model</a>
-from the International Commission on Illumination, <b>hue</b> is:
-<blockquote>
-The degree to which a stimulus can be described as similar to or different from stimuli that are described as red, green, blue, and yellow.
-</blockquote>
-@col
-It is often encoded as a number between 0 and 360:
-<div class='image'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HueScale.svg">
-</div>
-(You may think of this number as an angle from the vertical axis on the color wheel.)
-<p>
-@sep
-<h4>Saturation</h4>
-In one formulation, saturation is:
-<center>
-<i>
-The colorfulness of a color relative to its own brightness.
-</i>
-</center>
-<p>
-@col
-Here, <i>colorfulness</i> is a technical term in colorimetry,
-a full exploration of the concept is beyond the scope of this course.
-<p>
-@col
-For us, it suffices to understand saturation intuitively.
-From a casual standpoint, a highly saturated color is a color which is
-<i>very colorful</i>, or <i>very sharp</i>, or <i>very intense</i>.
-<p>
-@col
-For example, a spectral color has maximal saturation for the hue it belongs to.
-(e.g. the red light from a laser pointer.)
-<p>
-@col
-Conversely, a neutral grey
-(not bluish, not reddish,..., just grey) has zero saturation.
-In general, additively mixing a color with white light diminishes its saturation.
-(Here, white light also includes "grey light".
-It is a color where $R = G = B$ in the RGB model.)
-<br/><br/>
-<div class='image' style="width:500px">
-<img style="max-height:500px" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Saturationdemo.png"/>
-<br/>
-As we descend from top to bottom, the saturation diminishes, while the hue and value
-stay (largely) the same.
 </div>
