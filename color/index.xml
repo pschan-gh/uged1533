@@ -183,31 +183,31 @@
       <branch chapter="" slide="20" filename="main4.xml" file_md5="c60bfca3b8139cd2f83d2a913438ce1e" keyword="references">References</branch>
     </entry>
     <entry keyword="hue">
-      <branch chapter="" slide="3" filename="main3.xml" file_md5="e9890a51703a43dd688a11aa8b464dbc" keyword="hue">Hue</branch>
+      <branch chapter="" slide="3" filename="main3.xml" file_md5="38bdff884e6c7910dd0cd2be73bb6e26" keyword="hue">Hue</branch>
     </entry>
     <entry keyword="saturation">
-      <branch chapter="" slide="4" filename="main3.xml" file_md5="e9890a51703a43dd688a11aa8b464dbc" keyword="saturation">Saturation</branch>
+      <branch chapter="" slide="4" filename="main3.xml" file_md5="38bdff884e6c7910dd0cd2be73bb6e26" keyword="saturation">Saturation</branch>
     </entry>
     <entry keyword="thecolorspectrum">
-      <branch chapter="" slide="5" filename="main3.xml" file_md5="e9890a51703a43dd688a11aa8b464dbc" keyword="thecolorspectrum">The Color Spectrum</branch>
+      <branch chapter="" slide="5" filename="main3.xml" file_md5="38bdff884e6c7910dd0cd2be73bb6e26" keyword="thecolorspectrum">The Color Spectrum</branch>
     </entry>
     <entry keyword="additivecolormixing">
-      <branch chapter="" slide="10" filename="main3.xml" file_md5="e9890a51703a43dd688a11aa8b464dbc" keyword="additivecolormixing">Additive Color Mixing</branch>
+      <branch chapter="" slide="10" filename="main3.xml" file_md5="38bdff884e6c7910dd0cd2be73bb6e26" keyword="additivecolormixing">Additive Color Mixing</branch>
     </entry>
     <entry keyword="rgbcolorspace">
-      <branch chapter="" slide="15" filename="main3.xml" file_md5="e9890a51703a43dd688a11aa8b464dbc" keyword="rgbcolorspace">RGB Color Space</branch>
+      <branch chapter="" slide="15" filename="main3.xml" file_md5="38bdff884e6c7910dd0cd2be73bb6e26" keyword="rgbcolorspace">RGB Color Space</branch>
     </entry>
     <entry keyword="rgb">
-      <branch chapter="" slide="15" filename="main3.xml" file_md5="e9890a51703a43dd688a11aa8b464dbc" keyword="rgb">RGB</branch>
+      <branch chapter="" slide="15" filename="main3.xml" file_md5="38bdff884e6c7910dd0cd2be73bb6e26" keyword="rgb">RGB</branch>
     </entry>
     <entry keyword="subtractivecolormixing">
-      <branch chapter="" slide="16" filename="main3.xml" file_md5="e9890a51703a43dd688a11aa8b464dbc" keyword="subtractivecolormixing">Subtractive Color Mixing</branch>
+      <branch chapter="" slide="17" filename="main3.xml" file_md5="38bdff884e6c7910dd0cd2be73bb6e26" keyword="subtractivecolormixing">Subtractive Color Mixing</branch>
     </entry>
     <entry keyword="georgesseuratfrench18591891">
-      <branch chapter="" slide="16" filename="main3.xml" file_md5="e9890a51703a43dd688a11aa8b464dbc" keyword="georgesseuratfrench18591891">Georges Seurat (French, 1859 - 1891)</branch>
+      <branch chapter="" slide="17" filename="main3.xml" file_md5="38bdff884e6c7910dd0cd2be73bb6e26" keyword="georgesseuratfrench18591891">Georges Seurat (French, 1859 - 1891)</branch>
     </entry>
     <entry keyword="roylichtensteinamerican19231997">
-      <branch chapter="" slide="16" filename="main3.xml" file_md5="e9890a51703a43dd688a11aa8b464dbc" keyword="roylichtensteinamerican19231997">Roy Lichtenstein (American, 1923 - 1997)</branch>
+      <branch chapter="" slide="17" filename="main3.xml" file_md5="38bdff884e6c7910dd0cd2be73bb6e26" keyword="roylichtensteinamerican19231997">Roy Lichtenstein (American, 1923 - 1997)</branch>
     </entry>
   </index>
 </document>

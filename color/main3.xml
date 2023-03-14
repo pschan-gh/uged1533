@@ -556,18 +556,128 @@ P(L_1) = \colvec{R_1 \\ G_1 \\ B_1}, \quad P(L_2) = \colvec{R_2 \\ G_2 \\ B_2}
 \[
 P(L_1 + L_2) = P(L_1) + P(L_2)
 = \colvec{R_1 \\ G_1 \\ B_1} + \colvec{R_2 \\ G_2 \\ B_2}.
-\]</paragraphs>
-                <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+\] </paragraphs>
               </collapse>
             </collapse>
           </collapse>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="16" id="s16" slide="16" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="16" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="16">Subtractive Color Mixing</keyword>
-          <keyword chapter="" slide="16">Georges Seurat (French, 1859 - 1891)</keyword>
-          <keyword chapter="" slide="16">Roy Lichtenstein (American, 1923 - 1997)</keyword>
+        <keywords slide="16" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The RGB model can help us decide the outcome of additive color mixing as follows:</paragraphs>
+        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Suppose Color 1 corresponds to RGB $\colvec{R_1\\G_1\\B_1\\}$, and Color 2 corresponds to RGB $\colvec{R_2\\G_2\\B_2}$. Then, the additive mixture of Color 1 and Color 2 corresponds to:
+\[
+\colvec{R_1 + R_2 \\ G_1 + G_2 \\ B_1 + B_2}
+\] </paragraphs>
+        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> For example, the color </paragraphs>
+          <span xmlns="http://www.w3.org/1999/xhtml" style="color:magenta" environment="newcol">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">magenta</paragraphs>
+          </span>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> is the additive mixture of </paragraphs>
+          <span xmlns="http://www.w3.org/1999/xhtml" style="color:red" environment="newcol">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">red</paragraphs>
+          </span>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $\colvec{1\\0\\0}$ and </paragraphs>
+          <span xmlns="http://www.w3.org/1999/xhtml" style="color:blue" environment="newcol">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">blue</paragraphs>
+          </span>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $\colvec{0\\0\\1}$.
+So magenta corresponds to RGB $\colvec{1\\0\\0} + \colvec{0\\0\\1} = \colvec{1\\0\\1}$.</paragraphs>
+          <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+          <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The color </paragraphs>
+            <span xmlns="http://www.w3.org/1999/xhtml" style="color:#0aa" environment="newcol">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">cyan</paragraphs>
+            </span>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> is the additive mixture of </paragraphs>
+            <span xmlns="http://www.w3.org/1999/xhtml" style="color:green" environment="newcol">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">green</paragraphs>
+            </span>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $\colvec{0\\1\\0}$ and </paragraphs>
+            <span xmlns="http://www.w3.org/1999/xhtml" style="color:blue" environment="newcol">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">blue</paragraphs>
+            </span>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $\colvec{0\\0\\1}$.
+So cyan corresponds to RGB $\colvec{0\\1\\1}$.</paragraphs>
+            <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+            <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> What, then, is the additive mixture of </paragraphs>
+              <span xmlns="http://www.w3.org/1999/xhtml" style="color:magenta" environment="newcol">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">magenta</paragraphs>
+              </span>
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> and </paragraphs>
+              <span xmlns="http://www.w3.org/1999/xhtml" style="color:#0aa" environment="newcol">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">cyan</paragraphs>
+              </span>
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">? It is a color which corresponds  to RGB:
+\[
+\colvec{1\\0\\1} + \colvec{0\\1\\1} = \colvec{1\\1\\2}
+\] </paragraphs>
+              <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> First, notice that one component has value 2, which appears to violate our earlier convention that each RGB component lies between 0 and 1. Putting the value (i.e. lightness) of the color aside, it is essentially the ratio of the three RGB components which determines the color, so we might as well "renormalize" the RGB by multiplying each component by $0.5$, giving:
+\[
+\colvec{0.5\\0.5\\1}
+\] </paragraphs>
+                <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> It is not immediately clear which color corrresponds to this RGB triplet. Let's again exploit the algebraic property of additive color mixing, and write:
+\[
+\colvec{0.5\\0.5\\1} = \colvec{0.5\\0.5\\0.5} + \colvec{0\\0\\0.5}
+\]
+The first RGB triplet $\colvec{0.5\\0.5\\0.5}$ corresponds to a neutral grey color, since each of red, green and blue has equal contribution. The second triplet $\colvec{0\\0\\0.5}$ corresponds to the color blue.</paragraphs>
+                  <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Hence, the additive mixture of </paragraphs>
+                  <span xmlns="http://www.w3.org/1999/xhtml" style="color:magenta" environment="newcol">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">magenta</paragraphs>
+                  </span>
+                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> and </paragraphs>
+                  <span xmlns="http://www.w3.org/1999/xhtml" style="color:#0aa" environment="newcol">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">cyan</paragraphs>
+                  </span>
+                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> is a mixture of white/grey light and blue, which is a blue with diminished saturation, or in more colloquial terms: a dull </paragraphs>
+                  <strong xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+                    <span style="color:#88f" environment="newcol">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">blue</paragraphs>
+                    </span>
+                  </strong>
+                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (versus a fully saturated </paragraphs>
+                  <strong xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+                    <span style="color:#00f" environment="newcol">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">blue</paragraphs>
+                    </span>
+                  </strong>
+                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.)</paragraphs>
+                  <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+                  <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                    <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This example also seems to suggest a convenient formulation of saturation in terms of RGB. Essentially, any fully saturated color corresponds to an RGB where at least one component is zero. Otherwise, say we have RGB:
+\[
+\colvec{0.2\\0.4\\0.3}
+\]
+This is equal to:
+\[
+\colvec{0.2\\0.2\\0.2} + \colvec{0\\0.2\\0.1}
+\] </paragraphs>
+                    <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                      <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The first color is grey (which is just white with lower lightness), and the second color is a greenish cyan (why?). The presence of white in this mixture means that the resulting color cannot be fully saturated.</paragraphs>
+                      <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+                      <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Roughly speaking, the saturation of a color corresponds inversely to the lowest value among the three RGB components. If one component is zero, and there can be no white mixed in with the color, and the color is fully saturated (among all colors of the same hue and lightness).</paragraphs>
+                        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+                      </collapse>
+                    </collapse>
+                  </collapse>
+                </collapse>
+              </collapse>
+            </collapse>
+          </collapse>
+        </newcol>
+      </slide>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="17" id="s17" slide="17" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="17" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="17">Subtractive Color Mixing</keyword>
+          <keyword chapter="" slide="17">Georges Seurat (French, 1859 - 1891)</keyword>
+          <keyword chapter="" slide="17">Roy Lichtenstein (American, 1923 - 1997)</keyword>
         </keywords>
         <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Subtractive Color Mixing</paragraphs>
