@@ -63,29 +63,29 @@
     <branch chapter="" slide="5" filename="main4.xml" file_md5="c60bfca3b8139cd2f83d2a913438ce1e" keyword="conecells">Cone Cells</branch>
     <branch chapter="" slide="18" filename="main4.xml" file_md5="c60bfca3b8139cd2f83d2a913438ce1e" keyword="colorconstancyoptionaltopic">Color Constancy (Optional Topic)</branch>
     <branch chapter="" slide="20" filename="main4.xml" file_md5="c60bfca3b8139cd2f83d2a913438ce1e" keyword="references">References</branch>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="3" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="hue">Hue</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="3" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="hue">hue</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="4" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="saturation">Saturation</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="5" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="thecolorspectrum">The Color Spectrum</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="6" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="spectralcolor">spectral color</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="7" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="colorwheel">color wheel</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="8" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="complementarycolor">complementary color</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="9" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="additive">additive</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="9" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="subtractive">subtractive</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="10" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="additivecolormixing">Additive Color Mixing</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="11" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="metamerism">metamerism</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="11" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="metamers">metamers</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="12" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="additive">additive</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="12" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="redgreenandblue">Red, Green, and Blue</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="15" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="rgbcolorspace">RGB Color Space</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="15" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="rgb">RGB</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="15" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="vector">vector</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="15" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="grassmannslaws">Grassmann's Laws</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="subtractivecolormixing">Subtractive Color Mixing</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="subtractive">subtractive</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="cyanyellowandmagenta">Cyan, Yellow, and Magenta</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="halftone">halftone</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="georgesseuratfrench18591891">Georges Seurat (French, 1859 - 1891)</keyword>
-    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="535779e167a375a93f145aaae1235123" keyword="roylichtensteinamerican19231997">Roy Lichtenstein (American, 1923 - 1997)</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="3" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="hue">Hue</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="3" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="hue">hue</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="4" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="saturation">Saturation</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="5" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="thecolorspectrum">The Color Spectrum</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="6" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="spectralcolor">spectral color</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="7" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="colorwheel">color wheel</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="8" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="complementarycolor">complementary color</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="9" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="additive">additive</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="9" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="subtractive">subtractive</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="10" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="additivecolormixing">Additive Color Mixing</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="11" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="metamerism">metamerism</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="11" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="metamers">metamers</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="12" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="additive">additive</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="12" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="redgreenandblue">Red, Green, and Blue</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="15" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="rgbcolorspace">RGB Color Space</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="15" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="rgb">RGB</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="15" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="vector">vector</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="15" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="grassmannslaws">Grassmann's Laws</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="subtractivecolormixing">Subtractive Color Mixing</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="subtractive">subtractive</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="cyanyellowandmagenta">Cyan, Yellow, and Magenta</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="halftone">halftone</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="georgesseuratfrench18591891">Georges Seurat (French, 1859 - 1891)</keyword>
+    <keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" chapter="" slide="17" filename="main3.xml" file_md5="626d83c3488b731b306d6d3339ee8921" keyword="roylichtensteinamerican19231997">Roy Lichtenstein (American, 1923 - 1997)</keyword>
   </index>
 </document>

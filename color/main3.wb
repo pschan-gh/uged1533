@@ -1,5 +1,6 @@
 @course{UGED 1533}
 @topic{Color Theory<br>Color Mixing<br>Different Models}
+$\newcommand{\colvec}[1]{\begin{pmatrix}#1\end{pmatrix}}$
 @sep
 <blockquote>
 The law of proportion, however, according to which the several colors are formed, even if a man knew he would be foolish in telling, for he could not give any necessary reason, nor indeed any tolerable or probable explanation of them.
@@ -287,7 +288,6 @@ the color in question via additive mixing.  This is the RGB color model.
 @col
 This amounts to encoding color as a triplet of positive numbers between 0 and 1:
 \[
-\newcommand{\colvec}[1]{\begin{pmatrix}#1\end{pmatrix}}
 \colvec{R\\G\\B}
 \]
 But should this triplet be viewed as a <b>vector</b>?
@@ -366,10 +366,10 @@ This is equal to:
 \colvec{0.2\\0.2\\0.2} + \colvec{0\\0.2\\0.1}
 \]
 @col
-The first color is grey (which is just white with lower lightness), and the second color is a greenish cyan (why?). The presence of white in this mixture means that the resulting color cannot be fully saturated. 
+The first color is grey (which is just white with lower lightness), and the second color is a greenish cyan (why?). The presence of white in this mixture means that the resulting color cannot be fully saturated.
 
 @col
-Roughly speaking, the saturation of a color corresponds inversely to the lowest value among the three RGB components. If one component is zero, and there can be no white mixed in with the color, and the color is fully saturated (among all colors of the same hue and lightness). 
+Roughly speaking, the saturation of a color corresponds inversely to the lowest value among the three RGB components. If one component is zero, and there can be no white mixed in with the color, and the color is fully saturated (among all colors of the same hue and lightness).
 
 @sep
 <h4>Subtractive Color Mixing</h4>

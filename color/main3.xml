@@ -36,6 +36,7 @@
         <topic environment="" chapter_type="" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">Different Models</topic>
         <keywords slide="1" environ="slide" chapter="" course="UGED 1533"/>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$\newcommand{\colvec}[1]{\begin{pmatrix}#1\end{pmatrix}}$ </paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="2" id="s2" slide="2" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="2" environ="slide" chapter="" course="UGED 1533"/>
@@ -514,7 +515,6 @@ the color in question via additive mixing.  This is the RGB color model. </parag
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This amounts to encoding color as a triplet of positive numbers between 0 and 1:
 \[
-\newcommand{\colvec}[1]{\begin{pmatrix}#1\end{pmatrix}}
 \colvec{R\\G\\B}
 \]
 But should this triplet be viewed as a </paragraphs>
