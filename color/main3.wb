@@ -1,6 +1,5 @@
 @course{UGED 1533}
 @topic{Color Theory<br>Color Mixing<br>Different Models}
-$\newcommand{\colvec}[1]{\begin{pmatrix}#1\end{pmatrix}}$
 @sep
 <blockquote>
 The law of proportion, however, according to which the several colors are formed, even if a man knew he would be foolish in telling, for he could not give any necessary reason, nor indeed any tolerable or probable explanation of them.
@@ -107,7 +106,7 @@ which became a useful tool to art students to the present day.
 </div>
 <div class='image'>
 <img src="http://cdn.dick-blick.com/items/049/51/04951-0000-front2ww-m.jpg">
-<a href="http://www.dickblick.com/products/artists-colour-wheel/">
+<a target="_blank" href="http://www.dickblick.com/products/artists-colour-wheel/">
 <br/>
 Dick Blick Art Materials</a>
 </div>

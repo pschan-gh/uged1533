@@ -36,7 +36,6 @@
         <topic environment="" chapter_type="" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">Different Models</topic>
         <keywords slide="1" environ="slide" chapter="" course="UGED 1533"/>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$\newcommand{\colvec}[1]{\begin{pmatrix}#1\end{pmatrix}}$ </paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="2" id="s2" slide="2" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="2" environ="slide" chapter="" course="UGED 1533"/>
@@ -205,7 +204,7 @@ which became a useful tool to art students to the present day. </paragraphs>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
           <img src="http://cdn.dick-blick.com/items/049/51/04951-0000-front2ww-m.jpg" environment=""/>
-          <a href="http://www.dickblick.com/products/artists-colour-wheel/" environment="">
+          <a target="_blank" href="http://www.dickblick.com/products/artists-colour-wheel/" environment="">
             <br environment=""/>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Dick Blick Art Materials</paragraphs>
           </a>
