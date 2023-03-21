@@ -241,10 +241,10 @@ Jean-Auguste-Dominque Ingres, Jean-Léon Gérôme, Jean-Louis André Théodore G
 Jean-Auguste-Dominique Ingres</a>
 @endleft
 @right
-<img data-src="http://www.metmuseum.org/toah/images/hb/hb_87.15.130.jpg"  style=""/>
-<a title="Copyright The Metropolitan Museum of Art" href="http://www.metmuseum.org/toah/works-of-art/87.15.130/">
-<br/>Prayer in the Mosque (1871)<br/>
+<div class="image">
+<a href="https://commons.wikimedia.org/wiki/File:Prayer_in_the_Mosque.jpg#/media/File:Prayer_in_the_Mosque.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1200px-Prayer_in_the_Mosque.jpg" alt="Prayer in the Mosque.jpg"></a><br/><a href="https://commons.wikimedia.org/w/index.php?curid=20330819">Prayer in the Mosque (1871)<br/>
 Jean-Léon Gérôme</a>
+</div>
 @endright
 @endcenter
 @col

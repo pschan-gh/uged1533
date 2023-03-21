@@ -1,74 +1,52 @@
-<?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
-    <entry keyword="2000030000yearsago">
-      <branch chapter="1" slide="4" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="2000030000yearsago">20,000-30,000 years ago</branch>
-    </entry>
-    <entry keyword="8thcenturybce6thcenturyce">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="8thcenturybce6thcenturyce">8th century BCE - 6th century CE</branch>
-    </entry>
     <entry keyword="ancientgreece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="ancientgreece">Ancient Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="ancientgreece">Ancient Greece</branch>
     </entry>
     <entry keyword="archaicgreece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="archaicgreece">Archaic Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="archaicgreece">Archaic Greece</branch>
     </entry>
     <entry keyword="classicalgreece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="classicalgreece">Classical Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="classicalgreece">Classical Greece</branch>
     </entry>
     <entry keyword="pythagorasofsamos">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="pythagorasofsamos">Pythagoras of Samos</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="pythagorasofsamos">Pythagoras of Samos</branch>
     </entry>
     <entry keyword="euclid">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="euclid">Euclid</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="euclid">Euclid</branch>
     </entry>
     <entry keyword="hellenisticgreece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="hellenisticgreece">Hellenistic Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="hellenisticgreece">Hellenistic Greece</branch>
     </entry>
     <entry keyword="romangreece">
-      <branch chapter="1" slide="5" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="romangreece">Roman Greece</branch>
+      <branch chapter="1" slide="5" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="romangreece">Roman Greece</branch>
     </entry>
     <entry keyword="theromanempire">
-      <branch chapter="1" slide="6" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="theromanempire">The Roman Empire</branch>
-    </entry>
-    <entry keyword="5th14thcenturyce">
-      <branch chapter="1" slide="7" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="5th14thcenturyce">5th - 14th century CE</branch>
+      <branch chapter="1" slide="6" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="theromanempire">The Roman Empire</branch>
     </entry>
     <entry keyword="medievalperiod">
-      <branch chapter="1" slide="7" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="medievalperiod">Medieval Period</branch>
-    </entry>
-    <entry keyword="14th17thcentury">
-      <branch chapter="1" slide="8" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="14th17thcentury">14th - 17th century</branch>
+      <branch chapter="1" slide="7" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="medievalperiod">Medieval Period</branch>
     </entry>
     <entry keyword="renaissance">
-      <branch chapter="1" slide="8" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="renaissance">Renaissance</branch>
-    </entry>
-    <entry keyword="approx17thcentury">
-      <branch chapter="1" slide="9" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="approx17thcentury">Approx. 17th century</branch>
+      <branch chapter="1" slide="8" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="renaissance">Renaissance</branch>
     </entry>
     <entry keyword="baroquestyle">
-      <branch chapter="1" slide="9" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="baroquestyle">Baroque style</branch>
+      <branch chapter="1" slide="9" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="baroquestyle">Baroque style</branch>
     </entry>
     <entry keyword="18thcentury">
-      <branch chapter="1" slide="10" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="18thcentury">18th century</branch>
+      <branch chapter="1" slide="10" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="18thcentury">18th century</branch>
     </entry>
     <entry keyword="ageofenlightenment">
-      <branch chapter="1" slide="10" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="ageofenlightenment">Age of Enlightenment</branch>
+      <branch chapter="1" slide="10" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="ageofenlightenment">Age of Enlightenment</branch>
     </entry>
     <entry keyword="academicart">
-      <branch chapter="1" slide="12" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="academicart">Academic Art</branch>
-    </entry>
-    <entry keyword="2ndhalfof19thcentury">
-      <branch chapter="1" slide="13" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="2ndhalfof19thcentury">2nd half of 19th century</branch>
+      <branch chapter="1" slide="12" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="academicart">Academic Art</branch>
     </entry>
     <entry keyword="impressionism">
-      <branch chapter="1" slide="13" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="impressionism">Impressionism</branch>
+      <branch chapter="1" slide="13" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="impressionism">Impressionism</branch>
     </entry>
     <entry keyword="postimpressionism">
-      <branch chapter="1" slide="13" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="postimpressionism">Post-Impressionism</branch>
-    </entry>
-    <entry keyword="20thcentury">
-      <branch chapter="1" slide="14" filename="overview.xml" file_md5="482096420bbada900e643c3c57f066b4" keyword="20thcentury">20th century</branch>
+      <branch chapter="1" slide="13" filename="overview.xml" file_md5="eab9f82f557adcb6b706940c2d2c3684" keyword="postimpressionism">Post-Impressionism</branch>
     </entry>
   </index>
 </document>
