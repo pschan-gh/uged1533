@@ -117,6 +117,7 @@ yellow and blue are perceived as neither red or green.
 <center>
   <iframe scrolling='no' style="height:720px;width:100%;text-align:center" src='https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/add_mix1.html'></iframe>
 </center>
+<!--
 @sep
 It has been proposed that an S cone stimulus contributes positively to the
 red-green channel.
@@ -136,6 +137,7 @@ into a color wheel, with magenta serving as the link between violet and red.
 </div>
 <p>
 (Food for thought: there is no magenta on the rainbow.)
+-->
 @slide
 In an opponent process model, our perception of color is established via comparison.
 This may explain some of the color illusions which result when we place colors of

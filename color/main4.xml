@@ -270,30 +270,21 @@ yellow and blue are perceived as neither red or green. </paragraphs>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">   </paragraphs>
           <iframe scrolling="no" style="height:720px;width:100%;text-align:center" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/add_mix1.html" environment=""></iframe>
         </center>
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">@slide
+It has been proposed that an S cone stimulus contributes positively to the
+red-green channel.
+Under this proposition, it is easy to see why spectral colors towards the violet
+end of the visible color spectrum appears reddish.
+&lt;p/&gt;
+Moreover, this explains why, perceptually,
+it appears natural to wrap the visible hue spectrum
+into a color wheel, with magenta serving as the link between violet and red.
+&lt;p/&gt;&lt;div class='image'&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BYR_color_wheel.svg"&gt;&lt;/div&gt;&lt;p/&gt;&lt;div class='image'&gt;&lt;img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/Linear_visible_spectrum.svg"&gt;&lt;/div&gt;&lt;p/&gt;
+(Food for thought: there is no magenta on the rainbow.)
+</comment>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="10" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> It has been proposed that an S cone stimulus contributes positively to the
-red-green channel.
-Under this proposition, it is easy to see why spectral colors towards the violet
-end of the visible color spectrum appears reddish. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Moreover, this explains why, perceptually,
-it appears natural to wrap the visible hue spectrum
-into a color wheel, with magenta serving as the link between violet and red. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/BYR_color_wheel.svg" environment="" />
-        </div>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/Linear_visible_spectrum.svg" environment="" />
-        </div>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (Food for thought: there is no magenta on the rainbow.) </paragraphs>
-      </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="11" id="s11" slide="11" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="11" environ="slide" chapter="" course="UGED 1533"/>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In an opponent process model, our perception of color is established via comparison.
 This may explain some of the color illusions which result when we place colors of
 different hues or lightness adjacent to each other,
@@ -313,8 +304,8 @@ e.g. a neutral grey appearing pinkish next to a greenish blue color. </paragraph
           </div>
         </div>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="12" id="s12" slide="12" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="12" environ="slide" chapter="" course="UGED 1533"/>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="11" id="s11" slide="11" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="11" environ="slide" chapter="" course="UGED 1533"/>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> It also explains the illusion of complementary </paragraphs>
         <b xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">afterimages</paragraphs>
@@ -323,18 +314,18 @@ e.g. a neutral grey appearing pinkish next to a greenish blue color. </paragraph
 someone having stared at a red color for a long time who then suddenly looks upon
 a white sheet might see a green color. </paragraphs>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="13" id="s13" slide="13" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="13" environ="slide" chapter="" course="UGED 1533"/>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="12" id="s12" slide="12" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="12" environ="slide" chapter="" course="UGED 1533"/>
         <iframe xmlns="http://www.w3.org/1999/xhtml" style="height:800px" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/red.html" environment=""></iframe>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="14" id="s14" slide="14" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="14" environ="slide" chapter="" course="UGED 1533"/>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="13" id="s13" slide="13" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="13" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" style="height:600px;width:100%;background:#fff" environment=""></div>
         <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> @slide </comment>
         <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZJ_e9KXIJkA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; </comment>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="15" id="s15" slide="15" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="15" environ="slide" chapter="" course="UGED 1533"/>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="14" id="s14" slide="14" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="14" environ="slide" chapter="" course="UGED 1533"/>
         <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> If you mean to represent great darkness, it
 must be done by contrasting it with great light;
@@ -373,8 +364,8 @@ the reverse, if placed near blue. </paragraphs>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Joaqu&amp;iacuten Sorolla </paragraphs>
         </div>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="16" id="s16" slide="16" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="16" environ="slide" chapter="" course="UGED 1533"/>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="15" id="s15" slide="15" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="15" environ="slide" chapter="" course="UGED 1533"/>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The achromatic channel is most responsive to
 spectral light which lies in the green or yellowish-green range.  This may explain
 why green and yellow spectral colors appear brighter than the rest. </paragraphs>
@@ -429,8 +420,8 @@ the white response, the spectral saturation is high. </paragraphs>
           </collapse>
         </newcol>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="17" id="s17" slide="17" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="17" environ="slide" chapter="" course="UGED 1533"/>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="16" id="s16" slide="16" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="16" environ="slide" chapter="" course="UGED 1533"/>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Incidentally, a very common painter's palette consists of: </paragraphs>
         <center xmlns="http://www.w3.org/1999/xhtml" environment="">
           <strong environment="">
@@ -444,9 +435,9 @@ the white response, the spectral saturation is high. </paragraphs>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> A (very messy) painter's palette. </paragraphs>
         </div>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="18" id="s18" slide="18" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="18" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="18">Color Constancy (Optional Topic)</keyword>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="17" id="s17" slide="17" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="17" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="17">Color Constancy (Optional Topic)</keyword>
         </keywords>
         <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Color Constancy (Optional Topic)</paragraphs>
@@ -471,8 +462,8 @@ lighting conditions and interpret (unconsciously) the "true" color of an object.
           </li>
         </ul>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="19" id="s19" slide="19" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="19" environ="slide" chapter="" course="UGED 1533"/>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="18" id="s18" slide="18" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="18" environ="slide" chapter="" course="UGED 1533"/>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
           <img src="https://upload.wikimedia.org/wikipedia/en/2/21/The_dress_blueblackwhitegold.jpg" alt="Washed-out colour photograph of a lace dress" environment="" />
         </div>
@@ -485,9 +476,9 @@ lighting conditions and interpret (unconsciously) the "true" color of an object.
           </div>
         </newcol>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="20" id="s20" slide="20" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="20" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="20">References</keyword>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="19" id="s19" slide="19" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="19" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="19">References</keyword>
         </keywords>
         <h2 xmlns="http://www.w3.org/1999/xhtml" environment="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">References</paragraphs>
