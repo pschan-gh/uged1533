@@ -1,37 +1,37 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
-    <entry keyword=" rose window  chartres cathedral (chartres france) ">
-      <branch chapter="" slide="2" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword=" rose window  chartres cathedral (chartres france) "> Rose window, Chartres Cathedral (Chartres France) </branch>
+    <entry keyword="rosewindowchartrescathedralchartresfrance">
+      <branch chapter="" slide="2" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="rosewindowchartrescathedralchartresfrance"> Rose window, Chartres Cathedral (Chartres France) </branch>
     </entry>
-    <entry keyword=" rose window  notre dame cathedral (paris, france) ">
-      <branch chapter="" slide="3" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword=" rose window  notre dame cathedral (paris, france) "> Rose window, Notre Dame Cathedral (Paris, France) </branch>
+    <entry keyword="rosewindownotredamecathedralparisfrance">
+      <branch chapter="" slide="3" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="rosewindownotredamecathedralparisfrance"> Rose window, Notre Dame Cathedral (Paris, France) </branch>
     </entry>
-    <entry keyword=" pantheon  rome, italy) ">
-      <branch chapter="" slide="4" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword=" pantheon  rome, italy) "> Pantheon (Rome, Italy) </branch>
+    <entry keyword="pantheonromeitaly">
+      <branch chapter="" slide="4" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="pantheonromeitaly"> Pantheon (Rome, Italy) </branch>
     </entry>
-    <entry keyword="finite designs">
-      <branch chapter="" slide="5" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword="finite designs">Finite Designs</branch>
+    <entry keyword="finitedesigns">
+      <branch chapter="" slide="5" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="finitedesigns">Finite Designs</branch>
     </entry>
-    <entry keyword="dihedral group  d_n$">
-      <branch chapter="" slide="6" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword="dihedral group  d_n$">Dihedral Group $D_n$</branch>
+    <entry keyword="dihedralgroupdn">
+      <branch chapter="" slide="6" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="dihedralgroupdn">Dihedral Group $D_n$</branch>
     </entry>
-    <entry keyword="m  c. escher (dutch 1898 -1972)">
-      <branch chapter="" slide="7" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword="m  c. escher (dutch 1898 -1972)">M. C. Escher (Dutch 1898 -1972)</branch>
+    <entry keyword="mcescherdutch18981972">
+      <branch chapter="" slide="7" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="mcescherdutch18981972">M. C. Escher (Dutch 1898 -1972)</branch>
     </entry>
     <entry keyword="alhambra">
-      <branch chapter="" slide="8" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword="alhambra">Alhambra</branch>
+      <branch chapter="" slide="8" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="alhambra">Alhambra</branch>
     </entry>
-    <entry keyword="islamic art">
-      <branch chapter="" slide="9" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword="islamic art">Islamic Art</branch>
+    <entry keyword="islamicart">
+      <branch chapter="" slide="9" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="islamicart">Islamic Art</branch>
     </entry>
-    <entry keyword="jean l&amp;eacuteon g&amp;eacuter&amp;ocircme (french, 1824 - 1904)">
-      <branch chapter="" slide="10" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword="jean l&amp;eacuteon g&amp;eacuter&amp;ocircme (french, 1824 - 1904)">Jean-L&amp;eacuteon G&amp;eacuter&amp;ocircme (French, 1824 - 1904)</branch>
+    <entry keyword="jeanleacuteongeacuterocircmefrench18241904">
+      <branch chapter="" slide="10" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="jeanleacuteongeacuterocircmefrench18241904">Jean-L&amp;eacuteon G&amp;eacuter&amp;ocircme (French, 1824 - 1904)</branch>
     </entry>
-    <entry keyword="         ">
-      <branch chapter="" slide="16" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword="         ">         </branch>
+    <entry keyword="">
+      <branch chapter="" slide="16" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="">         </branch>
     </entry>
     <entry keyword="examples">
-      <branch chapter="" slide="17" filename="main.xml" file_md5="8905a6fc1fc8466b819d920b1afc654c" keyword="examples">Examples</branch>
+      <branch chapter="" slide="17" filename="main.xml" file_md5="417f3605b89481933ae11b79270a74b6" keyword="examples">Examples</branch>
     </entry>
   </index>
 </document>

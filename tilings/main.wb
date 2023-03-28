@@ -45,21 +45,21 @@ Pantheon (Rome, Italy)
 <h3>Finite Designs</h3>
 <p>
 <div class='image'>
-<img src="images/finite_design1.png">
+<img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/finite_design1.png">
 <hr>
-<img src="images/finite_design2.png">
+<img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/finite_design2.png">
 <br><br>
 <i>Geometric Symmetry in Patterns and Tilings</i>, Clare Horne.
 </div>
 @sep
 <h3>Dihedral Group $D_n$</h3>
 <div class='image'>
-<img src="images/dihedral1.jpg">
+<img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/dihedral1.jpg">
 <br><br><i>Groups and Symmetry</i>, M. A. Armstrong
 </div>
 @col
 <div class='image'>
-<img src="images/dihedral2.jpg">
+<img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/dihedral2.jpg">
 <br><br><i>Groups and Symmetry</i>, M. A. Armstrong
 </div>
 @sep
@@ -72,10 +72,11 @@ Pantheon (Rome, Italy)
 <p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/originals/b6/c1/9e/b6c19e84c6af8c2802a83383a7e4452e.jpg"></div><br><hr>
 <p><div class='image'><img src="https://uploads0.wikiart.org/images/m-c-escher/bird-fish.jpg!Large.jpg"></div><br><hr>
 <p><div class='image'><img src="https://uploads7.wikiart.org/images/m-c-escher/sky-and-water-ii.jpg!Large.jpg"></div><br><hr>
+<!--
 <p><div class='image'><img src="http://mathstat.slu.edu/escher/upload/8/8a/Liberation.jpg"></div><br><hr>
+-->
 <p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/564x/4f/cc/36/4fcc3605a30deaa16de6584bf037b655.jpg"></div><br><hr>
-<p><div class='image'><img src="http://www.mathaware.org/mam/03/images/dunham/figure40.gif"></div><br><hr>
-<p><div class='image'><img src="http://mathstat.slu.edu/escher/upload/0/06/Circle-limit-IV.jpg"></div>
+<p><div class='image'><a href="https://www.wikiart.org/en/m-c-escher/circle-limit-iv"><img src="https://uploads5.wikiart.org/images/m-c-escher/circle-limit-iv.jpg"></a></div>
 @sep
 <h3>Alhambra</h3><hr><p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Vista_de_la_Alhambra.jpg"></div><br><hr>
 <p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alhambra-Granada-2003.jpg/1024px-Alhambra-Granada-2003.jpg"></div><br><hr>
@@ -84,7 +85,9 @@ Pantheon (Rome, Italy)
 @sep
 <h3>Islamic Art</h3><hr><p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Fes_Medersa_Bou_Inania_Mosaique2.jpg"></div><br><hr>
 <p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg/878px-Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg"></div><br><hr>
+<!--
 <p><div class='image'><img src="http://home.nordnet.fr/~ajuhel/Isfahan_Darb_e_Imam/Darb-e-Imam_aper.JPG"></div><br><hr>
+-->
 <p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Darb-i_Imam_shrine_spandrel.JPG"></div>
 @sep
 <h3>Jean-L&eacuteon G&eacuter&ocircme (French, 1824 - 1904)</h3><hr><p><div class='image'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg/1200px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg"></div><br><hr>
@@ -92,23 +95,23 @@ Pantheon (Rome, Italy)
 <p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/564x/b4/c9/95/b4c995d0e35b37951a847ba4e1d0090f.jpg"></div><br><hr>
 <p><div class='image'><img src="https://s-media-cache-ak0.pinimg.com/originals/ba/11/da/ba11dac911cfa8b46298f835a3763f49.jpg"></div>
 @sep
-<div class='image'><img src='images/hexagons2.jpg'><br><br>
+<div class='image'><img src='https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/hexagons2.jpg'><br><br>
 <i>Groups and Symmetry</i>, M. A. Armstrong</div>
 @col
-<div class='image'><img src='images/hexagons.jpg'><br><br>
+<div class='image'><img src='https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/hexagons.jpg'><br><br>
 <i>Groups and Symmetry</i>, M. A. Armstrong</div>
 @col
-<div class='image'><img src='images/hexagons3.jpg'><br><br>
+<div class='image'><img src='https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/hexagons3.jpg'><br><br>
 <i>Groups and Symmetry</i>, M. A. Armstrong</div>
 @sep
 A <i>symmetry</i> of a wallpaper pattern is a transformation which leaves the pattern unchanged.  Such a transformation can be one of the following:<ul><li> translation (<b>shift</b>)
-<img style="width:200px" src="images/translation.jpg">
+<img style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/translation.jpg">
 <li>rotation (<b>turn</b>)
-<img style="width:200px" src="images/rotation.jpg">
+<img style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/rotation.jpg">
 <li>reflection (<b>flip</b>)
-<img style="width:200px" src="images/reflection.jpg">
+<img style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/reflection.jpg">
 <li>glide reflection
-<img style="width:200px" src="images/glide.jpg"></ul><hr>
+<img style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/glide.jpg"></ul><hr>
 <div class='image'>
 (Illustration from <i>Geometric Symmetry in Patterns and Tilings</i>, Clare Horne.)
 </div>
@@ -117,11 +120,11 @@ We will work with wallpaper patterns which have two shift symmetries.
 Any such wallpaper is associated with an underlying <i>lattice</i>,
 which is obtained by applying the shift symmetries repeatedly to a fixed point
 (the origin) in the pattern.
-<p><div class='image'><img src='images/lattice.jpg'><br><br>
+<p><div class='image'><img src='https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/lattice.jpg'><br><br>
 <i>Groups and Symmetry</i>, M. A. Armstrong</div>
 @sep
 There are five types of lattices generated this way:
-<p><div class='image'><img src='images//lattice1.jpg'><br><br>
+<p><div class='image'><img src='https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images//lattice1.jpg'><br><br>
 <i>Groups and Symmetry</i>, M. A. Armstrong</div>
 @sep
 Note that a rotational (turn) symmetry of a wallpaper pattern may
@@ -179,7 +182,7 @@ identifying the wallpaper group of a given wallpaper pattern:
     <h4>
         <a href="https://en.wikipedia.org/wiki/Wallpaper_group#Guide_to_recognizing_wallpaper_groups" target="_blank">Guide to recognizing wallpaper groups (Wikipedia).</a>
     </h4>
-    <iframe style="height:480px;" src="content/uged1533/tilings/wallpaper_groups.html"></iframe>
+    <iframe style="height:480px;" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/tilings/wallpaper_groups.html"></iframe>
     <!-- (Notice that the character "1" is sometimes omitted.) -->
 </div>
 @sep
@@ -187,68 +190,73 @@ identifying the wallpaper group of a given wallpaper pattern:
 (from <a href="http://www.morenaments.de">http://www.morenaments.de</a>)
 <hr>
 <div class='image'>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p1.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p1.svg#/media/File:SymBlend_p1.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SymBlend_p1.svg/1200px-SymBlend_p1.svg.png" alt="SymBlend p1.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7402990">Link</a></p>
+<!-- <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p1.svg"> -->
 <br><br>$p1$
 <hr>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p2.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p2.svg#/media/File:SymBlend_p2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SymBlend_p2.svg/1200px-SymBlend_p2.svg.png" alt="SymBlend p2.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7402993">Link</a></p>
+<!-- <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p2.svg">-->
 <br><br>$p2$
 </div>
 @sep
 <div class='image'>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pm.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_pm.svg#/media/File:SymBlend_pm.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SymBlend_pm.svg/1200px-SymBlend_pm.svg.png" alt="SymBlend pm.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403020">Link</a></p>
+<!-- <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pm.svg"> -->
 <br><br>$pm$
 <hr>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pg.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_pg.svg#/media/File:SymBlend_pg.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/SymBlend_pg.svg/1200px-SymBlend_pg.svg.png" alt="SymBlend pg.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403014">Link</a></p>
+<!-- <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pg.svg"> -->
 <br><br>$pg$
 </div>
 @sep
 <div class='image'>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cm.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_cm.svg#/media/File:SymBlend_cm.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SymBlend_cm.svg/1200px-SymBlend_cm.svg.png" alt="SymBlend cm.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7402968">Link</a></p>
+<!-- <img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cm.svg"> -->
 <br><br>$cm$
 <hr>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pmm.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_pmm.svg#/media/File:SymBlend_pmm.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/SymBlend_pmm.svg/1200px-SymBlend_pmm.svg.png" alt="SymBlend pmm.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403022">Link</a></p>
 <br><br>$pmm$
 </div>
 @sep
 <div class='image'>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pmg.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_pmg.svg#/media/File:SymBlend_pmg.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SymBlend_pmg.svg/1200px-SymBlend_pmg.svg.png" alt="SymBlend pmg.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403021">Link</a></p>
 <br><br>$pmg$
 <hr>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pgg.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_pgg.svg#/media/File:SymBlend_pgg.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SymBlend_pgg.svg/1200px-SymBlend_pgg.svg.png" alt="SymBlend pgg.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403017">Link</a></p>
 <br><br>$pgg$
 </div>
 <div class='image'>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cmm.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_cmm.svg#/media/File:SymBlend_cmm.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/SymBlend_cmm.svg/1200px-SymBlend_cmm.svg.png" alt="SymBlend cmm.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7402969">Link</a></p>
 <br><br>$cmm$
 <hr>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p4.svg#/media/File:SymBlend_p4.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SymBlend_p4.svg/1200px-SymBlend_p4.svg.png" alt="SymBlend p4.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403002">Link</a></p>
 <br><br>$p4$
 </div>
 @sep
 <div class='image'>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4m.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p4m.svg#/media/File:SymBlend_p4m.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/SymBlend_p4m.svg/1200px-SymBlend_p4m.svg.png" alt="SymBlend p4m.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403005">Link</a></p>
 <br><br>$p4m$
 <hr>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p4g.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p4g.svg#/media/File:SymBlend_p4g.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SymBlend_p4g.svg/1200px-SymBlend_p4g.svg.png" alt="SymBlend p4g.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403004">Link</a></p>
 <br><br>$p4g$
 </div>
 @sep
 <div class='image'>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p3.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p3.svg#/media/File:SymBlend_p3.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/SymBlend_p3.svg/1200px-SymBlend_p3.svg.png" alt="SymBlend p3.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7402994">Link</a></p>
 <br><br>$p3$
 <hr>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p3m1.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p3m1.svg#/media/File:SymBlend_p3m1.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SymBlend_p3m1.svg/1200px-SymBlend_p3m1.svg.png" alt="SymBlend p3m1.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7402998">Link</a></p>
 <br><br>$p3m1$
 <hr>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p31m.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p31m.svg#/media/File:SymBlend_p31m.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SymBlend_p31m.svg/1200px-SymBlend_p31m.svg.png" alt="SymBlend p31m.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7402997">Link</a></p>
 <br><br>$p31m$
 </div>
 @sep
 <div class='image'>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p6.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p6.svg#/media/File:SymBlend_p6.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SymBlend_p6.svg/1200px-SymBlend_p6.svg.png" alt="SymBlend p6.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403007">Link</a></p>
 <br><br>$p6$
 <hr>
-<img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p6m.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:SymBlend_p6m.svg#/media/File:SymBlend_p6m.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SymBlend_p6m.svg/1200px-SymBlend_p6m.svg.png" alt="SymBlend p6m.svg"></a><br>By Martin von Gagern<br/><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7403011">Link</a></p>
 <br><br>$p6m$
 </div>
 @sep
