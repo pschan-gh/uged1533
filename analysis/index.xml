@@ -1,47 +1,46 @@
-<?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
-    <entry keyword="week 12">
-      <branch chapter="" slide="1" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="week 12">Week 12</branch>
+    <entry keyword="week12">
+      <branch chapter="" slide="1" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="week12">Week 12</branch>
     </entry>
-    <entry keyword="later developments">
-      <branch chapter="" slide="1" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="later developments">Later Developments</branch>
+    <entry keyword="laterdevelopments">
+      <branch chapter="" slide="1" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="laterdevelopments">Later Developments</branch>
     </entry>
-    <entry keyword="pablo picasso  spanish, 1881 - 1973)">
-      <branch chapter="" slide="2" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="pablo picasso  spanish, 1881 - 1973)">Pablo Picasso (Spanish, 1881 - 1973)</branch>
+    <entry keyword="pablopicassospanish18811973">
+      <branch chapter="" slide="2" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="pablopicassospanish18811973">Pablo Picasso (Spanish, 1881 - 1973)</branch>
     </entry>
-    <entry keyword="abstract expressionism">
-      <branch chapter="" slide="3" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="abstract expressionism">Abstract Expressionism</branch>
+    <entry keyword="abstractexpressionism">
+      <branch chapter="" slide="3" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="abstractexpressionism">Abstract Expressionism</branch>
     </entry>
-    <entry keyword="jackson pollock  america, 1912 - 1956)">
-      <branch chapter="" slide="5" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="jackson pollock  america, 1912 - 1956)">Jackson Pollock (America, 1912 - 1956)</branch>
+    <entry keyword="jacksonpollockamerica19121956">
+      <branch chapter="" slide="5" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="jacksonpollockamerica19121956">Jackson Pollock (America, 1912 - 1956)</branch>
     </entry>
     <entry keyword="fractals">
-      <branch chapter="" slide="8" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="fractals">Fractals</branch>
+      <branch chapter="" slide="8" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="fractals">Fractals</branch>
     </entry>
-    <entry keyword="koch snowflake">
-      <branch chapter="" slide="8" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="koch snowflake">Koch Snowflake</branch>
+    <entry keyword="kochsnowflake">
+      <branch chapter="" slide="8" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="kochsnowflake">Koch Snowflake</branch>
     </entry>
-    <entry keyword="fractal fern">
-      <branch chapter="" slide="9" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="fractal fern">Fractal Fern</branch>
+    <entry keyword="fractalfern">
+      <branch chapter="" slide="9" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="fractalfern">Fractal Fern</branch>
     </entry>
-    <entry keyword="sierpinski triangle">
-      <branch chapter="" slide="10" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="sierpinski triangle">Sierpinski Triangle</branch>
+    <entry keyword="sierpinskitriangle">
+      <branch chapter="" slide="10" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="sierpinskitriangle">Sierpinski Triangle</branch>
     </entry>
-    <entry keyword="sierpinski carpet">
-      <branch chapter="" slide="11" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="sierpinski carpet">Sierpinski Carpet</branch>
+    <entry keyword="sierpinskicarpet">
+      <branch chapter="" slide="11" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="sierpinskicarpet">Sierpinski Carpet</branch>
     </entry>
-    <entry keyword="katsushika hokusai">
-      <branch chapter="" slide="12" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="katsushika hokusai">Katsushika Hokusai</branch>
+    <entry keyword="katsushikahokusai">
+      <branch chapter="" slide="12" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="katsushikahokusai">Katsushika Hokusai</branch>
     </entry>
-    <entry keyword="the great wave off kanagawa">
-      <branch chapter="" slide="12" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="the great wave off kanagawa">The Great Wave off Kanagawa</branch>
+    <entry keyword="thegreatwaveoffkanagawa">
+      <branch chapter="" slide="12" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="thegreatwaveoffkanagawa">The Great Wave off Kanagawa</branch>
     </entry>
-    <entry keyword="box counting dimension">
-      <branch chapter="" slide="15" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="box counting dimension">Box-Counting Dimension</branch>
+    <entry keyword="boxcountingdimension">
+      <branch chapter="" slide="15" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="boxcountingdimension">Box-Counting Dimension</branch>
     </entry>
     <entry keyword="articles">
-      <branch chapter="" slide="16" filename="lecture.xml" file_md5="829db2b485b4d4637a95e36d95a224da" keyword="articles">Articles</branch>
+      <branch chapter="" slide="16" filename="lecture.xml" file_md5="34ab98317cb240b3a265d8bdbe099846" keyword="articles">Articles</branch>
     </entry>
   </index>
 </document>
