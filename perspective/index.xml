@@ -1,62 +1,5 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
-    <entry keyword="pictureplane">
-      <branch chapter="3" slide="9" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="pictureplane">picture plane</branch>
-    </entry>
-    <entry keyword="physical">
-      <branch chapter="3" slide="12" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="physical">physical</branch>
-    </entry>
-    <entry keyword="pictorial">
-      <branch chapter="3" slide="12" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="pictorial">pictorial</branch>
-    </entry>
-    <entry keyword="orthogonalline">
-      <branch chapter="3" slide="12" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="orthogonalline">orthogonal line</branch>
-    </entry>
-    <entry keyword="transversalline">
-      <branch chapter="3" slide="12" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="transversalline">transversal line</branch>
-    </entry>
-    <entry keyword="vanishingpoint">
-      <branch chapter="3" slide="13" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="vanishingpoint">vanishing point</branch>
-    </entry>
-    <entry keyword="horizon">
-      <branch chapter="3" slide="13" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="horizon">horizon</branch>
-    </entry>
-    <entry keyword="cameraobscura">
-      <branch chapter="3" slide="21" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="cameraobscura">camera obscura</branch>
-    </entry>
-    <entry keyword="timsvermeer">
-      <branch chapter="3" slide="24" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="timsvermeer">Tim's Vermeer</branch>
-    </entry>
-    <entry keyword="antoniomancini18521930italian">
-      <branch chapter="3" slide="25" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="antoniomancini18521930italian">Antonio Mancini (1852 - 1930, Italian)</branch>
-    </entry>
-    <entry keyword="antoniolopezgarciaspanish">
-      <branch chapter="3" slide="26" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="antoniolopezgarciaspanish">Antonio Lopez Garcia (Spanish)</branch>
-    </entry>
-    <entry keyword="references">
-      <branch chapter="3" slide="27" filename="main.xml" file_md5="a0a816d2da0e51b430f18ceaf4252f52" keyword="references">References</branch>
-    </entry>
-    <entry keyword="byzantineart">
-      <branch chapter="" slide="2" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="byzantineart">Byzantine Art</branch>
-    </entry>
-    <entry keyword="cimabuec12401302">
-      <branch chapter="" slide="3" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="cimabuec12401302">Cimabue (c. 1240 – 1302)</branch>
-    </entry>
-    <entry keyword="giottoc12701337">
-      <branch chapter="" slide="4" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="giottoc12701337">Giotto (c. 1270 - 1337)</branch>
-    </entry>
-    <entry keyword="paolouccello13971475italian">
-      <branch chapter="" slide="5" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="paolouccello13971475italian">Paolo Uccello (1397 - 1475, Italian)</branch>
-    </entry>
-    <entry keyword="giovannibellinic14301516italian">
-      <branch chapter="" slide="6" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="giovannibellinic14301516italian">Giovanni Bellini (c. 1430 - 1516, Italian)</branch>
-    </entry>
-    <entry keyword="johannesvermeer16321675dutch">
-      <branch chapter="" slide="8" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="johannesvermeer16321675dutch">Johannes Vermeer (1632 - 1675, Dutch)</branch>
-    </entry>
-    <entry keyword="pieterdehooch16291684dutch">
-      <branch chapter="" slide="9" filename="misc.xml" file_md5="6f864275b3462b6f9cb81799c3a55d4d" keyword="pieterdehooch16291684dutch">Pieter de Hooch (1629 - 1684, Dutch)</branch>
-    </entry>
     <entry keyword="thecolumnproblem">
       <branch chapter="" slide="3" filename="deviations.xml" file_md5="5e237fd3d51169f5bdaad7a87f5816f4" keyword="thecolumnproblem">The Column Problem</branch>
     </entry>
@@ -68,6 +11,63 @@
     </entry>
     <entry keyword="antoniolopezgarcia">
       <branch chapter="" slide="10" filename="deviations.xml" file_md5="5e237fd3d51169f5bdaad7a87f5816f4" keyword="antoniolopezgarcia">Antonio Lopez Garcia</branch>
+    </entry>
+    <entry keyword="pictureplane">
+      <branch chapter="3" slide="9" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="pictureplane">picture plane</branch>
+    </entry>
+    <entry keyword="physical">
+      <branch chapter="3" slide="12" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="physical">physical</branch>
+    </entry>
+    <entry keyword="pictorial">
+      <branch chapter="3" slide="12" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="pictorial">pictorial</branch>
+    </entry>
+    <entry keyword="orthogonalline">
+      <branch chapter="3" slide="12" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="orthogonalline">orthogonal line</branch>
+    </entry>
+    <entry keyword="transversalline">
+      <branch chapter="3" slide="12" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="transversalline">transversal line</branch>
+    </entry>
+    <entry keyword="vanishingpoint">
+      <branch chapter="3" slide="13" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="vanishingpoint">vanishing point</branch>
+    </entry>
+    <entry keyword="horizon">
+      <branch chapter="3" slide="13" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="horizon">horizon</branch>
+    </entry>
+    <entry keyword="cameraobscura">
+      <branch chapter="3" slide="21" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="cameraobscura">camera obscura</branch>
+    </entry>
+    <entry keyword="timsvermeer">
+      <branch chapter="3" slide="24" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="timsvermeer">Tim's Vermeer</branch>
+    </entry>
+    <entry keyword="antoniomancini18521930italian">
+      <branch chapter="3" slide="25" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="antoniomancini18521930italian">Antonio Mancini (1852 - 1930, Italian)</branch>
+    </entry>
+    <entry keyword="antoniolopezgarciaspanish">
+      <branch chapter="3" slide="26" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="antoniolopezgarciaspanish">Antonio Lopez Garcia (Spanish)</branch>
+    </entry>
+    <entry keyword="references">
+      <branch chapter="3" slide="27" filename="main.xml" file_md5="9c654b4a9291183cd09c4c004505f926" keyword="references">References</branch>
+    </entry>
+    <entry keyword="byzantineart">
+      <branch chapter="" slide="2" filename="misc.xml" file_md5="57373f9e6e29849127a826ca65c4ce82" keyword="byzantineart">Byzantine Art</branch>
+    </entry>
+    <entry keyword="cimabuec12401302">
+      <branch chapter="" slide="3" filename="misc.xml" file_md5="57373f9e6e29849127a826ca65c4ce82" keyword="cimabuec12401302">Cimabue (c. 1240 – 1302)</branch>
+    </entry>
+    <entry keyword="giottoc12701337">
+      <branch chapter="" slide="4" filename="misc.xml" file_md5="57373f9e6e29849127a826ca65c4ce82" keyword="giottoc12701337">Giotto (c. 1270 - 1337)</branch>
+    </entry>
+    <entry keyword="paolouccello13971475italian">
+      <branch chapter="" slide="5" filename="misc.xml" file_md5="57373f9e6e29849127a826ca65c4ce82" keyword="paolouccello13971475italian">Paolo Uccello (1397 - 1475, Italian)</branch>
+    </entry>
+    <entry keyword="giovannibellinic14301516italian">
+      <branch chapter="" slide="6" filename="misc.xml" file_md5="57373f9e6e29849127a826ca65c4ce82" keyword="giovannibellinic14301516italian">Giovanni Bellini (c. 1430 - 1516, Italian)</branch>
+    </entry>
+    <entry keyword="johannesvermeer16321675dutch">
+      <branch chapter="" slide="8" filename="misc.xml" file_md5="57373f9e6e29849127a826ca65c4ce82" keyword="johannesvermeer16321675dutch">Johannes Vermeer (1632 - 1675, Dutch)</branch>
+    </entry>
+    <entry keyword="pieterdehooch16291684dutch">
+      <branch chapter="" slide="9" filename="misc.xml" file_md5="57373f9e6e29849127a826ca65c4ce82" keyword="pieterdehooch16291684dutch">Pieter de Hooch (1629 - 1684, Dutch)</branch>
     </entry>
   </index>
 </document>
