@@ -362,7 +362,9 @@ Leonardo Da Vinci </paragraphs>
             <img width="512" alt="Ingres Odalisque in Grisaille" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Ingres_Odalisque_in_Grisaille.jpg" environment="" />
           </a>
           <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> "Grisaille" version </paragraphs>
+          <a target="_blank" href="https://www.metmuseum.org/art/collection/search/436708" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">"Grisaille" version</paragraphs>
+          </a>
         </div>
       </slide>
     </slides>
