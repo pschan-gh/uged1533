@@ -1,17 +1,5 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
-    <entry keyword="value">
-      <branch chapter="" slide="3" filename="main.xml" file_md5="321d59b1a946073feea7ceffa25965d7" keyword="value">Value</branch>
-    </entry>
-    <entry keyword="supperatemmaus">
-      <branch chapter="" slide="9" filename="main.xml" file_md5="321d59b1a946073feea7ceffa25965d7" keyword="supperatemmaus">Supper at Emmaus</branch>
-    </entry>
-    <entry keyword="academicstudies">
-      <branch chapter="" slide="10" filename="main.xml" file_md5="321d59b1a946073feea7ceffa25965d7" keyword="academicstudies">Academic Studies</branch>
-    </entry>
-    <entry keyword="thegrandodalisque">
-      <branch chapter="" slide="12" filename="main.xml" file_md5="321d59b1a946073feea7ceffa25965d7" keyword="thegrandodalisque">The Grand Odalisque</branch>
-    </entry>
     <entry keyword="josefalbersgermanbornamerican18881976">
       <branch chapter="" slide="29" filename="main2.xml" file_md5="611bb56ca31fae0dc46a6099936eac8e" keyword="josefalbersgermanbornamerican18881976">Josef Albers, (German-born American, 1888 - 1976)</branch>
       <branch chapter="" slide="3" filename="main4.xml" file_md5="19adb50cb034eb4b659a9c13a0877b17" keyword="josefalbersgermanbornamerican18881976">Josef Albers, (German-born American, 1888 - 1976)</branch>
@@ -246,6 +234,18 @@
     </entry>
     <entry keyword="references">
       <branch chapter="" slide="19" filename="main4.xml" file_md5="19adb50cb034eb4b659a9c13a0877b17" keyword="references">References</branch>
+    </entry>
+    <entry keyword="value">
+      <branch chapter="" slide="3" filename="main.xml" file_md5="6e473287e42d81c09788b71b97153b03" keyword="value">Value</branch>
+    </entry>
+    <entry keyword="supperatemmaus">
+      <branch chapter="" slide="9" filename="main.xml" file_md5="6e473287e42d81c09788b71b97153b03" keyword="supperatemmaus">Supper at Emmaus</branch>
+    </entry>
+    <entry keyword="academicstudies">
+      <branch chapter="" slide="10" filename="main.xml" file_md5="6e473287e42d81c09788b71b97153b03" keyword="academicstudies">Academic Studies</branch>
+    </entry>
+    <entry keyword="thegrandodalisque">
+      <branch chapter="" slide="12" filename="main.xml" file_md5="6e473287e42d81c09788b71b97153b03" keyword="thegrandodalisque">The Grand Odalisque</branch>
     </entry>
   </index>
 </document>
