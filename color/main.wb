@@ -175,16 +175,20 @@ Caravaggio
 <div class=image>
 <img style="width:300px; height:auto" src="https://www.nga.gov/content/dam/ngaweb/features/slideshows/picasso-the-early-years/earlypicasso_torso.jpg">
 <br>
-<a href="https://www.nga.gov/features/slideshows/picasso-the-early-years.html">
+<a target="_blank" href="https://www.nga.gov/features/slideshows/picasso-the-early-years.html">
 Pablo Picasso (Spanish, 1881 - 1973)
 </a>
 </div>
 @col
 <div class=image>
-<img src="http://www.museoreinasofia.es/sites/default/files/obras/DE00050_0.jpg">
+<a target="_blank" href="http://www.museoreinasofia.es/en/collection/artwork/guernica"><img src="https://static3.museoreinasofia.es/sites/default/files/styles/foto_horizontal_normal/public/obras/DE00050_0.jpg?itok=pGgIuEEd"></a>
 <br>
-<a href="http://www.museoreinasofia.es/en/collection/artwork/guernica">
+<a target="_blank" href="http://www.museoreinasofia.es/en/collection/artwork/guernica">
 <i>Guernica</i>, Pablo Picasso</a>
+<!--
+<br/>
+(Photo credit: Museo Nacional Centro de Arte Reina Sofía)
+-->
 </div>
 @slide
 @image{https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/david_eye_study.jpg}
