@@ -1,6 +1,7 @@
-@sep
-<h4 class=title>Week 12<br>Fractals</h4>
-<h3>Later Developments</h3>
+@course{UGED1533}
+@lecture{13}
+<h2>Fractals</h2>
+@section{Later Developments}
 <br><br>
 <div class='image'>
 <a title="Paul Cézanne
@@ -99,7 +100,7 @@ Willem de Kooning (Dutch-American, 1904 - 1997)
 <hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXOw0uTY1kQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 @sep
-<h3>Fractals</h3>
+@section{Fractals}
 <br><br>
 <h4>Koch Snowflake</h4>
 <br>
@@ -177,7 +178,7 @@ has dimension:
 <br><br>By Beojan Stanislaus, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8862246">Link</a></p>
 </div>
 @sep
-<h3>Box-Counting Dimension</h3>
+@section{Fractal Dimension}
 One way to compute the dimension of a set $S$ is the so-called "Box Counting" method:
 <ol>
 <li>Position the set $S$ in question in a rectangular box.
