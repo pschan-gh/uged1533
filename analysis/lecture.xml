@@ -203,9 +203,9 @@ Source page: </paragraphs>
       <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
       <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
       <newcol course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-        <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> rockwell</paragraphs>
         <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
           <img src="https://uploads6.wikiart.org/images/norman-rockwell/the-connoiseur-1962.jpg!Large.jpg" environment="newcol" />
+          <br environment="newcol" />
           <i environment="newcol">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">The Connoiseur</paragraphs>
           </i>
@@ -227,7 +227,7 @@ Source page: </paragraphs>
     </slide>
     <slide environment="" chapter_type="" wbtag="slide" canon_num="7" id="s7" slide="7" course="" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
       <keywords slide="7" environ="slide" chapter="" course=""/>
-      <iframe xmlns="http://www.w3.org/1999/xhtml" width="560" height="315" src="https://www.youtube.com/embed/7bICqvmKL5s" frameborder="0" allowfullscreen="" environment=""></iframe>
+      <iframe xmlns="http://www.w3.org/1999/xhtml" width="560" height="315" src="https://www.youtube.com/embed/7bICqvmKL5s?si=zlx57ZmaoK9QJvTn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="" environment=""></iframe>
       <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
       <iframe xmlns="http://www.w3.org/1999/xhtml" width="560" height="315" src="https://www.youtube.com/embed/8lvUr5ZtSjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" environment=""></iframe>
       <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
@@ -445,6 +445,15 @@ This number is the (fractal) dimension of the set $S$. </paragraphs>
       <keywords slide="16" environ="slide" chapter="" course="">
         <keyword chapter="" slide="16">Articles</keyword>
       </keywords>
+      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In 1999, Richard P. Taylor, Adam P. Micolich, and David Jonas announced in the science journal </paragraphs>
+      <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Nature</paragraphs>
+      </i>
+      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> that they had applied fractal analysis onto the drip paintings of Jackson Pollock, and claimed to discover that as "Pollock refined his dripping technique, the fractal dimensions increased steadily through the years, from close to 1 in 1943 to 1.72 in 1952."  </paragraphs>
+      <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In another article (Physics World, Volume 12, Issue 10, October 1999), the authors stated that "because [the fractal dimension] follows such a distinct evolution with time, the fractal analysis could be employed as a quantitative, objective technique to both validate and date Pollock’s drip paintings. In conclusion, Pollock’s contribution to the evolution of art is secure. He described Nature directly. Rather than mimicking Nature, he adopted its language - fractals - to build his own patterns."</paragraphs>
+      <newline course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+      <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
       <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
         <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Articles</paragraphs>
       </h3>
@@ -474,12 +483,64 @@ Physics World, Volume 12, Issue 10, October 1999. </paragraphs>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf</paragraphs>
           </a>
         </li>
+      </ul>
+    </slide>
+    <slide environment="" chapter_type="" wbtag="slide" canon_num="17" id="s17" slide="17" course="" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+      <keywords slide="17" environ="slide" chapter="" course="">
+        <keyword chapter="" slide="17">Articles</keyword>
+      </keywords>
+      <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">HOWEVER</paragraphs>
+      </strong>
+      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">...</paragraphs>
+      <newline course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+      <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In a 2006 article published in </paragraphs>
+      <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Nature</paragraphs>
+      </i>
+      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Katherine Jones-Smith and Harsh Mathur claimed to have debunked the thesis of Taylor </paragraphs>
+      <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">et al.</paragraphs>
+      </i>
+      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> by presenting a freehand drawing which, by the criteria set by the latter authors, would qualify as a "high-quality" fractal:</paragraphs>
+      <newline course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+      <newcol course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
+          <img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature05398/MediaObjects/41586_2006_BFnature05398_Fig2_HTML.jpg?as=webp" environment="newcol" />
+        </div>
+        <collapse course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+          <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Moreover, according to Jones-Smith:
+"Known Pollock paintings, hanging in museums and worth millions of dollars, don't pass Taylor's criteria, and then there are the paintings by [other painters] that do pass, even though they are definitely not by Pollock."</paragraphs>
+          <newline course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+          <collapse course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
+              <i environment="newcol">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">I think it is more appealing that Pollock's work cannot be reduced to a set of numbers with a certain mean and certain standard deviation</paragraphs>
+              </i>
+              <div style="text-align:right" environment="newcol">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">--Katherine Jones-Smith</paragraphs>
+              </div>
+              <div environment="newcol"></div>
+            </div>
+          </collapse>
+        </collapse>
+      </newcol>
+      <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+      <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Articles</paragraphs>
+      </h3>
+      <ul xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <li environment="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Jones-Smith, K., Mathur, H. Revisiting Pollock's drip paintings. Nature 444, E9–E10 (2006). </paragraphs>
+          <a target="_blank" href="https://doi.org/10.1038/nature05398" environment="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">https://doi.org/10.1038/nature05398</paragraphs>
+          </a>
+        </li>
         <li environment="">
           <a href="https://www.sciencedaily.com/releases/2007/11/071125114847.htm" environment="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">https://www.sciencedaily.com/releases/2007/11/071125114847.htm</paragraphs>
           </a>
-          <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">&lt;a href="http://blog.case.edu/case-news/2006/11/30/pollock"&gt;
-http://blog.case.edu/case-news/2006/11/30/pollock&lt;/a&gt;</comment>
         </li>
       </ul>
     </slide>

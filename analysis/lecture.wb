@@ -78,9 +78,9 @@ Willem de Kooning (Dutch-American, 1904 - 1997)
 </div>
 <hr>
 <p>
-@collapse rockwell@
+@collapse
 <div class='image'>
-<img src="https://uploads6.wikiart.org/images/norman-rockwell/the-connoiseur-1962.jpg!Large.jpg">
+<img src="https://uploads6.wikiart.org/images/norman-rockwell/the-connoiseur-1962.jpg!Large.jpg"><br/>
 <i>The Connoiseur</i>, Norman Rockwell (American, 1894 - 1978)
 </div>
 </div>
@@ -93,8 +93,8 @@ Willem de Kooning (Dutch-American, 1904 - 1997)
 <img src="https://s-media-cache-ak0.pinimg.com/originals/d7/89/ab/d789abe8c37104db0444d6877695a4fd.jpg">
 </div>
 @sep
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7bICqvmKL5s" frameborder="0" allowfullscreen></iframe>
-<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7bICqvmKL5s?si=zlx57ZmaoK9QJvTn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<hr/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8lvUr5ZtSjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXOw0uTY1kQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -199,7 +199,12 @@ This number is the (fractal) dimension of the set $S$.
 <br><br>
 Computing the dimension of the coastline of Great Britain via the box-counting method.
 </div>
-@sep
+@slide
+In 1999, Richard P. Taylor, Adam P. Micolich, and David Jonas announced in the science journal <i>Nature</i> that they had applied fractal analysis onto the drip paintings of Jackson Pollock, and claimed to discover that as "Pollock refined his dripping technique, the fractal dimensions increased steadily through the years, from close to 1 in 1943 to 1.72 in 1952." 
+<p/>
+In another article (Physics World, Volume 12, Issue 10, October 1999), the authors stated that "because [the fractal dimension] follows such a distinct evolution with time, the fractal analysis could be employed as a quantitative, objective technique to both validate and date Pollock’s drip paintings. In conclusion, Pollock’s contribution to the evolution of art is secure. He described Nature directly. Rather than mimicking Nature, he adopted its language - fractals - to build his own patterns."
+
+<p/>
 <h3>Articles</h3>
 <ul>
 <li>
@@ -215,10 +220,34 @@ Physics World, Volume 12, Issue 10, October 1999.
 </a>
 <li>
 <a href="http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf">http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf</a>
+</u>
+@sep
+**HOWEVER**...
+
+<p/>
+In a 2006 article published in <i>Nature</i>, Katherine Jones-Smith and Harsh Mathur claimed to have debunked the thesis of Taylor <i>et al.</i> by presenting a freehand drawing which, by the criteria set by the latter authors, would qualify as a "high-quality" fractal:
+
+@col
+<div class="image">
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature05398/MediaObjects/41586_2006_BFnature05398_Fig2_HTML.jpg?as=webp"/>
+</div>
+@col
+Moreover, according to Jones-Smith:
+"Known Pollock paintings, hanging in museums and worth millions of dollars, don't pass Taylor's criteria, and then there are the paintings by [other painters] that do pass, even though they are definitely not by Pollock."
+
+@col
+<div class="image">
+<i>I think it is more appealing that Pollock's work cannot be reduced to a set of numbers with a certain mean and certain standard deviation</i>
+<div style="text-align:right">--Katherine Jones-Smith</div>
+<div>
+@endcol
+<p/>
+<h3>Articles</h3>
+<ul>
+<li>
+Jones-Smith, K., Mathur, H. Revisiting Pollock's drip paintings. Nature 444, E9–E10 (2006). <a target="_blank" href="https://doi.org/10.1038/nature05398">https://doi.org/10.1038/nature05398</a>
+</li>
 <li>
 <a href="https://www.sciencedaily.com/releases/2007/11/071125114847.htm">https://www.sciencedaily.com/releases/2007/11/071125114847.htm</a>
-<!--
-<a href="http://blog.case.edu/case-news/2006/11/30/pollock">
-http://blog.case.edu/case-news/2006/11/30/pollock</a>
--->
+</li>
 </ul>
