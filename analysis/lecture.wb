@@ -28,8 +28,7 @@ By PICASSO, la exposición del Reina-Prado. Guernica is in the collection of <a 
 Source page: <a rel="nofollow" class="external free" href="http://www.picassotradicionyvanguardia.com/08R.php">http://www.picassotradicionyvanguardia.com/08R.php</a> (<a rel="nofollow" class="external text" href="http://web.archive.org/web/20071010045304/http://www.picassotradicionyvanguardia.com/08R.php">archive.org</a>), <a href="//en.wikipedia.org/wiki/File:PicassoGuernica.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=1683114">Link</a>
 @endcol
 </div>
-@sep
-<h3>Abstract Expressionism</h3>
+@section{Abstract Expressionism}
 <br><br>
 <div class='image'>
 <p><a href="https://en.wikipedia.org/wiki/File:Robert_Motherwell%27s_%27Elegy_to_the_Spanish_Republic_No._110%27.jpg#/media/File:Robert_Motherwell%27s_%27Elegy_to_the_Spanish_Republic_No._110%27.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/3/32/Robert_Motherwell%27s_%27Elegy_to_the_Spanish_Republic_No._110%27.jpg" alt="Robert Motherwell's 'Elegy to the Spanish Republic No. 110'.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Robert_Motherwell%27s_%27Elegy_to_the_Spanish_Republic_No._110%27.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=10881894">Link</a>
@@ -53,7 +52,7 @@ Willem de Kooning (Dutch-American, 1904 - 1997)
 </div>
 @sep
 <div class='image'>
-<img src="https://bob520.files.wordpress.com/2010/09/abstract.jpg">
+<img src="https://bob520.files.wordpress.com/2010/09/abstract.jpg"/>
 </div>
 @sep
 <h3>Jackson Pollock (America, 1912 - 1956)</h3>
@@ -84,24 +83,21 @@ Willem de Kooning (Dutch-American, 1904 - 1997)
 <img src="https://uploads6.wikiart.org/images/norman-rockwell/the-connoiseur-1962.jpg!Large.jpg"><br/>
 <i>The Connoiseur</i>, Norman Rockwell (American, 1894 - 1978)
 </div>
-</div>
 @sep
 <div class='image'>
-<img src="https://s-media-cache-ak0.pinimg.com/originals/2c/e8/74/2ce87419f4a27bd8a0765862f414741a.jpg">
+<img src="https://s-media-cache-ak0.pinimg.com/originals/2c/e8/74/2ce87419f4a27bd8a0765862f414741a.jpg"/>
 </div>
-<hr>
+<hr/>
 <div class='image'>
-<img src="https://s-media-cache-ak0.pinimg.com/originals/d7/89/ab/d789abe8c37104db0444d6877695a4fd.jpg">
+<img src="https://s-media-cache-ak0.pinimg.com/originals/d7/89/ab/d789abe8c37104db0444d6877695a4fd.jpg"/>
 </div>
 @sep
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7bICqvmKL5s?si=zlx57ZmaoK9QJvTn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8lvUr5ZtSjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr>
+<hr/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JXOw0uTY1kQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-@sep
 @section{Fractals}
-<br><br>
 <h4>Koch Snowflake</h4>
 <br>
 <div class='image'>
@@ -139,6 +135,7 @@ Willem de Kooning (Dutch-American, 1904 - 1997)
 <div class='image'>
 <a title="By self Georg-Johann Lay (self made using home brew software and convert) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASierpinski-zoom4-ani.gif"><img width="128" alt="Sierpinski-zoom4-ani" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Sierpinski-zoom4-ani.gif"/></a>
 </div>
+
 @sep
 <h4>Sierpinski Carpet</h4>
 <br>
@@ -177,7 +174,6 @@ has dimension:
 <a href="https://commons.wikimedia.org/wiki/File:Sierpinski_triangle.svg#/media/File:Sierpinski_triangle.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/1200px-Sierpinski_triangle.svg.png" alt="Sierpinski triangle.svg"></a>
 <br><br>By Beojan Stanislaus, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8862246">Link</a></p>
 </div>
-@sep
 @section{Fractal Dimension}
 One way to compute the dimension of a set $S$ is the so-called "Box Counting" method:
 <ol>

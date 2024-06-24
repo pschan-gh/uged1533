@@ -1,38 +1,35 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
     <entry keyword="fractals">
-      <branch chapter="13" slide="2" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="fractals">Fractals</branch>
+      <branch chapter="13" slide="2" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="fractals">Fractals</branch>
     </entry>
     <entry keyword="pablopicassospanish18811973">
-      <branch chapter="13" slide="4" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="pablopicassospanish18811973">Pablo Picasso (Spanish, 1881 - 1973)</branch>
-    </entry>
-    <entry keyword="abstractexpressionism">
-      <branch chapter="13" slide="5" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="abstractexpressionism">Abstract Expressionism</branch>
+      <branch chapter="13" slide="4" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="pablopicassospanish18811973">Pablo Picasso (Spanish, 1881 - 1973)</branch>
     </entry>
     <entry keyword="jacksonpollockamerica19121956">
-      <branch chapter="13" slide="7" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="jacksonpollockamerica19121956">Jackson Pollock (America, 1912 - 1956)</branch>
+      <branch chapter="13" slide="7" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="jacksonpollockamerica19121956">Jackson Pollock (America, 1912 - 1956)</branch>
     </entry>
     <entry keyword="kochsnowflake">
-      <branch chapter="14" slide="12" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="kochsnowflake">Koch Snowflake</branch>
+      <branch chapter="13" slide="10" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="kochsnowflake">Koch Snowflake</branch>
     </entry>
     <entry keyword="fractalfern">
-      <branch chapter="14" slide="13" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="fractalfern">Fractal Fern</branch>
+      <branch chapter="13" slide="11" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="fractalfern">Fractal Fern</branch>
     </entry>
     <entry keyword="sierpinskitriangle">
-      <branch chapter="14" slide="14" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="sierpinskitriangle">Sierpinski Triangle</branch>
+      <branch chapter="13" slide="12" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="sierpinskitriangle">Sierpinski Triangle</branch>
     </entry>
     <entry keyword="sierpinskicarpet">
-      <branch chapter="14" slide="15" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="sierpinskicarpet">Sierpinski Carpet</branch>
+      <branch chapter="13" slide="13" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="sierpinskicarpet">Sierpinski Carpet</branch>
     </entry>
     <entry keyword="katsushikahokusai">
-      <branch chapter="14" slide="16" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="katsushikahokusai">Katsushika Hokusai</branch>
+      <branch chapter="13" slide="14" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="katsushikahokusai">Katsushika Hokusai</branch>
     </entry>
     <entry keyword="thegreatwaveoffkanagawa">
-      <branch chapter="14" slide="16" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="thegreatwaveoffkanagawa">The Great Wave off Kanagawa</branch>
+      <branch chapter="13" slide="14" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="thegreatwaveoffkanagawa">The Great Wave off Kanagawa</branch>
     </entry>
     <entry keyword="articles">
-      <branch chapter="14" slide="20" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="articles">Articles</branch>
-      <branch chapter="14" slide="21" filename="lecture.xml" file_md5="f0b6578918aba0a9d8919e4c42258795" keyword="articles">Articles</branch>
+      <branch chapter="13" slide="18" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="articles">Articles</branch>
+      <branch chapter="13" slide="19" filename="lecture.xml" file_md5="ea35eff3ffdf89bd5e9b553deafef6b4" keyword="articles">Articles</branch>
     </entry>
   </index>
 </document>
