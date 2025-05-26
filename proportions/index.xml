@@ -32,22 +32,22 @@
       <branch chapter="1" slide="8" filename="composition.xml" file_md5="99b1966fdad8f355d40f54c20d7466cd" keyword="caravaggioitalian15711610">Caravaggio (Italian, 1571 - 1610)</branch>
     </entry>
     <entry keyword="byjohnsingersargent19thcentury">
-      <branch chapter="1" slide="4" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="byjohnsingersargent19thcentury">by John Singer Sargent (19th Century)</branch>
+      <branch chapter="NaN" slide="5" filename="misc.xml" file_md5="c66bf8051e61a480067baf91e9338a8d" keyword="byjohnsingersargent19thcentury">by John Singer Sargent (19th Century)</branch>
     </entry>
     <entry keyword="pieterbruegeltheeldernetherlandish15251569">
-      <branch chapter="1" slide="6" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="pieterbruegeltheeldernetherlandish15251569">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </branch>
+      <branch chapter="NaN" slide="7" filename="misc.xml" file_md5="c66bf8051e61a480067baf91e9338a8d" keyword="pieterbruegeltheeldernetherlandish15251569">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </branch>
     </entry>
     <entry keyword="jacqueslouisdavidfrench17481825">
-      <branch chapter="1" slide="7" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="jacqueslouisdavidfrench17481825"> Jacques-Louis David (French, 1748 – 1825) </branch>
+      <branch chapter="NaN" slide="8" filename="misc.xml" file_md5="c66bf8051e61a480067baf91e9338a8d" keyword="jacqueslouisdavidfrench17481825"> Jacques-Louis David (French, 1748 – 1825) </branch>
     </entry>
     <entry keyword="albertogiacomettiswiss19011966">
-      <branch chapter="1" slide="8" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="albertogiacomettiswiss19011966">Alberto Giacometti (Swiss, 1901 - 1966)</branch>
+      <branch chapter="NaN" slide="9" filename="misc.xml" file_md5="c66bf8051e61a480067baf91e9338a8d" keyword="albertogiacomettiswiss19011966">Alberto Giacometti (Swiss, 1901 - 1966)</branch>
     </entry>
     <entry keyword="fernandoboterocolombian1932">
-      <branch chapter="1" slide="9" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="fernandoboterocolombian1932">Fernando Botero (Colombian, 1932 - )</branch>
+      <branch chapter="NaN" slide="10" filename="misc.xml" file_md5="c66bf8051e61a480067baf91e9338a8d" keyword="fernandoboterocolombian1932">Fernando Botero (Colombian, 1932 - )</branch>
     </entry>
     <entry keyword="pietmondriandutch18721944">
-      <branch chapter="1" slide="11" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="pietmondriandutch18721944">Piet Mondrian (Dutch, 1872 - 1944),</branch>
+      <branch chapter="NaN" slide="12" filename="misc.xml" file_md5="c66bf8051e61a480067baf91e9338a8d" keyword="pietmondriandutch18721944">Piet Mondrian (Dutch, 1872 - 1944),</branch>
     </entry>
   </index>
 </document>
