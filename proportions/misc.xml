@@ -1,11 +1,4 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
-  <slides environment="" chapter_type="">
-    <slide environment="" chapter_type="" wbtag="slide" canon_num="1" id="s1" slide="1" course="" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-      <keywords slide="1" environ="slide" chapter="" course=""/>
-      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-    </slide>
-  </slides>
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533">
     <keywords slide="all" environ="course" chapter="" course="UGED 1533">
       <keyword chapter="" slide="all">by John Singer Sargent (19th Century)</keyword>
@@ -17,372 +10,241 @@
     </keywords>
     <title environment="title" chapter_type="" wbtag="course" scope="course" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" serial="" slide="">UGED 1533</title>
     <slides environment="" chapter_type="">
-      <slide environment="" chapter_type="" canon_num="2" scope="course" course="UGED 1533" title="UGED 1533" id="s2" slide="2" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <title environment="title" chapter_type="" wbtag="course" scope="course" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="2">UGED 1533</title>
-        <keywords slide="2" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
+      <slide environment="" chapter_type="" canon_num="1" scope="course" course="UGED 1533" title="UGED 1533" id="s1" slide="1" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <title environment="title" chapter_type="" wbtag="course" scope="course" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">UGED 1533</title>
+        <keywords slide="1" environ="slide" chapter="" course="UGED 1533"/>
       </slide>
     </slides>
-    <chapter environment="" chapter_type="Chapter" type="Chapter" wbtag="chapter" num="NaN" title="Miscellany" no_serial="true" course="UGED 1533" serial="NaN">
-      <keywords slide="all" environ="chapter" chapter="NaN" course="UGED 1533">
-        <keyword chapter="NaN" slide="all">by John Singer Sargent (19th Century)</keyword>
-        <keyword chapter="NaN" slide="all">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </keyword>
-        <keyword chapter="NaN" slide="all"> Jacques-Louis David (French, 1748 – 1825) </keyword>
-        <keyword chapter="NaN" slide="all">Alberto Giacometti (Swiss, 1901 - 1966)</keyword>
-        <keyword chapter="NaN" slide="all">Fernando Botero (Colombian, 1932 - )</keyword>
-        <keyword chapter="NaN" slide="all">Piet Mondrian (Dutch, 1872 - 1944),</keyword>
+    <chapter environment="" chapter_type="Chapter" type="Chapter" wbtag="chapter" num="1" title="Miscellany" no_serial="true" course="UGED 1533" serial="1">
+      <keywords slide="all" environ="chapter" chapter="1" course="UGED 1533">
+        <keyword chapter="1" slide="all">by John Singer Sargent (19th Century)</keyword>
+        <keyword chapter="1" slide="all">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </keyword>
+        <keyword chapter="1" slide="all"> Jacques-Louis David (French, 1748 – 1825) </keyword>
+        <keyword chapter="1" slide="all">Alberto Giacometti (Swiss, 1901 - 1966)</keyword>
+        <keyword chapter="1" slide="all">Fernando Botero (Colombian, 1932 - )</keyword>
+        <keyword chapter="1" slide="all">Piet Mondrian (Dutch, 1872 - 1944),</keyword>
       </keywords>
-      <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533" chapter="NaN" section="" subsection="" subsubsection="" serial="" slide=""/>
+      <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" serial="" slide="">Miscellany</title>
       <slides environment="" chapter_type="">
-        <slide environment="" chapter_type="Chapter" canon_num="3" scope="chapter" id="s3" slide="3" course="UGED 1533" chapter="NaN" section="" subsection="" subsubsection="" chapter_title="Miscellany" section_title="">
-          <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="3"/>
-          <keywords slide="3" environ="slide" chapter="NaN" course="UGED 1533"/>
-          <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
+        <slide environment="" chapter_type="Chapter" canon_num="2" scope="chapter" id="s2" slide="2" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" chapter_title="Miscellany" section_title="">
+          <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="2">Miscellany</title>
+          <keywords slide="2" environ="slide" chapter="1" course="UGED 1533"/>
         </slide>
       </slides>
-      <section environment="" chapter_type="" type="Section" wbtag="section" title="Ideal Proportions" course="UGED 1533" chapter="NaN" num="1" serial="NaN.1">
-        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="NaN" section="1" subsection="" subsubsection="" serial="" slide="">
-          <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">
-Ideal Proportions
-</paragraphs>
+      <section environment="" chapter_type="" type="Section" wbtag="section" title="Ideal Proportions" course="UGED 1533" chapter="1" num="1" serial="1.1">
+        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" serial="" slide="">
+          <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Ideal Proportions</paragraphs>
         </title>
         <slides environment="" chapter_type="">
-          <slide environment="" chapter_type="Chapter" canon_num="4" scope="section" id="s4" slide="4" course="UGED 1533" chapter="NaN" section="1" subsection="" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
-            <keywords slide="4" environ="slide" chapter="NaN" course="UGED 1533"/>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="NaN" section="1" subsection="" subsubsection="" serial="" slide="4">
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">
-Ideal Proportions
-</paragraphs>
+          <slide environment="" chapter_type="Chapter" canon_num="3" scope="section" id="s3" slide="3" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
+            <keywords slide="3" environ="slide" chapter="1" course="UGED 1533"/>
+            <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" serial="" slide="3">
+              <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Ideal Proportions</paragraphs>
             </title>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
           </slide>
         </slides>
-        <subsection environment="" chapter_type="" type="Section" wbtag="subsection" title="Portrait of Carolus-Duran" course="UGED 1533" chapter="NaN" section="1" num="1" serial="NaN.1.1">
-          <title environment="title" chapter_type="Chapter" wbtag="title" scope="subsection" course="UGED 1533" chapter="NaN" section="1" subsection="" subsubsection="" serial="NaN.1.1" slide="">
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">
-Portrait of Carolus-Duran
-</paragraphs>
+        <subsection environment="" chapter_type="" type="Section" wbtag="subsection" title="Portrait of Carolus-Duran" course="UGED 1533" chapter="1" section="1" num="1" serial="1.1.1">
+          <title environment="title" chapter_type="Chapter" wbtag="title" scope="subsection" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" serial="1.1.1" slide="">
+            <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Portrait of Carolus-Duran</paragraphs>
           </title>
           <slides environment="" chapter_type="">
-            <slide environment="" chapter_type="Chapter" canon_num="5" scope="subsection" id="s5" slide="5" course="UGED 1533" chapter="NaN" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
-              <keywords slide="5" environ="slide" chapter="NaN" course="UGED 1533">
-                <keyword chapter="NaN" slide="5">by John Singer Sargent (19th Century)</keyword>
+            <slide environment="" chapter_type="Chapter" canon_num="4" scope="subsection" id="s4" slide="4" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
+              <keywords slide="4" environ="slide" chapter="1" course="UGED 1533">
+                <keyword chapter="1" slide="4">by John Singer Sargent (19th Century)</keyword>
               </keywords>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <title environment="title" chapter_type="Chapter" wbtag="title" scope="subsection" course="UGED 1533" chapter="NaN" section="1" subsection="1" subsubsection="" serial="" slide="5">
-                <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="title" wbtag="paragraphs">
-Portrait of Carolus-Duran
-</paragraphs>
+              <title environment="title" chapter_type="Chapter" wbtag="title" scope="subsection" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" serial="" slide="4">
+                <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="title" wbtag="paragraphs">Portrait of Carolus-Duran</paragraphs>
               </title>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <h5 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">by John Singer Sargent (19th Century)</paragraphs>
+              <h5 xmlns="http://www.w3.org/1999/xhtml" environment="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">by John Singer Sargent (19th Century)</paragraphs>
               </h5>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
-                <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:Portrait_of_Carolus-Duran.jpg#/media/File:Portrait_of_Carolus-Duran.jpg">
-                  <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Portrait_of_Carolus-Duran.jpg/1200px-Portrait_of_Carolus-Duran.jpg" alt="Portrait of Carolus-Duran.jpg" />
+              <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+                <a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Carolus-Duran.jpg#/media/File:Portrait_of_Carolus-Duran.jpg" environment="">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Portrait_of_Carolus-Duran.jpg/1200px-Portrait_of_Carolus-Duran.jpg" alt="Portrait of Carolus-Duran.jpg" environment="" />
                 </a>
-                <br environment="" chapter_type="" />
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">By </paragraphs>
-                <a environment="" chapter_type="" href="https://en.wikipedia.org/wiki/John_Singer_Sargent" class="extiw" title="en:John Singer Sargent">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">John Singer Sargent</paragraphs>
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> - </paragraphs>
-                  <a environment="" chapter_type="" rel="nofollow" class="external free" href="http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html</paragraphs>
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">, Public Domain, </paragraphs>
-                    <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=61407">
-                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
-                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-                    </a>
-                  </a>
+                <br environment="" />
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">By </paragraphs>
+                <a href="https://en.wikipedia.org/wiki/John_Singer_Sargent" class="extiw" title="en:John Singer Sargent" environment="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">John Singer Sargent</paragraphs>
+                </a>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> - </paragraphs>
+                <a rel="nofollow" class="external free" href="http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html" environment="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html</paragraphs>
+                </a>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">, Public Domain, </paragraphs>
+                <a href="https://commons.wikimedia.org/w/index.php?curid=61407" environment="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
                 </a>
               </div>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <newcol course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="newcol">
-                <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-                <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
-                  <p environment="newcol" chapter_type=""></p>
-                  <a environment="newcol" chapter_type="" href="https://commons.wikimedia.org/wiki/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg#/media/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg">
-                    <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Charles_Auguste_%C3%89mile_Duran_c1880.jpg" alt="Charles Auguste Émile Duran c1880.jpg" height="900" width="644" />
+              <newcol course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="newcol">
+                <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
+                  <p environment="newcol"></p>
+                  <a href="https://commons.wikimedia.org/wiki/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg#/media/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg" environment="newcol">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Charles_Auguste_%C3%89mile_Duran_c1880.jpg" alt="Charles Auguste Émile Duran c1880.jpg" height="900" width="644" environment="newcol" />
                   </a>
-                  <br environment="newcol" chapter_type="" />
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">By Unidentified Artist - Harvard Art Museum/Fogg Museum, Public Domain, </paragraphs>
-                  <a environment="newcol" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=11218707">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
+                  <br environment="newcol" />
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">By Unidentified Artist - Harvard Art Museum/Fogg Museum, Public Domain, </paragraphs>
+                  <a href="https://commons.wikimedia.org/w/index.php?curid=11218707" environment="newcol">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
                   </a>
                 </div>
-                <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
               </newcol>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
             </slide>
-            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533" chapter="NaN" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
-              <keywords slide="6" environ="slide" chapter="NaN" course="UGED 1533"/>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <image course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="https://i.pinimg.com/736x/9f/68/a2/9f68a28e111191f4f30d2252e253657d--sistine-chapel-michelangelo.jpg" wbtag="image"/>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-Part of </paragraphs>
-              <i xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Last Judgment</paragraphs>
+            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="5" id="s5" slide="5" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
+              <keywords slide="5" environ="slide" chapter="1" course="UGED 1533"/>
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="https://i.pinimg.com/736x/9f/68/a2/9f68a28e111191f4f30d2252e253657d--sistine-chapel-michelangelo.jpg" wbtag="image"/>
+              <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> Part of </paragraphs>
+              <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Last Judgment</paragraphs>
               </i>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">, by Michelangelo (Sistine Chapel)
-</paragraphs>
-              <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-                <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="newcol">
-                  <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-                  <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type=""></p>
-                  <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" href="https://en.wikipedia.org/wiki/File:Supermanflying.png#/media/File:Supermanflying.png">
-                    <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png" alt="Supermanflying.png" />
-                  </a>
-                  <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
-                  <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">By </paragraphs>
-                  <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" rel="nofollow" class="external text" href="https://comicsalliance.com/best-art-ever-this-week-superman-75th-anniversary-edition/">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">comicsalliance.com</paragraphs>
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
-                    <a environment="newcol" chapter_type="" href="//en.wikipedia.org/wiki/File:Supermanflying.png" title="Fair use of copyrighted material in the context of Superman">
-                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Fair use</paragraphs>
-                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
-                      <a environment="newcol" chapter_type="" href="https://en.wikipedia.org/w/index.php?curid=61390264">
-                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
-                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-                        <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol">
-@image{https://static.comicvine.com/uploads/scale_medium/8/81724/1488034-1257740_pic025.jpg}
-</comment>
-                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-                      </a>
-                    </a>
-                  </a>
-                </newcol>
-              </p>
+              <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">, by Michelangelo (Sistine Chapel) </paragraphs>
+              <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+              <newcol course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="newcol">
+                <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
+                <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/wiki/File:Supermanflying.png#/media/File:Supermanflying.png" environment="newcol">
+                  <img src="https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png" alt="Supermanflying.png" environment="newcol" />
+                </a>
+                <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" />
+                <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">By </paragraphs>
+                <a xmlns="http://www.w3.org/1999/xhtml" rel="nofollow" class="external text" href="https://comicsalliance.com/best-art-ever-this-week-superman-75th-anniversary-edition/" environment="newcol">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">comicsalliance.com</paragraphs>
+                </a>
+                <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
+                <a xmlns="http://www.w3.org/1999/xhtml" href="//en.wikipedia.org/wiki/File:Supermanflying.png" title="Fair use of copyrighted material in the context of Superman" environment="newcol">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Fair use</paragraphs>
+                </a>
+                <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
+                <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/w/index.php?curid=61390264" environment="newcol">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
+                </a>
+                <comment course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol">@image{https://static.comicvine.com/uploads/scale_medium/8/81724/1488034-1257740_pic025.jpg}</comment>
+              </newcol>
             </slide>
-            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED 1533" chapter="NaN" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
-              <keywords slide="7" environ="slide" chapter="NaN" course="UGED 1533">
-                <keyword chapter="NaN" slide="7">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </keyword>
+            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
+              <keywords slide="6" environ="slide" chapter="1" course="UGED 1533">
+                <keyword chapter="1" slide="6">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </keyword>
               </keywords>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </paragraphs>
+              <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </paragraphs>
               </h3>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
-              <image course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/bruegel1.jpg" wbtag="image"/>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
-              <image course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/bruegel2.jpg" wbtag="image"/>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
+              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/bruegel1.jpg" wbtag="image"/>
+              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/bruegel2.jpg" wbtag="image"/>
             </slide>
-            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="8" id="s8" slide="8" course="UGED 1533" chapter="NaN" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
-              <keywords slide="8" environ="slide" chapter="NaN" course="UGED 1533">
-                <keyword chapter="NaN" slide="8"> Jacques-Louis David (French, 1748 – 1825) </keyword>
+            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
+              <keywords slide="7" environ="slide" chapter="1" course="UGED 1533">
+                <keyword chapter="1" slide="7"> Jacques-Louis David (French, 1748 – 1825) </keyword>
               </keywords>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> Jacques-Louis David (French, 1748 – 1825) </paragraphs>
+              <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> Jacques-Louis David (French, 1748 – 1825) </paragraphs>
               </h3>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
-              <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
-                <img environment="" chapter_type="" src="images/death_socrates.jpg" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+                <img src="images/death_socrates.jpg" environment="" />
               </div>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
-              <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
-                <img environment="" chapter_type="" src="images/horatii.jpg" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
+                <img src="images/horatii.jpg" environment="" />
               </div>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
             </slide>
-            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="NaN" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
-              <keywords slide="9" environ="slide" chapter="NaN" course="UGED 1533">
-                <keyword chapter="NaN" slide="9">Alberto Giacometti (Swiss, 1901 - 1966)</keyword>
+            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="8" id="s8" slide="8" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
+              <keywords slide="8" environ="slide" chapter="1" course="UGED 1533">
+                <keyword chapter="1" slide="8">Alberto Giacometti (Swiss, 1901 - 1966)</keyword>
               </keywords>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Alberto Giacometti (Swiss, 1901 - 1966)</paragraphs>
+              <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Alberto Giacometti (Swiss, 1901 - 1966)</paragraphs>
               </h3>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
-              <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="dual">
-                <div environment="" chapter_type="" class="dual-left" style="width:33%">
-                  <img environment="" chapter_type="" src="images/2576.jpg" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
+                <div class="dual-left" style="width:33%" environment="">
+                  <img src="images/2576.jpg" environment="" />
                 </div>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-                <div environment="" chapter_type="" class="dual-left" style="width:33%">
-                  <img environment="" chapter_type="" src="images/giacometti.jpg" />
+                <div class="dual-left" style="width:33%" environment="">
+                  <img src="images/giacometti.jpg" environment="" />
                 </div>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-                <div environment="" chapter_type="" class="dual-left" style="width:33%">
-                  <img environment="" chapter_type="" src="images/giacometti3.jpg" />
+                <div class="dual-left" style="width:33%" environment="">
+                  <img src="images/giacometti3.jpg" environment="" />
                 </div>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
               </div>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
             </slide>
-            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED 1533" chapter="NaN" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
-              <keywords slide="10" environ="slide" chapter="NaN" course="UGED 1533">
-                <keyword chapter="NaN" slide="10">Fernando Botero (Colombian, 1932 - )</keyword>
+            <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="1" section="1" subsection="1" subsubsection="" chapter_title="Miscellany" section_title="Ideal Proportions">
+              <keywords slide="9" environ="slide" chapter="1" course="UGED 1533">
+                <keyword chapter="1" slide="9">Fernando Botero (Colombian, 1932 - )</keyword>
               </keywords>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Fernando Botero (Colombian, 1932 - )</paragraphs>
+              <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Fernando Botero (Colombian, 1932 - )</paragraphs>
               </h3>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
-              <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="dual">
-                <div environment="" chapter_type="" class="dual-left" style="width:50%">
-                  <img environment="" chapter_type="" src="images/botero1.jpg" />
+              <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
+              <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
+                <div class="dual-left" style="width:50%" environment="">
+                  <img src="images/botero1.jpg" environment="" />
                 </div>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-                <div environment="" chapter_type="" class="dual-left" style="width:50%">
-                  <img environment="" chapter_type="" src="images/botero2.jpg" />
+                <div class="dual-left" style="width:50%" environment="">
+                  <img src="images/botero2.jpg" environment="" />
                 </div>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
               </div>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
             </slide>
           </slides>
         </subsection>
       </section>
-      <section environment="" chapter_type="" type="Section" wbtag="section" title="Composition" course="UGED 1533" chapter="NaN" num="2" serial="NaN.2">
-        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="NaN" section="2" subsection="" subsubsection="" serial="" slide="">
-          <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="title" wbtag="paragraphs">
-Composition
-</paragraphs>
+      <section environment="" chapter_type="" type="Section" wbtag="section" title="Composition" course="UGED 1533" chapter="1" num="2" serial="1.2">
+        <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="2" subsection="" subsubsection="" serial="" slide="">
+          <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Composition</paragraphs>
         </title>
         <slides environment="" chapter_type="">
-          <slide environment="" chapter_type="Chapter" canon_num="11" scope="section" id="s11" slide="11" course="UGED 1533" chapter="NaN" section="2" subsection="" subsubsection="" chapter_title="Miscellany" section_title="Composition">
-            <keywords slide="11" environ="slide" chapter="NaN" course="UGED 1533"/>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="NaN" section="2" subsection="" subsubsection="" serial="" slide="11">
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="title" wbtag="paragraphs">
-Composition
-</paragraphs>
+          <slide environment="" chapter_type="Chapter" canon_num="10" scope="section" id="s10" slide="10" course="UGED 1533" chapter="1" section="2" subsection="" subsubsection="" chapter_title="Miscellany" section_title="Composition">
+            <keywords slide="10" environ="slide" chapter="1" course="UGED 1533"/>
+            <title environment="title" chapter_type="Chapter" wbtag="title" scope="section" course="UGED 1533" chapter="1" section="2" subsection="" subsubsection="" serial="" slide="10">
+              <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="title" wbtag="paragraphs">Composition</paragraphs>
             </title>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
           </slide>
-          <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="12" id="s12" slide="12" course="UGED 1533" chapter="NaN" section="2" subsection="" subsubsection="" chapter_title="Miscellany" section_title="Composition">
-            <keywords slide="12" environ="slide" chapter="NaN" course="UGED 1533">
-              <keyword chapter="NaN" slide="12">Piet Mondrian (Dutch, 1872 - 1944),</keyword>
+          <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="11" id="s11" slide="11" course="UGED 1533" chapter="1" section="2" subsection="" subsubsection="" chapter_title="Miscellany" section_title="Composition">
+            <keywords slide="11" environ="slide" chapter="1" course="UGED 1533">
+              <keyword chapter="1" slide="11">Piet Mondrian (Dutch, 1872 - 1944),</keyword>
             </keywords>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Piet Mondrian (Dutch, 1872 - 1944),</paragraphs>
+            <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Piet Mondrian (Dutch, 1872 - 1944),</paragraphs>
             </h3>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <image course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" data-src="https://uploads2.wikiart.org/images/piet-mondrian/lonely-tree-at-the-gein-sun.jpg" wbtag="image"/>
-            <newline course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""/>
-            <image course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" data-src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mondrian_-_Stammer_Mill_with_Streaked_Sky%2C_1905-1907.png" wbtag="image"/>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <newcol course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-              <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
-                <p environment="newcol" chapter_type="">
-                  <a environment="newcol" chapter_type="" href="https://commons.wikimedia.org/wiki/File:Tableau_I,_by_Piet_Mondriaan.jpg#/media/File:Tableau_I,_by_Piet_Mondriaan.jpg">
-                    <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg/1200px-Tableau_I%2C_by_Piet_Mondriaan.jpg" alt="Piet Mondriaan abstract painting Tableau I, from 1921" />
-                  </a>
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-                  <br environment="newcol" chapter_type="" />
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">By </paragraphs>
-                  <a environment="newcol" chapter_type="" href="https://en.wikipedia.org/wiki/Piet_Mondrian" class="extiw" title="en:Piet Mondrian">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Piet Mondrian</paragraphs>
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> -
-</paragraphs>
-                    <a environment="newcol" chapter_type="" href="http://www.gemeentemuseum.nl/collection/item/6713">
-                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Gemeentemuseum Den Haag</paragraphs>
-                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, Public Domain, </paragraphs>
-                      <a environment="newcol" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=37668615">
-                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
-                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-                        <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol"> &lt;a rel="nofollow" class="external text" href="http://www.gemeentemuseum.nl/collection/item/6713"&gt;Gemeentemuseum Den Haag&lt;/a&gt;, Public Domain, &lt;a href="https://commons.wikimedia.org/w/index.php?curid=37668615"&gt;Link&lt;/a&gt; </comment>
-                        <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol"/>
-                      </a>
-                    </a>
-                  </a>
-                </p>
+            <image course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="" data-src="https://uploads2.wikiart.org/images/piet-mondrian/lonely-tree-at-the-gein-sun.jpg" wbtag="image"/>
+            <newline course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""/>
+            <image course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="" data-src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Mondrian_-_Stammer_Mill_with_Streaked_Sky%2C_1905-1907.png" wbtag="image"/>
+            <newcol course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+              <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
+                <p environment="newcol"></p>
+                <a href="https://commons.wikimedia.org/wiki/File:Tableau_I,_by_Piet_Mondriaan.jpg#/media/File:Tableau_I,_by_Piet_Mondriaan.jpg" environment="newcol">
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg/1200px-Tableau_I%2C_by_Piet_Mondriaan.jpg" alt="Piet Mondriaan abstract painting Tableau I, from 1921" environment="newcol" />
+                </a>
+                <br environment="newcol" />
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> By </paragraphs>
+                <a href="https://en.wikipedia.org/wiki/Piet_Mondrian" class="extiw" title="en:Piet Mondrian" environment="newcol">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Piet Mondrian</paragraphs>
+                </a>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> - </paragraphs>
+                <a href="http://www.gemeentemuseum.nl/collection/item/6713" environment="newcol">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Gemeentemuseum Den Haag</paragraphs>
+                </a>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, Public Domain, </paragraphs>
+                <a href="https://commons.wikimedia.org/w/index.php?curid=37668615" environment="newcol">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
+                </a>
+                <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol"> &lt;a rel="nofollow" class="external text" href="http://www.gemeentemuseum.nl/collection/item/6713"&gt;Gemeentemuseum Den Haag&lt;/a&gt;, Public Domain, &lt;a href="https://commons.wikimedia.org/w/index.php?curid=37668615"&gt;Link&lt;/a&gt; </comment>
+                <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol"/>
               </div>
-              <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
             </newcol>
           </slide>
-          <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="13" id="s13" slide="13" course="UGED 1533" chapter="NaN" section="2" subsection="" subsubsection="" chapter_title="Miscellany" section_title="Composition">
-            <keywords slide="13" environ="slide" chapter="NaN" course="UGED 1533"/>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <iframe xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" src="https://archive.org/stream/andrew-loomis-creative-illustration?ui=embed" width="100%" height="430" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <comment course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""> @sep </comment>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <comment course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;h3&gt;Richard Diebenkorn (American, 1922 - 1993)&lt;/h3&gt; </comment>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <comment course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;div class=image&gt; </comment>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <comment course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;p/&gt;&lt;a href="https://en.wikipedia.org/wiki/File:Cityscape_I_360.jpg#/media/File:Cityscape_I_360.jpg"&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Cityscape_I_360.jpg" alt="Cityscape I 360.jpg"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="//en.wikipedia.org/wiki/File:Cityscape_I_360.jpg" title="Fair use"&gt;Fair use&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/w/index.php?curid=9927418"&gt;Link&lt;/a&gt; </comment>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <comment course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <comment course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""> @col </comment>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <comment course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;div class=image&gt; </comment>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <comment course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;p/&gt;&lt;a href="https://en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg#/media/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg"&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" alt="Richard Diebenkorn's painting 'Ocean Park No. 67'.jpg"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="//en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" title="Fair use"&gt;Fair use&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/w/index.php?curid=10974054"&gt;Link&lt;/a&gt; </comment>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <comment course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
-            <paragraphs course="UGED 1533" chapter="NaN" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
+          <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="12" id="s12" slide="12" course="UGED 1533" chapter="1" section="2" subsection="" subsubsection="" chapter_title="Miscellany" section_title="Composition">
+            <keywords slide="12" environ="slide" chapter="1" course="UGED 1533"/>
+            <iframe xmlns="http://www.w3.org/1999/xhtml" src="https://archive.org/stream/andrew-loomis-creative-illustration?ui=embed" width="100%" height="430" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="" environment=""></iframe>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> @slide </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;h3&gt;Richard Diebenkorn (American, 1922 - 1993)&lt;/h3&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;div class=image&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;p/&gt;&lt;a href="https://en.wikipedia.org/wiki/File:Cityscape_I_360.jpg#/media/File:Cityscape_I_360.jpg"&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Cityscape_I_360.jpg" alt="Cityscape I 360.jpg"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="//en.wikipedia.org/wiki/File:Cityscape_I_360.jpg" title="Fair use"&gt;Fair use&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/w/index.php?curid=9927418"&gt;Link&lt;/a&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> @col </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;div class=image&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;p/&gt;&lt;a href="https://en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg#/media/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg"&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" alt="Richard Diebenkorn's painting 'Ocean Park No. 67'.jpg"&gt;&lt;/a&gt;&lt;br&gt;&lt;a href="//en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" title="Fair use"&gt;Fair use&lt;/a&gt;, &lt;a href="https://en.wikipedia.org/w/index.php?curid=10974054"&gt;Link&lt;/a&gt; </comment>
+            <comment course="UGED 1533" chapter="1" chapter_type="" section="2" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
           </slide>
         </slides>
       </section>
