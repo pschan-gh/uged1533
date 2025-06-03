@@ -463,7 +463,7 @@ Caravaggio
 </paragraphs>
         <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
-          <image xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" data-src="Picasso-torso.jpg" wbtag="image"/>
+          <image xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" data-src="images/Picasso-torso.jpg" wbtag="image"/>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
           <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">
@@ -492,7 +492,7 @@ Caravaggio
 </comment>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-            <image xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" data-src="guenica.jpg" wbtag="image"/>
+            <image xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" data-src="images/guenica.jpg" wbtag="image"/>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
             <br environment="newcol" chapter_type="" />
