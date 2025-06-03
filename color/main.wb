@@ -66,7 +66,7 @@ Berlinghiero (Italian, 1228 - 1236)
 <hr>
 <div class=image>
 <a href="https://www.wikiart.org/en/fra-angelico/annunciation-1432">
-<img src="https://uploads0.wikiart.org/images/fra-angelico/annunciation-1432.jpg">
+<img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/annunciation-1432.jpeg">
 </a>
 Fra Angelico (Italian, 1395 - 1455)
 </div>
@@ -173,7 +173,7 @@ Caravaggio
 <!-- </div> -->
 <hr>
 <div class=image>
-@image{images/Picasso-torso.jpg}
+<img style="width:300px; height:auto" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/Picasso-torso.jpg" />
 <!--
 <img style="width:300px; height:auto" src="https://www.nga.gov/content/dam/ngaweb/features/slideshows/picasso-the-early-years/earlypicasso_torso.jpg">
 <br>
@@ -190,7 +190,7 @@ Pablo Picasso (Spanish, 1881 - 1973)
 <br>
 <a target="_blank" href="http://www.museoreinasofia.es/en/collection/artwork/guernica">
 -->
-@image{images/guenica.jpg}
+<img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/guernica.jpg" />
 <br/>
 <i>Guernica</i>, Pablo Picasso</a>
 <!--
