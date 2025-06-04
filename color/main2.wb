@@ -251,14 +251,15 @@
 <h3>Fauvism</h3>
 <hr>
 <div class='image'>
-<p><a href="https://en.wikipedia.org/wiki/File:Matisse-Woman-with-a-Hat.jpg#/media/File:Matisse-Woman-with-a-Hat.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Matisse-Woman-with-a-Hat.jpg/1200px-Matisse-Woman-with-a-Hat.jpg" alt="Matisse-Woman-with-a-Hat.jpg"></a><br>
-<a href="https://en.wikipedia.org/w/index.php?curid=14899126"><i>Woman with a Hat</i>
-</a>, Henri Matisse (French, 1869 - 1954)
+<a title="w:Henri Matisse, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Matisse-Woman-with-a-Hat.jpg"><img width="1024" alt="Matisse-Woman-with-a-Hat" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Matisse-Woman-with-a-Hat.jpg/1024px-Matisse-Woman-with-a-Hat.jpg?20250105222549"></a>
+<br/>
+<i>Woman with a Hat</i>, Henri Matisse (French, 1869 - 1954)
 </div>
-<hr>
+<hr/>
 <div class='image'>
-<p><a href="https://en.wikipedia.org/wiki/File:Derain_CharingCrossBridge.png#/media/File:Derain_CharingCrossBridge.png"><img src="https://upload.wikimedia.org/wikipedia/en/0/05/Derain_CharingCrossBridge.png" alt="Derain CharingCrossBridge.png"></a><br><a href="https://en.wikipedia.org/w/index.php?curid=1010266"><i>Charing Cross Bridge</i></a>,
-Andr&eacute; Derain (French, 1880 - 1954)
+<a title="w:André Derain, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Derain_CharingCrossBridge.png"><img width="1024" alt="Derain CharingCrossBridge" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Derain_CharingCrossBridge.png/1024px-Derain_CharingCrossBridge.png?20100508231641"></a>
+<br/>
+André Derain (French, 1880 - 1954)
 </div>
 @sep
 <h4>Josef Albers, (German-born American, 1888 - 1976)</h4>
@@ -292,12 +293,14 @@ Andr&eacute; Derain (French, 1880 - 1954)
 <hr>
 <h4>Ad Reinhardt (American, 1913 - 1967)</h4>
 <div class='image'>
-<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/489766/1014703/restricted"/>
+<img src="https://cdn.sanity.io/images/476nwnl9/production/02a28229c61854a047f14e0d34526dd6e1cae66e-2343x6332.jpg?fit=crop&h=1125&rect=0%2C0%2C2343%2C6332&w=2000" />
 </div>
 @sep
 <h4>Giorgio Morandi (Italian, 1890 - 1964)</h4>
 <hr/>
-@image{https://uploads2.wikiart.org/images/giorgio-morandi/still-life-1949.jpg!Large.jpg}
+<div class="image">
+<img src="https://www.arthistoryproject.com/site/assets/files/8369/giorgio_morandi-still_life-1949-trivium-art-history.jpg" />
+</div>
 <center>
 <a target="_blank" href="https://www.wikiart.org/en/giorgio-morandi/still-life-1949"><i>Still Life</i></a>
 </center>
