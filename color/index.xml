@@ -8,71 +8,6 @@
       <branch chapter="" slide="29" filename="main2.xml" file_md5="552071c08dda4ed6fe645002dccc8e64" keyword="homagetothesquare">Homage to The Square</branch>
       <branch chapter="" slide="3" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="homagetothesquare">Homage to The Square</branch>
     </entry>
-    <entry keyword="hue">
-      <branch chapter="" slide="3" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="hue">Hue</branch>
-    </entry>
-    <entry keyword="saturation">
-      <branch chapter="" slide="4" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="saturation">Saturation</branch>
-    </entry>
-    <entry keyword="thecolorspectrum">
-      <branch chapter="" slide="5" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="thecolorspectrum">The Color Spectrum</branch>
-    </entry>
-    <entry keyword="spectralcolor">
-      <branch chapter="" slide="6" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="spectralcolor">spectral color</branch>
-    </entry>
-    <entry keyword="colorwheel">
-      <branch chapter="" slide="7" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="colorwheel">color wheel</branch>
-    </entry>
-    <entry keyword="complementarycolor">
-      <branch chapter="" slide="8" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="complementarycolor">complementary color</branch>
-    </entry>
-    <entry keyword="additive">
-      <branch chapter="" slide="9" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="additive">additive</branch>
-      <branch chapter="" slide="12" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="additive">additive</branch>
-    </entry>
-    <entry keyword="subtractive">
-      <branch chapter="" slide="9" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="subtractive">subtractive</branch>
-      <branch chapter="" slide="17" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="subtractive">subtractive</branch>
-    </entry>
-    <entry keyword="additivecolormixing">
-      <branch chapter="" slide="10" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="additivecolormixing">Additive Color Mixing</branch>
-    </entry>
-    <entry keyword="metamerism">
-      <branch chapter="" slide="11" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="metamerism">metamerism</branch>
-    </entry>
-    <entry keyword="metamers">
-      <branch chapter="" slide="11" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="metamers">metamers</branch>
-    </entry>
-    <entry keyword="redgreenandblue">
-      <branch chapter="" slide="12" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="redgreenandblue">Red, Green, and Blue</branch>
-    </entry>
-    <entry keyword="rgbcolorspace">
-      <branch chapter="" slide="15" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="rgbcolorspace">RGB Color Space</branch>
-    </entry>
-    <entry keyword="rgb">
-      <branch chapter="" slide="15" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="rgb">RGB</branch>
-    </entry>
-    <entry keyword="vector">
-      <branch chapter="" slide="15" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="vector">vector</branch>
-    </entry>
-    <entry keyword="grassmannslaws">
-      <branch chapter="" slide="15" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="grassmannslaws">Grassmann's Laws</branch>
-    </entry>
-    <entry keyword="subtractivecolormixing">
-      <branch chapter="" slide="17" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="subtractivecolormixing">Subtractive Color Mixing</branch>
-    </entry>
-    <entry keyword="cyanyellowandmagenta">
-      <branch chapter="" slide="17" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="cyanyellowandmagenta">Cyan, Yellow, and Magenta</branch>
-    </entry>
-    <entry keyword="halftone">
-      <branch chapter="" slide="17" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="halftone">halftone</branch>
-    </entry>
-    <entry keyword="georgesseuratfrench18591891">
-      <branch chapter="" slide="17" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="georgesseuratfrench18591891">Georges Seurat (French, 1859 - 1891)</branch>
-    </entry>
-    <entry keyword="roylichtensteinamerican19231997">
-      <branch chapter="" slide="17" filename="main3.xml" file_md5="44117f695fab79d76f9e2808a5563077" keyword="roylichtensteinamerican19231997">Roy Lichtenstein (American, 1923 - 1997)</branch>
-    </entry>
     <entry keyword="value">
       <branch chapter="" slide="3" filename="main.xml" file_md5="be37ad0bfdaf9447b42d5554201de590" keyword="value">Value</branch>
     </entry>
@@ -246,6 +181,33 @@
     </entry>
     <entry keyword="references">
       <branch chapter="" slide="20" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="references">References</branch>
+    </entry>
+    <entry keyword="hue">
+      <branch chapter="" slide="3" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="hue">Hue</branch>
+    </entry>
+    <entry keyword="saturation">
+      <branch chapter="" slide="4" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="saturation">Saturation</branch>
+    </entry>
+    <entry keyword="thecolorspectrum">
+      <branch chapter="" slide="5" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="thecolorspectrum">The Color Spectrum</branch>
+    </entry>
+    <entry keyword="additivecolormixing">
+      <branch chapter="" slide="10" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="additivecolormixing">Additive Color Mixing</branch>
+    </entry>
+    <entry keyword="rgbcolorspace">
+      <branch chapter="" slide="15" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="rgbcolorspace">RGB Color Space</branch>
+    </entry>
+    <entry keyword="rgb">
+      <branch chapter="" slide="15" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="rgb">RGB</branch>
+    </entry>
+    <entry keyword="subtractivecolormixing">
+      <branch chapter="" slide="17" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="subtractivecolormixing">Subtractive Color Mixing</branch>
+    </entry>
+    <entry keyword="georgesseuratfrench18591891">
+      <branch chapter="" slide="17" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="georgesseuratfrench18591891">Georges Seurat (French, 1859 - 1891)</branch>
+    </entry>
+    <entry keyword="roylichtensteinamerican19231997">
+      <branch chapter="" slide="17" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="roylichtensteinamerican19231997">Roy Lichtenstein (American, 1923 - 1997)</branch>
     </entry>
   </index>
 </document>

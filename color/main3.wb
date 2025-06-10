@@ -368,7 +368,7 @@ This is equal to:
 The first color is grey (which is just white with lower lightness), and the second color is a greenish cyan (why?). The presence of white in this mixture means that the resulting color cannot be fully saturated.
 
 @col
-Roughly speaking, the saturation of a color corresponds inversely to the lowest value among the three RGB components. If one component is zero, and there can be no white mixed in with the color, and the color is fully saturated (among all colors of the same hue and lightness).
+Roughly speaking, the saturation of a color corresponds inversely to the lowest value among the three RGB components. If one component is zero, then there can be no white mixed in with the color, and the color is fully saturated (among all colors of the same hue and lightness).
 
 @sep
 <h4>Subtractive Color Mixing</h4>

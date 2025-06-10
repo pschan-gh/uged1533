@@ -1,29 +1,13 @@
-<?xml version="1.0"?>
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533" topic="Color Theory, Color Mixing, Different Models">
     <keywords slide="all" environ="course" chapter="" course="UGED 1533">
       <keyword chapter="" slide="all">Hue</keyword>
-      <keyword chapter="" slide="all">hue</keyword>
       <keyword chapter="" slide="all">Saturation</keyword>
       <keyword chapter="" slide="all">The Color Spectrum</keyword>
-      <keyword chapter="" slide="all">spectral color</keyword>
-      <keyword chapter="" slide="all">color wheel</keyword>
-      <keyword chapter="" slide="all">complementary color</keyword>
-      <keyword chapter="" slide="all">additive</keyword>
-      <keyword chapter="" slide="all">subtractive</keyword>
       <keyword chapter="" slide="all">Additive Color Mixing</keyword>
-      <keyword chapter="" slide="all">metamerism</keyword>
-      <keyword chapter="" slide="all">metamers</keyword>
-      <keyword chapter="" slide="all">additive</keyword>
-      <keyword chapter="" slide="all">Red, Green, and Blue</keyword>
       <keyword chapter="" slide="all">RGB Color Space</keyword>
       <keyword chapter="" slide="all">RGB</keyword>
-      <keyword chapter="" slide="all">vector</keyword>
-      <keyword chapter="" slide="all">Grassmann's Laws</keyword>
       <keyword chapter="" slide="all">Subtractive Color Mixing</keyword>
-      <keyword chapter="" slide="all">subtractive</keyword>
-      <keyword chapter="" slide="all">Cyan, Yellow, and Magenta</keyword>
-      <keyword chapter="" slide="all">halftone</keyword>
       <keyword chapter="" slide="all">Georges Seurat (French, 1859 - 1891)</keyword>
       <keyword chapter="" slide="all">Roy Lichtenstein (American, 1923 - 1997)</keyword>
     </keywords>
@@ -35,292 +19,401 @@
         <topic environment="" chapter_type="" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">Color Mixing</topic>
         <topic environment="" chapter_type="" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">Different Models</topic>
         <keywords slide="1" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="2" id="s2" slide="2" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="2" environ="slide" chapter="" course="UGED 1533"/>
-        <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The law of proportion, however, according to which the several colors are formed, even if a man knew he would be foolish in telling, for he could not give any necessary reason, nor indeed any tolerable or probable explanation of them. </paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The law of proportion, however, according to which the several colors are formed, even if a man knew he would be foolish in telling, for he could not give any necessary reason, nor indeed any tolerable or probable explanation of them.
+</paragraphs>
         </blockquote>
-        <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:right" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Plato (Greek, c. 420's - 348/347 BCE) </paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" style="text-align:right">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Plato (Greek, c. 420's - 348/347 BCE)
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="3" id="s3" slide="3" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="3" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="3">Hue</keyword>
-          <keyword chapter="" slide="3">hue</keyword>
         </keywords>
-        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Hue</paragraphs>
         </h4>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Under the </paragraphs>
-        <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/wiki/CIECAM02" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+Under the </paragraphs>
+        <a xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" href="https://en.wikipedia.org/wiki/CIECAM02">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CIECAM02 model</paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+from the International Commission on Illumination, </paragraphs>
+          <b environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">hue</paragraphs>
+          </b>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> is:
+</paragraphs>
+          <blockquote environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The degree to which a stimulus can be described as similar to or different from stimuli that are described as red, green, blue, and yellow.
+</paragraphs>
+          </blockquote>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+It is often encoded as a number between 0 and 360:
+</paragraphs>
+            <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+              <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HueScale.svg" />
+            </div>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+(You may think of this number as an angle from the vertical axis on the color wheel.)
+</paragraphs>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type=""></p>
+          </newcol>
         </a>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> from the International Commission on Illumination, </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">hue</inline_keyword>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> is: </paragraphs>
-        <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The degree to which a stimulus can be described as similar to or different from stimuli that are described as red, green, blue, and yellow. </paragraphs>
-        </blockquote>
-        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> It is often encoded as a number between 0 and 360: </paragraphs>
-          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HueScale.svg" environment="newcol"/>
-          </div>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (You may think of this number as an angle from the vertical axis on the color wheel.) </paragraphs>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-        </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="4" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="4">Saturation</keyword>
         </keywords>
-        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Saturation</paragraphs>
         </h4>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In one formulation, saturation is: </paragraphs>
-        <center xmlns="http://www.w3.org/1999/xhtml" environment="center">
-          <i environment="center">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> The colorfulness of a color relative to its own brightness. </paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+In one formulation, saturation is:
+</paragraphs>
+        <center xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="">
+          <i environment="center" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">The colorfulness of a color relative to its own brightness.
+</paragraphs>
           </i>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
         </center>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Here, </paragraphs>
-          <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">colorfulness</paragraphs>
-          </i>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> is a technical term in colorimetry,
-a full exploration of the concept is beyond the scope of this course. </paragraphs>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> For us, it suffices to understand saturation intuitively.
-From a casual standpoint, a highly saturated color is a color which is </paragraphs>
-            <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">very colorful</paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+Here, </paragraphs>
+            <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">colorfulness</paragraphs>
             </i>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, or </paragraphs>
-            <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">very sharp</paragraphs>
-            </i>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">. </paragraphs>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-            <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> For example, a spectral color has maximal saturation for the hue it belongs to.
-(e.g. the red light from a laser pointer.) </paragraphs>
-              <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-              <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Conversely, a neutral grey
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> is a technical term in colorimetry,
+a full exploration of the concept is beyond the scope of this course.
+</paragraphs>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+              <collapse xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+For us, it suffices to understand saturation intuitively.
+From a casual standpoint, a highly saturated color is a color which is
+</paragraphs>
+                <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">very colorful</paragraphs>
+                </i>
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, or </paragraphs>
+                <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">very sharp</paragraphs>
+                </i>
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.
+</paragraphs>
+                <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                  <collapse xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                    <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+For example, a spectral color has maximal saturation for the hue it belongs to.
+(e.g. the red light from a laser pointer.)
+</paragraphs>
+                    <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                      <collapse xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+Conversely, a neutral grey
 (not bluish, not reddish,..., just grey) has zero saturation.
 In general, additively mixing a color with white light diminishes its saturation.
 (Here, white light also includes "grey light".
-It is a color where $R = G = B$ in the RGB model.) </paragraphs>
-                <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-                <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-                <div xmlns="http://www.w3.org/1999/xhtml" class="image" style="width:500px" environment="newcol">
-                  <img style="max-height:500px" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Saturationdemo.png" environment="newcol"/>
-                  <br environment="newcol"/>
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> As we descend from top to bottom, the saturation diminishes, while the hue and value
-stay (largely) the same. </paragraphs>
-                </div>
-                <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+It is a color where $R = G = B$ in the RGB model.)
+</paragraphs>
+                        <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
+                        <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
+                        <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image" style="width:500px">
+                          <img environment="newcol" chapter_type="" style="max-height:500px" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Saturationdemo.png" />
+                          <br environment="newcol" chapter_type="" />
+                          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">As we descend from top to bottom, the saturation diminishes, while the hue and value
+stay (largely) the same.
+</paragraphs>
+                        </div>
+                        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+                      </collapse>
+                    </p>
+                  </collapse>
+                </p>
               </collapse>
-            </collapse>
-          </collapse>
-        </newcol>
+            </p>
+          </newcol>
+        </p>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="5" id="s5" slide="5" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="5" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="5">The Color Spectrum</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Color Spectrum</paragraphs>
         </h3>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> For a long time humans have struggled to organized the set of all perceptible colors
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+For a long time humans have struggled to organized the set of all perceptible colors
 under an analytical framework.
 The modern scientific study of color started with the great British physicist
 and mathematician Isaac Newton (1642 - 1727),
 who discovered, through the use of a prism,
 that natural light is a mixture of colored lights
-of different wavelengths. </paragraphs>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">   </paragraphs>
-          <div class="dual-left" environment="">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg/1024px-Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg" environment=""/>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">   </paragraphs>
+of different wavelengths.
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="dual">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">  </paragraphs>
+          <div environment="" chapter_type="" class="dual-left">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">    </paragraphs>
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg/1024px-Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg" />
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">  </paragraphs>
           </div>
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">   </paragraphs>
-          <div class="dual-right" environment="">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
-            <img src="https://media1.britannica.com/eb-media/62/147562-004-CD7CDEDC.jpg" environment=""/>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">   </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+  </paragraphs>
+          <div environment="" chapter_type="" class="dual-right">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">    </paragraphs>
+            <img environment="" chapter_type="" src="https://media1.britannica.com/eb-media/62/147562-004-CD7CDEDC.jpg" />
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">  </paragraphs>
           </div>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="6" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="6">spectral color</keyword>
-        </keywords>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">   </paragraphs>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg/1024px-Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg" environment=""/>
+        <keywords slide="6" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">  </paragraphs>
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg/1024px-Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg" />
         </div>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> A color which corresponds to light of a single wavelength is called a </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">spectral color</inline_keyword>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.</paragraphs>
-        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Since wavelengths correspond to numbers, we can now organize color sequentially
-(in a way which has some scientific basis): </paragraphs>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg" environment="newcol"/>
-          </div>
-        </newcol>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">A color which corresponds to light of a single wavelength is called a
+</paragraphs>
+          <b environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">spectral color</paragraphs>
+          </b>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.</paragraphs>
+          <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+          <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+Since wavelengths correspond to numbers, we can now organize color sequentially
+(in a way which has some scientific basis):
+</paragraphs>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+              <div environment="newcol" chapter_type="" class="image">
+                <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg" />
+              </div>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+            </p>
+          </newcol>
+        </p>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="7" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="7">color wheel</keyword>
-        </keywords>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Newton also seems to the first person in historical record
+        <keywords slide="7" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+Newton also seems to the first person in historical record
 to create the </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">color wheel</inline_keyword>
+        <b xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">color wheel</paragraphs>
+        </b>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
-which became a useful tool to art students to the present day. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Newton%27s_colour_circle.png" environment=""/>
-        </div>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://static.colourlovers.com/uploads/2008/05/017_boutet.jpg" environment=""/>
-        </div>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://static.colourlovers.com/uploads/2008/05/352px-bezold_farbentafel_1874.jpg" environment=""/>
-        </div>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://cdn.dick-blick.com/items/049/51/04951-0000-front2ww-m.jpg" environment=""/>
-          <a target="_blank" href="http://www.dickblick.com/products/artists-colour-wheel/" environment="">
-            <br environment=""/>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Dick Blick Art Materials</paragraphs>
-          </a>
-        </div>
+which became a useful tool to art students to the present day.
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <div environment="" chapter_type="" class="image">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Newton%27s_colour_circle.png" />
+          </div>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <p environment="" chapter_type="">
+            <div environment="" chapter_type="" class="image">
+              <img environment="" chapter_type="" src="http://static.colourlovers.com/uploads/2008/05/017_boutet.jpg" />
+            </div>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+            <div environment="" chapter_type="" class="image">
+              <img environment="" chapter_type="" src="http://static.colourlovers.com/uploads/2008/05/352px-bezold_farbentafel_1874.jpg" />
+            </div>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+            <div environment="" chapter_type="" class="image">
+              <img environment="" chapter_type="" src="http://cdn.dick-blick.com/items/049/51/04951-0000-front2ww-m.jpg" />
+              <a environment="" chapter_type="" target="_blank" href="http://www.dickblick.com/products/artists-colour-wheel/">
+                <br environment="" chapter_type="" />
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Dick Blick Art Materials</paragraphs>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+              </a>
+            </div>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          </p>
+        </p>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="8" id="s8" slide="8" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="8" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="8">complementary color</keyword>
-        </keywords>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Typically,
+        <keywords slide="8" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+Typically,
 for each color on the color wheel,
 the color directly opposite to it is its </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">complementary color</inline_keyword>
+        <b xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">complementary color</paragraphs>
+        </b>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.
-Two colors are said to be complementary if their mixture is a neutral grey/white. </paragraphs>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://color.adobe.com/create/color-wheel/" environment="">
+Two colors are said to be complementary if their mixture is a neutral grey/white.
+</paragraphs>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <a xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" target="_blank" href="https://color.adobe.com/create/color-wheel/">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Adobe Color Wheel</paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
         </a>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="9" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="9">additive</keyword>
-          <keyword chapter="" slide="9">subtractive</keyword>
-        </keywords>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> For a long time, it was generally thought that all colors may be "mixed" from three primary colors </paragraphs>
-        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <keywords slide="9" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+For a long time, it was generally thought that all colors may be "mixed" from three primary colors </paragraphs>
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">red</paragraphs>
         </strong>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">yellow</paragraphs>
         </strong>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> and </paragraphs>
-        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">blue</paragraphs>
         </strong>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
 and that we cannot obtain these primary colors by mixing other colors.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> However, this view point is rather incomplete,
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">However, this view point is rather incomplete,
 for first we have to define what we mean by "mixing colors."
 There are two definitions of color mixing: </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">additive</inline_keyword>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> and </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">subtractive</inline_keyword>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.
+          <b environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">additive</paragraphs>
+          </b>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> and </paragraphs>
+          <b environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">subtractive</paragraphs>
+          </b>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.
 The color yellow, for example,
 is a primary color under the second definition but not the first.</paragraphs>
-        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+          <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+        </p>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="10" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="10">Additive Color Mixing</keyword>
         </keywords>
-        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Additive Color Mixing</paragraphs>
         </h4>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Additive mixing results from lights rays of different wavelengths entering
-our eyes simultaneously. </paragraphs>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> It is the predominant color mixing model used by your TV or smartphone screens.</paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+Additive mixing results from lights rays of different wavelengths entering
+our eyes simultaneously.
+</paragraphs>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">It is the predominant color mixing model used by your TV or smartphone screens.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Note that placing two colors close together and viewing them from a distance
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Note that placing two colors close together and viewing them from a distance
 simulates additive mixing.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <center xmlns="http://www.w3.org/1999/xhtml" environment="center">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">   </paragraphs>
-            <iframe scrolling="no" style="height:720px;width:500px;text-align:center;margin:auto" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/add_mix1.html" environment="center"/>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+          <center xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">  </paragraphs>
+            <iframe environment="center" chapter_type="" scrolling="no" style="height:720px;width:500px;text-align:center;margin:auto" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/add_mix1.html"></iframe>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
           </center>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="11" id="s11" slide="11" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="11" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="11">metamerism</keyword>
-          <keyword chapter="" slide="11">metamers</keyword>
-        </keywords>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> When two light rays of different colors illuminate
+        <keywords slide="11" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+When two light rays of different colors illuminate
 the same area on the retina,
 we "preceive" visually a third color which is the additive mixture
 of the two original colors
 (Notice how this differs from how we hear two musical notes being played at the same time).</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-            <i environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Two spectral colors (for example, red and blue) could mix additively to produce
-a sensation of a third spectral color (violet). </paragraphs>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+          <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+            <i environment="newcol" chapter_type="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Two spectral colors (for example, red and blue) could mix additively to produce
+a sensation of a third spectral color (violet).
+</paragraphs>
             </i>
           </blockquote>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This phenomenon is called </paragraphs>
-          <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol">metamerism</inline_keyword>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">. </paragraphs>
-          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Two lights which are perceived to be of the same color,
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+This phenomenon is called </paragraphs>
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">metamerism</paragraphs>
+          </b>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.
+</paragraphs>
+          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Two lights which are perceived to be of the same color,
 yet have different spectral compositions, are called </paragraphs>
-          <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol">metamers</inline_keyword>
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">metamers</paragraphs>
+          </b>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> of each other.</paragraphs>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The existence of metamerism means that to capture information about color
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+The existence of metamerism means that to capture information about color
 we might not need the full spectral decomposition of the light ray producing the color in question.</paragraphs>
             <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
             <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> For example, whatever intensity we record for spectral violet could simply be
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+For example, whatever intensity we record for spectral violet could simply be
 tallied into the entries for red and blue,
 consequently shortening our list by one entry.
 So, now the natural question to ask is:</paragraphs>
               <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
               <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> How short can we make this list such that all visible colors can be so encoded?
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+How short can we make this list such that all visible colors can be so encoded?
 In other words, what is the least number of colors such that every perceptible
 colored light is a metamer of a mixture of these colors?</paragraphs>
                 <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
@@ -330,228 +423,331 @@ colored light is a metamer of a mixture of these colors?</paragraphs>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="12" id="s12" slide="12" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="12" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="12">additive</keyword>
-          <keyword chapter="" slide="12">Red, Green, and Blue</keyword>
-        </keywords>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> It turns out </paragraphs>
-        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <keywords slide="12" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+It turns out </paragraphs>
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">three</paragraphs>
         </strong>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> is (roughly) enough.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> There are three primary colors in </paragraphs>
-          <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol">additive</inline_keyword>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+There are three primary colors in </paragraphs>
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">additive</paragraphs>
+          </b>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> color mixing
 model: </paragraphs>
-          <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol">Red, Green, and Blue</inline_keyword>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (RGB). </paragraphs>
-          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/AdditiveColor.svg" environment="newcol"/>
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Red, Green, and Blue</paragraphs>
+          </b>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (RGB).
+</paragraphs>
+          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
+          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
+          <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+            <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/AdditiveColor.svg" />
           </div>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="13" id="s13" slide="13" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="13" environ="slide" chapter="" course="UGED 1533"/>
-        <strong xmlns="http://www.w3.org/1999/xhtml" style="font-size:1.2em" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" style="font-size:1.2em">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Some Basic Properties</paragraphs>
         </strong>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The additive mixing of red and green produces yellow,
-and mixing green with blue produces cyan. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <center xmlns="http://www.w3.org/1999/xhtml" environment="center">
-          <table class="table" environment="center">
-            <tr environment="center">
-              <td width="50" height="50" style="background-color:#f00" environment="center"/>
-              <td width="30" align="center" environment="center">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> + </paragraphs>
-              </td>
-              <td width="50" style="background-color:#0f0" environment="center"/>
-              <td width="30" align="center" environment="center">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> = </paragraphs>
-              </td>
-              <td width="50" style="background-color:#ff0" environment="center"/>
-            </tr>
-          </table>
-        </center>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Moreover, mixing all three primary colors produces white.
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The additive mixing of red and green produces yellow,
+and mixing green with blue produces cyan.
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <center environment="center" chapter_type="">
+            <table environment="center" chapter_type="" class="table">
+              <tr environment="center" chapter_type="">
+                <td environment="center" chapter_type="" width="50" height="50" style="background-color:#f00"></td>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                <td environment="center" chapter_type="" width="30" align="center">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> + </paragraphs>
+                </td>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                <td environment="center" chapter_type="" width="50" style="background-color:#0f0"></td>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                <td environment="center" chapter_type="" width="30" align="center">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> = </paragraphs>
+                </td>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                <td environment="center" chapter_type="" width="50" style="background-color:#ff0"></td>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+              </tr>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+            </table>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+          </center>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+Moreover, mixing all three primary colors produces white.
 In particular, the complementary
 color of red $(R)$ is cyan $(G + B)$, since $R + B + G$ is white.
 Likewise, the complementary color to blue is yellow ($R + G$),
-and the complementary color to green is magenta $(R + B)$. </paragraphs>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <center xmlns="http://www.w3.org/1999/xhtml" environment="center">
-            <table class="table" environment="center">
-              <tr environment="center">
-                <td width="50" height="50" style="background-color:#f00" environment="center"/>
-                <td width="30" align="center" environment="center">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> + </paragraphs>
-                </td>
-                <td width="50" style="background-color:#0ff" environment="center"/>
-                <td width="30" align="center" environment="center">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> = </paragraphs>
-                </td>
-                <td width="50" style="border: 2px solid #aaa;background-color:#fff" environment="center"/>
-              </tr>
-            </table>
-          </center>
-          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <center xmlns="http://www.w3.org/1999/xhtml" environment="center">
-            <table class="table" environment="center">
-              <tr environment="center">
-                <td width="50" height="50" style="background-color:#0f0" environment="center"/>
-                <td width="30" align="center" environment="center">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> + </paragraphs>
-                </td>
-                <td width="50" style="background-color:#f0f" environment="center"/>
-                <td width="30" align="center" environment="center">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> = </paragraphs>
-                </td>
-                <td width="50" style="border: 2px solid #aaa;background-color:#fff" environment="center"/>
-              </tr>
-            </table>
-          </center>
-          <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <center xmlns="http://www.w3.org/1999/xhtml" environment="center">
-            <table class="table" environment="center">
-              <tr environment="center">
-                <td width="50" height="50" style="background-color:#00f" environment="center"/>
-                <td width="30" align="center" environment="center">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> + </paragraphs>
-                </td>
-                <td width="50" style="background-color:#ff0" environment="center"/>
-                <td width="30" align="center" environment="center">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> = </paragraphs>
-                </td>
-                <td width="50" style="border: 2px solid #aaa;background-color:#fff" environment="center"/>
-              </tr>
-            </table>
-          </center>
-          <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
-        </newcol>
+and the complementary color to green is magenta $(R + B)$.
+</paragraphs>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+              <center environment="center" chapter_type="">
+                <table environment="center" chapter_type="" class="table">
+                  <tr environment="center" chapter_type="">
+                    <td environment="center" chapter_type="" width="50" height="50" style="background-color:#f00"></td>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                    <td environment="center" chapter_type="" width="30" align="center">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> + </paragraphs>
+                    </td>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                    <td environment="center" chapter_type="" width="50" style="background-color:#0ff"></td>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                    <td environment="center" chapter_type="" width="30" align="center">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> = </paragraphs>
+                    </td>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                    <td environment="center" chapter_type="" width="50" style="border: 2px solid #aaa;background-color:#fff"></td>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                  </tr>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                </table>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+              </center>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+              <br environment="newcol" chapter_type="" />
+              <p environment="newcol" chapter_type="">
+                <center environment="center" chapter_type="">
+                  <table environment="center" chapter_type="" class="table">
+                    <tr environment="center" chapter_type="">
+                      <td environment="center" chapter_type="" width="50" height="50" style="background-color:#0f0"></td>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                      <td environment="center" chapter_type="" width="30" align="center">
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> + </paragraphs>
+                      </td>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                      <td environment="center" chapter_type="" width="50" style="background-color:#f0f"></td>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                      <td environment="center" chapter_type="" width="30" align="center">
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> = </paragraphs>
+                      </td>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                      <td environment="center" chapter_type="" width="50" style="border: 2px solid #aaa;background-color:#fff"></td>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                    </tr>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                  </table>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                </center>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                <br environment="newcol" chapter_type="" />
+                <p environment="newcol" chapter_type="">
+                  <center environment="center" chapter_type="">
+                    <table environment="center" chapter_type="" class="table">
+                      <tr environment="center" chapter_type="">
+                        <td environment="center" chapter_type="" width="50" height="50" style="background-color:#00f"></td>
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                        <td environment="center" chapter_type="" width="30" align="center">
+                          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> + </paragraphs>
+                        </td>
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                        <td environment="center" chapter_type="" width="50" style="background-color:#ff0"></td>
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                        <td environment="center" chapter_type="" width="30" align="center">
+                          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs"> = </paragraphs>
+                        </td>
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                        <td environment="center" chapter_type="" width="50" style="border: 2px solid #aaa;background-color:#fff"></td>
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                      </tr>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                    </table>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">
+</paragraphs>
+                  </center>
+                  <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+                </p>
+              </p>
+            </p>
+          </newcol>
+        </p>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="14" id="s14" slide="14" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="14" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Though these primary colors additively mix to a wide range of colors,
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+Though these primary colors additively mix to a wide range of colors,
 modern experiments in psychophysics have shown that this range of colors
 is only a subset of all perceptible colors.
 In other words, there are colors which you can see with your naked eye in
 the physical world, but not on an LCD screen.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CIExy1931_sRGB_gamut_D65.png/1024px-CIExy1931_sRGB_gamut_D65.png" environment="newcol"/>
-          </div>
-          <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-          <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> For example, take the color labeled as "</paragraphs>
-            <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/wiki/Pantone#Color_of_the_Year" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Emerald</paragraphs>
-            </a>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" (Pantone 17-5641)
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+            <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+              <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CIExy1931_sRGB_gamut_D65.png/1024px-CIExy1931_sRGB_gamut_D65.png" />
+            </div>
+            <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+              <collapse xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+For example, take the color labeled as "</paragraphs>
+                <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" href="https://en.wikipedia.org/wiki/Pantone#Color_of_the_Year">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Emerald</paragraphs>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" (Pantone 17-5641)
 by the </paragraphs>
-            <a xmlns="http://www.w3.org/1999/xhtml" href="https://en.wikipedia.org/wiki/Pantone" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Pantone</paragraphs>
-            </a>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> corporation.
+                  <a environment="newcol" chapter_type="" href="https://en.wikipedia.org/wiki/Pantone">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Pantone</paragraphs>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> corporation.
 According to this </paragraphs>
-            <a xmlns="http://www.w3.org/1999/xhtml" href="http://www.newyorker.com/tech/elements/the-search-for-our-missing-colors" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">New Yorker article</paragraphs>
-            </a>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
-            <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> [...] no matter how closely you watched the news reports or ogled Pantone’s Web site, you never actually saw the color Emerald: the vast majority of televisions, computer monitors, and mobile devices are unable to display it [...] </paragraphs>
-            </blockquote>
-          </collapse>
-        </newcol>
+                    <a environment="newcol" chapter_type="" href="http://www.newyorker.com/tech/elements/the-search-for-our-missing-colors">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">New Yorker article</paragraphs>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">,
+</paragraphs>
+                      <blockquote environment="newcol" chapter_type="">
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">[...] no matter how closely you watched the news reports or ogled Pantone’s Web site, you never actually saw the color Emerald: the vast majority of televisions, computer monitors, and mobile devices are unable to display it [...]
+</paragraphs>
+                      </blockquote>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                    </a>
+                  </a>
+                </a>
+              </collapse>
+            </p>
+          </newcol>
+        </p>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="15" id="s15" slide="15" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="15" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="15">RGB Color Space</keyword>
           <keyword chapter="" slide="15">RGB</keyword>
-          <keyword chapter="" slide="15">vector</keyword>
-          <keyword chapter="" slide="15">Grassmann's Laws</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">RGB Color Space</paragraphs>
         </h3>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> It is common to encode a given color with three numbers corresponding
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+It is common to encode a given color with three numbers corresponding
 the respective intensities of the three primary colors
 (</paragraphs>
-        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">R</paragraphs>
         </strong>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">ed, </paragraphs>
-        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">G</paragraphs>
         </strong>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">reen, </paragraphs>
-        <strong xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <strong xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">B</paragraphs>
         </strong>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">lue) </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">RGB</inline_keyword>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> which are needed to produce
-the color in question via additive mixing.  This is the RGB color model. </paragraphs>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <iframe xmlns="http://www.w3.org/1999/xhtml" scrolling="no" style="height:400px" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/rgb.html" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">lue)
+</paragraphs>
+        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="keyword">RGB</inline_keyword>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+which are needed to produce
+the color in question via additive mixing.  This is the RGB color model.
+</paragraphs>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <iframe xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" scrolling="no" style="height:400px" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/rgb.html">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">rgb</paragraphs>
         </iframe>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This amounts to encoding color as a triplet of positive numbers between 0 and 1:
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+This amounts to encoding color as a triplet of positive numbers between 0 and 1:
 \[
 \colvec{R\\G\\B}
 \]
 But should this triplet be viewed as a </paragraphs>
-          <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol">vector</inline_keyword>
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">vector</paragraphs>
+          </b>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">?
 Namely, is it meaningful to add two such triplets,
 in the same way that we add displacement vectors in physics?</paragraphs>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The answer is </paragraphs>
-            <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+The answer is </paragraphs>
+            <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">YES</paragraphs>
             </i>
             <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (at least approximately), thanks
 to the following formulation of one of </paragraphs>
-            <a xmlns="http://www.w3.org/1999/xhtml" target="_blank" href="https://en.wikipedia.org/wiki/Grassmann%27s_laws_(color_science)" environment="newcol">
-              <inline_keyword xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol">Grassmann's Laws</inline_keyword>
+            <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" target="_blank" href="https://en.wikipedia.org/wiki/Grassmann%27s_laws_(color_science)">
+              <b environment="newcol" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Grassmann's Laws</paragraphs>
+              </b>
             </a>
             <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">:</paragraphs>
             <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
-            <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-            <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> There are lights with different spectral power distributions but appear identical [...]
-such identical appearing lights must have identical effects when added to a mixture of light. </paragraphs>
+            <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
+            <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">There are lights with different spectral power distributions but appear identical [...]
+such identical appearing lights must have identical effects when added to a mixture of light.
+</paragraphs>
             </blockquote>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
             <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> A still more succint way of formulating this law is as follows: </paragraphs>
-              <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol"/>
-              <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Give two lights $A$ and $B$ which are metamers of each other.  The additive mixture of
-$A$ with a third light $C$ gives the same color as the additive mixture of $B$ and $C$. </paragraphs>
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+A still more succint way of formulating this law is as follows:
+</paragraphs>
+              <br xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
+              <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Give two lights $A$ and $B$ which are metamers of each other.  The additive mixture of
+$A$ with a third light $C$ gives the same color as the additive mixture of $B$ and $C$.
+</paragraphs>
               </blockquote>
               <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
               <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> In the language of Linear Algebra, of which Hermann Grassmann was a founding father,
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+In the language of Linear Algebra, of which Hermann Grassmann was a founding father,
 this law essentially implies that the description of color in terms of RGB
 is a </paragraphs>
-                <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+                <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">linear projection</paragraphs>
                 </i>
                 <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">:
@@ -561,7 +757,8 @@ P(L_1) = \colvec{R_1 \\ G_1 \\ B_1}, \quad P(L_2) = \colvec{R_2 \\ G_2 \\ B_2}
 \[
 P(L_1 + L_2) = P(L_1) + P(L_2)
 = \colvec{R_1 \\ G_1 \\ B_1} + \colvec{R_2 \\ G_2 \\ B_2}.
-\] </paragraphs>
+\]
+</paragraphs>
               </collapse>
             </collapse>
           </collapse>
@@ -569,105 +766,118 @@ P(L_1 + L_2) = P(L_1) + P(L_2)
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="16" id="s16" slide="16" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="16" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The RGB model can help us decide the outcome of additive color mixing as follows:</paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+The RGB model can help us decide the outcome of additive color mixing as follows:</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Suppose Color 1 corresponds to RGB $\colvec{R_1\\G_1\\B_1\\}$, and Color 2 corresponds to RGB $\colvec{R_2\\G_2\\B_2}$. Then, the additive mixture of Color 1 and Color 2 corresponds to:
 \[
 \colvec{R_1 + R_2 \\ G_1 + G_2 \\ B_1 + B_2}
-\] </paragraphs>
+\]
+</paragraphs>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> For example, the color </paragraphs>
-          <span xmlns="http://www.w3.org/1999/xhtml" style="color:magenta" environment="newcol">
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+For example, the color </paragraphs>
+          <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:magenta">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">magenta</paragraphs>
           </span>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> is the additive mixture of </paragraphs>
-          <span xmlns="http://www.w3.org/1999/xhtml" style="color:red" environment="newcol">
+          <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:red">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">red</paragraphs>
           </span>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $\colvec{1\\0\\0}$ and </paragraphs>
-          <span xmlns="http://www.w3.org/1999/xhtml" style="color:blue" environment="newcol">
+          <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:blue">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">blue</paragraphs>
           </span>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $\colvec{0\\0\\1}$.
 So magenta corresponds to RGB $\colvec{1\\0\\0} + \colvec{0\\0\\1} = \colvec{1\\0\\1}$.</paragraphs>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The color </paragraphs>
-            <span xmlns="http://www.w3.org/1999/xhtml" style="color:#0aa" environment="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+The color </paragraphs>
+            <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:#0aa">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">cyan</paragraphs>
             </span>
             <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> is the additive mixture of </paragraphs>
-            <span xmlns="http://www.w3.org/1999/xhtml" style="color:green" environment="newcol">
+            <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:green">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">green</paragraphs>
             </span>
             <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $\colvec{0\\1\\0}$ and </paragraphs>
-            <span xmlns="http://www.w3.org/1999/xhtml" style="color:blue" environment="newcol">
+            <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:blue">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">blue</paragraphs>
             </span>
             <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $\colvec{0\\0\\1}$.
 So cyan corresponds to RGB $\colvec{0\\1\\1}$.</paragraphs>
             <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
             <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> What, then, is the additive mixture of </paragraphs>
-              <span xmlns="http://www.w3.org/1999/xhtml" style="color:magenta" environment="newcol">
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+What, then, is the additive mixture of </paragraphs>
+              <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:magenta">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">magenta</paragraphs>
               </span>
               <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> and </paragraphs>
-              <span xmlns="http://www.w3.org/1999/xhtml" style="color:#0aa" environment="newcol">
+              <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:#0aa">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">cyan</paragraphs>
               </span>
               <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">? It is a color which corresponds  to RGB:
 \[
 \colvec{1\\0\\1} + \colvec{0\\1\\1} = \colvec{1\\1\\2}
-\] </paragraphs>
+\]
+</paragraphs>
               <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> First, notice that one component has value 2, which appears to violate our earlier convention that each RGB component lies between 0 and 1. Putting the value (i.e. lightness) of the color aside, it is essentially the ratio of the three RGB components which determines the color, so we might as well "renormalize" the RGB by multiplying each component by $0.5$, giving:
+                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+First, notice that one component has value 2, which appears to violate our earlier convention that each RGB component lies between 0 and 1. Putting the value (i.e. lightness) of the color aside, it is essentially the ratio of the three RGB components which determines the color, so we might as well "renormalize" the RGB by multiplying each component by $0.5$, giving:
 \[
 \colvec{0.5\\0.5\\1}
-\] </paragraphs>
+\]
+</paragraphs>
                 <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> It is not immediately clear which color corrresponds to this RGB triplet. Let's again exploit the algebraic property of additive color mixing, and write:
+                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+It is not immediately clear which color corrresponds to this RGB triplet. Let's again exploit the algebraic property of additive color mixing, and write:
 \[
 \colvec{0.5\\0.5\\1} = \colvec{0.5\\0.5\\0.5} + \colvec{0\\0\\0.5}
 \]
 The first RGB triplet $\colvec{0.5\\0.5\\0.5}$ corresponds to a neutral grey color, since each of red, green and blue has equal contribution. The second triplet $\colvec{0\\0\\0.5}$ corresponds to the color blue.</paragraphs>
                   <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
                   <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Hence, the additive mixture of </paragraphs>
-                  <span xmlns="http://www.w3.org/1999/xhtml" style="color:magenta" environment="newcol">
+                  <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:magenta">
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">magenta</paragraphs>
                   </span>
                   <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> and </paragraphs>
-                  <span xmlns="http://www.w3.org/1999/xhtml" style="color:#0aa" environment="newcol">
+                  <span xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" style="color:#0aa">
                     <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">cyan</paragraphs>
                   </span>
                   <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> is a mixture of white/grey light and blue, which is a blue with diminished saturation, or in more colloquial terms: a dull </paragraphs>
-                  <strong xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-                    <span style="color:#88f" environment="newcol">
+                  <strong xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                    <span environment="newcol" chapter_type="" style="color:#88f">
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">blue</paragraphs>
                     </span>
                   </strong>
                   <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (versus a fully saturated </paragraphs>
-                  <strong xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-                    <span style="color:#00f" environment="newcol">
+                  <strong xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                    <span environment="newcol" chapter_type="" style="color:#00f">
                       <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">blue</paragraphs>
                     </span>
                   </strong>
                   <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.)</paragraphs>
                   <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
                   <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                    <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This example also seems to suggest a convenient formulation of saturation in terms of RGB. Essentially, any fully saturated color corresponds to an RGB where at least one component is zero. Otherwise, say we have RGB:
+                    <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+This example also seems to suggest a convenient formulation of saturation in terms of RGB. Essentially, any fully saturated color corresponds to an RGB where at least one component is zero. Otherwise, say we have RGB:
 \[
 \colvec{0.2\\0.4\\0.3}
 \]
 This is equal to:
 \[
 \colvec{0.2\\0.2\\0.2} + \colvec{0\\0.2\\0.1}
-\] </paragraphs>
+\]
+</paragraphs>
                     <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                      <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The first color is grey (which is just white with lower lightness), and the second color is a greenish cyan (why?). The presence of white in this mixture means that the resulting color cannot be fully saturated.</paragraphs>
+                      <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+The first color is grey (which is just white with lower lightness), and the second color is a greenish cyan (why?). The presence of white in this mixture means that the resulting color cannot be fully saturated.</paragraphs>
                       <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
                       <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Roughly speaking, the saturation of a color corresponds inversely to the lowest value among the three RGB components. If one component is zero, and there can be no white mixed in with the color, and the color is fully saturated (among all colors of the same hue and lightness).</paragraphs>
+                        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+Roughly speaking, the saturation of a color corresponds inversely to the lowest value among the three RGB components. If one component is zero, then there can be no white mixed in with the color, and the color is fully saturated (among all colors of the same hue and lightness).</paragraphs>
                         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
                       </collapse>
                     </collapse>
@@ -681,62 +891,94 @@ This is equal to:
       <slide environment="" chapter_type="" wbtag="slide" canon_num="17" id="s17" slide="17" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="17" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="17">Subtractive Color Mixing</keyword>
-          <keyword chapter="" slide="17">subtractive</keyword>
-          <keyword chapter="" slide="17">Cyan, Yellow, and Magenta</keyword>
-          <keyword chapter="" slide="17">halftone</keyword>
           <keyword chapter="" slide="17">Georges Seurat (French, 1859 - 1891)</keyword>
           <keyword chapter="" slide="17">Roy Lichtenstein (American, 1923 - 1997)</keyword>
         </keywords>
-        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Subtractive Color Mixing</paragraphs>
         </h4>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Subtractive mixing results from light passing through multiple layers of
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+Subtractive mixing results from light passing through multiple layers of
 semi-transparent mediums (e.g. colored glass, dye)
 which </paragraphs>
-        <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <i xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">absorb</paragraphs>
         </i>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> lights of various wavelengths, and let the rest pass through.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> There are three primary colors in the </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">subtractive</inline_keyword>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> color mixing model: </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">Cyan, Yellow, and Magenta</inline_keyword>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (CMY). </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Notice this that the primary colors in this model are precisely the complementary
-colors to the primary colors in the additive mixing model. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/SubtractiveColor.svg" environment=""/>
-        </div>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> This is the predominant color model used in commercial printing,
-which also employs the additive color mixing model in the so-called </paragraphs>
-        <inline_keyword course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">halftone</inline_keyword>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> technique to simulate a wide range of colors. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""/>
-        <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Halftoningcolor.svg" environment="newcol"/>
-          </div>
-          <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <h4 xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Georges Seurat (French, 1859 - 1891)</paragraphs>
-            </h4>
-            <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-              <img style="width:240px" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Seurat-La_Parade_detail.jpg" environment="newcol"/>
-            </div>
-            <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-              <h4 xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Roy Lichtenstein (American, 1923 - 1997)</paragraphs>
-              </h4>
-              <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-                <img src="https://media.npr.org/assets/img/2012/10/12/3287-129_enl-ff79df6489c058ed10a81c8405e15da71b963457-s1200.jpg" environment="newcol"/>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">There are three primary colors in the </paragraphs>
+          <b environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">subtractive</paragraphs>
+          </b>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> color mixing model:
+</paragraphs>
+          <b environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Cyan, Yellow, and Magenta</paragraphs>
+          </b>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (CMY).
+</paragraphs>
+          <p environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Notice this that the primary colors in this model are precisely the complementary
+colors to the primary colors in the additive mixing model.
+</paragraphs>
+            <p environment="" chapter_type="">
+              <div environment="" chapter_type="" class="image">
+                <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/1/19/SubtractiveColor.svg" />
               </div>
-            </collapse>
-          </collapse>
-        </newcol>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+This is the predominant color model used in commercial printing,
+which also employs the additive color mixing model in the so-called </paragraphs>
+              <b environment="" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">halftone</paragraphs>
+              </b>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+technique to simulate a wide range of colors.
+</paragraphs>
+              <p environment="" chapter_type="">
+                <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                  <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+                    <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Halftoningcolor.svg" />
+                  </div>
+                  <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                  <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                    <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                    <h4 xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Georges Seurat (French, 1859 - 1891)</paragraphs>
+                    </h4>
+                    <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                    <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+                      <img environment="newcol" chapter_type="" style="width:240px" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Seurat-La_Parade_detail.jpg" />
+                    </div>
+                    <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                    <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                      <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                      <h4 xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Roy Lichtenstein (American, 1923 - 1997)</paragraphs>
+                      </h4>
+                      <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                      <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+                        <img environment="newcol" chapter_type="" src="https://media.npr.org/assets/img/2012/10/12/3287-129_enl-ff79df6489c058ed10a81c8405e15da71b963457-s1200.jpg" />
+                      </div>
+                      <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                    </collapse>
+                  </collapse>
+                </newcol>
+              </p>
+            </p>
+          </p>
+        </p>
       </slide>
     </slides>
   </course>
