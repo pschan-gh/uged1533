@@ -2,11 +2,11 @@
   <index>
     <entry keyword="josefalbersgermanbornamerican18881976">
       <branch chapter="" slide="29" filename="main2.xml" file_md5="552071c08dda4ed6fe645002dccc8e64" keyword="josefalbersgermanbornamerican18881976">Josef Albers, (German-born American, 1888 - 1976)</branch>
-      <branch chapter="" slide="3" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="josefalbersgermanbornamerican18881976">Josef Albers, (German-born American, 1888 - 1976)</branch>
+      <branch chapter="" slide="3" filename="main4.xml" file_md5="ee2dc51598ed389d4516f0a2ba78ddf7" keyword="josefalbersgermanbornamerican18881976">Josef Albers, (German-born American, 1888 - 1976)</branch>
     </entry>
     <entry keyword="homagetothesquare">
       <branch chapter="" slide="29" filename="main2.xml" file_md5="552071c08dda4ed6fe645002dccc8e64" keyword="homagetothesquare">Homage to The Square</branch>
-      <branch chapter="" slide="3" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="homagetothesquare">Homage to The Square</branch>
+      <branch chapter="" slide="3" filename="main4.xml" file_md5="ee2dc51598ed389d4516f0a2ba78ddf7" keyword="homagetothesquare">Homage to The Square</branch>
     </entry>
     <entry keyword="value">
       <branch chapter="" slide="3" filename="main.xml" file_md5="be37ad0bfdaf9447b42d5554201de590" keyword="value">Value</branch>
@@ -164,24 +164,6 @@
     <entry keyword="andrewwyethamerican19172009">
       <branch chapter="" slide="32" filename="main2.xml" file_md5="552071c08dda4ed6fe645002dccc8e64" keyword="andrewwyethamerican19172009">Andrew Wyeth (American, 1917-2009)</branch>
     </entry>
-    <entry keyword="colorillusions">
-      <branch chapter="" slide="2" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="colorillusions">Color Illusions</branch>
-    </entry>
-    <entry keyword="theinteractionofcolor">
-      <branch chapter="" slide="2" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="theinteractionofcolor">The Interaction of Color</branch>
-    </entry>
-    <entry keyword="trichromaticcolortheory">
-      <branch chapter="" slide="5" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="trichromaticcolortheory">Trichromatic Color Theory</branch>
-    </entry>
-    <entry keyword="conecells">
-      <branch chapter="" slide="6" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="conecells">Cone Cells</branch>
-    </entry>
-    <entry keyword="colorconstancyoptionaltopic">
-      <branch chapter="" slide="18" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="colorconstancyoptionaltopic">Color Constancy (Optional Topic)</branch>
-    </entry>
-    <entry keyword="references">
-      <branch chapter="" slide="20" filename="main4.xml" file_md5="be5213f4dd7294f24f4d21974934dee0" keyword="references">References</branch>
-    </entry>
     <entry keyword="hue">
       <branch chapter="" slide="3" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="hue">Hue</branch>
     </entry>
@@ -208,6 +190,24 @@
     </entry>
     <entry keyword="roylichtensteinamerican19231997">
       <branch chapter="" slide="17" filename="main3.xml" file_md5="a3975e10b2575d7d50b981b780e54207" keyword="roylichtensteinamerican19231997">Roy Lichtenstein (American, 1923 - 1997)</branch>
+    </entry>
+    <entry keyword="colorillusions">
+      <branch chapter="" slide="2" filename="main4.xml" file_md5="ee2dc51598ed389d4516f0a2ba78ddf7" keyword="colorillusions">Color Illusions</branch>
+    </entry>
+    <entry keyword="theinteractionofcolor">
+      <branch chapter="" slide="2" filename="main4.xml" file_md5="ee2dc51598ed389d4516f0a2ba78ddf7" keyword="theinteractionofcolor">The Interaction of Color</branch>
+    </entry>
+    <entry keyword="trichromaticcolortheory">
+      <branch chapter="" slide="4" filename="main4.xml" file_md5="ee2dc51598ed389d4516f0a2ba78ddf7" keyword="trichromaticcolortheory">Trichromatic Color Theory</branch>
+    </entry>
+    <entry keyword="conecells">
+      <branch chapter="" slide="5" filename="main4.xml" file_md5="ee2dc51598ed389d4516f0a2ba78ddf7" keyword="conecells">Cone Cells</branch>
+    </entry>
+    <entry keyword="colorconstancyoptionaltopic">
+      <branch chapter="" slide="17" filename="main4.xml" file_md5="ee2dc51598ed389d4516f0a2ba78ddf7" keyword="colorconstancyoptionaltopic">Color Constancy (Optional Topic)</branch>
+    </entry>
+    <entry keyword="references">
+      <branch chapter="" slide="19" filename="main4.xml" file_md5="ee2dc51598ed389d4516f0a2ba78ddf7" keyword="references">References</branch>
     </entry>
   </index>
 </document>

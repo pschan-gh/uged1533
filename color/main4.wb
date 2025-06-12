@@ -14,8 +14,8 @@
 <h4>Josef Albers, (German-born American, 1888 - 1976)</h4>
 <p>
 <h5><i>Homage to The Square</i></h5>
-<!--
 <div class='image'>
+<!--
 <img src="http://www.metmuseum.org/toah/images/hb/hb_1972.40.7.jpg">
 <hr>
 -->
@@ -144,9 +144,9 @@ e.g. a neutral grey appearing pinkish next to a greenish blue color.
 <p>
 <div class=dual>
 <div class=dual-left>
-<svg width="300px" height="300px">
-<rect x="0" y="0" width="300" height="300" fill="#0ee" />
-<rect x="100" y="100" width="100" height="100" fill="#ddd" />
+<svg chapter_type="" width="300px" height="300px">
+<rect chapter_type="" x="0" y="0" width="300" height="300" fill="#0ee"/>
+<rect chapter_type="" x="100" y="100" width="100" height="100" fill="#ddd"/>
 </svg>
 </div>
 <div class=dual-right>
