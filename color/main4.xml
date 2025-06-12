@@ -383,21 +383,12 @@ e.g. a neutral grey appearing pinkish next to a greenish blue color.
         <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <div environment="" chapter_type="" class="dual">
             <div environment="" chapter_type="" class="dual-left">
-              <svg environment="" chapter_type="" width="300px" height="300px">
-                <rect environment="" chapter_type="" x="0" y="0" width="300" height="300" fill="#0ee"/>
-                <rect environment="" chapter_type="" x="100" y="100" width="100" height="100" fill="#ddd"/>
-              </svg>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
+              <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/color/square1.svg" />
             </div>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
             <div environment="" chapter_type="" class="dual-right">
-              <svg environment="" chapter_type="" width="300px" height="300px">
-                <rect environment="" chapter_type="" x="100" y="100" width="100" height="100" fill="#ddd"></rect>
-              </svg>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
+              <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/color/square2.svg" />
             </div>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
