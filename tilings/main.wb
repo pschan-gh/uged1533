@@ -169,7 +169,7 @@ A pattern is encoded in 4 characters "$x_1x_2x_3x_4$" as follows:
 <li> $x_2$ is one of $1, 2, 3, 4, 6$, depending on the type of rotational symmetry.
 ($1$ stands for no rotational symmetry.)
 <li> $x_3$ is one of $1$, $m$, or $g$, depending on whether there is mirror or glide
-symmetry with respect to the "main" translation axis.<br>
+symmetry perpendicular to the "main" translation axis.<br>
 (We choose the "main" axis to be any one of the two translational axes which has a mirror perpendicular to it.  If none of the two axes has a mirror perpendicular to it, then either one may be chosen to be the main one.)
 <li> $x_4$ is one of $1$, $m$, or $g$, depending on whether there is mirror or glide symmetry with respect to some other axis besides the main one.
 </ul>

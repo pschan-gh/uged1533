@@ -1,16 +1,19 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach">
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533" topic="Planar Patterns">
     <keywords slide="all" environ="course" chapter="" course="UGED 1533">
-      <keyword chapter="" slide="all"> Rose window, Chartres Cathedral (Chartres France) </keyword>
-      <keyword chapter="" slide="all"> Rose window, Notre Dame Cathedral (Paris, France) </keyword>
-      <keyword chapter="" slide="all"> Pantheon (Rome, Italy) </keyword>
+      <keyword chapter="" slide="all">Rose window, Chartres Cathedral (Chartres France)
+</keyword>
+      <keyword chapter="" slide="all">Rose window, Notre Dame Cathedral (Paris, France)
+</keyword>
+      <keyword chapter="" slide="all">Pantheon (Rome, Italy)
+</keyword>
       <keyword chapter="" slide="all">Finite Designs</keyword>
       <keyword chapter="" slide="all">Dihedral Group $D_n$</keyword>
       <keyword chapter="" slide="all">M. C. Escher (Dutch 1898 -1972)</keyword>
       <keyword chapter="" slide="all">Alhambra</keyword>
       <keyword chapter="" slide="all">Islamic Art</keyword>
       <keyword chapter="" slide="all">Jean-Léon Gérôme (French, 1824 - 1904)</keyword>
-      <keyword chapter="" slide="all">         </keyword>
+      <keyword chapter="" slide="all">        </keyword>
       <keyword chapter="" slide="all">Examples</keyword>
     </keywords>
     <title environment="title" chapter_type="" wbtag="course" scope="course" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" serial="" slide="">UGED 1533</title>
@@ -19,869 +22,1127 @@
         <title environment="title" chapter_type="" wbtag="course" scope="course" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">UGED 1533</title>
         <topic environment="" chapter_type="" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="1">Planar Patterns</topic>
         <keywords slide="1" environ="slide" chapter="" course="UGED 1533"/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="2" id="s2" slide="2" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="2" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="2"> Rose window, Chartres Cathedral (Chartres France) </keyword>
+          <keyword chapter="" slide="2">Rose window, Chartres Cathedral (Chartres France)
+</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Rose window, Chartres Cathedral (Chartres France) </paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Rose window, Chartres Cathedral (Chartres France)
+</paragraphs>
         </h3>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chartres_Cathedral.jpg/1024px-Chartres_Cathedral.jpg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chartres_Cathedral.jpg/1024px-Chartres_Cathedral.jpg" />
         </div>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_south_transept_rose_at_Notre-Dame_de_Chartres.png/1024px-The_south_transept_rose_at_Notre-Dame_de_Chartres.png" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_south_transept_rose_at_Notre-Dame_de_Chartres.png/1024px-The_south_transept_rose_at_Notre-Dame_de_Chartres.png" />
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="3" id="s3" slide="3" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="3" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="3"> Rose window, Notre Dame Cathedral (Paris, France) </keyword>
+          <keyword chapter="" slide="3">Rose window, Notre Dame Cathedral (Paris, France)
+</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Rose window, Notre Dame Cathedral (Paris, France) </paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Rose window, Notre Dame Cathedral (Paris, France)
+</paragraphs>
         </h3>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Notre_Dame_de_Paris.JPG/1024px-Notre_Dame_de_Paris.JPG" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Notre_Dame_de_Paris.JPG/1024px-Notre_Dame_de_Paris.JPG" />
         </div>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg/1024px-North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg/1024px-North_rose_window_of_Notre-Dame_de_Paris%2C_Aug_2010.jpg" />
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="4" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="4"> Pantheon (Rome, Italy) </keyword>
+          <keyword chapter="" slide="4">Pantheon (Rome, Italy)
+</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Pantheon (Rome, Italy) </paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Pantheon (Rome, Italy)
+</paragraphs>
         </h3>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="dual" environment="">
-          <div class="dual-left" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rome_Pantheon_front.jpg/1024px-Rome_Pantheon_front.jpg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="dual">
+          <div environment="" chapter_type="" class="dual-left">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Rome_Pantheon_front.jpg/1024px-Rome_Pantheon_front.jpg" />
           </div>
-          <div class="dual-right" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pantheon-panini.jpg/1024px-Pantheon-panini.jpg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <div environment="" chapter_type="" class="dual-right">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pantheon-panini.jpg/1024px-Pantheon-panini.jpg" />
           </div>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
         </div>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pantheon_cupola.jpg/1024px-Pantheon_cupola.jpg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pantheon_cupola.jpg/1024px-Pantheon_cupola.jpg" />
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="5" id="s5" slide="5" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="5" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="5">Finite Designs</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Finite Designs</paragraphs>
         </h3>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/finite_design1.png" environment="" />
-          <hr environment="" />
-          <img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/finite_design2.png" environment="" />
-          <br environment="" />
-          <br environment="" />
-          <i environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/finite_design1.png" />
+          <hr environment="" chapter_type="" />
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/finite_design2.png" />
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <i environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Geometric Symmetry in Patterns and Tilings</paragraphs>
           </i>
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Clare Horne. </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Clare Horne.
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="6" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="6">Dihedral Group $D_n$</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Dihedral Group $D_n$</paragraphs>
         </h3>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/dihedral1.jpg" environment="" />
-          <br environment="" />
-          <br environment="" />
-          <i environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/dihedral1.jpg" />
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <i environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Groups and Symmetry</paragraphs>
           </i>
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, M. A. Armstrong </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, M. A. Armstrong
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/dihedral2.jpg" environment="newcol" />
-            <br environment="newcol" />
-            <br environment="newcol" />
-            <i environment="newcol">
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+          <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+            <img environment="newcol" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/dihedral2.jpg" />
+            <br environment="newcol" chapter_type="" />
+            <br environment="newcol" chapter_type="" />
+            <i environment="newcol" chapter_type="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Groups and Symmetry</paragraphs>
             </i>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, M. A. Armstrong </paragraphs>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, M. A. Armstrong
+</paragraphs>
           </div>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="7" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="7">M. C. Escher (Dutch 1898 -1972)</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">M. C. Escher (Dutch 1898 -1972)</paragraphs>
         </h3>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <a title="Photographer: Hans Peters (ANEFO) / CC0" href="https://commons.wikimedia.org/wiki/File:Maurits_Cornelis_Escher.jpg" environment="">
-            <img width="512" alt="Maurits Cornelis Escher" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Maurits_Cornelis_Escher.jpg/512px-Maurits_Cornelis_Escher.jpg" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <a environment="" chapter_type="" title="Photographer: Hans Peters (ANEFO) / CC0" href="https://commons.wikimedia.org/wiki/File:Maurits_Cornelis_Escher.jpg">
+            <img environment="" chapter_type="" width="512" alt="Maurits Cornelis Escher" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Maurits_Cornelis_Escher.jpg/512px-Maurits_Cornelis_Escher.jpg" />
           </a>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
         </div>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/originals/4b/86/86/4b86861cdbbe3576e8c003fccae2c372.jpg" environment="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://s-media-cache-ak0.pinimg.com/originals/4b/86/86/4b86861cdbbe3576e8c003fccae2c372.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/originals/b6/c1/9e/b6c19e84c6af8c2802a83383a7e4452e.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://s-media-cache-ak0.pinimg.com/originals/b6/c1/9e/b6c19e84c6af8c2802a83383a7e4452e.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://uploads0.wikiart.org/images/m-c-escher/bird-fish.jpg!Large.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://uploads0.wikiart.org/images/m-c-escher/bird-fish.jpg!Large.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://uploads7.wikiart.org/images/m-c-escher/sky-and-water-ii.jpg!Large.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://uploads7.wikiart.org/images/m-c-escher/sky-and-water-ii.jpg!Large.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">&lt;p/&gt;&lt;div class='image'&gt;&lt;img src="http://mathstat.slu.edu/escher/upload/8/8a/Liberation.jpg"&gt;&lt;/div&gt;&lt;br&gt;&lt;hr&gt;</comment>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/564x/4f/cc/36/4fcc3605a30deaa16de6584bf037b655.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">
+&lt;p/&gt;&lt;div class='image'&gt;&lt;img src="http://mathstat.slu.edu/escher/upload/8/8a/Liberation.jpg"&gt;&lt;/div&gt;&lt;br&gt;&lt;hr&gt;
+</comment>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://s-media-cache-ak0.pinimg.com/564x/4f/cc/36/4fcc3605a30deaa16de6584bf037b655.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <a href="https://www.wikiart.org/en/m-c-escher/circle-limit-iv" environment="">
-            <img src="https://uploads5.wikiart.org/images/m-c-escher/circle-limit-iv.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <a environment="" chapter_type="" href="https://www.wikiart.org/en/m-c-escher/circle-limit-iv">
+            <img environment="" chapter_type="" src="https://uploads5.wikiart.org/images/m-c-escher/circle-limit-iv.jpg" />
           </a>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="8" id="s8" slide="8" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="8" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="8">Alhambra</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Alhambra</paragraphs>
         </h3>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Vista_de_la_Alhambra.jpg" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Vista_de_la_Alhambra.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alhambra-Granada-2003.jpg/1024px-Alhambra-Granada-2003.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Alhambra-Granada-2003.jpg/1024px-Alhambra-Granada-2003.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ventanas_con_arabescos_en_la_Alhambra.JPG/675px-Ventanas_con_arabescos_en_la_Alhambra.JPG" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ventanas_con_arabescos_en_la_Alhambra.JPG/675px-Ventanas_con_arabescos_en_la_Alhambra.JPG" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tassellatura_alhambra.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Tassellatura_alhambra.jpg" />
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="9" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="9">Islamic Art</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Islamic Art</paragraphs>
         </h3>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Fes_Medersa_Bou_Inania_Mosaique2.jpg" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Fes_Medersa_Bou_Inania_Mosaique2.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg/878px-Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg/878px-Mihrab_at_Jama_Masjid%2C_Fatehpur_Sikri.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">&lt;p/&gt;&lt;div class='image'&gt;&lt;img src="http://home.nordnet.fr/~ajuhel/Isfahan_Darb_e_Imam/Darb-e-Imam_aper.JPG"&gt;&lt;/div&gt;&lt;br&gt;&lt;hr&gt;</comment>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Darb-i_Imam_shrine_spandrel.JPG" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="">
+&lt;p/&gt;&lt;div class='image'&gt;&lt;img src="http://home.nordnet.fr/~ajuhel/Isfahan_Darb_e_Imam/Darb-e-Imam_aper.JPG"&gt;&lt;/div&gt;&lt;br&gt;&lt;hr&gt;
+</comment>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Darb-i_Imam_shrine_spandrel.JPG" />
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="10" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="10">Jean-Léon Gérôme (French, 1824 - 1904)</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Jean-Léon Gérôme (French, 1824 - 1904)</paragraphs>
         </h3>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg/1200px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg" environment="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg/1200px-Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_charmeur_de_serpents.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Arnaut_and_his_dog_by_Jean_Leon_gerome.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Arnaut_and_his_dog_by_Jean_Leon_gerome.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/564x/b4/c9/95/b4c995d0e35b37951a847ba4e1d0090f.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://s-media-cache-ak0.pinimg.com/564x/b4/c9/95/b4c995d0e35b37951a847ba4e1d0090f.jpg" />
         </div>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://s-media-cache-ak0.pinimg.com/originals/ba/11/da/ba11dac911cfa8b46298f835a3763f49.jpg" environment="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://s-media-cache-ak0.pinimg.com/originals/ba/11/da/ba11dac911cfa8b46298f835a3763f49.jpg" />
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="11" id="s11" slide="11" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="11" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/hexagons2.jpg" environment="" />
-          <br environment="" />
-          <br environment="" />
-          <i environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/hexagons2.jpg" />
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <i environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Groups and Symmetry</paragraphs>
           </i>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, M. A. Armstrong</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/hexagons.jpg" environment="newcol" />
-            <br environment="newcol" />
-            <br environment="newcol" />
-            <i environment="newcol">
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+          <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+            <img environment="newcol" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/hexagons.jpg" />
+            <br environment="newcol" chapter_type="" />
+            <br environment="newcol" chapter_type="" />
+            <i environment="newcol" chapter_type="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Groups and Symmetry</paragraphs>
             </i>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, M. A. Armstrong</paragraphs>
           </div>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-              <img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/hexagons3.jpg" environment="newcol" />
-              <br environment="newcol" />
-              <br environment="newcol" />
-              <i environment="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+            <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+              <img environment="newcol" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/hexagons3.jpg" />
+              <br environment="newcol" chapter_type="" />
+              <br environment="newcol" chapter_type="" />
+              <i environment="newcol" chapter_type="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Groups and Symmetry</paragraphs>
               </i>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, M. A. Armstrong</paragraphs>
             </div>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
           </collapse>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="12" id="s12" slide="12" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="12" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> A </paragraphs>
-        <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+A </paragraphs>
+        <i xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">symmetry</paragraphs>
         </i>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> of a wallpaper pattern is a transformation which leaves the pattern unchanged.  Such a transformation can be one of the following:</paragraphs>
-        <ul xmlns="http://www.w3.org/1999/xhtml" environment="">
-          <li environment="">
+        <ul xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <li environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> translation (</paragraphs>
-            <b environment="">
+            <b environment="" chapter_type="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">shift</paragraphs>
             </b>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
-            <img style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/translation.jpg" environment="" />
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">)
+</paragraphs>
+            <img environment="" chapter_type="" style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/translation.jpg" />
           </li>
-          <li environment="">
+          <li environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">rotation (</paragraphs>
-            <b environment="">
+            <b environment="" chapter_type="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">turn</paragraphs>
             </b>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
-            <img style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/rotation.jpg" environment="" />
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">)
+</paragraphs>
+            <img environment="" chapter_type="" style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/rotation.jpg" />
           </li>
-          <li environment="">
+          <li environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">reflection (</paragraphs>
-            <b environment="">
+            <b environment="" chapter_type="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">flip</paragraphs>
             </b>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
-            <img style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/reflection.jpg" environment="" />
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">)
+</paragraphs>
+            <img environment="" chapter_type="" style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/reflection.jpg" />
           </li>
-          <li environment="">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">glide reflection </paragraphs>
-            <img style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/glide.jpg" environment="" />
+          <li environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">glide reflection
+</paragraphs>
+            <img environment="" chapter_type="" style="width:200px" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/glide.jpg" />
           </li>
         </ul>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (Illustration from </paragraphs>
-          <i environment="">
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">(Illustration from </paragraphs>
+          <i environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Geometric Symmetry in Patterns and Tilings</paragraphs>
           </i>
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Clare Horne.) </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Clare Horne.)
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="13" id="s13" slide="13" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="13" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> We will work with wallpaper patterns which have two shift symmetries.
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+We will work with wallpaper patterns which have two shift symmetries.
 Any such wallpaper is associated with an underlying </paragraphs>
-        <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <i xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">lattice</paragraphs>
         </i>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
 which is obtained by applying the shift symmetries repeatedly to a fixed point
-(the origin) in the pattern. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/lattice.jpg" environment="" />
-          <br environment="" />
-          <br environment="" />
-          <i environment="">
+(the origin) in the pattern.
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/lattice.jpg" />
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <i environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Groups and Symmetry</paragraphs>
           </i>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, M. A. Armstrong</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="14" id="s14" slide="14" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="14" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> There are five types of lattices generated this way: </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images//lattice1.jpg" environment="" />
-          <br environment="" />
-          <br environment="" />
-          <i environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+There are five types of lattices generated this way:
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images//lattice1.jpg" />
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <i environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Groups and Symmetry</paragraphs>
           </i>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, M. A. Armstrong</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="15" id="s15" slide="15" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="15" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Note that a rotational (turn) symmetry of a wallpaper pattern may
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+Note that a rotational (turn) symmetry of a wallpaper pattern may
 correspond to a rotation (clockwise or anticlockwise) by
-60, 90, 120 or 180 degrees only. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> There is no rotational symmetry which corresponds to a rotation by, say, 72 degrees. </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+60, 90, 120 or 180 degrees only.
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">There is no rotational symmetry which corresponds to a rotation by, say, 72 degrees.
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> The set of shift, turn, flip and glide reflection symmetries
-of a wallpaper pattern form its </paragraphs>
-          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+The set of shift, turn, flip and glide reflection symmetries
+of a wallpaper pattern form its
+</paragraphs>
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">wallpaper group</paragraphs>
           </b>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.  There are exactly 17 possible wallpaper groups. </paragraphs>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> They are enumerated by a combination of letters and integers.  For example: </paragraphs>
-          <center xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $p6m, p4g, cm$ </paragraphs>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.  There are exactly 17 possible wallpaper groups.
+</paragraphs>
+          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type=""></p>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">They are enumerated by a combination of letters and integers.  For example:
+</paragraphs>
+          <center xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="center" wbtag="paragraphs">$p6m, p4g, cm$
+</paragraphs>
           </center>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <ul xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <li environment="newcol">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> "</paragraphs>
-                <b environment="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+            <ul xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+              <li environment="newcol" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">"</paragraphs>
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">$p$</paragraphs>
                 </b>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" stands for a </paragraphs>
-                <b environment="newcol">
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">primitive lattice</paragraphs>
                 </b>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, namely a lattice made up of cells
-with no lattice points in their interiors. </paragraphs>
+with no lattice points in their interiors.
+</paragraphs>
               </li>
-              <li environment="newcol">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> "</paragraphs>
-                <b environment="newcol">
+              <li environment="newcol" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">"</paragraphs>
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">$c$</paragraphs>
                 </b>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" stands for a </paragraphs>
-                <b environment="newcol">
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">centred lattice</paragraphs>
                 </b>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, namely a lattice
 each of whose building block is a non-primitive cell
-plus a centered interior lattice point (Centred Rectangular). </paragraphs>
+plus a centered interior lattice point (Centred Rectangular).
+</paragraphs>
               </li>
-              <li environment="newcol">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> "</paragraphs>
-                <b environment="newcol">
+              <li environment="newcol" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">"</paragraphs>
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">$m$</paragraphs>
                 </b>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" stands for reflection (m for </paragraphs>
-                <b environment="newcol">
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">mirror</paragraphs>
                 </b>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">). </paragraphs>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">).
+</paragraphs>
               </li>
-              <li environment="newcol">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> "</paragraphs>
-                <b environment="newcol">
+              <li environment="newcol" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">"</paragraphs>
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">$g$</paragraphs>
                 </b>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" stands for </paragraphs>
-                <b environment="newcol">
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">glide reflection</paragraphs>
                 </b>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">. </paragraphs>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.
+</paragraphs>
               </li>
             </ul>
-            <ul xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <li environment="newcol">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> "</paragraphs>
-                <b environment="newcol">
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+            <ul xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+              <li environment="newcol" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">"</paragraphs>
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">$1$</paragraphs>
                 </b>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" stands for the identity transformation (i.e. do nothing). </paragraphs>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" stands for the identity transformation (i.e. do nothing).
+</paragraphs>
               </li>
-              <li environment="newcol">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Each of "</paragraphs>
-                <b environment="newcol">
+              <li environment="newcol" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Each of "</paragraphs>
+                <b environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">$2, 3, 4, 6$</paragraphs>
                 </b>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" stands for a rotation of the corresponding order. </paragraphs>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">" stands for a rotation of the corresponding order.
+</paragraphs>
               </li>
             </ul>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
             <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> A pattern is encoded in 4 characters "$x_1x_2x_3x_4$" as follows: </paragraphs>
-              <ul xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-                <li environment="newcol">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">$x_1$ is either $p$ or $c$, depending on the lattice structure. </paragraphs>
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+A pattern is encoded in 4 characters "$x_1x_2x_3x_4$" as follows:
+</paragraphs>
+              <ul xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                <li environment="newcol" chapter_type="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">$x_1$ is either $p$ or $c$, depending on the lattice structure.
+</paragraphs>
                 </li>
-                <li environment="newcol">
+                <li environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $x_2$ is one of $1, 2, 3, 4, 6$, depending on the type of rotational symmetry.
-($1$ stands for no rotational symmetry.) </paragraphs>
+($1$ stands for no rotational symmetry.)
+</paragraphs>
                 </li>
-                <li environment="newcol">
+                <li environment="newcol" chapter_type="">
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $x_3$ is one of $1$, $m$, or $g$, depending on whether there is mirror or glide
-symmetry with respect to the "main" translation axis.</paragraphs>
-                  <br environment="newcol" />
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (We choose the "main" axis to be any one of the two translational axes which has a mirror perpendicular to it.  If none of the two axes has a mirror perpendicular to it, then either one may be chosen to be the main one.) </paragraphs>
+symmetry perpendicular to the "main" translation axis.</paragraphs>
+                  <br environment="newcol" chapter_type="" />
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">(We choose the "main" axis to be any one of the two translational axes which has a mirror perpendicular to it.  If none of the two axes has a mirror perpendicular to it, then either one may be chosen to be the main one.)
+</paragraphs>
                 </li>
-                <li environment="newcol">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $x_4$ is one of $1$, $m$, or $g$, depending on whether there is mirror or glide symmetry with respect to some other axis besides the main one. </paragraphs>
+                <li environment="newcol" chapter_type="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> $x_4$ is one of $1$, $m$, or $g$, depending on whether there is mirror or glide symmetry with respect to some other axis besides the main one.
+</paragraphs>
                 </li>
               </ul>
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
             </collapse>
           </collapse>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="16" id="s16" slide="16" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="16" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="16">         </keyword>
+          <keyword chapter="" slide="16">        </keyword>
         </keywords>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The following table serves as a useful guide in
-identifying the wallpaper group of a given wallpaper pattern: </paragraphs>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
-          <h4 environment="">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">         </paragraphs>
-            <a href="https://en.wikipedia.org/wiki/Wallpaper_group#Guide_to_recognizing_wallpaper_groups" target="_blank" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The following table serves as a useful guide in
+identifying the wallpaper group of a given wallpaper pattern:
+</paragraphs>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">    </paragraphs>
+          <h4 environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">        </paragraphs>
+            <a environment="" chapter_type="" href="https://en.wikipedia.org/wiki/Wallpaper_group#Guide_to_recognizing_wallpaper_groups" target="_blank">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Guide to recognizing wallpaper groups (Wikipedia).</paragraphs>
             </a>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+    </paragraphs>
           </h4>
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
-          <iframe style="height:540px;" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/tilings/wallpaper_groups.html" environment=""></iframe>
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">     </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+    </paragraphs>
+          <iframe environment="" chapter_type="" style="height:540px;" src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/tilings/wallpaper_groups.html"></iframe>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+    </paragraphs>
           <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> (Notice that the character "1" is sometimes omitted.) </comment>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="17" id="s17" slide="17" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="17" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="17">Examples</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Examples</paragraphs>
         </h3>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (from </paragraphs>
-        <a xmlns="http://www.w3.org/1999/xhtml" href="http://www.morenaments.de" environment="">
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+(from </paragraphs>
+        <a xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" href="http://www.morenaments.de">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">http://www.morenaments.de</paragraphs>
         </a>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">) </paragraphs>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p1.svg#/media/File:SymBlend_p1.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SymBlend_p1.svg/1200px-SymBlend_p1.svg.png" alt="SymBlend p1.svg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">)
+</paragraphs>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p1.svg#/media/File:SymBlend_p1.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SymBlend_p1.svg/1200px-SymBlend_p1.svg.png" alt="SymBlend p1.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7402990" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7402990">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
           <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p1.svg"&gt; </comment>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p1$ </paragraphs>
-          <hr environment="" />
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p2.svg#/media/File:SymBlend_p2.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SymBlend_p2.svg/1200px-SymBlend_p2.svg.png" alt="SymBlend p2.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p1$
+</paragraphs>
+          <hr environment="" chapter_type="" />
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p2.svg#/media/File:SymBlend_p2.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/SymBlend_p2.svg/1200px-SymBlend_p2.svg.png" alt="SymBlend p2.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7402993" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7402993">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
           <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;img src="http://www.morenaments.de/gallery/exampleDiagrams/large/p2.svg"&gt;</comment>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p2$ </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p2$
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="18" id="s18" slide="18" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="18" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_pm.svg#/media/File:SymBlend_pm.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SymBlend_pm.svg/1200px-SymBlend_pm.svg.png" alt="SymBlend pm.svg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_pm.svg#/media/File:SymBlend_pm.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SymBlend_pm.svg/1200px-SymBlend_pm.svg.png" alt="SymBlend pm.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403020" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403020">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
           <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pm.svg"&gt; </comment>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pm$ </paragraphs>
-          <hr environment="" />
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_pg.svg#/media/File:SymBlend_pg.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/SymBlend_pg.svg/1200px-SymBlend_pg.svg.png" alt="SymBlend pg.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pm$
+</paragraphs>
+          <hr environment="" chapter_type="" />
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_pg.svg#/media/File:SymBlend_pg.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/SymBlend_pg.svg/1200px-SymBlend_pg.svg.png" alt="SymBlend pg.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403014" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403014">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
           <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;img src="http://www.morenaments.de/gallery/exampleDiagrams/large/pg.svg"&gt; </comment>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pg$ </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pg$
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="19" id="s19" slide="19" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="19" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_cm.svg#/media/File:SymBlend_cm.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SymBlend_cm.svg/1200px-SymBlend_cm.svg.png" alt="SymBlend cm.svg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_cm.svg#/media/File:SymBlend_cm.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SymBlend_cm.svg/1200px-SymBlend_cm.svg.png" alt="SymBlend cm.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7402968" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7402968">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
           <comment xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;img src="http://www.morenaments.de/gallery/exampleDiagrams/large/cm.svg"&gt; </comment>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$cm$ </paragraphs>
-          <hr environment="" />
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_pmm.svg#/media/File:SymBlend_pmm.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/SymBlend_pmm.svg/1200px-SymBlend_pmm.svg.png" alt="SymBlend pmm.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$cm$
+</paragraphs>
+          <hr environment="" chapter_type="" />
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_pmm.svg#/media/File:SymBlend_pmm.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/SymBlend_pmm.svg/1200px-SymBlend_pmm.svg.png" alt="SymBlend pmm.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403022" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403022">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pmm$ </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pmm$
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="20" id="s20" slide="20" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="20" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_pmg.svg#/media/File:SymBlend_pmg.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SymBlend_pmg.svg/1200px-SymBlend_pmg.svg.png" alt="SymBlend pmg.svg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_pmg.svg#/media/File:SymBlend_pmg.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SymBlend_pmg.svg/1200px-SymBlend_pmg.svg.png" alt="SymBlend pmg.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403021" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403021">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pmg$ </paragraphs>
-          <hr environment="" />
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_pgg.svg#/media/File:SymBlend_pgg.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SymBlend_pgg.svg/1200px-SymBlend_pgg.svg.png" alt="SymBlend pgg.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pmg$
+</paragraphs>
+          <hr environment="" chapter_type="" />
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_pgg.svg#/media/File:SymBlend_pgg.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SymBlend_pgg.svg/1200px-SymBlend_pgg.svg.png" alt="SymBlend pgg.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403017" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403017">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pgg$ </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$pgg$
+</paragraphs>
         </div>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_cmm.svg#/media/File:SymBlend_cmm.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/SymBlend_cmm.svg/1200px-SymBlend_cmm.svg.png" alt="SymBlend cmm.svg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_cmm.svg#/media/File:SymBlend_cmm.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/SymBlend_cmm.svg/1200px-SymBlend_cmm.svg.png" alt="SymBlend cmm.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7402969" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7402969">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$cmm$ </paragraphs>
-          <hr environment="" />
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p4.svg#/media/File:SymBlend_p4.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SymBlend_p4.svg/1200px-SymBlend_p4.svg.png" alt="SymBlend p4.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$cmm$
+</paragraphs>
+          <hr environment="" chapter_type="" />
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p4.svg#/media/File:SymBlend_p4.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SymBlend_p4.svg/1200px-SymBlend_p4.svg.png" alt="SymBlend p4.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403002" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403002">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p4$ </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p4$
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="21" id="s21" slide="21" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="21" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p4m.svg#/media/File:SymBlend_p4m.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/SymBlend_p4m.svg/1200px-SymBlend_p4m.svg.png" alt="SymBlend p4m.svg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p4m.svg#/media/File:SymBlend_p4m.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/SymBlend_p4m.svg/1200px-SymBlend_p4m.svg.png" alt="SymBlend p4m.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403005" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403005">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p4m$ </paragraphs>
-          <hr environment="" />
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p4g.svg#/media/File:SymBlend_p4g.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SymBlend_p4g.svg/1200px-SymBlend_p4g.svg.png" alt="SymBlend p4g.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p4m$
+</paragraphs>
+          <hr environment="" chapter_type="" />
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p4g.svg#/media/File:SymBlend_p4g.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SymBlend_p4g.svg/1200px-SymBlend_p4g.svg.png" alt="SymBlend p4g.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403004" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403004">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p4g$ </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p4g$
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="22" id="s22" slide="22" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="22" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p3.svg#/media/File:SymBlend_p3.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/SymBlend_p3.svg/1200px-SymBlend_p3.svg.png" alt="SymBlend p3.svg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p3.svg#/media/File:SymBlend_p3.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/SymBlend_p3.svg/1200px-SymBlend_p3.svg.png" alt="SymBlend p3.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7402994" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7402994">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p3$ </paragraphs>
-          <hr environment="" />
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p3m1.svg#/media/File:SymBlend_p3m1.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SymBlend_p3m1.svg/1200px-SymBlend_p3m1.svg.png" alt="SymBlend p3m1.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p3$
+</paragraphs>
+          <hr environment="" chapter_type="" />
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p3m1.svg#/media/File:SymBlend_p3m1.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SymBlend_p3m1.svg/1200px-SymBlend_p3m1.svg.png" alt="SymBlend p3m1.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7402998" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7402998">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p3m1$ </paragraphs>
-          <hr environment="" />
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p31m.svg#/media/File:SymBlend_p31m.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SymBlend_p31m.svg/1200px-SymBlend_p31m.svg.png" alt="SymBlend p31m.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p3m1$
+</paragraphs>
+          <hr environment="" chapter_type="" />
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p31m.svg#/media/File:SymBlend_p31m.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SymBlend_p31m.svg/1200px-SymBlend_p31m.svg.png" alt="SymBlend p31m.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7402997" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7402997">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p31m$ </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p31m$
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="23" id="s23" slide="23" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="23" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p6.svg#/media/File:SymBlend_p6.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SymBlend_p6.svg/1200px-SymBlend_p6.svg.png" alt="SymBlend p6.svg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p6.svg#/media/File:SymBlend_p6.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/SymBlend_p6.svg/1200px-SymBlend_p6.svg.png" alt="SymBlend p6.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403007" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403007">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p6$ </paragraphs>
-          <hr environment="" />
-          <p environment=""></p>
-          <a href="https://commons.wikimedia.org/wiki/File:SymBlend_p6m.svg#/media/File:SymBlend_p6m.svg" environment="">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SymBlend_p6m.svg/1200px-SymBlend_p6m.svg.png" alt="SymBlend p6m.svg" environment="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p6$
+</paragraphs>
+          <hr environment="" chapter_type="" />
+          <p environment="" chapter_type=""></p>
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/wiki/File:SymBlend_p6m.svg#/media/File:SymBlend_p6m.svg">
+            <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/SymBlend_p6m.svg/1200px-SymBlend_p6m.svg.png" alt="SymBlend p6m.svg" />
           </a>
-          <br environment="" />
+          <br environment="" chapter_type="" />
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Martin von Gagern</paragraphs>
-          <br environment="" />
-          <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0" environment="">
+          <br environment="" chapter_type="" />
+          <a environment="" chapter_type="" href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-          <a href="https://commons.wikimedia.org/w/index.php?curid=7403011" environment="">
+          <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=7403011">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
           </a>
-          <br environment="" />
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p6m$ </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">$p6m$
+</paragraphs>
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="24" id="s24" slide="24" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="24" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://jasonbairdjackson.files.wordpress.com/2015/08/img_2183.jpg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://jasonbairdjackson.files.wordpress.com/2015/08/img_2183.jpg" />
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="25" id="s25" slide="25" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="25" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://deutao.com/wp-content/uploads/2013/12/24.jpg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="http://deutao.com/wp-content/uploads/2013/12/24.jpg" />
         </div>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="http://img.china.alibaba.com/img/ibank/2015/304/318/2573813403_1852949910.jpg" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="http://img.china.alibaba.com/img/ibank/2015/304/318/2573813403_1852949910.jpg" />
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="26" id="s26" slide="26" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="26" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Semi-regular-floor-3464.JPG" environment="" />
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Semi-regular-floor-3464.JPG" />
         </div>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
       </slide>
     </slides>
   </course>

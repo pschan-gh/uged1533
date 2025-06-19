@@ -1,37 +1,40 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
     <entry keyword="rosewindowchartrescathedralchartresfrance">
-      <branch chapter="" slide="2" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="rosewindowchartrescathedralchartresfrance"> Rose window, Chartres Cathedral (Chartres France) </branch>
+      <branch chapter="" slide="2" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="rosewindowchartrescathedralchartresfrance">Rose window, Chartres Cathedral (Chartres France)
+</branch>
     </entry>
     <entry keyword="rosewindownotredamecathedralparisfrance">
-      <branch chapter="" slide="3" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="rosewindownotredamecathedralparisfrance"> Rose window, Notre Dame Cathedral (Paris, France) </branch>
+      <branch chapter="" slide="3" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="rosewindownotredamecathedralparisfrance">Rose window, Notre Dame Cathedral (Paris, France)
+</branch>
     </entry>
     <entry keyword="pantheonromeitaly">
-      <branch chapter="" slide="4" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="pantheonromeitaly"> Pantheon (Rome, Italy) </branch>
+      <branch chapter="" slide="4" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="pantheonromeitaly">Pantheon (Rome, Italy)
+</branch>
     </entry>
     <entry keyword="finitedesigns">
-      <branch chapter="" slide="5" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="finitedesigns">Finite Designs</branch>
+      <branch chapter="" slide="5" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="finitedesigns">Finite Designs</branch>
     </entry>
     <entry keyword="dihedralgroupdn">
-      <branch chapter="" slide="6" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="dihedralgroupdn">Dihedral Group $D_n$</branch>
+      <branch chapter="" slide="6" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="dihedralgroupdn">Dihedral Group $D_n$</branch>
     </entry>
     <entry keyword="mcescherdutch18981972">
-      <branch chapter="" slide="7" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="mcescherdutch18981972">M. C. Escher (Dutch 1898 -1972)</branch>
+      <branch chapter="" slide="7" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="mcescherdutch18981972">M. C. Escher (Dutch 1898 -1972)</branch>
     </entry>
     <entry keyword="alhambra">
-      <branch chapter="" slide="8" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="alhambra">Alhambra</branch>
+      <branch chapter="" slide="8" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="alhambra">Alhambra</branch>
     </entry>
     <entry keyword="islamicart">
-      <branch chapter="" slide="9" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="islamicart">Islamic Art</branch>
+      <branch chapter="" slide="9" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="islamicart">Islamic Art</branch>
     </entry>
     <entry keyword="jeanlongrmefrench18241904">
-      <branch chapter="" slide="10" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="jeanlongrmefrench18241904">Jean-Léon Gérôme (French, 1824 - 1904)</branch>
+      <branch chapter="" slide="10" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="jeanlongrmefrench18241904">Jean-Léon Gérôme (French, 1824 - 1904)</branch>
     </entry>
     <entry keyword="">
-      <branch chapter="" slide="16" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="">         </branch>
+      <branch chapter="" slide="16" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="">        </branch>
     </entry>
     <entry keyword="examples">
-      <branch chapter="" slide="17" filename="main.xml" file_md5="6bf917d0344418afb8e0ceb314baca59" keyword="examples">Examples</branch>
+      <branch chapter="" slide="17" filename="main.xml" file_md5="a265d9c747ef02ee350a3aee55fa4741" keyword="examples">Examples</branch>
     </entry>
   </index>
 </document>
