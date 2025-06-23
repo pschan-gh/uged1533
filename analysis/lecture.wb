@@ -11,15 +11,16 @@ Paul C&eacutezanne (French, 1839 - 1906)
 </div>
 <hr>
 <div class='image'>
-<a href="https://en.wikipedia.org/wiki/File:La_danse_(I)_by_Matisse.jpg#/media/File:La_danse_(I)_by_Matisse.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/La_danse_%28I%29_by_Matisse.jpg/1200px-La_danse_%28I%29_by_Matisse.jpg" alt="La danse (I) by Matisse.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:La_danse_(I)_by_Matisse.jpg" title="Public domain in the United States">PD-US</a>, <a href="https://en.wikipedia.org/w/index.php?curid=26956795">Link</a>
-<br>Henri Matisse (French, 1869 - 1954)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Matissedance.jpg"/>
+<br/><em>La Danse</em>, Henri Matisse (French, 1869 - 1954)
 </div>
 @slide
 <h3>Pablo Picasso (Spanish, 1881 - 1973)</h3>
 <hr/>
 <div class='image'>
 <p><a href="https://en.wikipedia.org/wiki/File:Pablo_Picasso,_1910-11,_Guitariste,_La_mandoliniste,_Woman_playing_guitar,_oil_on_canvas.jpg#/media/File:Pablo_Picasso,_1910-11,_Guitariste,_La_mandoliniste,_Woman_playing_guitar,_oil_on_canvas.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/c/ca/Pablo_Picasso%2C_1910-11%2C_Guitariste%2C_La_mandoliniste%2C_Woman_playing_guitar%2C_oil_on_canvas.jpg" alt="Pablo Picasso, 1910-11, Guitariste, La mandoliniste, Woman playing guitar, oil on canvas.jpg"></a><br>By <a href="//en.wikipedia.org/wiki/Pablo_Picasso" title="Pablo Picasso">Pablo Picasso</a> - <a rel="nofollow" class="external free" href="http://www.pablo-ruiz-picasso.net/work-3193.php">http://www.pablo-ruiz-picasso.net/work-3193.php</a>, <a href="//en.wikipedia.org/wiki/File:Pablo_Picasso,_1910-11,_Guitariste,_La_mandoliniste,_Woman_playing_guitar,_oil_on_canvas.jpg" title="Public domain in the United States">PD-US</a>, <a href="https://en.wikipedia.org/w/index.php?curid=39013881">Link</a></p>
-<p><a href="https://en.wikipedia.org/wiki/File:Woman_in_Hat_and_Fur_Collar.jpg#/media/File:Woman_in_Hat_and_Fur_Collar.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Woman_in_Hat_and_Fur_Collar.jpg" alt="Woman in Hat and Fur Collar.jpg"></a><br>By <span title="must have been published or publicly displayed outside Wikipedia">Source</span> (<a href="//en.wikipedia.org/wiki/Wikipedia:NFCC#4" class="mw-redirect" title="Wikipedia:NFCC">WP:NFCC#4</a>), <a href="//en.wikipedia.org/wiki/File:Woman_in_Hat_and_Fur_Collar.jpg" title="Fair use of copyrighted material in the context of Woman in Hat and Fur Collar">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=36153508">Link</a></p>
+<p><a href="https://en.wikipedia.org/wiki/File:Woman_in_Hat_and_Fur_Collar.jpg"><img class="exempt" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Woman_in_Hat_and_Fur_Collar.jpg"/></a><br/>
+<em>Woman in Hat and Fur Collar</em>
 <p>
 <a href="https://en.wikipedia.org/wiki/File:PicassoGuernica.jpg#/media/File:PicassoGuernica.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg" alt="PicassoGuernica.jpg"></a>
 <br>
@@ -29,7 +30,6 @@ Source page: <a rel="nofollow" class="external free" href="http://www.picassotra
 @endcol
 </div>
 @section{Abstract Expressionism}
-<br><br>
 <div class='image'>
 <p><a href="https://en.wikipedia.org/wiki/File:Robert_Motherwell%27s_%27Elegy_to_the_Spanish_Republic_No._110%27.jpg#/media/File:Robert_Motherwell%27s_%27Elegy_to_the_Spanish_Republic_No._110%27.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/3/32/Robert_Motherwell%27s_%27Elegy_to_the_Spanish_Republic_No._110%27.jpg" alt="Robert Motherwell's 'Elegy to the Spanish Republic No. 110'.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Robert_Motherwell%27s_%27Elegy_to_the_Spanish_Republic_No._110%27.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=10881894">Link</a>
 <br>
@@ -44,44 +44,45 @@ Mark Rothko (Russian-America, 1903 - 1970)
 </div>
 <hr>
 <div class='image'>
-<img src="https://uploads7.wikiart.org/images/willem-de-kooning/excavation.jpg">
-<p><br>
-<img src="https://uploads5.wikiart.org/images/willem-de-kooning/woman-i.jpg!Large.jpg">
+<img class="exempt" src="https://upload.wikimedia.org/wikipedia/en/2/2a/Woman_I-Willem_de_Kooning.jpg">
 <br>
-Willem de Kooning (Dutch-American, 1904 - 1997)
+<em>Woman I</em>Willem de Kooning
 </div>
+<!--
 @sep
 <div class='image'>
 <img src="https://bob520.files.wordpress.com/2010/09/abstract.jpg"/>
 </div>
+-->
 @sep
 <h3>Jackson Pollock (America, 1912 - 1956)</h3>
-<br><br>
+<br/>
 <div class='image'>
 <img src="https://cdn.kastatic.org/ka-perseus-images/a29ffbd79906f69bfa96aa7d5f38439198ec963f.jpg">
 </div>
 <hr>
 <div class='image'>
-<img src="https://uploads8.wikiart.org/images/jackson-pollock/lucifer-1947.jpg!Large.jpg">
+<a href="https://www.jackson-pollock.org/lucifer.jsp">
+<img src="https://www.jackson-pollock.org/assets/img/paintings/lucifer.jpg"><br/>
+<em>Lucifer</em> (1947)
+</a>
 </div>
 <hr>
 <div class='image'>
-<img src="http://www.metmuseum.org/toah/images/hb/hb_57.92.jpg">
+<a href="https://www.metmuseum.org/art/collection/search/488978">
+<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/488978/1012539/restricted">
+<em>Autumn Rhythm (Number 30)</em>
+</a>
 </div>
-<hr>
-<div class='image'>
-<img src="https://uploads7.wikiart.org/images/jackson-pollock/lucifer-1947.jpg">
-</div>
-<hr>
-<div class='image'>
-<img src="https://s-media-cache-ak0.pinimg.com/originals/eb/fd/24/ebfd24fd9f2177badbf15518cbf8b6b3.jpg">
-</div>
-<hr>
+<hr/>
 <p>
 @collapse
 <div class='image'>
-<img src="https://uploads6.wikiart.org/images/norman-rockwell/the-connoiseur-1962.jpg!Large.jpg"><br/>
+<a href="https://www.artchive.com/artwork/the-connoisseur-norman-rockwell-1962/">
+<img src="https://www.artchive.com/wp-content/uploads/2023/04/The-Connoisseur-Rockwell-Norman-1962-2.jpg">
+<br/>
 <i>The Connoiseur</i>, Norman Rockwell (American, 1894 - 1978)
+</a>
 </div>
 @sep
 <div class='image'>
@@ -92,7 +93,7 @@ Willem de Kooning (Dutch-American, 1904 - 1997)
 <img src="https://s-media-cache-ak0.pinimg.com/originals/d7/89/ab/d789abe8c37104db0444d6877695a4fd.jpg"/>
 </div>
 @sep
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7bICqvmKL5s?si=zlx57ZmaoK9QJvTn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8XFJtv6FavA?si=jJNpEArJ3suydNRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8lvUr5ZtSjM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr/>
@@ -217,7 +218,7 @@ Physics World, Volume 12, Issue 10, October 1999.
 </a>
 <li>
 <a href="http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf">http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf</a>
-</u>
+</ul>
 @sep
 **HOWEVER**...
 
