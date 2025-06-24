@@ -3,7 +3,7 @@
     <keywords slide="all" environ="course" chapter="" course="UGED1533">
       <keyword chapter="" slide="all">Fractals</keyword>
       <keyword chapter="" slide="all">Pablo Picasso (Spanish, 1881 - 1973)</keyword>
-      <keyword chapter="" slide="all">Jackson Pollock (America, 1912 - 1956)</keyword>
+      <keyword chapter="" slide="all">Jackson Pollock (American, 1912 - 1956)</keyword>
       <keyword chapter="" slide="all">Koch Snowflake</keyword>
       <keyword chapter="" slide="all">Fractal Fern</keyword>
       <keyword chapter="" slide="all">Sierpinski Triangle</keyword>
@@ -26,7 +26,7 @@
       <keywords slide="all" environ="chapter" chapter="13" course="UGED1533">
         <keyword chapter="13" slide="all">Fractals</keyword>
         <keyword chapter="13" slide="all">Pablo Picasso (Spanish, 1881 - 1973)</keyword>
-        <keyword chapter="13" slide="all">Jackson Pollock (America, 1912 - 1956)</keyword>
+        <keyword chapter="13" slide="all">Jackson Pollock (American, 1912 - 1956)</keyword>
         <keyword chapter="13" slide="all">Koch Snowflake</keyword>
         <keyword chapter="13" slide="all">Fractal Fern</keyword>
         <keyword chapter="13" slide="all">Sierpinski Triangle</keyword>
@@ -53,11 +53,7 @@
         </slide>
       </slides>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Later Developments" course="UGED1533" chapter="13" num="1" serial="13.1">
-        <title environment="title" chapter_type="Lecture" wbtag="title" scope="section" course="UGED1533" chapter="13" section="1" subsection="" subsubsection="" serial="" slide="">
-          <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="title" wbtag="paragraphs">
-Later Developments
-</paragraphs>
-        </title>
+        <title environment="title" chapter_type="Lecture" wbtag="section" scope="section" course="UGED1533" chapter="13" section="1" subsection="" subsubsection="" serial="" slide=""/>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Lecture" canon_num="3" scope="section" id="s3" slide="3" course="UGED1533" chapter="13" section="1" subsection="" subsubsection="" chapter_title="13" section_title="Later Developments">
             <keywords slide="3" environ="slide" chapter="13" course="UGED1533"/>
@@ -118,70 +114,71 @@ Later Developments
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">By </paragraphs>
               <a environment="" chapter_type="" href="//en.wikipedia.org/wiki/Pablo_Picasso" title="Pablo Picasso">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Pablo Picasso</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> - </paragraphs>
-              <a environment="" chapter_type="" rel="nofollow" class="external free" href="http://www.pablo-ruiz-picasso.net/work-3193.php">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">http://www.pablo-ruiz-picasso.net/work-3193.php</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-              <a environment="" chapter_type="" href="//en.wikipedia.org/wiki/File:Pablo_Picasso,_1910-11,_Guitariste,_La_mandoliniste,_Woman_playing_guitar,_oil_on_canvas.jpg" title="Public domain in the United States">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">PD-US</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-              <a environment="" chapter_type="" href="https://en.wikipedia.org/w/index.php?curid=39013881">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs"> - </paragraphs>
+                <a environment="" chapter_type="" rel="nofollow" class="external free" href="http://www.pablo-ruiz-picasso.net/work-3193.php">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">http://www.pablo-ruiz-picasso.net/work-3193.php</paragraphs>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
+                  <a environment="" chapter_type="" href="//en.wikipedia.org/wiki/File:Pablo_Picasso,_1910-11,_Guitariste,_La_mandoliniste,_Woman_playing_guitar,_oil_on_canvas.jpg" title="Public domain in the United States">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">PD-US</paragraphs>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
+                    <a environment="" chapter_type="" href="https://en.wikipedia.org/w/index.php?curid=39013881">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-              <p environment="" chapter_type=""></p>
-              <a environment="" chapter_type="" href="https://en.wikipedia.org/wiki/File:Woman_in_Hat_and_Fur_Collar.jpg">
-                <img environment="" chapter_type="" class="exempt" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Woman_in_Hat_and_Fur_Collar.jpg" />
-              </a>
-              <br environment="" chapter_type="" />
-              <em environment="" chapter_type="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Woman in Hat and Fur Collar</paragraphs>
-              </em>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                      <p environment="" chapter_type=""></p>
+                      <a environment="" chapter_type="" href="https://en.wikipedia.org/wiki/File:Woman_in_Hat_and_Fur_Collar.jpg">
+                        <img environment="" chapter_type="" class="exempt" src="https://upload.wikimedia.org/wikipedia/en/d/dc/Woman_in_Hat_and_Fur_Collar.jpg" />
+                      </a>
+                      <br environment="" chapter_type="" />
+                      <em environment="" chapter_type="">
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Woman in Hat and Fur Collar</paragraphs>
+                      </em>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-              <p environment="" chapter_type=""></p>
-              <a environment="" chapter_type="" href="https://en.wikipedia.org/wiki/File:PicassoGuernica.jpg#/media/File:PicassoGuernica.jpg">
-                <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg" alt="PicassoGuernica.jpg" />
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                      <p environment="" chapter_type="">
+                        <a environment="" chapter_type="" href="https://en.wikipedia.org/wiki/File:PicassoGuernica.jpg#/media/File:PicassoGuernica.jpg">
+                          <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/en/7/74/PicassoGuernica.jpg" alt="PicassoGuernica.jpg" />
+                        </a>
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-              <br environment="" chapter_type="" />
-              <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+                        <br environment="" chapter_type="" />
+                        <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+                          <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 By PICASSO, la exposición del Reina-Prado. Guernica is in the collection of </paragraphs>
-                <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" href="//en.wikipedia.org/wiki/Museo_Reina_Sofia" class="mw-redirect" title="Museo Reina Sofia">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Museo Reina Sofia</paragraphs>
-                </a>
-                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
-                <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" href="//en.wikipedia.org/wiki/Madrid" title="Madrid">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Madrid</paragraphs>
-                </a>
-                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.
+                          <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" href="//en.wikipedia.org/wiki/Museo_Reina_Sofia" class="mw-redirect" title="Museo Reina Sofia">
+                            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Museo Reina Sofia</paragraphs>
+                            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
+                            <a environment="newcol" chapter_type="" href="//en.wikipedia.org/wiki/Madrid" title="Madrid">
+                              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Madrid</paragraphs>
+                              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.
 Source page: </paragraphs>
-                <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" rel="nofollow" class="external free" href="http://www.picassotradicionyvanguardia.com/08R.php">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">http://www.picassotradicionyvanguardia.com/08R.php</paragraphs>
-                </a>
-                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (</paragraphs>
-                <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" rel="nofollow" class="external text" href="http://web.archive.org/web/20071010045304/http://www.picassotradicionyvanguardia.com/08R.php">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">archive.org</paragraphs>
-                </a>
-                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">), </paragraphs>
-                <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" href="//en.wikipedia.org/wiki/File:PicassoGuernica.jpg" title="Fair use">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Fair use</paragraphs>
-                </a>
-                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
-                <a xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" href="https://en.wikipedia.org/w/index.php?curid=1683114">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
-                </a>
-                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+                              <a environment="newcol" chapter_type="" rel="nofollow" class="external free" href="http://www.picassotradicionyvanguardia.com/08R.php">
+                                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">http://www.picassotradicionyvanguardia.com/08R.php</paragraphs>
+                                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> (</paragraphs>
+                                <a environment="newcol" chapter_type="" rel="nofollow" class="external text" href="http://web.archive.org/web/20071010045304/http://www.picassotradicionyvanguardia.com/08R.php">
+                                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">archive.org</paragraphs>
+                                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">), </paragraphs>
+                                  <a environment="newcol" chapter_type="" href="//en.wikipedia.org/wiki/File:PicassoGuernica.jpg" title="Fair use">
+                                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Fair use</paragraphs>
+                                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, </paragraphs>
+                                    <a environment="newcol" chapter_type="" href="https://en.wikipedia.org/w/index.php?curid=1683114">
+                                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
+                                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-              </newcol>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                                    </a>
+                                  </a>
+                                </a>
+                              </a>
+                            </a>
+                          </a>
+                        </newcol>
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
+                      </p>
+                    </a>
+                  </a>
+                </a>
+              </a>
             </div>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
@@ -189,11 +186,7 @@ Source page: </paragraphs>
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Abstract Expressionism" course="UGED1533" chapter="13" num="2" serial="13.2">
-        <title environment="title" chapter_type="Lecture" wbtag="title" scope="section" course="UGED1533" chapter="13" section="2" subsection="" subsubsection="" serial="" slide="">
-          <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="title" wbtag="paragraphs">
-Abstract Expressionism
-</paragraphs>
-        </title>
+        <title environment="title" chapter_type="Lecture" wbtag="section" scope="section" course="UGED1533" chapter="13" section="2" subsection="" subsubsection="" serial="" slide=""/>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Lecture" canon_num="5" scope="section" id="s5" slide="5" course="UGED1533" chapter="13" section="2" subsection="" subsubsection="" chapter_title="13" section_title="Abstract Expressionism">
             <keywords slide="5" environ="slide" chapter="13" course="UGED1533"/>
@@ -214,16 +207,16 @@ Abstract Expressionism
               <br environment="" chapter_type="" />
               <a environment="" chapter_type="" href="//en.wikipedia.org/wiki/File:Robert_Motherwell%27s_%27Elegy_to_the_Spanish_Republic_No._110%27.jpg" title="Fair use">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Fair use</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-              <a environment="" chapter_type="" href="https://en.wikipedia.org/w/index.php?curid=10881894">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
+                <a environment="" chapter_type="" href="https://en.wikipedia.org/w/index.php?curid=10881894">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-              <br environment="" chapter_type="" />
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Robert Motherwell (American 1915 - 1991)
+                  <br environment="" chapter_type="" />
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Robert Motherwell (American 1915 - 1991)
 </paragraphs>
+                </a>
+              </a>
             </div>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
@@ -231,7 +224,7 @@ Abstract Expressionism
             <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
               <img environment="" chapter_type="" src="&#10;http://radicaljew.com/wp-content/uploads/2013/08/Rothko_No_14.jpg" />
               <br environment="" chapter_type="" />
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Mark Rothko (Russian-America, 1903 - 1970)
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Mark Rothko (Russian-American, 1903 - 1970)
 </paragraphs>
             </div>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
@@ -243,7 +236,7 @@ Abstract Expressionism
               <em environment="" chapter_type="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Woman I</paragraphs>
               </em>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Willem de Kooning
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Willem de Kooning
 </paragraphs>
             </div>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
@@ -259,12 +252,12 @@ Abstract Expressionism
           </slide>
           <slide environment="" chapter_type="Lecture" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED1533" chapter="13" section="2" subsection="" subsubsection="" chapter_title="13" section_title="Abstract Expressionism">
             <keywords slide="6" environ="slide" chapter="13" course="UGED1533">
-              <keyword chapter="13" slide="6">Jackson Pollock (America, 1912 - 1956)</keyword>
+              <keyword chapter="13" slide="6">Jackson Pollock (American, 1912 - 1956)</keyword>
             </keywords>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
             <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Jackson Pollock (America, 1912 - 1956)</paragraphs>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">Jackson Pollock (American, 1912 - 1956)</paragraphs>
             </h3>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
@@ -284,9 +277,9 @@ Abstract Expressionism
                 </em>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (1947)
 </paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
+              </a>
             </div>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
@@ -299,33 +292,34 @@ Abstract Expressionism
                 </em>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
+              </a>
             </div>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
             <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
-            <newcol course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-              <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+              <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
+                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-              <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
-                <a environment="newcol" chapter_type="" href="https://www.artchive.com/artwork/the-connoisseur-norman-rockwell-1962/">
-                  <img environment="newcol" chapter_type="" src="https://www.artchive.com/wp-content/uploads/2023/04/The-Connoisseur-Rockwell-Norman-1962-2.jpg" />
-                  <br environment="newcol" chapter_type="" />
-                  <i environment="newcol" chapter_type="">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">The Connoiseur</paragraphs>
-                  </i>
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, Norman Rockwell (American, 1894 - 1978)
+                <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+                  <a environment="newcol" chapter_type="" href="https://www.artchive.com/artwork/the-connoisseur-norman-rockwell-1962/">
+                    <img environment="newcol" chapter_type="" src="https://www.artchive.com/wp-content/uploads/2023/04/The-Connoisseur-Rockwell-Norman-1962-2.jpg" />
+                    <br environment="newcol" chapter_type="" />
+                    <i environment="newcol" chapter_type="">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">The Connoiseur</paragraphs>
+                    </i>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, Norman Rockwell (American, 1894 - 1978)
 </paragraphs>
-                </a>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-              </div>
-              <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+                  </a>
+                </div>
+                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="2" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-            </newcol>
+              </newcol>
+            </p>
           </slide>
           <slide environment="" chapter_type="Lecture" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED1533" chapter="13" section="2" subsection="" subsubsection="" chapter_title="13" section_title="Abstract Expressionism">
             <keywords slide="7" environ="slide" chapter="13" course="UGED1533"/>
@@ -362,11 +356,7 @@ Abstract Expressionism
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Fractals" course="UGED1533" chapter="13" num="3" serial="13.3">
-        <title environment="title" chapter_type="Lecture" wbtag="title" scope="section" course="UGED1533" chapter="13" section="3" subsection="" subsubsection="" serial="" slide="">
-          <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="title" wbtag="paragraphs">
-Fractals
-</paragraphs>
-        </title>
+        <title environment="title" chapter_type="Lecture" wbtag="section" scope="section" course="UGED1533" chapter="13" section="3" subsection="" subsubsection="" serial="" slide=""/>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Lecture" canon_num="9" scope="section" id="s9" slide="9" course="UGED1533" chapter="13" section="3" subsection="" subsubsection="" chapter_title="13" section_title="Fractals">
             <keywords slide="9" environ="slide" chapter="13" course="UGED1533">
@@ -396,34 +386,36 @@ Fractals
             </div>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
-            <newcol course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-              <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-              <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
-                <a environment="newcol" chapter_type="" title="See page for author [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVon_Koch_curve.gif">
-                  <img environment="newcol" chapter_type="" width="256" alt="Von Koch curve" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif" />
-                </a>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-              </div>
-              <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-              <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type=""></p>
-              <collapse course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+              <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
                 <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
                 <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
-                  <a environment="newcol" chapter_type="" title="By Leofun01 (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKochSnowGif16_800x500_2.gif">
-                    <img environment="newcol" chapter_type="" width="512" alt="KochSnowGif16 800x500 2" src="https://upload.wikimedia.org/wikipedia/commons/2/20/KochSnowGif16_800x500_2.gif" />
+                  <a environment="newcol" chapter_type="" title="See page for author [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AVon_Koch_curve.gif">
+                    <img environment="newcol" chapter_type="" width="256" alt="Von Koch curve" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif" />
                   </a>
                   <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
                 </div>
                 <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-              </collapse>
-            </newcol>
+                <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                  <collapse xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                    <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                    <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+                      <a environment="newcol" chapter_type="" title="By Leofun01 (Own work) [CC0], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKochSnowGif16_800x500_2.gif">
+                        <img environment="newcol" chapter_type="" width="512" alt="KochSnowGif16 800x500 2" src="https://upload.wikimedia.org/wikipedia/commons/2/20/KochSnowGif16_800x500_2.gif" />
+                      </a>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                    </div>
+                    <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                  </collapse>
+                </p>
+              </newcol>
+            </p>
           </slide>
           <slide environment="" chapter_type="Lecture" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED1533" chapter="13" section="3" subsection="" subsubsection="" chapter_title="13" section_title="Fractals">
             <keywords slide="10" environ="slide" chapter="13" course="UGED1533">
@@ -470,13 +462,13 @@ Fractals
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Beojan Stanislaus, </paragraphs>
               <a environment="" chapter_type="" href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-              <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=8862246">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
+                <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=8862246">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
+                </a>
+              </a>
             </div>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
@@ -492,19 +484,20 @@ Fractals
               </div>
               <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-              <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type=""></p>
-              <collapse course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+              <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+                <collapse xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                  <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-                <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
-                  <a environment="newcol" chapter_type="" title="self Georg-Johann Lay, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sierpi%C5%84ski_triangle_zoom_animation.gif">
-                    <img environment="newcol" chapter_type="" width="128" alt="Sierpiński triangle zoom animation" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Sierpi%C5%84ski_triangle_zoom_animation.gif?20080317132237" />
-                  </a>
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+                  <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+                    <a environment="newcol" chapter_type="" title="self Georg-Johann Lay, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sierpi%C5%84ski_triangle_zoom_animation.gif">
+                      <img environment="newcol" chapter_type="" width="128" alt="Sierpiński triangle zoom animation" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Sierpi%C5%84ski_triangle_zoom_animation.gif?20080317132237" />
+                    </a>
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-                </div>
-                <newline course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol"/>
-              </collapse>
+                  </div>
+                  <newline course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="newcol"/>
+                </collapse>
+              </p>
             </newcol>
           </slide>
           <slide environment="" chapter_type="Lecture" wbtag="slide" canon_num="12" id="s12" slide="12" course="UGED1533" chapter="13" section="3" subsection="" subsubsection="" chapter_title="13" section_title="Fractals">
@@ -567,25 +560,27 @@ Fractals
 As we see in the Koch snowflake example, curves which exhibits "self-similarity"
 seem to have different lengths at different scales of magnification.
 </paragraphs>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">In mathematical terminology, these curves have non-integer "dimension".
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">In mathematical terminology, these curves have non-integer "dimension".
 Roughly speaking, their geometry lies somewhere between between a line and a plane.
 </paragraphs>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Kock snowflake has dimension:
+              <p environment="" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Kock snowflake has dimension:
 \[
 \displaystyle \log_3 4 \approx 1.2619.
 \]
 </paragraphs>
-            <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
-              <a environment="" chapter_type="" title="By Wrtlprnft (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKoch_Snowflake_7th_iteration.svg">
-                <img environment="" chapter_type="" width="512" alt="Koch Snowflake 7th iteration" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Koch_Snowflake_7th_iteration.svg/512px-Koch_Snowflake_7th_iteration.svg.png" />
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                <div environment="" chapter_type="" class="image">
+                  <a environment="" chapter_type="" title="By Wrtlprnft (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKoch_Snowflake_7th_iteration.svg">
+                    <img environment="" chapter_type="" width="512" alt="Koch Snowflake 7th iteration" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Koch_Snowflake_7th_iteration.svg/512px-Koch_Snowflake_7th_iteration.svg.png" />
+                  </a>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-            </div>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                </div>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
+              </p>
+            </p>
           </slide>
           <slide environment="" chapter_type="Lecture" wbtag="slide" canon_num="15" id="s15" slide="15" course="UGED1533" chapter="13" section="3" subsection="" subsubsection="" chapter_title="13" section_title="Fractals">
             <keywords slide="15" environ="slide" chapter="13" course="UGED1533"/>
@@ -608,13 +603,13 @@ has dimension:
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">By Beojan Stanislaus, </paragraphs>
               <a environment="" chapter_type="" href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">CC BY-SA 3.0</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
-              <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=8862246">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
-              </a>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">, </paragraphs>
+                <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=8862246">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
+                </a>
+              </a>
             </div>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="3" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
@@ -622,11 +617,7 @@ has dimension:
         </slides>
       </section>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Fractal Dimension" course="UGED1533" chapter="13" num="4" serial="13.4">
-        <title environment="title" chapter_type="Lecture" wbtag="title" scope="section" course="UGED1533" chapter="13" section="4" subsection="" subsubsection="" serial="" slide="">
-          <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="title" wbtag="paragraphs">
-Fractal Dimension
-</paragraphs>
-        </title>
+        <title environment="title" chapter_type="Lecture" wbtag="section" scope="section" course="UGED1533" chapter="13" section="4" subsection="" subsubsection="" serial="" slide=""/>
         <slides environment="" chapter_type="">
           <slide environment="" chapter_type="Lecture" canon_num="16" scope="section" id="s16" slide="16" course="UGED1533" chapter="13" section="4" subsection="" subsubsection="" chapter_title="13" section_title="Fractal Dimension">
             <keywords slide="16" environ="slide" chapter="13" course="UGED1533"/>
@@ -698,51 +689,53 @@ In 1999, Richard P. Taylor, Adam P. Micolich, and David Jonas announced in the s
             </i>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs"> that they had applied fractal analysis onto the drip paintings of Jackson Pollock, and claimed to discover that as "Pollock refined his dripping technique, the fractal dimensions increased steadily through the years, from close to 1 in 1943 to 1.72 in 1952." 
 </paragraphs>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">In another article (Physics World, Volume 12, Issue 10, October 1999), the authors stated that "because [the fractal dimension] follows such a distinct evolution with time, the fractal analysis could be employed as a quantitative, objective technique to both validate and date Pollock’s drip paintings. In conclusion, Pollock’s contribution to the evolution of art is secure. He described Nature directly. Rather than mimicking Nature, he adopted its language - fractals - to build his own patterns."</paragraphs>
-            <newline course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment=""/>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
-            <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Articles</paragraphs>
-            </h3>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <ul xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-              <li environment="" chapter_type="">
-                <a environment="" chapter_type="" href="http://www.nature.com/nature/journal/v399/n6735/pdf/399422a0.pdf">
-                  <i environment="" chapter_type="">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Fractal analysis of Pollock’s drip paintings</paragraphs>
-                  </i>
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
-Richard P. Taylor, Adam P. Micolich,
-David Jonas.  Nature 399, 422 (3 June 1999)</paragraphs>
-                </a>
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">In another article (Physics World, Volume 12, Issue 10, October 1999), the authors stated that "because [the fractal dimension] follows such a distinct evolution with time, the fractal analysis could be employed as a quantitative, objective technique to both validate and date Pollock’s drip paintings. In conclusion, Pollock’s contribution to the evolution of art is secure. He described Nature directly. Rather than mimicking Nature, he adopted its language - fractals - to build his own patterns."</paragraphs>
+              <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment=""/>
+              <p environment="" chapter_type="">
+                <h3 environment="" chapter_type="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Articles</paragraphs>
+                </h3>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-              </li>
-              <li environment="" chapter_type="">
-                <a environment="" chapter_type="" href="https://plus.maths.org/content/fractal-expressionism">
-                  <i environment="" chapter_type="">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Fractal expressionism</paragraphs>
-                  </i>
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
+                <ul environment="" chapter_type="">
+                  <li environment="" chapter_type="">
+                    <a environment="" chapter_type="" href="http://www.nature.com/nature/journal/v399/n6735/pdf/399422a0.pdf">
+                      <i environment="" chapter_type="">
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Fractal analysis of Pollock’s drip paintings</paragraphs>
+                      </i>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
+Richard P. Taylor, Adam P. Micolich,
+David Jonas.  Nature 399, 422 (3 June 1999)</paragraphs>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+                    </a>
+                  </li>
+                  <li environment="" chapter_type="">
+                    <a environment="" chapter_type="" href="https://plus.maths.org/content/fractal-expressionism">
+                      <i environment="" chapter_type="">
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Fractal expressionism</paragraphs>
+                      </i>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">,
 Richard P. Taylor, Adam Micolich and David Jonas.
 Physics World, Volume 12, Issue 10, October 1999.
 </paragraphs>
-                </a>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+                    </a>
+                  </li>
+                  <li environment="" chapter_type="">
+                    <a environment="" chapter_type="" href="http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf</paragraphs>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+                    </a>
+                  </li>
+                </ul>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-              </li>
-              <li environment="" chapter_type="">
-                <a environment="" chapter_type="" href="http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">http://authenticationinart.org/pdf/literature/Richard-P.-TaylorOrder-in-Pollocks-Chaos.pdf</paragraphs>
-                </a>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              </li>
-            </ul>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
+              </p>
+            </p>
           </slide>
           <slide environment="" chapter_type="Lecture" wbtag="slide" canon_num="18" id="s18" slide="18" course="UGED1533" chapter="13" section="4" subsection="" subsubsection="" chapter_title="13" section_title="Fractal Dimension">
             <keywords slide="18" environ="slide" chapter="13" course="UGED1533">
@@ -755,80 +748,82 @@ Physics World, Volume 12, Issue 10, October 1999.
             </strong>
             <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">...</paragraphs>
             <newline course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment=""/>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">In a 2006 article published in </paragraphs>
-            <i xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Nature</paragraphs>
-            </i>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Katherine Jones-Smith and Harsh Mathur claimed to have debunked the thesis of Taylor </paragraphs>
-            <i xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">et al.</paragraphs>
-            </i>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs"> by presenting a freehand drawing which, by the criteria set by the latter authors, would qualify as a "high-quality" fractal:</paragraphs>
-            <newline course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment=""/>
-            <newcol course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-              <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-              <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
-                <img environment="newcol" chapter_type="" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature05398/MediaObjects/41586_2006_BFnature05398_Fig2_HTML.jpg?as=webp" />
-              </div>
-              <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-              <collapse course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">In a 2006 article published in </paragraphs>
+              <i environment="" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Nature</paragraphs>
+              </i>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">, Katherine Jones-Smith and Harsh Mathur claimed to have debunked the thesis of Taylor </paragraphs>
+              <i environment="" chapter_type="">
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">et al.</paragraphs>
+              </i>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs"> by presenting a freehand drawing which, by the criteria set by the latter authors, would qualify as a "high-quality" fractal:</paragraphs>
+              <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment=""/>
+              <newcol xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
                 <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-Moreover, according to Jones-Smith:
-"Known Pollock paintings, hanging in museums and worth millions of dollars, don't pass Taylor's criteria, and then there are the paintings by [other painters] that do pass, even though they are definitely not by Pollock."</paragraphs>
-                <newline course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol"/>
+</paragraphs>
+                <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+                  <img environment="newcol" chapter_type="" src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature05398/MediaObjects/41586_2006_BFnature05398_Fig2_HTML.jpg?as=webp" />
+                </div>
+                <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
                 <collapse course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
                   <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+Moreover, according to Jones-Smith:
+"Known Pollock paintings, hanging in museums and worth millions of dollars, don't pass Taylor's criteria, and then there are the paintings by [other painters] that do pass, even though they are definitely not by Pollock."</paragraphs>
+                  <newline course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol"/>
+                  <collapse course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
+                    <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-                  <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
-                    <i environment="newcol" chapter_type="">
-                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">I think it is more appealing that Pollock's work cannot be reduced to a set of numbers with a certain mean and certain standard deviation</paragraphs>
-                    </i>
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+                    <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+                      <i environment="newcol" chapter_type="">
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">I think it is more appealing that Pollock's work cannot be reduced to a set of numbers with a certain mean and certain standard deviation</paragraphs>
+                      </i>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
 </paragraphs>
-                    <div environment="newcol" chapter_type="" style="text-align:right">
-                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">--Katherine Jones-Smith</paragraphs>
+                      <div environment="newcol" chapter_type="" style="text-align:right">
+                        <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">--Katherine Jones-Smith</paragraphs>
+                      </div>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+</paragraphs>
+                      <div environment="newcol" chapter_type=""></div>
                     </div>
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
-                    <div environment="newcol" chapter_type=""></div>
-                  </div>
+                  </collapse>
                 </collapse>
-              </collapse>
-            </newcol>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
-            <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Articles</paragraphs>
-            </h3>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-            <ul xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
-              <li environment="" chapter_type="">
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Jones-Smith, K., Mathur, H. Revisiting Pollock's drip paintings. Nature 444, E9–E10 (2006). </paragraphs>
-                <a environment="" chapter_type="" target="_blank" href="https://doi.org/10.1038/nature05398">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">https://doi.org/10.1038/nature05398</paragraphs>
-                </a>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
-              </li>
+              </newcol>
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-              <li environment="" chapter_type="">
-                <a environment="" chapter_type="" href="https://www.sciencedaily.com/releases/2007/11/071125114847.htm">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">https://www.sciencedaily.com/releases/2007/11/071125114847.htm</paragraphs>
-                </a>
+              <p environment="" chapter_type="">
+                <h3 environment="" chapter_type="">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Articles</paragraphs>
+                </h3>
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-              </li>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                <ul environment="" chapter_type="">
+                  <li environment="" chapter_type="">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">Jones-Smith, K., Mathur, H. Revisiting Pollock's drip paintings. Nature 444, E9–E10 (2006). </paragraphs>
+                    <a environment="" chapter_type="" target="_blank" href="https://doi.org/10.1038/nature05398">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">https://doi.org/10.1038/nature05398</paragraphs>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
-            </ul>
-            <paragraphs course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+                    </a>
+                  </li>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
 </paragraphs>
+                  <li environment="" chapter_type="">
+                    <a environment="" chapter_type="" href="https://www.sciencedaily.com/releases/2007/11/071125114847.htm">
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">https://www.sciencedaily.com/releases/2007/11/071125114847.htm</paragraphs>
+                      <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+                    </a>
+                  </li>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+                </ul>
+                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED1533" chapter="13" chapter_type="" section="4" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+</paragraphs>
+              </p>
+            </p>
           </slide>
         </slides>
       </section>
