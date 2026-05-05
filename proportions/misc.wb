@@ -3,7 +3,7 @@
 @section{Ideal Proportions}
 @subsection{Portrait of Carolus-Duran}
 <h5>by John Singer Sargent (19th Century)</h5>
-<div class="image"><a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Carolus-Duran.jpg#/media/File:Portrait_of_Carolus-Duran.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Portrait_of_Carolus-Duran.jpg/1200px-Portrait_of_Carolus-Duran.jpg" alt="Portrait of Carolus-Duran.jpg"></a><br>By <a href="https://en.wikipedia.org/wiki/John_Singer_Sargent" class="extiw" title="en:John Singer Sargent">John Singer Sargent</a> - <a rel="nofollow" class="external free" href="http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html">http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=61407">Link</a>
+<div class="image"><a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Carolus-Duran.jpg#/media/File:Portrait_of_Carolus-Duran.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Portrait_of_Carolus-Duran.jpg/1920px-Portrait_of_Carolus-Duran.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Portrait of Carolus-Duran.jpg"></a><br>By <a href="https://en.wikipedia.org/wiki/John_Singer_Sargent" class="extiw" title="en:John Singer Sargent">John Singer Sargent</a> - <a rel="nofollow" class="external free" href="http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html">http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=61407">Link</a>
 </div>
 @col
 <div class="image">
@@ -15,38 +15,33 @@
 Part of <i>Last Judgment</i>, by Michelangelo (Sistine Chapel)
 <p>
 @col
-<p><a href="https://en.wikipedia.org/wiki/File:Supermanflying.png#/media/File:Supermanflying.png"><img src="https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png" alt="Supermanflying.png"></a><br>By <a rel="nofollow" class="external text" href="https://comicsalliance.com/best-art-ever-this-week-superman-75th-anniversary-edition/">comicsalliance.com</a>, <a href="//en.wikipedia.org/wiki/File:Supermanflying.png" title="Fair use of copyrighted material in the context of Superman">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=61390264">Link</a></p>
+<div class="image"><a href="https://en.wikipedia.org/wiki/File:Supermanflying.png#/media/File:Supermanflying.png"><img src="https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png" alt="Supermanflying.png"></a><br>By <a rel="nofollow" class="external text" href="https://comicsalliance.com/best-art-ever-this-week-superman-75th-anniversary-edition/">comicsalliance.com</a>, <a href="//en.wikipedia.org/wiki/File:Supermanflying.png" title="Fair use of copyrighted material in the context of Superman">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=61390264">Link</a></div>
 <!--
 @image{https://static.comicvine.com/uploads/scale_medium/8/81724/1488034-1257740_pic025.jpg}
 -->
 @sep
 <h3>Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </h3>
 <br>
-@image{https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/bruegel1.jpg}
+@image{images/bruegel1.jpg}
 <br>
-@image{https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/bruegel2.jpg}
+@image{images/bruegel2.jpg}
 @sep
 <h3> Jacques-Louis David (French, 1748 – 1825) </h3>
 <br>
-<div class=image>
-<img src="images/death_socrates.jpg">
-</div>
-<br>
-<div class=image>
-<img src="images/horatii.jpg">
-</div>
+@image{images/death_socrates.jpg}
+@image{images/horatii.jpg}
 @sep
 <h3>Alberto Giacometti (Swiss, 1901 - 1966)</h3>
 <br>
 <div class=dual>
 <div class=dual-left style="width:33%">
-<img src="images/2576.jpg">
+<img src="content/uged1533/images/2576.jpg">
 </div>
 <div class=dual-left style="width:33%">
-<img src="images/giacometti.jpg">
+<img src="content/uged1533/images/giacometti.jpg">
 </div>
 <div class=dual-left style="width:33%">
-<img src="images/giacometti3.jpg">
+<img src="content/uged1533/images/giacometti3.jpg">
 </div>
 </div>
 @sep
@@ -54,10 +49,10 @@ Part of <i>Last Judgment</i>, by Michelangelo (Sistine Chapel)
 <br>
 <div class=dual>
 <div class=dual-left style="width:50%">
-<img src="images/botero1.jpg">
+<img src="content/uged1533/images/botero1.jpg">
 </div>
 <div class=dual-left style="width:50%">
-<img src="images/botero2.jpg">
+<img src="content/uged1533/images/botero2.jpg">
 </div>
 </div>
 @section{Composition}
@@ -70,7 +65,7 @@ Part of <i>Last Judgment</i>, by Michelangelo (Sistine Chapel)
 <div class=image>
 <p>
 <a href="https://commons.wikimedia.org/wiki/File:Tableau_I,_by_Piet_Mondriaan.jpg#/media/File:Tableau_I,_by_Piet_Mondriaan.jpg">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg/1200px-Tableau_I%2C_by_Piet_Mondriaan.jpg" alt="Piet Mondriaan abstract painting Tableau I, from 1921">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" alt="Piet Mondriaan abstract painting Tableau I, from 1921">
 </a>
 <br>
 By <a href="https://en.wikipedia.org/wiki/Piet_Mondrian" class="extiw" title="en:Piet Mondrian">Piet Mondrian</a> -

@@ -2,52 +2,52 @@
   <index>
     <entry keyword="references">
       <branch chapter="" slide="1" filename="ref.xml" file_md5="480080fff47d37c7e605491e78eaa0b9" keyword="references">References</branch>
-      <branch chapter="1" slide="7" filename="prop1.xml" file_md5="23dbb1959f6bb4fbb190201883d90b5e" keyword="references">References</branch>
-    </entry>
-    <entry keyword="ideal proportions">
-      <branch chapter="2" slide="3" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="ideal proportions">ideal proportions</branch>
-    </entry>
-    <entry keyword="doryphoros">
-      <branch chapter="2" slide="8" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="doryphoros">Doryphoros</branch>
-    </entry>
-    <entry keyword="polykleitos">
-      <branch chapter="2" slide="8" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="polykleitos">Polykleitos</branch>
-    </entry>
-    <entry keyword="kanon">
-      <branch chapter="2" slide="9" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="kanon">Kanon</branch>
-    </entry>
-    <entry keyword="commensurability">
-      <branch chapter="2" slide="13" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="commensurability">commensurability</branch>
-    </entry>
-    <entry keyword="dynamic symmetry">
-      <branch chapter="2" slide="16" filename="prop.xml" file_md5="20d78821292f31f050d7c92f7c7ac469" keyword="dynamic symmetry">dynamic symmetry</branch>
-    </entry>
-    <entry keyword="goldenrectangle">
-      <branch chapter="1" slide="2" filename="prop1.xml" file_md5="23dbb1959f6bb4fbb190201883d90b5e" keyword="goldenrectangle">Golden Rectangle</branch>
+      <branch chapter="1" slide="7" filename="prop1.xml" file_md5="1865534b4a41fd32ab0dfaac857d1061" keyword="references">References</branch>
     </entry>
     <entry keyword="ilyarepinrussian18441930">
-      <branch chapter="1" slide="7" filename="composition.xml" file_md5="99b1966fdad8f355d40f54c20d7466cd" keyword="ilyarepinrussian18441930">Ilya Repin (Russian, 1844 - 1930)</branch>
+      <branch chapter="1" slide="8" filename="composition.xml" file_md5="5b9aa94bec7e0784041c71068de91696" keyword="ilyarepinrussian18441930">Ilya Repin (Russian, 1844 - 1930)</branch>
     </entry>
     <entry keyword="caravaggioitalian15711610">
-      <branch chapter="1" slide="8" filename="composition.xml" file_md5="99b1966fdad8f355d40f54c20d7466cd" keyword="caravaggioitalian15711610">Caravaggio (Italian, 1571 - 1610)</branch>
+      <branch chapter="1" slide="9" filename="composition.xml" file_md5="5b9aa94bec7e0784041c71068de91696" keyword="caravaggioitalian15711610">Caravaggio (Italian, 1571 - 1610)</branch>
     </entry>
     <entry keyword="byjohnsingersargent19thcentury">
-      <branch chapter="1" slide="4" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="byjohnsingersargent19thcentury">by John Singer Sargent (19th Century)</branch>
+      <branch chapter="1" slide="4" filename="misc.xml" file_md5="beb5c7b90ebaf555a45bdfed2cb7bf9f" keyword="byjohnsingersargent19thcentury">by John Singer Sargent (19th Century)</branch>
     </entry>
     <entry keyword="pieterbruegeltheeldernetherlandish15251569">
-      <branch chapter="1" slide="6" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="pieterbruegeltheeldernetherlandish15251569">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </branch>
+      <branch chapter="1" slide="6" filename="misc.xml" file_md5="beb5c7b90ebaf555a45bdfed2cb7bf9f" keyword="pieterbruegeltheeldernetherlandish15251569">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </branch>
     </entry>
     <entry keyword="jacqueslouisdavidfrench17481825">
-      <branch chapter="1" slide="7" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="jacqueslouisdavidfrench17481825"> Jacques-Louis David (French, 1748 – 1825) </branch>
+      <branch chapter="1" slide="7" filename="misc.xml" file_md5="beb5c7b90ebaf555a45bdfed2cb7bf9f" keyword="jacqueslouisdavidfrench17481825"> Jacques-Louis David (French, 1748 – 1825) </branch>
     </entry>
     <entry keyword="albertogiacomettiswiss19011966">
-      <branch chapter="1" slide="8" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="albertogiacomettiswiss19011966">Alberto Giacometti (Swiss, 1901 - 1966)</branch>
+      <branch chapter="1" slide="8" filename="misc.xml" file_md5="beb5c7b90ebaf555a45bdfed2cb7bf9f" keyword="albertogiacomettiswiss19011966">Alberto Giacometti (Swiss, 1901 - 1966)</branch>
     </entry>
     <entry keyword="fernandoboterocolombian1932">
-      <branch chapter="1" slide="9" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="fernandoboterocolombian1932">Fernando Botero (Colombian, 1932 - )</branch>
+      <branch chapter="1" slide="9" filename="misc.xml" file_md5="beb5c7b90ebaf555a45bdfed2cb7bf9f" keyword="fernandoboterocolombian1932">Fernando Botero (Colombian, 1932 - )</branch>
     </entry>
     <entry keyword="pietmondriandutch18721944">
-      <branch chapter="1" slide="11" filename="misc.xml" file_md5="4a1613233f8dab7ce8168d08e97b2382" keyword="pietmondriandutch18721944">Piet Mondrian (Dutch, 1872 - 1944),</branch>
+      <branch chapter="1" slide="11" filename="misc.xml" file_md5="beb5c7b90ebaf555a45bdfed2cb7bf9f" keyword="pietmondriandutch18721944">Piet Mondrian (Dutch, 1872 - 1944),</branch>
+    </entry>
+    <entry keyword="idealproportions">
+      <branch chapter="2" slide="3" filename="prop.xml" file_md5="7f8cb1de994765eb89d34f8c6cc82a95" keyword="idealproportions">ideal proportions</branch>
+    </entry>
+    <entry keyword="doryphoros">
+      <branch chapter="2" slide="8" filename="prop.xml" file_md5="7f8cb1de994765eb89d34f8c6cc82a95" keyword="doryphoros">Doryphoros</branch>
+    </entry>
+    <entry keyword="polykleitos">
+      <branch chapter="2" slide="8" filename="prop.xml" file_md5="7f8cb1de994765eb89d34f8c6cc82a95" keyword="polykleitos">Polykleitos</branch>
+    </entry>
+    <entry keyword="kanon">
+      <branch chapter="2" slide="9" filename="prop.xml" file_md5="7f8cb1de994765eb89d34f8c6cc82a95" keyword="kanon">Kanon</branch>
+    </entry>
+    <entry keyword="commensurability">
+      <branch chapter="2" slide="13" filename="prop.xml" file_md5="7f8cb1de994765eb89d34f8c6cc82a95" keyword="commensurability">commensurability</branch>
+    </entry>
+    <entry keyword="dynamicsymmetry">
+      <branch chapter="2" slide="16" filename="prop.xml" file_md5="7f8cb1de994765eb89d34f8c6cc82a95" keyword="dynamicsymmetry">dynamic symmetry</branch>
+    </entry>
+    <entry keyword="goldenrectangle">
+      <branch chapter="1" slide="2" filename="prop1.xml" file_md5="1865534b4a41fd32ab0dfaac857d1061" keyword="goldenrectangle">Golden Rectangle</branch>
     </entry>
   </index>
 </document>
