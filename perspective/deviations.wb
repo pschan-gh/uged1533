@@ -2,10 +2,7 @@
 @topic{Linear Perspective<br>Deviations}
 @slide
 <div class=image>
-<img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/N-2531-00-000020-wpu.jpg"/>
-<a href="https://www.nationalgallery.org.uk/paintings/pieter-saenredam-the-interior-of-the-grote-kerk-at-haarlem" target="_blank">
-The Interior of the Grote Kerk at Haarlem
-(1636-7)<br>Pieter Saenredam
+<a title="Pieter Jansz. Saenredam, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Saenredam_-_The_Interior_of_the_Grote_Kerk_at_Haarlem,_1636-7,_NG2531.jpg"><img alt="Saenredam - The Interior of the Grote Kerk at Haarlem, 1636-7, NG2531" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Saenredam_-_The_Interior_of_the_Grote_Kerk_at_Haarlem%2C_1636-7%2C_NG2531.jpg">The Interior of the Grote Kerk at Haarlem (1636)<br/>Pieter Jansz. Saenredam 
 </a>
 </div>
 @slide
@@ -127,11 +124,9 @@ with absolute precision, the base of a cylindrical column off to the side
 may be depicted as a level ellipse, instead of a slanted one.
 
 <br/>
-<div class=image>
-<img src='https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/1024px-Bargue_The_Chess_Game.jpg'>
-<a title="Charles Bargue [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABargue_The_Chess_Game.jpg">
-The Chess Game</a> (1883)
-<br>Charles Bargue
+<div class='image'>
+<a title="Charles Bargue, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Bargue_The_Chess_Game.jpg"><img width="960" alt="Bargue The Chess Game" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Bargue_The_Chess_Game.jpg">The Chess Game (1883)
+<br/>Charles Bargue</a>
 </div>
 @slide
 <h3>Curvilinear Perspective</h3>
