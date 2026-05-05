@@ -1,14 +1,14 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
     <entry keyword="references">
-      <branch chapter="" slide="1" filename="ref.xml" file_md5="480080fff47d37c7e605491e78eaa0b9" keyword="references">References</branch>
+      <branch chapter="" slide="1" filename="ref.xml" file_md5="008159fe71c64e8f9298ebd3c379ef09" keyword="references">References</branch>
       <branch chapter="1" slide="7" filename="prop1.xml" file_md5="1865534b4a41fd32ab0dfaac857d1061" keyword="references">References</branch>
     </entry>
     <entry keyword="ilyarepinrussian18441930">
-      <branch chapter="1" slide="8" filename="composition.xml" file_md5="5b9aa94bec7e0784041c71068de91696" keyword="ilyarepinrussian18441930">Ilya Repin (Russian, 1844 - 1930)</branch>
+      <branch chapter="1" slide="8" filename="composition.xml" file_md5="374e7edf102398104ab1509645bd6414" keyword="ilyarepinrussian18441930">Ilya Repin (Russian, 1844 - 1930)</branch>
     </entry>
     <entry keyword="caravaggioitalian15711610">
-      <branch chapter="1" slide="9" filename="composition.xml" file_md5="5b9aa94bec7e0784041c71068de91696" keyword="caravaggioitalian15711610">Caravaggio (Italian, 1571 - 1610)</branch>
+      <branch chapter="1" slide="9" filename="composition.xml" file_md5="374e7edf102398104ab1509645bd6414" keyword="caravaggioitalian15711610">Caravaggio (Italian, 1571 - 1610)</branch>
     </entry>
     <entry keyword="byjohnsingersargent19thcentury">
       <branch chapter="1" slide="4" filename="misc.xml" file_md5="beb5c7b90ebaf555a45bdfed2cb7bf9f" keyword="byjohnsingersargent19thcentury">by John Singer Sargent (19th Century)</branch>
