@@ -101,7 +101,32 @@ Along the way the empire splits into Eastern and Western Empires.  In 5th centur
 @section{The Middle Ages}
 <div class="timeline">
 <b>5th - 14th century CE </b></div>
-After the fall of the Western Roman empire, Western Europe entered the Middle Ages or @keyword{Medieval Period} (5th - 14th century CE).  Two main artistic developments in this region at this time were the Romanesque and then the Gothic styles.
+After the fall of the Western Roman empire, Western Europe entered the Middle Ages or @keyword{Medieval Period} (5th - 14th century CE).  Two main artistic developments, heavily influenced by Byzantine art, during this time period were the Romanesque and then the Gothic styles.
+<div class="image">
+<a href="https://en.wikipedia.org/wiki/Bayeux_Tapestry">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Odo_bayeux_tapestry.png/1280px-Odo_bayeux_tapestry.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+<br/>
+Bayeux Tapestry</a>
+</div>
+<div class="image">
+<a href="https://en.wikipedia.org/wiki/Abbey_Church_of_Sainte-Foy">
+<img style="max-height:480px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Conques_JPG02.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"/>
+<br/>
+Abbey Church of Sainte-Foy
+</a>
+@center
+@left
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/960px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"/>
+@endleft
+@right
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Cologne_Cathedral_interior_b.jpg/960px-Cologne_Cathedral_interior_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"/>
+@endright
+@endcenter
+@center
+<a href="https://en.wikipedia.org/wiki/Cologne_Cathedral">
+Cologne Cathedral
+</a>
+@endcenter
 @center
 @left
 <a title="See page for author [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AMeister_aus_Tahull_001.jpg">
@@ -112,6 +137,14 @@ After the fall of the Western Roman empire, Western Europe entered the Middle Ag
 <img width="512" alt="Venanson - Chapelle Sainte-Claire - Fresque -3" data-src="https://upload.wikimedia.org/wikipedia/commons/b/be/Venanson_-_Chapelle_Sainte-Claire_-_Fresque_-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"  style=""/> Fresco, Chapelle Sainte-Claire </a>
 @endright
 @endcenter
+@center
+<a title="Duccio di Buoninsegna, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Duccio_di_Buoninsegna_-_Last_Supper_-_WGA06786.jpg"><img alt="Duccio di Buoninsegna - Last Supper - WGA06786" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Duccio_di_Buoninsegna_-_Last_Supper_-_WGA06786.jpg">
+The Last Supper (1308 - 1311)
+<br/>
+Duccio di Buoninsegna
+</a>
+@endcenter
+
 
 @section{The Renaissance}
 <div class="timeline">
