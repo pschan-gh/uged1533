@@ -2,8 +2,6 @@
   <slides environment="" chapter_type="">
     <slide environment="" chapter_type="" wbtag="slide" canon_num="1" id="s1" slide="1" course="" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
       <keywords slide="1" environ="slide" chapter="" course=""/>
-      <paragraphs course="" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
     </slide>
   </slides>
   <course environment="" chapter_type="" type="Course" wbtag="course" title="UGED 1533">
@@ -16,8 +14,6 @@
       <slide environment="" chapter_type="" canon_num="2" scope="course" course="UGED 1533" title="UGED 1533" id="s2" slide="2" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <title environment="title" chapter_type="" wbtag="course" scope="course" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="2">UGED 1533</title>
         <keywords slide="2" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
       </slide>
     </slides>
     <chapter environment="" chapter_type="Chapter" type="Chapter" wbtag="chapter" num="1" title="Composition" no_serial="true" course="UGED 1533" serial="1">
@@ -30,8 +26,6 @@
         <slide environment="" chapter_type="Chapter" canon_num="3" scope="chapter" id="s3" slide="3" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" chapter_title="Composition" section_title="">
           <title environment="title" chapter_type="Chapter" wbtag="chapter" scope="chapter" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="3">Composition</title>
           <keywords slide="3" environ="slide" chapter="1" course="UGED 1533"/>
-          <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
         </slide>
         <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" chapter_title="Composition" section_title="">
           <keywords slide="4" environ="slide" chapter="1" course="UGED 1533"/>
@@ -45,8 +39,6 @@
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (Spring), late 15th Century, Sandro Botticelli (Italian)</paragraphs>
             </a>
           </div>
-          <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
         </slide>
         <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="5" id="s5" slide="5" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" chapter_title="Composition" section_title="">
           <keywords slide="5" environ="slide" chapter="1" course="UGED 1533"/>
@@ -57,7 +49,8 @@
               <i environment="" chapter_type="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Birth of Venus</paragraphs>
               </i>
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, late 15th Century, Sandro Botticelli</paragraphs>
+              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, late 15th Century, Sandro Botticelli
+</paragraphs>
             </a>
           </div>
           <comment course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="">
@@ -65,8 +58,6 @@
 @image{https://www.math.cuhk.edu.hk/~pschan/content/uged1533/proportions/images/venus_golden.jpg}
 What do you think?
 </comment>
-          <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
         </slide>
         <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533" chapter="1" section="" subsection="" subsubsection="" chapter_title="Composition" section_title="">
           <keywords slide="6" environ="slide" chapter="1" course="UGED 1533"/>
@@ -79,8 +70,6 @@ What do you think?
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">, late 19th Century,  Sir Lawrence Alma-Tadema (Dutch, active in Britain)</paragraphs>
             </a>
           </div>
-          <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
         </slide>
       </slides>
       <section environment="" chapter_type="" type="Section" wbtag="section" title="Academic Compositional Studies" course="UGED 1533" chapter="1" num="1" serial="1.1">
@@ -89,11 +78,7 @@ What do you think?
           <slide environment="" chapter_type="Chapter" canon_num="7" scope="section" id="s7" slide="7" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" chapter_title="Composition" section_title="Academic Compositional Studies">
             <title environment="title" chapter_type="Chapter" wbtag="section" scope="section" course="" chapter="" section="" subsection="" subsubsection="" serial="" slide="7">Academic Compositional Studies</title>
             <keywords slide="7" environ="slide" chapter="1" course="UGED 1533"/>
-            <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
             <newcol course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-              <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
               <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3520.JPG" wbtag="image"/>
               <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
               <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3523.JPG" wbtag="image"/>
@@ -251,8 +236,6 @@ What do you think?
               <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6760.JPG" wbtag="image"/>
               <hr xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" />
               <image course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" data-src="https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_6770.JPG" wbtag="image"/>
-              <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-</paragraphs>
             </newcol>
           </slide>
           <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="8" id="s8" slide="8" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" chapter_title="Composition" section_title="Academic Compositional Studies">
@@ -287,8 +270,6 @@ What do you think?
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">)</paragraphs>
               </a>
             </div>
-            <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
           </slide>
           <slide environment="" chapter_type="Chapter" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="1" section="1" subsection="" subsubsection="" chapter_title="Composition" section_title="Academic Compositional Studies">
             <keywords slide="9" environ="slide" chapter="1" course="UGED 1533">
@@ -307,8 +288,6 @@ What do you think?
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">Rest on the Flight into Egypt</paragraphs>
               </i>
             </div>
-            <paragraphs course="UGED 1533" chapter="1" chapter_type="" section="1" subsection="" subsubsection="" environment="" wbtag="paragraphs">
-</paragraphs>
           </slide>
         </slides>
       </section>
