@@ -1,86 +1,73 @@
 @course{UGED 1533}
-@chapter{Miscellany}['no_serial':'true']
+@chapter{Miscellany}Miscellany
 @section{Ideal Proportions}
 @subsection{Portrait of Carolus-Duran}
-<h5>by John Singer Sargent (19th Century)</h5>
-<div class="image"><a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Carolus-Duran.jpg#/media/File:Portrait_of_Carolus-Duran.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Portrait_of_Carolus-Duran.jpg/1920px-Portrait_of_Carolus-Duran.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Portrait of Carolus-Duran.jpg"></a><br>By <a href="https://en.wikipedia.org/wiki/John_Singer_Sargent" class="extiw" title="en:John Singer Sargent">John Singer Sargent</a> - <a rel="nofollow" class="external free" href="http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html">http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=61407">Link</a>
-</div>
-@col
-<div class="image">
-<p><a href="https://commons.wikimedia.org/wiki/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg#/media/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Charles_Auguste_%C3%89mile_Duran_c1880.jpg" alt="Charles Auguste Émile Duran c1880.jpg" height="900" width="644"></a><br>By Unidentified Artist - Harvard Art Museum/Fogg Museum, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=11218707">Link</a></p>
-</div>
+<h5 chapter_type="">by John Singer Sargent (19th Century)</h5><div chapter_type="" class="image">
+<a chapter_type="" href="https://commons.wikimedia.org/wiki/File:Portrait_of_Carolus-Duran.jpg#/media/File:Portrait_of_Carolus-Duran.jpg">
+<img chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Portrait_of_Carolus-Duran.jpg/1920px-Portrait_of_Carolus-Duran.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Portrait of Carolus-Duran.jpg"/></a><br chapter_type=""/>By <a chapter_type="" href="https://en.wikipedia.org/wiki/John_Singer_Sargent" class="extiw" title="en:John Singer Sargent">John Singer Sargent</a> - <a chapter_type="" rel="nofollow" class="external free" href="http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html">http://mintaka.sdsu.edu/faculty/erics/web/art/sargent_male.html</a>, Public Domain, <a chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=61407">Link</a></div>
+@newcol
+<div chapter_type="" class="image">
+<p chapter_type=""/><a chapter_type="" href="https://commons.wikimedia.org/wiki/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg#/media/File:Charles_Auguste_%C3%89mile_Duran_c1880.jpg">
+<img chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Charles_Auguste_%C3%89mile_Duran_c1880.jpg" alt="Charles Auguste Émile Duran c1880.jpg" height="900" width="644"/></a><br chapter_type=""/>By Unidentified Artist - Harvard Art Museum/Fogg Museum, Public Domain, <a chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=11218707">Link</a></div>
 @endcol
-@sep
+@slide
 @image{https://i.pinimg.com/736x/9f/68/a2/9f68a28e111191f4f30d2252e253657d--sistine-chapel-michelangelo.jpg}
-Part of <i>Last Judgment</i>, by Michelangelo (Sistine Chapel)
-<p>
-@col
-<div class="image"><a href="https://en.wikipedia.org/wiki/File:Supermanflying.png#/media/File:Supermanflying.png"><img src="https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png" alt="Supermanflying.png"></a><br>By <a rel="nofollow" class="external text" href="https://comicsalliance.com/best-art-ever-this-week-superman-75th-anniversary-edition/">comicsalliance.com</a>, <a href="//en.wikipedia.org/wiki/File:Supermanflying.png" title="Fair use of copyrighted material in the context of Superman">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=61390264">Link</a></div>
+Part of <i chapter_type="">Last Judgment</i>, by Michelangelo (Sistine Chapel)<p chapter_type=""/>
+@newcol
+<div chapter_type="" class="image">
+<a chapter_type="" href="https://en.wikipedia.org/wiki/File:Supermanflying.png#/media/File:Supermanflying.png">
+<img chapter_type="" src="https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png" alt="Supermanflying.png"/></a><br chapter_type=""/>By <a chapter_type="" rel="nofollow" class="external text" href="https://comicsalliance.com/best-art-ever-this-week-superman-75th-anniversary-edition/">comicsalliance.com</a>, <a chapter_type="" href="//en.wikipedia.org/wiki/File:Supermanflying.png" title="Fair use of copyrighted material in the context of Superman">Fair use</a>, <a chapter_type="" href="https://en.wikipedia.org/w/index.php?curid=61390264">Link</a></div>
 <!--
 @image{https://static.comicvine.com/uploads/scale_medium/8/81724/1488034-1257740_pic025.jpg}
 -->
-@sep
-<h3>Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </h3>
-<br>
-@image{images/bruegel1.jpg}
-<br>
-@image{images/bruegel2.jpg}
-@sep
-<h3> Jacques-Louis David (French, 1748 – 1825) </h3>
-<br>
-@image{images/death_socrates.jpg}
-@image{images/horatii.jpg}
-@sep
-<h3>Alberto Giacometti (Swiss, 1901 - 1966)</h3>
-<br>
-<div class=dual>
-<div class=dual-left style="width:33%">
-<img src="content/uged1533/images/2576.jpg">
+@endcol
+@slide
+<h3 chapter_type="">Pieter Bruegel the Elder (Netherlandish, 1525 – 1569) </h3><br chapter_type=""/>
+<div class="image'>
+<img src="content/uged1533/images/bruegel1.jpg" />
+<p/>
+<img src="content/uged1533/images/bruegel2.jpg" />
 </div>
-<div class=dual-left style="width:33%">
-<img src="content/uged1533/images/giacometti.jpg">
+@slide
+<h3 chapter_type=""> Jacques-Louis David (French, 1748 – 1825) </h3><br chapter_type=""/>
+<div class="image'>
+<img src="content/uged1533/images/death_socrates.jpg" />
+<p/>
+<img src="content/uged1533/images/horatii.jpg" />
 </div>
-<div class=dual-left style="width:33%">
-<img src="content/uged1533/images/giacometti3.jpg">
-</div>
-</div>
-@sep
-<h3>Fernando Botero (Colombian, 1932 - )</h3>
-<br>
-<div class=dual>
-<div class=dual-left style="width:50%">
-<img src="content/uged1533/images/botero1.jpg">
-</div>
-<div class=dual-left style="width:50%">
-<img src="content/uged1533/images/botero2.jpg">
-</div>
-</div>
+@slide
+<h3 chapter_type="">Alberto Giacometti (Swiss, 1901 - 1966)</h3><br chapter_type=""/><div chapter_type="" class="dual">
+<div chapter_type="" class="dual-left" style="width:33%">
+<img chapter_type="" src="content/uged1533/images/2576.jpg"/></div><div chapter_type="" class="dual-left" style="width:33%">
+<img chapter_type="" src="content/uged1533/images/giacometti.jpg"/></div><div chapter_type="" class="dual-left" style="width:33%">
+<img chapter_type="" src="content/uged1533/images/giacometti3.jpg"/></div></div>
+@slide
+<h3 chapter_type="">Fernando Botero (Colombian, 1932 - )</h3><br chapter_type=""/><div chapter_type="" class="dual">
+<div chapter_type="" class="dual-left" style="width:50%">
+<img chapter_type="" src="content/uged1533/images/botero1.jpg"/></div><div chapter_type="" class="dual-left" style="width:50%">
+<img chapter_type="" src="content/uged1533/images/botero2.jpg"/></div></div>
 @section{Composition}
-@sep
-<h3>Piet Mondrian (Dutch, 1872 - 1944),</h3>
+@slide
+<h3 chapter_type="">Piet Mondrian (Dutch, 1872 - 1944),</h3>
 @image{https://uploads2.wikiart.org/images/piet-mondrian/lonely-tree-at-the-gein-sun.jpg}
 
 @image{https://upload.wikimedia.org/wikipedia/commons/3/3c/Mondrian_-_Stammer_Mill_with_Streaked_Sky%2C_1905-1907.png}
-@col
-<div class=image>
-<p>
-<a href="https://commons.wikimedia.org/wiki/File:Tableau_I,_by_Piet_Mondriaan.jpg#/media/File:Tableau_I,_by_Piet_Mondriaan.jpg">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" alt="Piet Mondriaan abstract painting Tableau I, from 1921">
-</a>
-<br>
-By <a href="https://en.wikipedia.org/wiki/Piet_Mondrian" class="extiw" title="en:Piet Mondrian">Piet Mondrian</a> -
-<a href="http://www.gemeentemuseum.nl/collection/item/6713">Gemeentemuseum Den Haag</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=37668615">Link</a>
+@newcol
+<div chapter_type="" class="image">
+<p chapter_type=""/><a chapter_type="" href="https://commons.wikimedia.org/wiki/File:Tableau_I,_by_Piet_Mondriaan.jpg#/media/File:Tableau_I,_by_Piet_Mondriaan.jpg">
+<img chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" alt="Piet Mondriaan abstract painting Tableau I, from 1921"/></a><br chapter_type=""/>By <a chapter_type="" href="https://en.wikipedia.org/wiki/Piet_Mondrian" class="extiw" title="en:Piet Mondrian">Piet Mondrian</a> -<a chapter_type="" href="http://www.gemeentemuseum.nl/collection/item/6713">Gemeentemuseum Den Haag</a>, Public Domain, <a chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=37668615">Link</a>
 <!-- <a rel="nofollow" class="external text" href="http://www.gemeentemuseum.nl/collection/item/6713">Gemeentemuseum Den Haag</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=37668615">Link</a> -->
-</p>
+
 </div>
-@sep
-<iframe src="https://archive.org/stream/andrew-loomis-creative-illustration?ui=embed" width="100%" height="430" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+@endcol
+@slide
+<iframe chapter_type="" src="https://archive.org/stream/andrew-loomis-creative-illustration?ui=embed" width="100%" height="430" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"/>
 <!-- @sep -->
 <!-- <h3>Richard Diebenkorn (American, 1922 - 1993)</h3> -->
 <!-- <div class=image> -->
-<!-- <p><a href="https://en.wikipedia.org/wiki/File:Cityscape_I_360.jpg#/media/File:Cityscape_I_360.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Cityscape_I_360.jpg" alt="Cityscape I 360.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Cityscape_I_360.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=9927418">Link</a></p> -->
+<!-- <p/><a href="https://en.wikipedia.org/wiki/File:Cityscape_I_360.jpg#/media/File:Cityscape_I_360.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Cityscape_I_360.jpg" alt="Cityscape I 360.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Cityscape_I_360.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=9927418">Link</a> -->
 <!-- </div> -->
 <!-- @col -->
 <!-- <div class=image> -->
-<!-- <p><a href="https://en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg#/media/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" alt="Richard Diebenkorn's painting 'Ocean Park No. 67'.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=10974054">Link</a></p> -->
+<!-- <p/><a href="https://en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg#/media/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" alt="Richard Diebenkorn's painting 'Ocean Park No. 67'.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=10974054">Link</a> -->
 <!-- </div> -->
