@@ -1,7 +1,7 @@
 @course{UGED 1533 - Mathematics in Visual Art}
-@week{2}
 @topic{Proportions}
-@section{Human Proportions}
+@slide
+<h3>Human Proportions</h3>
 <p/><span class="fl">P</span>roportional measurement is a useful tool for drawing objects (in particular the human figure)
 to scale.  But besides this practical aspect,
 artists since Ancient Greece have incorporated into the aesthetic of their work the idea of @keyword{ideal proportions}.
@@ -145,7 +145,7 @@ Interestingly, that is the proportion adopted by the Renaissance artist Michelan
 <br/>
 Michelangelo Buonarroti</a></div>
 @endcol
-@section{Comparative Measurements in Drawing}
+<h3>Comparative Measurements in Drawing</h3>
 <span class="fl">W</span>hen using comparative measurement in drawing (say of the human figure), the student may find that certain lengths
 is not an exact integral multiple of the the length of the measuring unit.
 
@@ -222,7 +222,7 @@ in Tobin's proposed Kanon for the Doryphoros statue,
 various body parts are not necessarily commensurate with one another,
 since $\sqrt{2}$ is irrational.
 
-@section{Dynamic Symmetry}
+<h3>Dynamic Symmetry</h3>
 <div class="image" style="width:80%">
 <img src="content/uged1533/proportions/images/Root_rectangles_Hambidge_1920.png" rendered="1"/><a title="By Jay Hambidge (Dynamic symmetry: the Greek vase) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ARoot_rectangles_Hambidge_1920.png">Root Rectangles</a></div><span class="fl">T</span>he proposed use of the $1:\sqrt{2}$
 ratio in the Doryphoros statue is an example of a broader type of design system called @keyword{dynamic symmetry} promoted by American artist Jay Hambidge (1867-1924).

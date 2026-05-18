@@ -1,6 +1,20 @@
-@sep
 @course{UGED 1533}
 @chapter{Composition}["no_serial":"true"]
+@slide
+<h3 chapter_type="">Piet Mondrian (Dutch, 1872 - 1944),</h3>
+<div chapter_type="" class="image">
+<p chapter_type=""/><a chapter_type="" href="https://commons.wikimedia.org/wiki/File:Tableau_I,_by_Piet_Mondriaan.jpg#/media/File:Tableau_I,_by_Piet_Mondriaan.jpg">
+<img chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/3/36/Tableau_I%2C_by_Piet_Mondriaan.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled" alt="Piet Mondriaan abstract painting Tableau I, from 1921"/></a><br chapter_type=""/>By <a chapter_type="" href="https://en.wikipedia.org/wiki/Piet_Mondrian" class="extiw" title="en:Piet Mondrian">Piet Mondrian</a> -<a chapter_type="" href="http://www.gemeentemuseum.nl/collection/item/6713">Gemeentemuseum Den Haag</a>, Public Domain, <a chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=37668615">Link</a>
+<!-- <a rel="nofollow" class="external text" href="http://www.gemeentemuseum.nl/collection/item/6713">Gemeentemuseum Den Haag</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=37668615">Link</a> -->
+
+</div>
+
+@newcol
+@image{https://uploads2.wikiart.org/images/piet-mondrian/lonely-tree-at-the-gein-sun.jpg}
+
+@image{https://upload.wikimedia.org/wikipedia/commons/3/3c/Mondrian_-_Stammer_Mill_with_Streaked_Sky%2C_1905-1907.png}
+@endcol
+
 @sep
 <div class="image">
 <a href="https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg#/media/File:Botticelli-primavera.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Botticelli-primavera.jpg/3840px-Botticelli-primavera.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Botticelli-primavera.jpg"><br/>
@@ -24,6 +38,17 @@ What do you think?
 <a href="https://commons.wikimedia.org/wiki/File:The_Roses_of_Heliogabalus.jpg#/media/File:The_Roses_of_Heliogabalus.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/The_Roses_of_Heliogabalus.jpg/1280px-The_Roses_of_Heliogabalus.jpg" alt="The Roses of Heliogabalus.jpg">
 <i>The Roses of Heliogabalus</i>, late 19th Century,  Sir Lawrence Alma-Tadema (Dutch, active in Britain)</a>
 </div>
+@slide
+<iframe chapter_type="" src="https://archive.org/stream/andrew-loomis-creative-illustration?ui=embed" width="100%" height="430" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true"/>
+<!-- @sep -->
+<!-- <h3>Richard Diebenkorn (American, 1922 - 1993)</h3> -->
+<!-- <div class=image> -->
+<!-- <p/><a href="https://en.wikipedia.org/wiki/File:Cityscape_I_360.jpg#/media/File:Cityscape_I_360.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/b/b0/Cityscape_I_360.jpg" alt="Cityscape I 360.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Cityscape_I_360.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=9927418">Link</a> -->
+<!-- </div> -->
+<!-- @col -->
+<!-- <div class=image> -->
+<!-- <p/><a href="https://en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg#/media/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" alt="Richard Diebenkorn's painting 'Ocean Park No. 67'.jpg"></a><br><a href="//en.wikipedia.org/wiki/File:Richard_Diebenkorn%27s_painting_%27Ocean_Park_No._67%27.jpg" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=10974054">Link</a> -->
+<!-- </div> -->
 @section{Academic Compositional Studies}
 @col
 @image{https://www.math.cuhk.edu.hk/~pschan/content/uged1533/images/russian_compositional_studies/IMG_3520.JPG}
