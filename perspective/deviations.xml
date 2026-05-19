@@ -3,7 +3,6 @@
     <keywords slide="all" environ="course" chapter="" course="UGED 1533">
       <keyword chapter="" slide="all">The Column Problem</keyword>
       <keyword chapter="" slide="all">Curvilinear Perspective</keyword>
-      <keyword chapter="" slide="all">Links</keyword>
       <keyword chapter="" slide="all">Antonio Lopez Garcia</keyword>
     </keywords>
     <title environment="title" chapter_type="" wbtag="course" scope="course" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" serial="" slide="">UGED 1533</title>
@@ -17,13 +16,14 @@
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="2" id="s2" slide="2" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="2" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/N-2531-00-000020-wpu.jpg" environment="" />
-          <a href="https://www.nationalgallery.org.uk/paintings/pieter-saenredam-the-interior-of-the-grote-kerk-at-haarlem" target="_blank" environment="">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The Interior of the Grote Kerk at Haarlem
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/N-2531-00-000020-wpu.jpg" />
+          <a environment="" chapter_type="" href="https://www.nationalgallery.org.uk/paintings/pieter-saenredam-the-interior-of-the-grote-kerk-at-haarlem" target="_blank">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Interior of the Grote Kerk at Haarlem
 (1636-7)</paragraphs>
-            <br environment="" />
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Pieter Saenredam </paragraphs>
+            <br environment="" chapter_type="" />
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Pieter Saenredam
+</paragraphs>
           </a>
         </div>
       </slide>
@@ -31,10 +31,10 @@
         <keywords slide="3" environ="slide" chapter="" course="UGED 1533">
           <keyword chapter="" slide="3">The Column Problem</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Column Problem</paragraphs>
         </h3>
-        <span xmlns="http://www.w3.org/1999/xhtml" class="fl" environment="">
+        <span xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="fl">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">S</paragraphs>
         </span>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">o far, in our discussion of linear perspective, 
@@ -42,280 +42,252 @@ the basic setup was that the perspectival image is the intersection
 of the picture plane and the cone of light rays reflecting off the physical scene.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> As such, the perspectival image is an absolutely faithful imitation 
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+As such, the perspectival image is an absolutely faithful imitation 
 of the physical scene.
 Namely, an appropriately situated viewer of the picture sees an image that is 
 optically </paragraphs>
-          <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+          <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">identical</paragraphs>
           </i>
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> with what they would see had they been physically in front of the actual scene
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+with what they would see had they been physically in front of the actual scene
 at a correspondingly prescribed distance.</paragraphs>
           <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> We now examine what might happen when the viewer's eye is not fixed in space,
-in the context of what's commonly known as "The Column Problem." </paragraphs>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+We now examine what might happen when the viewer's eye is not fixed in space,
+in the context of what's commonly known as "The Column Problem."
+</paragraphs>
           </collapse>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="4" environ="slide" chapter="" course="UGED 1533"/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Suppose we wish to depict a row of evenly spaced Greek columns parallel to the picture plane (i.e. front facing).
-Two rules of linear perspective relevant to this construction are as follows: </paragraphs>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Suppose we wish to depict a row of evenly spaced Greek columns parallel to the picture plane (i.e. front facing).
+Two rules of linear perspective relevant to this construction are as follows:
+</paragraphs>
+        <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
         <col_ol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_ol">
           <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_li">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs"> Physical ellipses project to pictorial ellipses. </paragraphs>
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs">
+Physical ellipses, wholly on one side of the picture plane, project to pictorial ellipses.
+</paragraphs>
           </col_li>
           <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="col_li">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs"> Linear perspectival projection preserves tangency.  In other words,
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ol" wbtag="paragraphs">
+Linear perspectival projection preserves tangency.  In other words,
 if a physical line is tangent to a physical object, 
-then their pictorial projections are also tangent. </paragraphs>
+then their pictorial projections are also tangent.
+</paragraphs>
           </col_li>
         </col_ol>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> From these two rules, it may be deduced that 
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+From these two rules, it may be deduced that 
 the bases of the columns project to ellipses which 
 becomes more and more elongated and slanted towards the left and right ends 
-of the picture. </paragraphs>
+of the picture.
+</paragraphs>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="5" id="s5" slide="5" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="5" environ="slide" chapter="" course="UGED 1533"/>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/gri_33125009324910_0070.jpg" environment="" />
-          <a href="https://archive.org/details/gri_33125009324910" environment="">
-            <i environment="">
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/gri_33125009324910_0070.jpg" />
+          <a environment="" chapter_type="" href="https://archive.org/details/gri_33125009324910">
+            <i environment="" chapter_type="">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Perspective</paragraphs>
             </i>
           </a>
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Hans Vredeman de Vries </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Hans Vredeman de Vries
+</paragraphs>
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="6" id="s6" slide="6" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="6" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Moreover, the projected images of the columns would appear
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+Moreover, the projected images of the columns would appear
 wider and wider, and spaced closer and closer, 
 towards either end of the picture plane.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/columns.svg" environment="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/columns.svg" />
         </div>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> All of that is perfectly fine with regard to the rules of linear perspective, 
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">All of that is perfectly fine with regard to the rules of linear perspective, 
 and would in fact create the correct optical illusion, provided that
-the spectator views the painting </paragraphs>
-        <i xmlns="http://www.w3.org/1999/xhtml" environment="">
-          <b environment="">
+the spectator views the painting
+</paragraphs>
+        <i xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <b environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">from a uniquely prescribed height and distance with one immobile eye</paragraphs>
           </b>
         </i>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.   </paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">.  
+</paragraphs>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="7" id="s7" slide="7" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="7" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In reality, that is almost never the 
-case, and to a casual viewer strolling by, the columns would just appear distorted. </paragraphs>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> 
-(Another factor is that many paintings do not aim to produce an illusory space
-which is in one-to-one scale to the scene being illustrated.  
-The distortions might appear especially pronounced if the painting is 
-a scaled-down version of the original scene, which is very often the case.)
-</comment>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> This phenomenon has been a subject of serious consideration since the Renaissance, 
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+In reality, that is almost never the 
+case, and to a casual viewer strolling by, the columns would just appear distorted.</paragraphs>
+        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">This phenomenon has been a subject of serious consideration since the Renaissance, 
 by such eminent figures as Piero della Francesca and Leonardo da Vinci.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Leonardo studied this problem of distortion to the roving viewer
-and concluded that it cannot be avoided, unless the picture plane is situated: </paragraphs>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+Leonardo studied this problem of distortion to the roving viewer
+and concluded that it cannot be avoided, unless the picture plane is situated:</paragraphs>
+          <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
-              <i environment="newcol">
-                <a href="https://en.wikisource.org/wiki/The_Notebooks_of_Leonardo_Da_Vinci/IX" target="_blank" environment="newcol">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> ...at least 20 times as far off as the greatest width or height of the objects 
-represented. </paragraphs>
+            <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
+              <i environment="newcol" chapter_type="">
+                <a environment="newcol" chapter_type="" href="https://en.wikisource.org/wiki/The_Notebooks_of_Leonardo_Da_Vinci/IX" target="_blank">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">...at least 20 times as far off as the greatest width or height of the objects 
+represented.
+</paragraphs>
                 </a>
               </i>
             </blockquote>
-            <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"> https://en.wikisource.org/wiki/The_Notebooks_of_Leonardo_Da_Vinci/IX </comment>
             <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> In otherwords, if you want to incorporate into your painting
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+In otherwords, if you want to incorporate into your painting
 a row of columns, 
 and you have not either the means or intention of fixing your viewer's eye at one point 
 in space, </paragraphs>
-              <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+              <i xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
                 <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">and</paragraphs>
               </i>
               <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> you want to achieve a convincing visual illusion,
 then you should consider placing any front-facing row of columns 
-far into the background. </paragraphs>
+far into the background.
+</paragraphs>
             </collapse>
           </collapse>
         </newcol>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="8" id="s8" slide="8" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="8" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> In practice, painters who utilize linear perspective sometimes
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+In practice, painters who utilize linear perspective sometimes
 "break the rules" when it comes to circles and columns.
 Dora Norton opined in </paragraphs>
-        <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <i xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Freehand Perspective and Sketching</paragraphs>
         </i>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> that:</paragraphs>
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+that:</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="">
-          <i environment="">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> ... cylindrical objects, however placed, 
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <i environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">... cylindrical objects, however placed, 
 should be drawn as if for those objects alone...
 But this does not apply to the 
 straight-line portions of the 
 picture..., nor to the placing of the cylindrical parts, nor 
-to their height. These must be determined in the ordinary way </paragraphs>
+to their height. These must be determined in the ordinary way
+</paragraphs>
           </i>
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">[(i.e. using standard rules of linear perpsective)]. </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">[(i.e. using standard rules of linear perpsective)].
+</paragraphs>
         </blockquote>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;p/&gt; </comment>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;div class=image style='width:100%'&gt; </comment>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> </comment>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> src="https://archive.org/stream/freehandperspect00nortrich#page/140/mode/2up </comment>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> "&gt;&lt;/iframe&gt; </comment>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;a href="https://archive.org/details/freehandperspect00nortrich"&gt; </comment>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;br&gt; </comment>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;i&gt;Freehand Perspective and Sketching&lt;/i&gt;&lt;/a&gt;, Dora M. Norton. </comment>
-        <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""> &lt;/div&gt; </comment>
-      </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="9" environ="slide" chapter="" course="UGED 1533"/>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> Hence, in a painting which otherwise adheres to the rule of linear perspective 
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+de
+Hence, in a painting which otherwise adheres to the rule of linear perspective 
 with absolute precision, the base of a cylindrical column off to the side 
 may be depicted as a level ellipse, instead of a slanted one.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
-        <br xmlns="http://www.w3.org/1999/xhtml" environment="" />
-        <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="">
-          <img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/1024px-Bargue_The_Chess_Game.jpg" environment="" />
-          <a title="Charles Bargue [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABargue_The_Chess_Game.jpg" environment="">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The Chess Game</paragraphs>
+        <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
+        <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
+          <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/1024px-Bargue_The_Chess_Game.jpg" />
+          <a environment="" chapter_type="" title="Charles Bargue [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABargue_The_Chess_Game.jpg">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Chess Game</paragraphs>
           </a>
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (1883) </paragraphs>
-          <br environment="" />
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Charles Bargue </paragraphs>
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (1883)
+</paragraphs>
+          <br environment="" chapter_type="" />
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Charles Bargue
+</paragraphs>
         </div>
       </slide>
-      <slide environment="" chapter_type="" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
-        <keywords slide="10" environ="slide" chapter="" course="UGED 1533">
-          <keyword chapter="" slide="10">Curvilinear Perspective</keyword>
-          <keyword chapter="" slide="10">Links</keyword>
-          <keyword chapter="" slide="10">Antonio Lopez Garcia</keyword>
+      <slide environment="" chapter_type="" wbtag="slide" canon_num="9" id="s9" slide="9" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
+        <keywords slide="9" environ="slide" chapter="" course="UGED 1533">
+          <keyword chapter="" slide="9">Curvilinear Perspective</keyword>
+          <keyword chapter="" slide="9">Antonio Lopez Garcia</keyword>
         </keywords>
-        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <h3 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Curvilinear Perspective</paragraphs>
         </h3>
-        <p xmlns="http://www.w3.org/1999/xhtml" environment=""></p>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> The basic optical mechanism of the human eye is not unlike that of a camera.
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+The basic optical mechanism of the human eye is not unlike that of a camera.
 The chief difference is that an inverted image of the physical scene
 is now projected onto the </paragraphs>
-        <i xmlns="http://www.w3.org/1999/xhtml" environment="">
+        <i xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">spherical</paragraphs>
         </i>
         <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (or more accurately quasi-spherical) 
 surface of the retina.</paragraphs>
         <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> This projection is a type of </paragraphs>
-          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+This projection is a type of </paragraphs>
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">curvilinear perspective</paragraphs>
           </b>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">.
 In the eyeball situation,
 the projected retinal image is subject to </paragraphs>
-          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol">
+          <b xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">barrel distortion</paragraphs>
           </b>
           <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">,
 where every physical line projects to a line which terminates at a vanishing point 
-(whereas in the case of linear perspective, a transversal line has no vanishing point.) </paragraphs>
-          <div xmlns="http://www.w3.org/1999/xhtml" class="image" environment="newcol">
-            <p environment="newcol"></p>
-            <a href="https://commons.wikimedia.org/wiki/File:Barrel_distortion.svg#/media/File:Barrel_distortion.svg" environment="newcol">
-              <img style="width:50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Barrel_distortion.svg/1200px-Barrel_distortion.svg.png" alt="Barrel distortion.svg" environment="newcol" />
-            </a>
-            <br environment="newcol" />
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">By </paragraphs>
-            <a href="//commons.wikimedia.org/w/index.php?title=User:WolfWings&amp;action=edit&amp;redlink=1" class="new" title="User:WolfWings (page does not exist)" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">WolfWings</paragraphs>
-            </a>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> - </paragraphs>
-            <span class="int-own-work" lang="en" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Own work</paragraphs>
-            </span>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, Public Domain, </paragraphs>
-            <a href="https://commons.wikimedia.org/w/index.php?curid=1388846" environment="newcol">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
+(whereas in the case of linear perspective, a transversal line has no vanishing point.)
+</paragraphs>
+          <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+            <a environment="newcol" chapter_type="" title="WolfWings, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Barrel_distortion.svg">
+              <img environment="newcol" chapter_type="" width="250" alt="Barrel distortion" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Barrel_distortion.svg/250px-Barrel_distortion.svg.png" />
             </a>
           </div>
-          <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> In more concrete terms, barrel distortion is demonstrated in Leonardo da Vinci's 
+            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+In more concrete terms, barrel distortion is demonstrated in Leonardo da Vinci's 
 observation that a long rectangular shape facing the viewer appears to
 diminish in height towards either end of the field of vision.
 Likewise, it is barrel distortion at work
 when a tall building appears narrower and narrower (however slightly) 
 towards the top of our field of vision.</paragraphs>
             <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
-            <p xmlns="http://www.w3.org/1999/xhtml" environment="newcol"></p>
             <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
-              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Hence, our visual experience of the world really obeys the laws of
+              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+Hence, our visual experience of the world really obeys the laws of
 curvilinear perpsective, 
 even though we may not think that is the case, 
 since the deviation from linear perspective is often slight, 
-and only clearly noticeable in our peripheral vision. </paragraphs>
+and only clearly noticeable in our peripheral vision.
+</paragraphs>
             </collapse>
           </collapse>
         </newcol>
-        <h4 xmlns="http://www.w3.org/1999/xhtml" environment="">
-          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Links</paragraphs>
-        </h4>
-        <itemize course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize" wbtag="itemize">
-          <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize" wbtag="paragraphs">   </paragraphs>
-          <item course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize" wbtag="item">
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize" wbtag="paragraphs">   </paragraphs>
-            <h5 xmlns="http://www.w3.org/1999/xhtml" environment="itemize">
-              <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize" wbtag="paragraphs">Antonio Lopez Garcia</paragraphs>
-            </h5>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize" wbtag="paragraphs">   </paragraphs>
-            <col_ul course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="col_ul">
-              <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="paragraphs">     </paragraphs>
-              <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="col_li">
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="paragraphs">     </paragraphs>
-                <href course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" src="https://linusfontrodona.files.wordpress.com/2017/06/antonio-lc3b3pez-lavabo-y-espejo-1967.jpg?w=775" name="https://linusfontrodona.files.wordpress.com/2017/06/antonio-lc3b3pez-lavabo-y-espejo-1967.jpg?w=775" wbtag="href" argument="https://linusfontrodona.files.wordpress.com/2017/06/antonio-lc3b3pez-lavabo-y-espejo-1967.jpg?w=775"/>
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="paragraphs">     </paragraphs>
-              </col_li>
-              <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="col_li">
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="paragraphs">     </paragraphs>
-                <href course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" src="https://linusfontrodona.files.wordpress.com/2017/07/el-cuarto-de-bac3b1o-the-bathroom-1966-oil-on-panel.jpg" name="https://linusfontrodona.files.wordpress.com/2017/07/el-cuarto-de-bac3b1o-the-bathroom-1966-oil-on-panel.jpg" wbtag="href" argument="https://linusfontrodona.files.wordpress.com/2017/07/el-cuarto-de-bac3b1o-the-bathroom-1966-oil-on-panel.jpg"/>
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="paragraphs">     </paragraphs>
-              </col_li>
-              <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="col_li">
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="paragraphs">     </paragraphs>
-                <href course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" src="http://www.timlowly.com/a/lopezgarcia.html" name="http://www.timlowly.com/a/lopezgarcia.html" wbtag="href" argument="http://www.timlowly.com/a/lopezgarcia.html"/>
-                <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="paragraphs">   </paragraphs>
-              </col_li>
-            </col_ul>
-            <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize" wbtag="paragraphs">   </paragraphs>
-            <comment course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="itemize"> @li
-  &lt;a target="_blank" href="http://www.clairelau.net/"&gt;Claire Lau&lt;/a&gt;
-  @li
-  &lt;a target="_blank" href="https://www.facebook.com/pg/arieswuchunyin/photos/"&gt;Aries WU Chun Yin
-  &lt;/a&gt;
-  </comment>
-          </item>
-        </itemize>
+        <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+        <h5 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
+          <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Antonio Lopez Garcia</paragraphs>
+        </h5>
+        <col_ul course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="col_ul">
+          <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="col_li">
+            <href course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" src="https://linusfontrodona.files.wordpress.com/2017/06/antonio-lc3b3pez-lavabo-y-espejo-1967.jpg?w=775" name="https://linusfontrodona.files.wordpress.com/2017/06/antonio-lc3b3pez-lavabo-y-espejo-1967.jpg?w=775" argument="https://linusfontrodona.files.wordpress.com/2017/06/antonio-lc3b3pez-lavabo-y-espejo-1967.jpg?w=775" wbtag="href"/>
+          </col_li>
+          <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="col_li">
+            <href course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" src="https://linusfontrodona.files.wordpress.com/2017/07/el-cuarto-de-bac3b1o-the-bathroom-1966-oil-on-panel.jpg" name="https://linusfontrodona.files.wordpress.com/2017/07/el-cuarto-de-bac3b1o-the-bathroom-1966-oil-on-panel.jpg" argument="https://linusfontrodona.files.wordpress.com/2017/07/el-cuarto-de-bac3b1o-the-bathroom-1966-oil-on-panel.jpg" wbtag="href"/>
+          </col_li>
+          <col_li course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" wbtag="col_li">
+            <href course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="col_ul" src="http://www.timlowly.com/a/lopezgarcia.html" name="http://www.timlowly.com/a/lopezgarcia.html" argument="http://www.timlowly.com/a/lopezgarcia.html" wbtag="href"/>
+          </col_li>
+        </col_ul>
       </slide>
     </slides>
   </course>
