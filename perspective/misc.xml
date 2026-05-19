@@ -22,12 +22,11 @@
         <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Byzantine Art</paragraphs>
         </h4>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
           <a environment="" chapter_type="" title="National Gallery of Art&#10;, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Italo-Byzantinischer_Maler_des_13._Jahrhunderts_001.jpg">
             <img environment="" chapter_type="" width="256" alt="Italo-Byzantinischer Maler des 13. Jahrhunderts 001" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Italo-Byzantinischer_Maler_des_13._Jahrhunderts_001.jpg/1280px-Italo-Byzantinischer_Maler_des_13._Jahrhunderts_001.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail" />
           </a>
-          <newline xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment=""/>
+          <br environment="" chapter_type="" />
           <i environment="" chapter_type="">
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Enthroned Madonna and Child</paragraphs>
           </i>
@@ -42,11 +41,14 @@
         <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Cimabue (c. 1240 – 1302)</paragraphs>
         </h4>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
           <a environment="" chapter_type="" title="Cimabue, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg">
-            <img environment="" chapter_type="" width="1024" alt="Cimabue - Maestà di Santa Trinita - Google Art Project" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg/960px-Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail" />
+            <img environment="" chapter_type="" width="360" alt="Cimabue - Maestà di Santa Trinita - Google Art Project" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg/960px-Cimabue_-_Maest%C3%A0_di_Santa_Trinita_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail" />
           </a>
+          <br environment="" chapter_type="" />
+          <i environment="" chapter_type="">
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Madonna and Child Enthroned with Angels and Prophets.</paragraphs>
+          </i>
         </div>
       </slide>
       <slide environment="" chapter_type="" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
@@ -56,7 +58,6 @@
         <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Giotto (c. 1270 - 1337)</paragraphs>
         </h4>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
           <a environment="" chapter_type="" title="Giotto&#10;, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Giotto,_Lower_Church_Assisi,_Raising_of_the_Boy_in_Sessa_01.jpg">
             <img environment="" chapter_type="" width="1024" alt="Giotto, Lower Church Assisi, Raising of the Boy in Sessa 01" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Giotto%2C_Lower_Church_Assisi%2C_Raising_of_the_Boy_in_Sessa_01.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled" />
@@ -76,12 +77,13 @@
         <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <newcol course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="newcol">
           <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
+            <p environment="newcol" chapter_type=""></p>
             <a environment="newcol" chapter_type="" href="https://commons.wikimedia.org/wiki/File:Assisis_Basilica_superiore.jpg#/media/File:Assisis_Basilica_superiore.jpg">
-              <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Giotto_-_Legend_of_St_Francis_-_-17-_-_St_Francis_Preaching_before_Honorius_III.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled" alt="Assisis Basilica superiore.jpg" />
+              <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Assisis_Basilica_superiore.jpg" alt="File:Assisis Basilica superiore.jpg" height="764" width="510" />
             </a>
             <br environment="newcol" chapter_type="" />
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">By </paragraphs>
-            <a environment="newcol" chapter_type="" href="//commons.wikimedia.org/w/index.php?title=Utente:Starlight&amp;&amp;action=edit&amp;&amp;redlink=1" class="new" title="Utente:Starlight (page does not exist)">
+            <a environment="newcol" chapter_type="" href="//commons.wikimedia.org/w/index.php?title=Utente:Starlight&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="Utente:Starlight (page does not exist)">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Starlight</paragraphs>
             </a>
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> - </paragraphs>
@@ -94,27 +96,28 @@
             </a>
           </div>
           <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
-            <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Assisi_Altare_Basilica_inferiore.jpg" alt="Assisi Altare Basilica inferiore.jpg" />
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> By </paragraphs>
-            <a environment="newcol" chapter_type="" href="//commons.wikimedia.org/w/index.php?title=Utente:Starlight&amp;action=edit&amp;redlink=1" class="new" title="Utente:Starlight (page does not exist)">
+            <p environment="newcol" chapter_type=""></p>
+            <a environment="newcol" chapter_type="" href="https://commons.wikimedia.org/wiki/File:Assisi_Altare_Basilica_inferiore.jpg#/media/File:Assisi_Altare_Basilica_inferiore.jpg">
+              <img environment="newcol" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Assisi_Altare_Basilica_inferiore.jpg" alt="File:Assisi Altare Basilica inferiore.jpg" />
+            </a>
+            <br environment="newcol" chapter_type="" />
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">By </paragraphs>
+            <a environment="newcol" chapter_type="" href="//commons.wikimedia.org/w/index.php?title=Utente:Starlight&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="Utente:Starlight (page does not exist)">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Starlight</paragraphs>
             </a>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
- - </paragraphs>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> - </paragraphs>
             <span environment="newcol" chapter_type="" class="int-own-work" lang="en">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Own work</paragraphs>
             </span>
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
-, Public Domain, </paragraphs>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">, Public Domain, </paragraphs>
             <a environment="newcol" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=760277">
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">Link</paragraphs>
             </a>
           </div>
-          <newline course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol"/>
           <collapse course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="collapse">
             <div xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="" class="image">
               <a environment="newcol" chapter_type="" title="By Roberto Ferrari from Campogalliano (Modena), Italy (Assisi) [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AAssisi-skyline.jpg">
-                <img environment="newcol" chapter_type="" width="512" alt="Assisi-skyline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Assisi-skyline.jpg/512px-Assisi-skyline.jpg" />
+                <img environment="newcol" chapter_type="" width="512" alt="Assisi-skyline" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Assisi-skyline.jpg/1280px-Assisi-skyline.jpg" />
               </a>
               <br environment="newcol" chapter_type="" />
               <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs"> Basilica of Saint Francis of Assisi </paragraphs>
@@ -129,7 +132,6 @@
         <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Paolo Uccello (1397 - 1475, Italian)</paragraphs>
         </h4>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
           <a environment="" chapter_type="" title="Paolo Uccello [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASan_Romano_Battle_(Paolo_Uccello%2C_London)_01.jpg">
             <img environment="" chapter_type="" width="512" alt="San Romano Battle (Paolo Uccello, London) 01" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/San_Romano_Battle_%28Paolo_Uccello%2C_London%29_01.jpg/3840px-San_Romano_Battle_%28Paolo_Uccello%2C_London%29_01.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail" />
@@ -151,7 +153,6 @@
         <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Giovanni Bellini (c. 1430 - 1516, Italian)</paragraphs>
         </h4>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
           <a environment="" chapter_type="" title="Giovanni Bellini [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AFrari_Triptych.PNG">
             <img environment="" chapter_type="" width="512" alt="Frari Triptych" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Frari_Triptych.PNG?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled" />
@@ -197,7 +198,6 @@
         <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Johannes Vermeer (1632 - 1675, Dutch)</paragraphs>
         </h4>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
           <a environment="" chapter_type="" title="Johannes Vermeer [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AJohannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg">
             <img environment="" chapter_type="" width="512" alt="Johannes Vermeer - Het melkmeisje - Google Art Project" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg/1920px-Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail" />
@@ -223,7 +223,6 @@
         <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Pieter de Hooch (1629 - 1684, Dutch)</paragraphs>
         </h4>
-        <hr xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
           <a environment="" chapter_type="" title="Pieter de Hooch [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3APieter_de_Hooch_-_The_Visit_-_WGA11684.jpg">
             <img environment="" chapter_type="" width="1024" alt="Pieter de Hooch - The Visit - WGA11684" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Pieter_de_Hooch_-_The_Visit_-_WGA11684.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail_unscaled" />
