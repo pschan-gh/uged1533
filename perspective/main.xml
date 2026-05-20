@@ -373,10 +373,10 @@ which lie on the same vertical level on the picture plane.
               </col_ol>
               <newcol course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="newcol">
                 <center course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="center" wbtag="center">
-                  <div xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="" style="width:480px; height:600px; overflow:hidden;">
+                  <div xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="" style="margin:0 auto; width:480px; height:600px; overflow:hidden;">
                     <iframe environment="center" chapter_type="" loading="lazy" src="https://pingshunchanart.com/linpersp/vp/demo.html?exhibit=transversal" style="width:100%; height:100%; border:none;"></iframe>
                   </div>
-                  <div xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="" style="width:480px; height:600px; overflow:hidden;">
+                  <div xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="" style="margin:0 auto; width:480px; height:600px; overflow:hidden;">
                     <iframe environment="center" chapter_type="" loading="lazy" src="https://pingshunchanart.com/linpersp/vp/demo.html?exhibit=nontransversal" style="width:100%; height:100%; border:none;"></iframe>
                   </div>
                 </center>
