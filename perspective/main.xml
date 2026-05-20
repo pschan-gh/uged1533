@@ -9,7 +9,8 @@
       <keyword chapter="" slide="all">vanishing point</keyword>
       <keyword chapter="" slide="all">horizon</keyword>
       <keyword chapter="" slide="all">camera obscura</keyword>
-      <keyword chapter="" slide="all">Tim's Vermeer</keyword>
+      <keyword chapter="" slide="all">
+</keyword>
       <keyword chapter="" slide="all">Antonio Mancini (1852 - 1930, Italian)</keyword>
       <keyword chapter="" slide="all">Antonio Lopez Garcia (Spanish)</keyword>
       <keyword chapter="" slide="all">References</keyword>
@@ -32,7 +33,8 @@
         <keyword chapter="4" slide="all">vanishing point</keyword>
         <keyword chapter="4" slide="all">horizon</keyword>
         <keyword chapter="4" slide="all">camera obscura</keyword>
-        <keyword chapter="4" slide="all">Tim's Vermeer</keyword>
+        <keyword chapter="4" slide="all">
+</keyword>
         <keyword chapter="4" slide="all">Antonio Mancini (1852 - 1930, Italian)</keyword>
         <keyword chapter="4" slide="all">Antonio Lopez Garcia (Spanish)</keyword>
         <keyword chapter="4" slide="all">References</keyword>
@@ -440,23 +442,15 @@ A tiled floor viewed in perspective:</paragraphs>
                   <img environment="" chapter_type="" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Antonello_da_Messina_-_St_Jerome_in_his_study_-_National_Gallery_London.jpg" alt="File:Antonello da Messina - St Jerome in his study - National Gallery London.jpg" />
                 </a>
                 <br environment="" chapter_type="" />
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">By </paragraphs>
-                <a environment="" chapter_type="" href="https://en.wikipedia.org/wiki/en:Antonello_da_Messina" class="extiw" title="w:en:Antonello da Messina">
-                  <span environment="" chapter_type="" title="Italian Renaissance painter (1430–1479)">
-                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Antonello da Messina</paragraphs>
-                  </span>
-                </a>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> - </paragraphs>
-                <a environment="" chapter_type="" rel="nofollow" class="external text" href="http://gallerix.ru/album/National-Gallery-London-1/pic/glrx-576860590">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">gallerix.ru</paragraphs>
-                </a>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> and </paragraphs>
                 <a environment="" chapter_type="" rel="nofollow" class="external text" href="http://www.nationalgallery.org.uk/paintings/antonello-da-messina-saint-jerome-in-his-study">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">National Gallery, London</paragraphs>
+                  <i environment="" chapter_type="">
+                    <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">St Jerome in his study</paragraphs>
+                  </i>
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs"> (circa 1474)</paragraphs>
                 </a>
-                <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">, Public Domain, </paragraphs>
-                <a environment="" chapter_type="" href="https://commons.wikimedia.org/w/index.php?curid=147583">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Link</paragraphs>
+                <br environment="" chapter_type="" />
+                <a environment="" chapter_type="" href="https://en.wikipedia.org/wiki/Antonello_da_Messina">
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">Antonello da Messina</paragraphs>
                 </a>
               </div>
             </slide>
@@ -696,7 +690,8 @@ with the singular goal of fulfilling the needs of their artwork
             </slide>
             <slide environment="" chapter_type="Lecture" wbtag="slide" canon_num="25" id="s25" slide="25" course="UGED 1533" chapter="4" section="1" subsection="1" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
               <keywords slide="25" environ="slide" chapter="4" course="UGED 1533">
-                <keyword chapter="4" slide="25">Tim's Vermeer</keyword>
+                <keyword chapter="4" slide="25">
+</keyword>
               </keywords>
               <h4 xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
                 <i environment="" chapter_type="">
@@ -761,7 +756,8 @@ with the singular goal of fulfilling the needs of their artwork
                 </i>
               </a>
               <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
-              <paragraphs course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">(Pictorial Methodology in Antonio López García's work),
+              <paragraphs course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="" wbtag="paragraphs">
+(Pictorial Methodology in Antonio López García's work),
 David Serrano León, LABORATORIO DE ARTE 24 (2012), pp. 717-737.
 </paragraphs>
             </slide>

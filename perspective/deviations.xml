@@ -19,7 +19,8 @@
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
           <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/N-2531-00-000020-wpu.jpg" />
           <a environment="" chapter_type="" href="https://www.nationalgallery.org.uk/paintings/pieter-saenredam-the-interior-of-the-grote-kerk-at-haarlem" target="_blank">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Interior of the Grote Kerk at Haarlem
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+The Interior of the Grote Kerk at Haarlem
 (1636-7)</paragraphs>
             <br environment="" chapter_type="" />
             <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Pieter Saenredam
@@ -65,7 +66,8 @@ in the context of what's commonly known as "The Column Problem."
       <slide environment="" chapter_type="" wbtag="slide" canon_num="4" id="s4" slide="4" course="UGED 1533" chapter="" section="" subsection="" subsubsection="" chapter_title="" section_title="">
         <keywords slide="4" environ="slide" chapter="" course="UGED 1533"/>
         <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
-        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">Suppose we wish to depict a row of evenly spaced Greek columns parallel to the picture plane (i.e. front facing).
+        <paragraphs course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+Suppose we wish to depict a row of evenly spaced Greek columns parallel to the picture plane (i.e. front facing).
 Two rules of linear perspective relevant to this construction are as follows:
 </paragraphs>
         <p xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type=""></p>
@@ -146,7 +148,8 @@ and concluded that it cannot be avoided, unless the picture plane is situated:</
             <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="newcol" chapter_type="">
               <i environment="newcol" chapter_type="">
                 <a environment="newcol" chapter_type="" href="https://en.wikisource.org/wiki/The_Notebooks_of_Leonardo_Da_Vinci/IX" target="_blank">
-                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">...at least 20 times as far off as the greatest width or height of the objects 
+                  <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="newcol" wbtag="paragraphs">
+...at least 20 times as far off as the greatest width or height of the objects 
 represented.
 </paragraphs>
                 </a>
@@ -184,7 +187,8 @@ that:</paragraphs>
         <br xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" />
         <blockquote xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="">
           <i environment="" chapter_type="">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">... cylindrical objects, however placed, 
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+... cylindrical objects, however placed, 
 should be drawn as if for those objects alone...
 But this does not apply to the 
 straight-line portions of the 
@@ -205,7 +209,8 @@ may be depicted as a level ellipse, instead of a slanted one.</paragraphs>
         <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" class="image">
           <img environment="" chapter_type="" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/perspective/images/1024px-Bargue_The_Chess_Game.jpg" />
           <a environment="" chapter_type="" title="Charles Bargue [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABargue_The_Chess_Game.jpg">
-            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">The Chess Game</paragraphs>
+            <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs">
+The Chess Game</paragraphs>
           </a>
           <paragraphs xmlns="http://www.math.cuhk.edu.hk/~pschan/cranach" course="UGED 1533" chapter="" chapter_type="" section="" subsection="" subsubsection="" environment="" wbtag="paragraphs"> (1883)
 </paragraphs>
