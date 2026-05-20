@@ -78,7 +78,7 @@ the flat picture plane.
 <img chapter_type="" src="http://digilib.mpiwg-berlin.mpg.de/digitallibrary/servlet/Scaler?fn=/permanent/library/C2PG4QN1/pageimg&pn=90&dw=1376&dh=860"/><a chapter_type="" href="http://echo.mpiwg-berlin.mpg.de/ECHOdocuView?tocMode=none&url=/mpiwg/online/permanent/library/C2PG4QN1/pageimg&start=81&viewMode=images&mode=imagepath&pn=90">
 <i chapter_type="">New principles of linear perspective, or the art of designing on a plane the representations of all sorts of objects, in a more general and simple method than has been done before</i></a> by <a chapter_type="" href="https://en.wikipedia.org/wiki/Brook_Taylor">Brook Taylor</a></div>
 @slide
-<div style="margin:0 auto; width:480px; height:600px; overflow:hidden;">
+<div style="margin:0 auto; width:100%; height:600px; overflow:hidden;">
   <iframe 
     chapter_type="" 
     loading="lazy" 
@@ -139,7 +139,7 @@ which lie on the same vertical level on the picture plane.
 @endol
 @newcol
 @center
-<div style="margin:0 auto; width:480px; height:600px; overflow:hidden;">
+<div style="margin:0 auto; width:100%; height:600px; overflow:hidden;">
   <iframe 
     chapter_type="" 
     loading="lazy" 
@@ -147,7 +147,7 @@ which lie on the same vertical level on the picture plane.
     style="width:100%; height:100%; border:none;"
   />
 </div>
-<div style="margin:0 auto; width:480px; height:600px; overflow:hidden;">
+<div style="margin:0 auto; width:100%; height:600px; overflow:hidden;">
   <iframe 
     chapter_type="" 
     loading="lazy" 

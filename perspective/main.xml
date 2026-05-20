@@ -248,7 +248,7 @@ the flat picture plane.
           </slide>
           <slide environment="" chapter_type="Lecture" wbtag="slide" canon_num="10" id="s10" slide="10" course="UGED 1533" chapter="4" section="1" subsection="" subsubsection="" chapter_title="Linear Perspective" section_title="The Mathematics of Linear Perspective">
             <keywords slide="10" environ="slide" chapter="4" course="UGED 1533"/>
-            <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" style="margin:0 auto; width:480px; height:600px; overflow:hidden;">
+            <div xmlns="http://www.w3.org/1999/xhtml" environment="" chapter_type="" style="margin:0 auto; width:100%; height:600px; overflow:hidden;">
               <iframe environment="" chapter_type="" loading="lazy" src="https://pingshunchanart.com/linpersp/cube/demo.html?exhibit=threevp" style="width:100%; height:100%; border:none;"></iframe>
             </div>
           </slide>
@@ -379,10 +379,10 @@ which lie on the same vertical level on the picture plane.
               </col_ol>
               <newcol course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="newcol" wbtag="newcol">
                 <center course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="center" wbtag="center">
-                  <div xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="" style="margin:0 auto; width:480px; height:600px; overflow:hidden;">
+                  <div xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="" style="margin:0 auto; width:100%; height:600px; overflow:hidden;">
                     <iframe environment="center" chapter_type="" loading="lazy" src="https://pingshunchanart.com/linpersp/vp/demo.html?exhibit=transversal" style="width:100%; height:100%; border:none;"></iframe>
                   </div>
-                  <div xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="" style="margin:0 auto; width:480px; height:600px; overflow:hidden;">
+                  <div xmlns="http://www.w3.org/1999/xhtml" environment="center" chapter_type="" style="margin:0 auto; width:100%; height:600px; overflow:hidden;">
                     <iframe environment="center" chapter_type="" loading="lazy" src="https://pingshunchanart.com/linpersp/vp/demo.html?exhibit=nontransversal" style="width:100%; height:100%; border:none;"></iframe>
                   </div>
                 </center>
