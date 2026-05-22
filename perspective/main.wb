@@ -133,9 +133,10 @@ This is the horizontal line on the picture plane which is level with the viewer'
 Parallel physical lines which are tilted up (resp. down)
 outwards project to pictorial lines
 whose vanishing point lies above (resp. below) the horizon.
-Two sets of parallel physical lines with the same vertical pitch poject to
-picture lines with vanish points
-which lie on the same vertical level on the picture plane.
+
+Physical lines with the same vertical pitch project to
+pictorial lines with vanishing points which lie at the same vertical level
+on the picture plane.
 @endol
 @newcol
 @center

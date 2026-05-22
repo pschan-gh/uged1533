@@ -370,10 +370,11 @@ This is the horizontal line on the picture plane which is level with the viewer'
                   <paragraphs course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol" wbtag="paragraphs">
 Parallel physical lines which are tilted up (resp. down)
 outwards project to pictorial lines
-whose vanishing point lies above (resp. below) the horizon.
-Two sets of parallel physical lines with the same vertical pitch poject to
-picture lines with vanish points
-which lie on the same vertical level on the picture plane.
+whose vanishing point lies above (resp. below) the horizon.</paragraphs>
+                  <newline course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol"/>
+                  <paragraphs course="UGED 1533" chapter="4" chapter_type="" section="1" subsection="1" subsubsection="" environment="col_ol" wbtag="paragraphs">Physical lines with the same vertical pitch project to
+pictorial lines with vanishing points which lie at the same vertical level
+on the picture plane.
 </paragraphs>
                 </col_li>
               </col_ol>
