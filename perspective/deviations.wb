@@ -64,7 +64,7 @@ the spectator views the painting
 <i><b>from a uniquely prescribed height and distance with one immobile eye</b></i>.
 @slide
 <div chapter_type="" style="margin:0 auto; width:100%; height:600px; overflow:hidden;">
-<iframe chapter_type="" loading="lazy" src="https://pingshunchanart.com/linpersp/?exhibit=conics&exhibit=rectangle" style="width:100%; height:100%; border:none;"/>
+<iframe chapter_type="" loading="lazy" src="https://pingshunchanart.com/linpersp/?content=conics&exhibit=rectangle" style="width:100%; height:100%; border:none;"/>
 </div>
 @slide
 In reality, that is almost never the 

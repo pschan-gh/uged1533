@@ -1,13 +1,13 @@
 <document xmlns="http://www.math.cuhk.edu.hk/~pschan/elephas_index" xmlns:xh="http://www.w3.org/1999/xhtml" xmlns:lv="http://www.math.cuhk.edu.hk/~pschan/cranach" xmlns:idx="http://www.math.cuhk.edu.hk/~pschan/elephas_index">
   <index>
     <entry keyword="thecolumnproblem">
-      <branch chapter="" slide="3" filename="deviations.xml" file_md5="0108921bd64c5ba45a2ae8d583578bb9" keyword="thecolumnproblem">The Column Problem</branch>
+      <branch chapter="" slide="3" filename="deviations.xml" file_md5="e3133411c73d86756f5a0e59471aa6a3" keyword="thecolumnproblem">The Column Problem</branch>
     </entry>
     <entry keyword="curvilinearperspective">
-      <branch chapter="" slide="10" filename="deviations.xml" file_md5="0108921bd64c5ba45a2ae8d583578bb9" keyword="curvilinearperspective">Curvilinear Perspective</branch>
+      <branch chapter="" slide="10" filename="deviations.xml" file_md5="e3133411c73d86756f5a0e59471aa6a3" keyword="curvilinearperspective">Curvilinear Perspective</branch>
     </entry>
     <entry keyword="antoniolopezgarcia">
-      <branch chapter="" slide="10" filename="deviations.xml" file_md5="0108921bd64c5ba45a2ae8d583578bb9" keyword="antoniolopezgarcia">Antonio Lopez Garcia</branch>
+      <branch chapter="" slide="10" filename="deviations.xml" file_md5="e3133411c73d86756f5a0e59471aa6a3" keyword="antoniolopezgarcia">Antonio Lopez Garcia</branch>
     </entry>
     <entry keyword="pictureplane">
       <branch chapter="4" slide="8" filename="main.xml" file_md5="8a88790d77d003d55609486f94d218c2" keyword="pictureplane">picture plane</branch>
