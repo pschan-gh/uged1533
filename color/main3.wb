@@ -66,17 +66,10 @@ and mathematician Isaac Newton (1642 - 1727),
 who discovered, through the use of a prism,
 that natural light is a mixture of colored lights
 of different wavelengths.
-<div class="dual">
-  <div class="dual-left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg/1024px-Sir_Isaac_Newton_by_Sir_Godfrey_Kneller%2C_Bt.jpg">
+<div class="image"><a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg#/media/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg"><img style="height:400px" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg" alt="Portrait of Newton, a white man with white hair and a brown robe, sitting with his hands folded"><br>Sir Isaac Newton</a>
   </div>
-  <div class="dual-right">
-    <img src="https://media1.britannica.com/eb-media/62/147562-004-CD7CDEDC.jpg">
-  </div>
-</div>
-@sep
 <div class='image'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg/1024px-Light_dispersion_of_a_mercury-vapor_lamp_with_a_flint_glass_prism_IPNr%C2%B00125.jpg">
+  <p><a href="https://commons.wikimedia.org/wiki/File:Dispersive_Prism_Illustration.jpg#/media/File:Dispersive_Prism_Illustration.jpg"><img style="height:320px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Dispersive_Prism_Illustration.jpg" alt="Dispersive Prism Illustration.jpg"></a></p>
 </div>
 <p/>
 A color which corresponds to light of a single wavelength is called a
@@ -99,10 +92,10 @@ which became a useful tool to art students to the present day.
 </div>
 <p>
 <div class='image'>
-<img src="http://static.colourlovers.com/uploads/2008/05/017_boutet.jpg">
+<p><a href="https://commons.wikimedia.org/wiki/File:Boutet_1708_color_circles.jpg#/media/File:Boutet_1708_color_circles.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Boutet_1708_color_circles.jpg" alt="Boutet 1708 color circles.jpg" height="492" width="640"></a><br>By C. B. (probably Claude Boutet or it's editor, Christophe Ballard<a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a>) - Traité de la peinture en mignature (The Hague, 1708), reproduced in <a rel="nofollow" class="external text" href="http://www.gutenberg-e.org/lowengard/A_Chap03.html">The Creation of Color in Eighteenth-Century Europe</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=3359814">Link</a></p>
 </div>
 <div class='image'>
-<img src="http://static.colourlovers.com/uploads/2008/05/352px-bezold_farbentafel_1874.jpg">
+<p><a href="https://commons.wikimedia.org/wiki/File:Bezold_Farbentafel_1874.jpg#/media/File:Bezold_Farbentafel_1874.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Bezold_Farbentafel_1874.jpg" alt="Bezold Farbentafel 1874.jpg" height="734" width="431"></a><br>By Wilhelm von Bezhold - Die Farbenlehre im Hinblick auf Kunst und Kunstgewerbe. Braunschweig: Verlag von George Westermann, figure online at <a rel="nofollow" class="external text" href="http://www.uni-mannheim.de/fakul/psycho/irtel/colsys/BezoldTafel.html">uni-mannheim.de</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=3379154">Link</a></p>
 </div>
 <div class='image'>
 <img src="http://cdn.dick-blick.com/items/049/51/04951-0000-front2ww-m.jpg">
@@ -282,7 +275,7 @@ the respective intensities of the three primary colors
 which are needed to produce
 the color in question via additive mixing.  This is the RGB color model.
 <hr>
-<iframe scrolling='no' style="height:400px" src='https://www.math.cuhk.edu.hk/~pschan/cranach-dev/content/uged1533/color/rgb.html'>rgb</iframe>
+<iframe scrolling='no' style="height:400px" src='https://www.pingshunchanart.com/teaching/rgb.html'>rgb</iframe>
 
 @col
 This amounts to encoding color as a triplet of positive numbers between 0 and 1:

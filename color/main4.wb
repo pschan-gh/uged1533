@@ -50,12 +50,10 @@ peak at approximately:
 respectively.
 <p>
 <div class='image'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Cones_SMJ2_E.svg">
-Normalized responsivity spectra of human cone cells, S, M, and L types
-(from <a href="https://en.wikipedia.org/wiki/Cone_cell">Wikipedia</a>.)
+<p><a href="https://commons.wikimedia.org/wiki/File:Cone-fundamentals-with-srgb-spectrum.svg#/media/File:Cone-fundamentals-with-srgb-spectrum.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Cone-fundamentals-with-srgb-spectrum.svg" alt="Cone-fundamentals-with-srgb-spectrum.svg" height="380" width="540"><br/>Normalized responsivity spectra of human cone cells, S, M, and L types</a></p>
 </div>
 <div class='image'>
-<img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/Linear_visible_spectrum.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:Linear_visible_spectrum.svg#/media/File:Linear_visible_spectrum.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg" alt="sRGB rendering of the spectrum of visible light" height="115" width="605"></a></p>
 </div>
 @sep
 In the <b>Opponent Process Model</b>,
@@ -184,7 +182,7 @@ Leonardo da Vinci, <i>Treatise on Painting</i>
 <div class=dual>
 <div class=dual-left>
 <a title="Joaquín Sorolla
-, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Barcas_en_la_Playa,_Valencia_(1894).jpg"><img width="1024" alt="Joaquín Sorolla - Barcas en la Playa, Valencia (1894)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Joaqu%C3%ADn_Sorolla_-_Barcas_en_la_Playa%2C_Valencia_%281894%29.jpg/1024px-Joaqu%C3%ADn_Sorolla_-_Barcas_en_la_Playa%2C_Valencia_%281894%29.jpg"></a>
+, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Joaqu%C3%ADn_Sorolla_-_Barcas_en_la_Playa,_Valencia_(1894).jpg"><img width="1024" alt="Joaquín Sorolla - Barcas en la Playa, Valencia (1894)" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Joaqu%C3%ADn_Sorolla_-_Barcas_en_la_Playa%2C_Valencia_%281894%29.jpg"></a>
 </div>
 <div class=dual-right>
 <a target="_blank" href="https://www.wikiart.org/en/joaqu-n-sorolla/beached-boats-1915">
@@ -201,7 +199,7 @@ spectral light which lies in the green or yellowish-green range.  This may expla
 why green and yellow spectral colors appear brighter than the rest.
 <p>
 <div class='image'>
-<img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/Linear_visible_spectrum.svg">
+<p><a href="https://commons.wikimedia.org/wiki/File:Linear_visible_spectrum.svg#/media/File:Linear_visible_spectrum.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Linear_visible_spectrum.svg" alt="sRGB rendering of the spectrum of visible light" height="115" width="605"></a></p>
 </div>
 <hr>
 @col
@@ -216,18 +214,16 @@ the white response, the spectral saturation is high.
 <div style="text-align:right;font-size:0.75em">
 <i>An Opponent-Process Theory of Color Vision</i>, L. Hurvich, D. Jameson
 </div>
+<!--
 <hr>
 This explains the shape of the <a target="_blank" href="https://en.wikipedia.org/wiki/Munsell_color_system"><b>Munsell Sphere</b></a>:
 <br>
 @collapse
-<div class='dual'>
-    <div class='dual-left'>
-        <a title="Albert Henry Munsell [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Munsell_color_sphere.png"><img width="512" alt="Munsell color sphere" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Munsell_color_sphere.png/512px-Munsell_color_sphere.png"></a>
-    </div>
-    <div class='dual-right'>
-        <a title="SharkD [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Munsell_1943_color_solid_cylindrical_coordinates.png"><img width="512" alt="Munsell 1943 color solid cylindrical coordinates" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Munsell_1943_color_solid_cylindrical_coordinates.png/512px-Munsell_1943_color_solid_cylindrical_coordinates.png"></a>
-    </div>
+<div class='image'>
+    <a title="SharkD [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0) or GFDL (http://www.gnu.org/copyleft/fdl.html)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Munsell_1943_color_solid_cylindrical_coordinates.png"><img width="512" alt="Munsell 1943 color solid cylindrical coordinates" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Munsell_1943_color_solid_cylindrical_coordinates.png">
+    </a>
 </div>
+-->
 @sep
 Incidentally, a very common painter's palette consists of:
 <center>
@@ -235,7 +231,7 @@ Incidentally, a very common painter's palette consists of:
 </center>
 <hr>
 <div class='image'>
-<img src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/palette.jpg"/>
+<img style="transform:rotate(270deg)" src="https://www.math.cuhk.edu.hk/~pschan/cranach-dev/images/palette.jpg"/>
 <p>
 A (very messy) painter's palette.
 </div>
