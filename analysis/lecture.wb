@@ -70,7 +70,7 @@ Mark Rothko (Russian-American, 1903 - 1970)
 <hr>
 <div class='image'>
 <a href="https://www.metmuseum.org/art/collection/search/488978">
-<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/488978/1012539/restricted">
+<img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/488978/2334675/restricted">
 <em>Autumn Rhythm (Number 30)</em>
 </a>
 </div>
@@ -102,7 +102,7 @@ Mark Rothko (Russian-American, 1903 - 1970)
 <h4>Koch Snowflake</h4>
 <br>
 <div class='image'>
-<a title="By Wrtlprnft (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKoch_Snowflake_7th_iteration.svg"><img width="512" alt="Koch Snowflake 7th iteration" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Koch_Snowflake_7th_iteration.svg/512px-Koch_Snowflake_7th_iteration.svg.png"/></a>
+<a title="By Wrtlprnft (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKoch_Snowflake_7th_iteration.svg"><img width="512" alt="Koch Snowflake 7th iteration" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Koch_Snowflake_7th_iteration.svg/3840px-Koch_Snowflake_7th_iteration.svg.png"/></a>
 </div>
 <p>
 @collapse
@@ -124,7 +124,7 @@ Mark Rothko (Russian-American, 1903 - 1970)
 <h4>Sierpinski Triangle</h4>
 <br>
 <div class='image'>
-<a href="https://commons.wikimedia.org/wiki/File:Sierpinski_triangle.svg#/media/File:Sierpinski_triangle.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/1200px-Sierpinski_triangle.svg.png" alt="Sierpinski triangle.svg"></a>
+<a href="https://commons.wikimedia.org/wiki/File:Sierpinski_triangle.svg#/media/File:Sierpinski_triangle.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/3840px-Sierpinski_triangle.svg.png" alt="Sierpinski triangle.svg"></a>
 <br><br>By Beojan Stanislaus, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8862246">Link</a></p>
 </div>
 @collapse
@@ -134,21 +134,21 @@ Mark Rothko (Russian-American, 1903 - 1970)
 <p>
 @collapse
 <div class='image'>
-<a title="self Georg-Johann Lay, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sierpi%C5%84ski_triangle_zoom_animation.gif"><img width="128" alt="Sierpiński triangle zoom animation" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Sierpi%C5%84ski_triangle_zoom_animation.gif?20080317132237"></a>
+<a title="self Georg-Johann Lay, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Sierpi%C5%84ski_triangle_zoom_animation.gif"><img width="128" alt="Sierpiński triangle zoom animation" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Sierpi%C5%84ski_triangle_zoom_animation.gif"></a>
 </div>
 
 @sep
 <h4>Sierpinski Carpet</h4>
 <br>
 <div class='image'>
-<a title="By Johannes Rössel (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASierpinski_carpet_6.svg"><img width="512" alt="Sierpinski carpet 6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sierpinski_carpet_6.svg/512px-Sierpinski_carpet_6.svg.png"/></a>
+<a title="By Johannes Rössel (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASierpinski_carpet_6.svg"><img width="512" alt="Sierpinski carpet 6" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sierpinski_carpet_6.svg/3840px-Sierpinski_carpet_6.svg.png"/></a>
 </div>
 @sep
 <h4>Katsushika Hokusai<br>葛飾 北斎 (Japanese, 1760 - 1849)</h4>
 <br>
 <h5><i>The Great Wave off Kanagawa</i></h5>
 <div class='image' style="width:100%">
-<a title="Katsushika Hokusai (葛飾北斎) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGreat_Wave_off_Kanagawa2.jpg"><img width="512" alt="Great Wave off Kanagawa2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/512px-Great_Wave_off_Kanagawa2.jpg"/></a>
+<a title="Katsushika Hokusai (葛飾北斎) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AGreat_Wave_off_Kanagawa2.jpg"><img width="512" alt="Great Wave off Kanagawa2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/3840px-Great_Wave_off_Kanagawa2.jpg"/></a>
 </div>
 @sep
 As we see in the Koch snowflake example, curves which exhibits "self-similarity"
@@ -162,7 +162,7 @@ The Kock snowflake has dimension:
 \displaystyle \log_3 4 \approx 1.2619.
 \]
 <div class='image'>
-<a title="By Wrtlprnft (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKoch_Snowflake_7th_iteration.svg"><img width="512" alt="Koch Snowflake 7th iteration" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Koch_Snowflake_7th_iteration.svg/512px-Koch_Snowflake_7th_iteration.svg.png"/></a>
+<a title="By Wrtlprnft (Own work) [Public domain], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AKoch_Snowflake_7th_iteration.svg"><img width="512" alt="Koch Snowflake 7th iteration" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Koch_Snowflake_7th_iteration.svg/3840px-Koch_Snowflake_7th_iteration.svg.png"/></a>
 </div>
 @sep
 The Sierpinski triangle, which may be constructed by "hollowing out"
@@ -172,7 +172,7 @@ has dimension:
 \displaystyle \log_2 3 \approx 1.5850.
 \]
 <div class='image'>
-<a href="https://commons.wikimedia.org/wiki/File:Sierpinski_triangle.svg#/media/File:Sierpinski_triangle.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/1200px-Sierpinski_triangle.svg.png" alt="Sierpinski triangle.svg"></a>
+<a href="https://commons.wikimedia.org/wiki/File:Sierpinski_triangle.svg#/media/File:Sierpinski_triangle.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sierpinski_triangle.svg/3840px-Sierpinski_triangle.svg.png" alt="Sierpinski triangle.svg"></a>
 <br><br>By Beojan Stanislaus, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8862246">Link</a></p>
 </div>
 @section{Fractal Dimension}
